@@ -1,0 +1,34 @@
+NFL Ruby Gem
+============
+A Ruby wrapper for querying NFL data
+
+Installation
+------------
+Add the following line to your Gemfile:  
+`gem 'nfl', :git => 'git://github.com/wtn/nfl.git'`
+
+Run Bundler in your project directory:  
+`bundle install`
+
+Continuous Integration
+----------------------
+[![Build Status](https://secure.travis-ci.org/wtn/nfl.png)](http://travis-ci.org/wtn/nfl)
+
+Supported Rubies
+----------------
+This library aims to support and is [tested
+against](http://travis-ci.org/wtn/nfl) the following Ruby
+implementations:
+
+* Ruby 1.8.7
+* Ruby 1.9.2
+
+Documentation
+-------------
+* [NFL.com Terms and Conditions](http://www.nfl.com/help/terms)
+
+Copyright
+---------
+Copyright (c) 2011 William T Nelson. See [MIT-LICENSE](https://github.com/wtn/nfl/blob/master/MIT-LICENSE) for details.
+
+This project is adapted from the [Twitter Ruby Gem](https://github.com/jnunemaker/twitter) by John Nunemaker, Wynn Netherland, Erik Michaels-Ober and Steve Richert.
