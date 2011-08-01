@@ -1,7 +1,9 @@
 module NFL
   class Client < API
-    Dir[File.expand_path('../client/*.rb', __FILE__)].each {|f| require f }
+    require 'nfl/client/scores'
 
     alias :api_endpoint :endpoint
+
+    include NFL::Client::Scores
   end
 end
