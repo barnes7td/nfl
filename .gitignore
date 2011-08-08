@@ -1,2 +1,3 @@
-spec/nfl/client/coverage/*
 coverage/*
+spec/nfl/client/coverage/*
+spec/nfl/client/teams/coverage/*

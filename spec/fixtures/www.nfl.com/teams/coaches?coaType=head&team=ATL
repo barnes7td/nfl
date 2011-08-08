@@ -1,0 +1,1609 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[if lt IE 7 ]> <html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" class="ie ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" class="ie ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" class="ie ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" class="ie ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"> <!--<![endif]-->
+<head>
+	<title>Atlanta Falcons Head Coach -  Mike Smith at NFL.com</title>
+	<!-- BEGIN DECORATOR 2010/global -->
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+	<meta name="viewport" content="width=1009" />
+	
+	<link rel="shortcut icon" href="http://img.static.nfl.com/static/site/3.5/img/favicon.png" type="image/png" />
+	<link rel="apple-touch-icon" href="http://img.static.nfl.com/static/site/3.5/img/apple/apple-touch-icon-57x57.png" />
+	<link rel="apple-touch-icon" sizes="72x72" href="http://img.static.nfl.com/static/site/3.5/img/apple/apple-touch-icon-72x72.png" />
+	<link rel="apple-touch-icon" sizes="114x114" href="http://img.static.nfl.com/static/site/3.5/img/apple/apple-touch-icon-114x114.png" />
+
+	<link rel="stylesheet" href="http://css.static.nfl.com/static/site/3.5/styles/redesign/global-2010.css" type="text/css" />
+	
+	
+	<script type="text/javascript" src="http://scripts.static.nfl.com/static/site/3.5/scripts/third-party/modernizr-1.7.min.js"></script>
+	
+	<!-- BEGIN INCLUDE global/nfl-constants -->
+	<script type="text/javascript" src="http://www.nfl.com/yui/3.3.0/build/yui/yui-min.js"></script>
+	<script type="text/javascript" src="http://www.nfl.com/widget/partner/constants"></script>
+	<script type="text/javascript" src="http://scripts.static.nfl.com/static/site/3.5/scripts/global/dependencies.js"></script>
+	<!-- END INCLUDE global/nfl-constants -->
+	
+
+	
+	
+	<script type="text/javascript" src="http://scripts.static.nfl.com/static/site/3.5/scripts/analytics/s_code.js"></script>
+	<script type="text/javascript" src="http://scripts.static.nfl.com/static/site/3.5/scripts/analytics/s_code_common.js"></script>
+	<script src="http://connect.facebook.net/en_US/all.js" type="text/javascript"></script>
+	<!-- END DECORATOR 2010/global -->
+	<!-- BEGIN DECORATOR 2010/default -->
+			<meta id='teamId' content='0200' />
+	<meta id='teamName' content='ATL' />
+	<meta id='teamDivision' content='0020' />
+	<meta id='teamConference' content='0015' />
+	<meta id='teamPageTab' content = 'coaches' />
+	
+	
+	<link rel="stylesheet" href="http://css.static.nfl.com/static/site/3.5/styles/redesign/data-tables.css" type="text/css" />
+	<link rel="stylesheet" href="http://css.static.nfl.com/static/site/3.5/styles/team/team.css" type="text/css" />
+	
+	<script src="http://scripts.static.nfl.com/static/site/3.5/scripts/team/team.js" type="text/javascript"></script>
+			<!-- END DECORATOR 2010/default -->
+	
+	<!-- THE BROWSER PANEL INFO IS AT THE DECORATOR LEVEL 2010/global -->
+	
+
+
+
+
+	<!-- THE BROWSER PANEL INFO IS AT THE DECORATOR LEVEL 2010/global -->
+</head>
+<body id="com-nfl" class="">
+      <div id="fb-root"></div>
+      <script type="text/javascript">FB.init({appId: nfl.constants.FACEBOOK_APP_ID, status:true, cookie:true, xfbml:true});</script>
+      <!-- BEGIN DECORATOR 2010/global -->
+      
+            <div style="display:none">
+<script type="text/javascript">
+var loggingOff = true;
+var noOmnitureCall = false;
+//applyFireBugX();
+isPageTypeError();
+//moved all the functions into s_code_common.js until we can overhaul this atrocity
+
+/**
+* s_analytics.trackLinkClick will send a request to omniture indicating a minor level page event occurred
+* @param {String} _propNum is a number provided by Marketing.  ex, prop1, prop14, prop35, etc.
+* @param {String} _propValue is the value to place within the prop.  ex, Avatar, Friends_alerts, Message_Alerts, Global_Alerts, etc.
+* TO DO: update this function so it accepts multiple prop values.  
+*/
+s_analytics.trackLinkClick = function(_propNum, _propValue) {
+	var s_analytics = s_gi(s_account),
+	    propName    = 'prop' + _propNum;
+	s_analytics.linkTrackEvents = "";
+	s_analytics.linkTrackVars = "prop" + _propNum;
+	s_analytics[propName] = _propValue;
+	s_analytics.events = '';
+	s_analytics.tl(true, 'o', _propValue);
+	// should empty out the track properties after the call is made.  this is a directive from omniture.
+	s_analytics.linkTrackEvents = "";
+	s_analytics.linkTrackVars = "";
+}
+
+/* analytics_file: teams.js */
+function initAnalytics() { 
+	setChannel('teams');
+	setContentSubSection('');
+	var params = new Array(4);
+	
+	if(document.getElementById('teamName')) { 
+		params[0] = document.getElementById('teamName').content; 
+		params[1] = document.getElementById('teamDivision').content; 
+		params[2] = document.getElementById('teamConference').content; 
+		params[3] = document.getElementById('teamId').content;
+		params[4] = document.getElementById('teamPageTab').content; 
+		params = lowerCase(params);
+		setPageName('nfl:teams:' + params[4] + ':' + params[0] + '-' + params[3]); 
+		setContentSubSection('nfl:teams:' + params[4]); 
+		setHierarchy('nfl:teams|' + getConferenceById(params[2]) + '|' + getDivisionById(params[1]) + '|' + params[0] + '-' + params[3] + '|' + params[4]);
+	
+		
+	} else { 
+		setPageName('nfl:teams:landing');
+		setHierarchy('nfl:teams|landing'); 
+	
+	} 
+} 
+function applyFooter() {  
+	if (noOmnitureCall == true) return;
+	/******* ****** DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+	try { 
+		var s_code = s_analytics.t();
+		if (s_code) document.write(s_code);
+	} catch(e) { 
+		console.warn(e);
+	}
+}
+</script>
+</div>
+      
+      <div id="com-nfl-doc">
+            
+            <div id="hd" class="global">
+                  
+                  
+<!-- BEGIN ECM widgets/navigation/hd-micro-nav-list -->
+<div id="hd-micro-nav-list">
+	<ul class="left">
+		<!-- <li id="link-pink"><a style="color:#e22882" href="http://www.nfl.com/pink">Why Pink?</a></li> -->
+	<!--	<li id="link-ballot"><a href="http://www.nfl.com/probowl/ballot?icampaign=PB_topheader">Pro Bowl Ballot</a></li> -->
+		<li id="link-mobile"><a href="http://www.nfl.com/mobile">Mobile</a></li>
+		<li id="link-nflatino"><a href="http://nfl.univision.com/" target="_blank">En Español</a></li>
+	</ul>
+	<ul class="right">
+		<li id="link-fans">
+			<h3>
+				<a href="http://www.nfl.com/fans">Fans</a>
+			</h3>
+			<ul>
+				<li><a href="http://www.nfl.com/fans?icampaign=Nav_SM_Fans">Community Home</a></li>
+				<li><a href="http://www.nfl.com/fans/forums?icampaign=Nav_SM_Forums">Forums</a></li>
+				<li><a href="http://www.facebook.com/nfl" target="_blank">NFL on Facebook</a></li>
+				<li><a href="http://twitter.com/nfl" target="_blank">NFL on Twitter</a></li>				
+			</ul>
+		</li>
+		<li id="sign-in-links"></li>
+	</ul>
+</div>
+<!-- END ECM widgets/navigation/hd-micro-nav-list -->
+                  
+                  
+<!-- BEGIN INCLUDE teamlogos -->
+<div id="tl">
+	<h2>NFL Team Sites</h2>
+	<ul class="xoxo">
+		<li><h3><a class="AFC" href="/teams">AFC <span></span></a></h3>
+			<ul>
+				<li>
+					<h4>AFC-East</h4>
+					<ul>
+						<li><a class="BUF" target="_blank"  href="http://www.buffalobills.com/">Buffalo Bills <span></span></a></li>
+						<li><a class="MIA" target="_blank"  href="http://www.miamidolphins.com/">Miami Dolphins <span></span></a></li>
+						<li><a class="NE" target="_blank"  href="http://www.patriots.com/">New England Patriots <span></span></a></li>
+						<li><a class="NYJ" target="_blank"  href="http://www.newyorkjets.com/">New York Jets <span></span></a></li>
+					</ul>
+				</li>
+				<li>
+					<h4>AFC-North</h4>
+					<ul>
+						<li><a class="BAL" target="_blank"  href="http://www.baltimoreravens.com/">Baltimore Ravens <span></span></a></li>
+						<li><a class="CIN" target="_blank"  href="http://www.bengals.com/">Cincinnati Bengals <span></span></a></li>
+						<li><a class="CLE" target="_blank"  href="http://www.clevelandbrowns.com/">Cleveland Browns <span></span></a></li>
+						<li><a class="PIT" target="_blank"  href="http://www.steelers.com/">Pittsburgh Steelers <span></span></a></li>
+					</ul>
+				</li>
+				<li>
+					<h4>AFC-South</h4>
+					<ul>
+						<li><a class="HOU" target="_blank"  href="http://www.houstontexans.com/">Houston Texans <span></span></a></li>
+						<li><a class="IND" target="_blank"  href="http://www.colts.com/">Indianapolis Colts <span></span></a></li>
+						<li><a class="JAC" target="_blank"  href="http://www.jaguars.com/">Jacksonville Jaguars <span></span></a></li>
+						<li><a class="TEN" target="_blank"  href="http://www.titansonline.com/">Tennessee Titans <span></span></a></li>
+					</ul>
+				</li>
+				<li>
+					<h4>AFC-West</h4>
+					<ul>
+						<li><a class="DEN" target="_blank"  href="http://www.denverbroncos.com/">Denver Broncos <span></span></a></li>
+						<li><a class="KC" target="_blank"  href="http://www.kcchiefs.com/">Kansas City Chiefs <span></span></a></li>
+						<li><a class="OAK" target="_blank"  href="http://www.raiders.com/">Oakland Raiders <span></span></a></li>
+						<li><a class="SD" target="_blank"  href="http://www.chargers.com/">San Diego Chargers <span></span></a></li>
+					</ul>
+				</li>
+			</ul>
+		</li>
+		<li><h3><a class="NFC"  href="/teams">NFC <span></span></a></h3>
+			<ul>
+				<li>
+					<h4>NFC-East</h4>
+					<ul>
+						<li><a class="DAL" target="_blank"  href="http://www.dallascowboys.com/">Dallas Cowboys <span></span></a></li>
+						<li><a class="NYG" target="_blank"  href="http://www.giants.com/">New York Giants <span></span></a></li>
+						<li><a class="PHI" target="_blank"  href="http://www.philadelphiaeagles.com/">Philadelphia Eagles <span></span></a></li>
+						<li><a class="WAS" target="_blank"  href="http://www.redskins.com/">Washington Redskins <span></span></a></li>
+					</ul>
+				</li>
+				<li>
+					<h4>NFC-North</h4>
+					<ul>
+						<li><a class="CHI" target="_blank"  href="http://www.chicagobears.com/">Chicago Bears <span></span></a></li>
+						<li><a class="DET" target="_blank"  href="http://www.detroitlions.com/">Detroit Lions <span></span></a></li>
+						<li><a class="GB" target="_blank"  href="http://www.packers.com/">Green Bay Packers <span></span></a></li>
+						<li><a class="MIN" target="_blank"  href="http://www.vikings.com/">Minnesota Vikings <span></span></a></li>
+					</ul>
+				</li>
+				<li>
+					<h4>NFC-Souch</h4>
+					<ul>
+						<li><a class="ATL" target="_blank"  href="http://www.atlantafalcons.com/">Atlanta Falcons <span></span></a></li>
+						<li><a class="CAR" target="_blank"  href="http://www.panthers.com/">Carolina Panthers <span></span></a></li>
+						<li><a class="NO" target="_blank"  href="http://www.neworleanssaints.com/">New Orleans Saints <span></span></a></li>
+						<li><a class="TB" target="_blank"  href="http://www.buccaneers.com/">Tampa Bay Buccaneers <span></span></a></li>
+					</ul>
+				</li>
+				<li>
+					<h4>NFC-West</h4>
+					<ul>
+						<li><a class="ARI" target="_blank"  href="http://www.azcardinals.com/">Arizona Cardinals <span></span></a></li>
+						<li><a class="STL" target="_blank"  href="http://www.stlouisrams.com/">St. Louis Rams <span></span></a></li>
+						<li><a class="SF" target="_blank"  href="http://www.sf49ers.com/">San Francisco 49'ers <span></span></a></li>
+						<li><a class="SEA" target="_blank"  href="http://www.seahawks.com/">Seattle Seahawks <span></span></a></li>
+					</ul>
+				</li>
+			</ul>
+		</li>
+	</ul>
+</div>
+<!-- END INCLUDE teamlogos -->
+
+                  <div id="header-content">
+                        
+                        <form class="yui3-searchbox-loading" id="hd-search" action="http://search.nfl.com/search" method="get">
+                              <div>
+                                    <label id="hd-search-label" for="hd-search-input">Search NFL.com</label>
+                                    <input type="text" name="query" id="hd-search-input" maxlength="50" />
+                                    <button type="submit">
+                                          <img alt="search" src="http://img.static.nfl.com/static/site/3.5/img/home-2010/search.png" />
+                                    </button>
+                              </div>
+                        </form>
+                        
+                        <div id="header-logo">
+                              <a href="http://www.nfl.com/"><img alt="NFL Logo link to home page" src="http://img.static.nfl.com/static/site/3.5/img/global/alt/large-logo.png" /></a>
+                        </div>
+                        
+                        <div class="yui3-ddn-loading" id="ddn">
+                              
+<!-- BEGIN INCLUDE navigation/default-alt -->
+
+
+<div id="alt-nv-main">
+	<ul class="alt-nv-groups">
+		<li id="alt-nv-group-news" class="alt-nv-group">
+			<h3><a href="http://www.nfl.com/news" onclick="s_objectID='Nav_News_Main'">News</a></h3>
+			<div class="channel-content">
+				<div class="alt-nv-content-wrapper">
+					<div class="video-nv-content bottom alt-nv-main-watermark-text">News</div>
+					<div class="channels">
+						<ul>
+							<li><a href="http://blogs.nfl.com/" onclick="s_objectID='Nav_News_Blogs'">Blogs</a></li>
+						<!--	<li><a href="http://blogblitz.nfl.com/" onclick="s_objectID='Nav_News_Blog_Blitz'">Blog Blitz</a></li> -->
+							<li><a href="http://www.nfl.com/injuries" onclick="s_objectID='Nav_News_Injuries'">Injuries</a></li>
+							<li><a href="http://www.nfl.com/transactions" onclick="s_objectID='Nav_News_Transactions'">Transactions</a></li>
+							<li><a href="http://www.nfl.com/photos" onclick="s_objectID='Nav_News_Photos'">Photos</a></li>
+						</ul>
+						<ul>
+							<li class="subChoiceMarker"><h4>Events:</h4></li>
+							<li><a href="http://www.nfl.com/superbowl/46" onclick="s_objectID='Nav_Events_Super_Bowl'">Super Bowl</a></li>
+							<li><a href="http://www.nfl.com/probowl" onclick="s_objectID='Nav_Events_Pro_Bowl'">Pro Bowl</a></li>
+							<li><a href="http://www.nfl.com/combine" onclick="s_objectID='Nav_Events_Combine'">Combine</a></li>
+						</ul>
+						<ul>
+							<li><a href="http://www.nfl.com/draft/2012" onclick="s_objectID='Nav_Events_Draft'">Draft</a></li>
+							<li><a href="http://www.nfl.com/trainingcamp" onclick="s_objectID='Nav_Events_Training_Camp'">Training Camp</a></li>
+							<li><a href="http://www.profootballhof.com/" onclick="s_objectID='Nav_Events_Hall_of_Fame'"target="_blank">Hall of Fame</a></li>
+							<li><a href="http://www.nfl.com/freeagency" onclick="s_objectID='Nav_Events_Free_Agency'">Free Agency</a></li>
+						</ul>
+						<ul>
+							<li><a href="http://www.nfl.com/kickoff" onclick="s_objectID='Nav_Events_Kickoff'">Kickoff</a></li>
+							<li><a href="http://www.nfl.com/international" onclick="s_objectID='Nav_Events_International'">International</a></li>
+							<li><a href="http://www.nfl.com/thanksgiving" onclick="s_objectID='Nav_Events_Thanksgiving'">Thanksgiving</a></li>
+							<li><a href="http://www.nfl.com/seniorbowl" onclick="s_objectID='Nav_Events_Senior_Bowl'">Senior Bowl</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</li>
+		<li id="alt-nv-group-videos" class="alt-nv-group">
+			<h3><a href="http://www.nfl.com/videos" onclick="s_objectID='Nav_Videos_Main'">Video</a></h3>
+			<div class="channel-content">
+				<div class="alt-nv-content-wrapper">
+					<div class="video-nv-content bottom alt-nv-main-watermark-text">Video</div>
+					<div class="channels">
+						<ul>
+							<li><a href="http://www.nfl.com/videos/nfl-game-highlights" onclick="s_objectID='Nav_Videos_Highlights'">Highlights</a></li>
+							<li><a href="http://www.nfl.com/videos/nfl-videos" onclick="s_objectID='Nav_Videos_All_Videos'">All Videos</a></li>
+							<li><a href="http://www.nfl.com/live" onclick="s_objectID='Nav_Videos_Live'">NFL.com/Live</a></li>
+						</ul>
+						<ul>
+							<li><a href="http://www.nfl.com/preseasonlive" onclick="s_objectID='Nav_Videos_PreseasonLive'">Preseason Live</a></li>
+							<li><a href="http://www.nfl.com/gamepass" onclick="s_objectID='Nav_NFL_Anytime_Game_Pass'">Game Pass</a></li>
+							<li><a href="http://www.nfl.com/gamerewind" onclick="s_objectID='Nav_NFL_Anytime_Game_Rewind'">Game Rewind</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</li>
+		<li id="alt-nv-group-teams" class="alt-nv-group">
+			<h3><a href="http://www.nfl.com/teams" onclick="s_objectID='Nav_Teams_Main'">Teams</a></h3>
+			<div class="channel-content">
+				<div class="alt-nv-content-wrapper">
+					<div class="video-nv-content bottom alt-nv-main-watermark-text">Teams</div>
+					<div class="channels">
+						<ul>
+							<li><a href="http://www.nfl.com/teams/arizonacardinals/profile?team=ARI" onclick="s_objectID='Nav_Teams_ARI'">Arizona Cardinals</a></li>
+							<li><a href="http://www.nfl.com/teams/atlantafalcons/profile?team=ATL" onclick="s_objectID='Nav_Teams_ATL'">Atlanta Falcons</a></li>							
+							<li><a href="http://www.nfl.com/teams/baltimoreravens/profile?team=BAL" onclick="s_objectID='Nav_Teams_BAL'">Baltimore Ravens</a></li>
+							<li><a href="http://www.nfl.com/teams/buffalobills/profile?team=BUF" onclick="s_objectID='Nav_Teams_BUF'">Buffalo Bills</a></li>
+							<li><a href="http://www.nfl.com/teams/carolinapanthers/profile?team=CAR" onclick="s_objectID='Nav_Teams_CAR'">Carolina Panthers</a></li>
+							<li><a href="http://www.nfl.com/teams/chicagobears/profile?team=CHI" onclick="s_objectID='Nav_Teams_CHI'">Chicago Bears</a></li>
+							<li><a href="http://www.nfl.com/teams/cincinnatibengals/profile?team=CIN" onclick="s_objectID='Nav_Teams_CIN'">Cincinnati Bengals</a></li>
+							<li><a href="http://www.nfl.com/teams/clevelandbrowns/profile?team=CLE" onclick="s_objectID='Nav_Teams_CLE'">Cleveland Browns</a></li>
+							<li><a href="http://www.nfl.com/teams/dallascowboys/profile?team=DAL" onclick="s_objectID='Nav_Teams_DAL'">Dallas Cowboys</a></li>
+							<li><a href="http://www.nfl.com/teams/denverbroncos/profile?team=DEN" onclick="s_objectID='Nav_Teams_DEN'">Denver Broncos</a></li>
+							<li><a href="http://www.nfl.com/teams/detroitlions/profile?team=DET" onclick="s_objectID='Nav_Teams_DET'">Detroit Lions</a></li>
+						</ul>
+						<ul>
+							<li><a href="http://www.nfl.com/teams/greenbaypackers/profile?team=GB" onclick="s_objectID='Nav_Teams_GB'">Green Bay Packers</a></li>
+							<li><a href="http://www.nfl.com/teams/houstontexans/profile?team=HOU" onclick="s_objectID='Nav_Teams_HOU'">Houston Texans</a></li>
+							<li><a href="http://www.nfl.com/teams/indianapoliscolts/profile?team=IND" onclick="s_objectID='Nav_Teams_IND'">Indianapolis Colts</a></li>
+							<li><a href="http://www.nfl.com/teams/jacksonvillejaguars/profile?team=JAC" onclick="s_objectID='Nav_Teams_JAC'">Jacksonville Jaguars</a></li>
+				 			<li><a href="http://www.nfl.com/teams/kansascitychiefs/profile?team=KC" onclick="s_objectID='Nav_Teams_KC'">Kansas City Chiefs</a></li>
+				 			<li><a href="http://www.nfl.com/teams/miamidolphins/profile?team=MIA" onclick="s_objectID='Nav_Teams_MIA'">Miami Dolphins</a></li>
+							<li><a href="http://www.nfl.com/teams/minnesotavikings/profile?team=MIN" onclick="s_objectID='Nav_Teams_MIN'">Minnesota Vikings</a></li>
+							<li><a href="http://www.nfl.com/teams/newenglandpatriots/profile?team=NE" onclick="s_objectID='Nav_Teams_NE'">New England Patriots</a></li>
+							<li><a href="http://www.nfl.com/teams/neworleanssaints/profile?team=NO" onclick="s_objectID='Nav_Teams_NO'">New Orleans Saints</a></li>
+							<li><a href="http://www.nfl.com/teams/newyorkgiants/profile?team=NYG" onclick="s_objectID='Nav_Teams_NYG'">New York Giants</a></li>
+							<li><a href="http://www.nfl.com/teams/newyorkjets/profile?team=NYJ" onclick="s_objectID='Nav_Teams_NYJ'">New York Jets</a></li>
+						</ul>
+						<ul>
+							<li><a href="http://www.nfl.com/teams/oaklandraiders/profile?team=OAK" onclick="s_objectID='Nav_Teams_OAK'">Oakland Raiders</a></li>
+							<li><a href="http://www.nfl.com/teams/philadelphiaeagles/profile?team=PHI" onclick="s_objectID='Nav_Teams_PHI'">Philadelphia Eagles</a></li>
+							<li><a href="http://www.nfl.com/teams/pittsburghsteelers/profile?team=PIT" onclick="s_objectID='Nav_Teams_PIT'">Pittsburgh Steelers</a></li>
+				 			<li><a href="http://www.nfl.com/teams/sandiegochargers/profile?team=SD" onclick="s_objectID='Nav_Teams_SD'">San Diego Chargers</a></li>
+							<li><a href="http://www.nfl.com/teams/sanfrancisco49ers/profile?team=SF" onclick="s_objectID='Nav_Teams_SF'">San Francisco 49ers</a></li>
+							<li><a href="http://www.nfl.com/teams/seattleseahawks/profile?team=SEA" onclick="s_objectID='Nav_Teams_SEA'">Seattle Seahawks</a></li>
+							<li><a href="http://www.nfl.com/teams/st.louisrams/profile?team=STL" onclick="s_objectID='Nav_Teams_STL'">St. Louis Rams</a></li>
+							<li><a href="http://www.nfl.com/teams/tampabaybuccaneers/profile?team=TB" onclick="s_objectID='Nav_Teams_TB'">Tampa Bay Buccaneers</a></li>
+							<li><a href="http://www.nfl.com/teams/tennesseetitans/profile?team=TEN" onclick="s_objectID='Nav_Teams_TEN'">Tennessee Titans</a></li>
+							<li><a href="http://www.nfl.com/teams/washingtonredskins/profile?team=WAS" onclick="s_objectID='Nav_Teams_WAS'">Washington Redskins</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</li>
+		<li id="alt-nv-group-players" class="alt-nv-group">
+			<h3><a href="http://www.nfl.com/players" onclick="s_objectID='Nav_Players_Main'">Players</a></h3>
+	 		<div class="channel-content">
+	 			<div class="alt-nv-content-wrapper">
+					<div class="video-nv-content bottom alt-nv-main-watermark-text">Players</div>
+	 				<div class="channels">
+						<ul>
+				 			<li><a href="http://www.nfl.com/players/search?category=name&amp;playerType=current" onclick="s_objectID='Nav_Players_By_Name'">By Name</a></li>
+							<li><a href="http://www.nfl.com/players/search?category=position&amp;playerType=current" onclick="s_objectID='Nav_Players_By_Position'">By Position</a></li>
+						</ul>
+						<ul>
+							<li><a href="http://www.nfl.com/players/search?category=team&amp;playerType=current" onclick="s_objectID='Nav_Players_By_Team_Roster'">By Team Roster</a></li>
+							<li><a href="http://www.nfl.com/players/search?playerType=historical" onclick="s_objectID='Nav_Players_Historical_Players'">Historical Players</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</li>
+		<li id="alt-nv-group-scores" class="alt-nv-group"><h3><a href="http://www.nfl.com/scores/2011/REG1" onclick="s_objectID='Nav_Scores_Main'">Scores</a></h3></li>
+		<li id="alt-nv-group-schedules" class="alt-nv-group">
+			<!-- <h3><a href="http://www.nfl.com/schedules?seasonType=POST#Week" onclick="s_objectID='Nav_Schedules_Main'">Schedules</a></h3> -->
+			<h3><a href="http://www.nfl.com/schedules" onclick="s_objectID='Nav_Schedules_Main'">Schedules</a></h3>
+	 		<div class="channel-content">
+	 			<div class="alt-nv-content-wrapper">
+					<div class="video-nv-content bottom alt-nv-main-watermark-text">Schedules</div>
+	 				<div class="channels">
+						<ul>
+							<li><a href="http://www.nfl.com/schedules?seasonType=PRE#Week" onclick="s_objectID='Nav_Schedules_Preseason'">Preseason</a></li> 
+							<li><a href="http://www.nfl.com/schedules?seasonType=REG#Week" onclick="s_objectID='Nav_Schedules_Regular_Season'">Regular Season</a></li>
+							<!-- <li><a href="http://www.nfl.com/goto?id=09000d5d81f36ce3" onclick="s_objectID='Nav_Schedules_Preseason'">Preseason</a></li> -->
+							<!-- <li><a href="http://www.nfl.com/schedules" onclick="s_objectID='Nav_Schedules_Regular_Season'">Regular Season</a></li> -->
+						</ul>
+						<ul>
+							<li><a href="http://www.nfl.com/schedules?seasonType=POST#Week" onclick="s_objectID='Nav_Schedules_Postseason'">Postseason</a></li>
+							<li><a href="http://www.nfl.com/schedules/interactive" onclick="s_objectID='Nav_Schedules_Interactive_Schedule'">Interactive Schedules</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</li>
+
+		<li id="alt-nv-group-stats" class="alt-nv-group">
+			<h3><a href="http://www.nfl.com/stats/player" onclick="s_objectID='Nav_Stats_Main'">Stats</a></h3>
+	 		<div class="channel-content">
+	 			<div class="alt-nv-content-wrapper">
+					<div class="video-nv-content bottom alt-nv-main-watermark-text">Stats</div>
+	 				<div class="channels">
+						<ul>
+							<li><a href="http://www.nfl.com/stats/player" onclick="s_objectID='Nav_Stats_Player_Stats'">Player Stats</a></li>
+							<li><a href="http://www.nfl.com/stats/team" onclick="s_objectID='Nav_Stats_Team_Stats'">Team Stats</a></li>
+							<li><a href="http://www.nfl.com/stats/categorystats?archive=false&role=TM&offensiveStatisticCategory=OFFENSIVE_LINE&tabSeq=2&qualified=true" onclick="s_objectID='Nav_Offensive_Line_Stats'">Offensive Line Stats</a></li>
+						</ul>
+						<ul>
+							<li><a href="http://www.nfl.com/stats/categorystats?archive=false&amp;conference=null&amp;statisticCategory=PASSING&amp;seasonString=null&amp;experience=0&amp;tabSeq=0&amp;Submit=Fin" onclick="s_objectID='Nav_Stats_Rookie_Stats'">Rookie Stats</a></li>
+							<li><a href="http://www.nfl.com/stats/weeklyleaders" onclick="s_objectID='Nav_Stats_Weekly_Leaders'">Weekly Leaders</a></li>
+							<li><a href="http://www.nfl.com/history" onclick="s_objectID='Nav_Stats_Historical_Stats'">Historical Stats</a></li>
+						</ul>
+						<ul>
+							<li><a href="http://www.nfl.com/stats/topperformers" onclick="s_objectID='Nav_Stats_Top_Performers'">Top Performers</a></li>
+							<li><a href="http://www.nfl.com/stats/headtohead" onclick="s_objectID='Nav_Stats_Player_Matchups'">Player Matchups</a></li>
+							<li><a href="http://www.nfl.com/stats/milestone?icampaign=milestone_Nav" onclick="s_objectID='Nav_Stats_Milestone_Tracker'">Milestone Tracker</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</li>
+		<li id="alt-nv-group-standings" class="alt-nv-group">
+			<h3><a href="http://www.nfl.com/standings" onclick="s_objectID='Nav_Standings_Main'">Standings</a></h3>
+	 		<div class="channel-content">
+	 			<div class="alt-nv-content-wrapper">
+					<div class="video-nv-content bottom alt-nv-main-watermark-text">Standings</div>
+	 				<div class="channels">
+						<ul>
+							<li><a href="http://www.nfl.com/standings" onclick="s_objectID='Nav_Standings_By_Division'">By Division</a></li>
+							<li><a href="http://www.nfl.com/standings?category=conf" onclick="s_objectID='Nav_Standings_By_Conference'">By Conference</a></li>
+						</ul>
+						<ul>
+							<li><a href="http://www.nfl.com/standings?category=league" onclick="s_objectID='Nav_Standings_By_League'">By League</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</li>
+		<li id="alt-nv-group-fantasy" class="alt-nv-group">
+			<h3><a href="http://www.nfl.com/fantasy" onclick="s_objectID='Nav_Fantasy_Main'">Fantasy</a></h3>
+	 		<div class="channel-content">
+	 			<div class="alt-nv-content-wrapper">
+					<div class="video-nv-content bottom alt-nv-main-watermark-text">Fantasy</div>
+					<div id="fantasy-promo-wrapper" style="height: 250px; overflow: hidden; width: 375px; position: absolute; right: 430px; bottom: 16px;">
+</div>
+					<div id="fantasy-dyn-box-wrapper">
+						<div class="head"><h2><img src="http://img.static.nfl.com/static/site/3.5/img/fantasy/header-title-my-fantasy.png" width="178" height="14" alt="My Fantasy Teams"/>&nbsp;</h2><span><a href="http://fantasy.nfl.com">Fantasy Football 2011</a></span></div>
+						<div id="fantasy-dyn-box" class="body">
+							<div class="nv-fantasy-signed-out">
+<a href="https://id2.s.nfl.com/fans/login?returnTo=/fantasy">Sign in</a> to access your fantasy teams.</div>
+							<div class="nv-fantasy-signed-in-no-teams">
+								<span class="userlink">(<a data-href="http://www.nfl.com/fans/profile/#{user.username}">#{user.username}</a>)</span>
+								<span class="msg-italic">
+You have no teams.<br><p style="height: 7px;"></p>
+<a href="http://fantasy.nfl.com?icampaign=Fantasy_teams_sign_up">Sign up now!</a></span>
+								<div class="get-started">
+									<span class="msg-bold">Resources</span>
+									
+<ul>
+	<li><a href="http://fantasy.nfl.com?icampaign=Fantasy_teams_sign_up">Create a League &#187;</a></li>	
+	<li><a href="http://fantasy.nfl.com/registration/leagueDirectory">Join a League &#187;</a></li>
+	<li><a href="http://fantasy.nfl.com/myleagues">Activate a League &#187;</a></li>
+	<li><a href="http://fantasy.nfl.com/draftcenter/mockdrafts">Join a Mock Draft &#187;</a></li>
+</ul>
+								</div>
+							</div>
+							<div class="nv-fantasy-signed-in-teams">
+								<span class="userlink">(<a data-href="http://www.nfl.com/fans/profile/#{user.username}">#{user.username}</a>)</span>
+								<div class="body">
+									<div class="team-node #{leagues.league1.leagueType}">
+										<span class="team-node-number">(#{leagues.league1.index}/#{leagues.total})</span>
+										<span class="team-node-name">#{leagues.league1.teamLink}</span>
+										<span class="team-node-league-frag">in: </span><span class="team-node-league">#{leagues.league1.leagueLink}</span>
+									</div>
+									<div class="team-node #{leagues.league2.leagueType}">
+										<span class="team-node-number">(#{leagues.league2.index}/#{leagues.total})</span>
+										<span class="team-node-name">#{leagues.league2.teamLink}</span>
+										<span class="team-node-league-frag">in: </span><span class="team-node-league">#{leagues.league2.leagueLink}</span>
+									</div>
+									<div class="team-node #{leagues.league3.leagueType}">
+										<span class="team-node-number">(#{leagues.league3.index}/#{leagues.total})</span>
+										<span class="team-node-name">#{leagues.league3.teamLink}</span>
+										<span class="team-node-league-frag">in: </span><span class="team-node-league">#{leagues.league3.leagueLink}</span>
+									</div>
+								</div>
+								<div class="foot"><a href="http://fantasy.nfl.com">More Teams</a></div>
+							</div>
+						</div>
+					</div>
+	 				<div class="channels">
+						<ul>
+							<li><a href="http://www.nfl.com/fantasy" onclick="s_objectID='Nav_Fantasy_Home'">Home</a></li>
+							<li><a href="http://fantasy.nfl.com?icampaign=Nav_Fantasy_sign_up" onclick="s_objectID='Nav_Fantasy_Fantasy_Football_2011'">Fantasy '11</a></li>
+							<li><a href="http://www.nfl.com/fantasy/playernews?newsIndex=1&amp;pageIndex=1" onclick="s_objectID='Nav_Fantasy_Player_News'">Player News</a></li>
+							<li><a href="http://www.nfl.com/fantasy/rankings" onclick="s_objectID='Nav_Fantasy_Player_Rankings'">Rankings</a></li>
+							<li><a href="http://www.nfl.com/fantasy/draftkit" onclick="s_objectID='Nav_Fantasy_Draft_Kit'">Draft Kit</a></li>
+							<li><a href="http://www.nfl.com/fantasy/blog" onclick="s_objectID='Nav_Fantasy_Blog'">Blog</a></li>
+							<li><a href="http://www.nfl.com/videos/nfl-fantasy" onclick="s_objectID='Nav_Fantasy_Video'">Video</a></li>
+							<li><a href="http://quickhit.com/?rid=nfl&utm_source=nfl&utm_medium=topnav&utm_campaign=nfl_topnav" onclick="s_objectID='Nav_Fantasy_Quickhit'" target="_blank">QUICKHIT</a></li>
+							<li><a href="http://www.nfl.com/fans/forums" onclick="s_objectID='Nav_Fantasy_Forums'">Forums</a></li>							
+							<li><a href="http://www.nfl.com/fantasy/help" onclick="s_objectID='Nav_Fantasy_Help'">Help</a></li>
+							
+							
+						</ul>	
+					</div>
+				</div>
+			</div>
+		</li>
+		<li id="alt-nv-group-nfl-network" class="alt-nv-group">
+			<h3><a href="http://www.nfl.com/nflnetwork" onclick="s_objectID='Nav_NFLN_Main'">NFL Network</a></h3>
+	 		<div class="channel-content">
+	 			<div class="alt-nv-content-wrapper">
+
+	 				<div class="channels">
+						<div style="width:0px;height:83px;float:left;display:inline"></div>
+						<ul>
+							<li><a href="/nflnetwork" onclick="s_objectID='Nav_NFLN_Main_submenu'">NFL Network</a></li>
+							<li><a href="http://www.nfl.com/nflnetwork/networkschedule" onclick="s_objectID='Nav_NFLN_NFL_Network_Schedule'">Schedules</a></li>
+							<li><a href="http://www.nfl.com/videos" onclick="s_objectID='Nav_NFLN_Video'">Video</a></li>
+							<li><a href="http://www.nfl.com/redzonetv" onclick="s_objectID='Nav_NFLN_NFL_RedZone'">NFL RedZone</a></li>
+							<li><a href="http://www.keepgyminschool.com/" onclick="s_objectID='Keep_Gym_In_School'">Keep Gym in School</a></li>
+						</ul>
+						<ul>
+							<li><a href="http://www.nfl.com/videos/nfl-network-total-access" onclick="s_objectID='Total_Access'">Total Access</a></li>
+							<li><a href="http://www.nfl.com/videos/nfl-network-gameday" onclick="s_objectID='GameDay'">GameDay</a></li>
+							<li><a href="http://www.nfl.com/videos/nfl-network-around-the-league" onclick="s_objectID='Around_The_League'">Around the League</a></li>
+							<li><a href="http://www.nfl.com/videos/nfl-films-sound-efx" onclick="s_objectID='Sound_Fx'">Sound FX</a></li>
+							<li><a href="http://www.nfl.com/videos/nfl-network-the-coaches" onclick="s_objectID='The_Coaches'">The Coaches</a></li>
+						</ul>
+						<ul>
+							<li><a href="http://www.nfl.com/top100" onclick="s_objectID='Top100'">Top 100</a></li>
+							<li><a href="http://www.nfl.com/videos/nfl-network-playbook" onclick="s_objectID='Playbook'">Playbook</a></li>
+							<li><a href="http://www.nfl.com/nflnetwork/onairtalent" onclick="s_objectID='Onairtalent'">On Air Talent</a></li>
+							<li><a href="https://network.nfl.com/nfln/secure/registerform" onclick="s_objectID='NFLNO'">Watch Online</a></li>
+							<!--<li><a href="http://iwantnflnetwork.com/" onclick="s_objectID='I_Want_NFL_Network'">I Want NFL Network</a></li>-->
+							<!--<li><a href="http://www.nfl.com/nflnetwork/games" onclick="s_objectID='Nav_NFLN_Games_on_NFL_Network'">Games on NFL Network</a></li>
+							<li><a href="http://www.nfl.com/nflnetwork/shows" onclick="s_objectID='Nav_NFLN_Shows'">Shows</a></li>-->
+						</ul>
+						
+					</div>
+<!--Commented out Redzone per Product and added DIV with same class before div.channels.  Make sure you remove that div if you add this back.
+					 <div class="video-nv-content bottom">
+						<a href="http://www.iwantnflnetwork.com" onclick="s_objectID='Nav_NFL_Network_Promtion_Unit'"><img style="margin: 0 10px 10px" alt="" src="http://static.nfl.com/static/content/catch_all/nfl_image/iwantnflnetwork2.jpg"/></a>
+					</div>
+
+					<div class="video-nv-content bottom alt-nv-main-watermark-text">
+						<a href="http://www.iwantnflnetwork.com" onclick="s_objectID='Nav_NFL_Network_Promtion_Unit'"><img style="margin: 0 10px 10px" alt="" src="http://static.nfl.com/static/content/catch_all/nfl_image/iwantnflnetwork2.jpg"/></a>
+					</div> -->
+				</div>
+			</div>
+		</li>
+		<li id="alt-nv-group-game-access" class="alt-nv-group">
+			<h3><a href="http://subscriptions.nfl.com/nflsubs/" onclick="s_objectID='Nav_NFL_Game_Access'">Game Pass</a></h3>
+	 		<div class="channel-content">
+	 			<div class="alt-nv-content-wrapper">
+					<div class="video-nv-content bottom alt-nv-main-watermark-text">Game Pass</div>
+	 				<div class="channels">
+						<ul>
+							<li class="subChoiceMarker"><h4>Online:</h4></li>
+							<!--<li><a href="https://gamerewind.nfl.com/nflgr/secure/gameaccess" onclick="s_objectID='Nav_NFL_Anytime_Game_Access'">Game Access</a></li>-->
+							<li><a href="http://www.nfl.com/preseasonlive" onclick="s_objectID='Nav_NFL_Anytime_Audio_Pass'">Preseason Live</a></li>
+							<li><a href="http://www.nfl.com/gamepass" onclick="s_objectID='Nav_NFL_Anytime_Game_Pass'">Game Pass</a></li>
+							<li><a href="http://www.nfl.com/gamerewind" onclick="s_objectID='Nav_NFL_Anytime_Game_Rewind'">Game Rewind</a></li>
+							<li><a href="http://www.nfl.com/audiopass" onclick="s_objectID='Nav_NFL_Anytime_Audio_Pass'">Audio Pass</a></li>
+							<li><a href="https://network.nfl.com/nfln/secure/registerform" onclick="s_objectID='Nav_NFL_Anytime_NFLNO'">NFL Network Online</a></li>
+							<li><a href="http://www.nfl.com/downloads" onclick="s_objectID='Nav_NFL_Anytime_Downloads'">Downloads</a></li>							
+						</ul>
+						<ul>
+							<li class="subChoiceMarker"><h4>Mobile:</h4></li>
+							<!--<li><a href="http://www.nfl.com/mobile" onclick="s_objectID='Nav_NFL_Anytime_NFL_Mobilie_Live'">NFL Mobile</a></li>-->
+							<li><a href="http://www.nfl.com/wireless" onclick="s_objectID='Nav_NFL_Anytime_NFL.com_Wireless'">NFL.com Wireless</a></li>
+							<li><a href="http://mywireless.nfl.com" target="_blank" onclick="s_objectID='Nav_NFL_Anytime_Tones_&amp;_Graphics'">Tones &amp; Graphics</a></li>
+							<li><a href="http://mywireless.nfl.com/alerts.php" target="_blank" onclick="s_objectID='Nav_NFL_Anytime_Alerts'">Alerts</a></li>
+						</ul>
+						<ul>
+							<li class="subChoiceMarker"><h4>TV &amp; Radio:</h4></li>
+							<!--<li><a href="http://www.nfl.com/promotions/directv/sundayticket" onclick="s_objectID='Nav_NFL_Anytime_NFL_Sunday_Ticket'">NFL Sunday Ticket</a></li>-->
+							<li><a href="https://www.directv.com/DTVAPP/content/sports/nfl?footernavtype=-1" onclick="s_objectID='Nav_NFL_Anytime_NFL_Sunday_Ticket'">NFL Sunday Ticket</a></li>
+							<li><a href="http://iwantnflnetwork.com/" onclick="s_objectID='Nav_NFL_Anytime_I_want_NFL_Network'">I want NFL Network</a></li>				
+							<li><a href="http://www.nfl.com/nflnetwork/networkschedule" onclick="s_objectID='Nav_NFL_Anytime_NFL_Network_Schedule'">NFL Network Schedule</a></li>
+							<li><a href="http://www.nfl.com/snf" onclick="s_objectID='Nav_NFL_Anytime_Sunday_Night_Football_Extra'">Sunday Night Football Extra</a></li>
+							<li><a href="http://www.sirius.com/servlet/ContentServer?pagename=Sirius/Page&amp;c=FlexContent&amp;cid=1185296533780" onclick="s_objectID='Nav_NFL_Anytime_NFL_Sunday_Drive'">NFL Sunday Drive</a></li>
+							<li><a href="http://redzonetv.nfl.com/" onclick="s_objectID='Nav_NFL_Anytime_NFL_Red_Zone'">NFL Red Zone</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</li>
+		<li id="alt-nv-group-tickets" class="alt-nv-group">
+			<h3><a href="http://www.nfl.com/tickets" onclick="s_objectID='Nav_Tickets_Main'">Tickets</a></h3>
+	 		<div class="channel-content">
+	 			<div class="alt-nv-content-wrapper">
+					<div class="video-nv-content bottom alt-nv-main-watermark-text">Tickets</div>
+	 				<div class="channels">
+						<ul>
+							<li><a href="http://www.nfl.com/tickets?icampaign=Tickets_Nav" onclick="s_objectID='Nav_Tickets_Landing'">Tickets by Team</a></li>
+							<li><a href="http://www.ticketexchangebyticketmaster.com/nfl?intcmp=tm100456&amp;wt.mc_id=NFL_LEAGUE_TIX_DROP_DWN_MEN&amp;extcmp=TicketsEX_NFL" onclick="s_objectID='Nav_Tickets_Exchange'">NFL Ticket Exchange</a></li>
+							<li><a href="http://nflonlocation.com/index.php?utm_source=nflcom&utm_medium=link&utm_campaign=nflDirLinks" onclick="s_objectID='Nav_Tickets_Location'">NFL On Location</a></li>
+							<li><a href="http://www.lombardibroadway.com/nfl.php" onclick="s_objectID='Nav_Tickets_Lombardi'">Lombardi on Broadway</a></li>
+					<!--	<li><a href="http://www.ticketmaster.com/event/2B00458E9D712785?artistid=1535351&majorcatid=10001&minorcatid=1" onclick="s_objectID='Nav_Tickets_Pepsi'">Pepsi Fan Jam</a></li>
+							<li><a href="http://www.profootballhof.com/enshrinement/ticket_policies.aspx" onclick="s_objectID='Nav_Tickets_HOF'">HOF Enshrinement</a></li>
+					 		<li><a href="http://www.nflonlocation.net/probowl.php" onclick="s_objectID='Nav_Pro_Bowl_Packages'">Pro Bowl Packages</a></li>
+							<li><a href="http://www.ticketmaster.com/event/0D00432E9AB03313?intcmp=tm103892&wt.mc_id=NFL_LEAGUE_PRO_BOWL" onclick="s_objectID='Nav_Pro_Bowl_Tickets'">Pro Bowl Tickets</a></li> 
+							<li><a href="http://www.nflonlocation.net/superbowl.php" onclick="s_objectID='Nav_Super_Bowl_Packages'">Super Bowl Packages</a></li>
+							<li><a href="http://www.ticketexchangebyticketmaster.com/NFL/InventoryBrowse/Super-Bowl-Tickets-at-Dolphin-Stadium-in-Opa-Locka?PID=505575&intcmp=tm104190&wt.mc_id=NFL_LEAGUE_TIX_SB&extcmp=NFL_League_SB44" onclick="s_objectID='Nav_Super_Bowl_Tickets'">Super Bowl Tickets</a></li> -->
+						</ul>
+						<!-- <ul>
+						    <li class="subChoiceMarker"><h4>WILD CARD GAMES:</h4></li>
+						    <li><a href="http://www.ticketexchangebyticketmaster.com/NFL/InventoryBrowse/Seattle-Seahawks-Tickets-at-Qwest-Field-in-Seattle?PID=1062599&intcmp=tm104882&wt.mc_id=NFL_LEAGUE_SEA_PLAYOFF1&extcmp=SEA_Playoff_NAV" onclick="s_objectID='Nav_Tickets_Exchange_Playoffs_Seahawks'">Saints at Seahawks</a></li> 
+							<li><a href="http://www.ticketexchangebyticketmaster.com/NFL/InventoryBrowse/Indianapolis-Colts-Tickets-at-Lucas-Oil-Stadium-in-Indianapolis?PID=1062177&intcmp=tm104866&wt.mc_id=NFL_LEAGUE_IND_PLAYOFF1&extcmp=IND_Playoff_Nav" onclick="s_objectID='Nav_Tickets_Exchange_Playoffs_Colts'">Jets at Colts</a></li>
+							<li><a href="http://www.ticketexchangebyticketmaster.com/NFL/InventoryBrowse/Kansas-City-Chiefs-Tickets-at-Arrowhead-Stadium-in-Kansas-City?PID=1073885&intcmp=tm104870&extcmp=KC_Playoff_NAV" onclick="s_objectID='Nav_Tickets_Exchange_Playoffs_Chiefs'">Ravens at Chiefs</a></li>
+							<li><a href="https://teamexchange.ticketmaster.com/html/postinglist.htmI?l=EN&team=eagles&EVNT=10POGM1&CNTX=&intcmp=tm104878&wt.mc_id=NFL_LEAGUE_PHI_PLAYOFF1&extcmp=PHI_Playoff_NAV" onclick="s_objectID='Nav_Tickets_Exchange_Playoffs_Eagles'">Packers at Eagles</a></li>
+							<li><a href="xxx" onclick="s_objectID='Nav_Tickets_Playoffs_Saints'">Saints Box Office</a></li> 
+						</ul> -->
+					<!--	<ul>
+						    <li class="subChoiceMarker"><h4>DIVISIONAL ROUND:</h4></li>
+							<li><a href="http://www.ticketexchangebyticketmaster.com/NFL/InventoryBrowse/Pittsburgh-Steelers-Tickets-at-Heinz-Field-in-Pittsburgh?PID=1067585&intcmp=tm104880&extcmp=PIT_Playoff_NAV" onclick="s_objectID='Nav_Tickets_Exchange_Playoffs_Steelers'">Ravens at Steelers</a></li>
+							<li><a href="http://www.ticketexchangebyticketmaster.com/NFL/InventoryBrowse/Atlanta-Falcons-Tickets-at-Georgia-Dome-in-Atlanta?PID=1073037&intcmp=tm104858&extcmp=ATL_Playoff_Nav" onclick="s_objectID='Nav_Tickets_Exchange_Playoffs_Falcons'">Packers at Falcons</a></li> 
+							<li><a href="http://www.ticketexchangebyticketmaster.com/NFL/InventoryBrowse/Chicago-Bears-Tickets-at-Soldier-Field-in-Chicago?PID=1073889&intcmp=tm104862&extcmp=CHI_Playoff_NAV" onclick="s_objectID='Nav_Tickets_Exchange_Playoffs_Chiefs'">Seahawks at Bears</a></li>
+						    <li><a href="https://teamexchange.ticketmaster.com/html/postinglist.htmI?l=EN&team=patriots&EVNT=EFPGAME1&CNTX=&intcmp=tm104872&wt.mc_id=NFL_LEAGUE_NE_PLAYOFF1&extcmp=NE_Playoff_NAV" onclick="s_objectID='Nav_Tickets_Exchange_Playoffs_Patriots'">Jets at Patriots</a></li>
+							<li><a href="xxx" onclick="s_objectID='Nav_Tickets_Playoffs_Saints'">Saints Box Office</a></li> 
+						</ul> -->
+					<!--	<ul>
+						    <li class="subChoiceMarker"><h4>CHAMPIONSHIP ROUND:</h4></li>
+							<li><a href="http://www.ticketexchangebyticketmaster.com/NFL/InventoryBrowse/Pittsburgh-Steelers-Tickets-at-Heinz-Field-in-Pittsburgh?PID=1060682&intcmp=tm104881&wt.mc_id=NFL_LEAGUE_PIT_PLAYOFF2&extcmp=PIT_Playoff_NAV" onclick="s_objectID='Nav_Tickets_Exchange_Playoffs_Steelers'">Jets at Steelers</a></li>
+							<li><a href="http://www.ticketexchangebyticketmaster.com/NFL/InventoryBrowse/Chicago-Bears-Tickets-at-Soldier-Field-in-Chicago?PID=1062191&intcmp=tm104863&wt.mc_id=NFL_LEAGUE_CHI_PLAYOFF2&extcmp=CHI_Playoff_Nav" onclick="s_objectID='Nav_Tickets_Exchange_Playoffs_Bears'">Packers at Bears</a></li>
+						</ul> -->
+					</div>
+				</div>
+			</div>
+		</li>
+		<li id="alt-nv-group-nfl-shop" class="alt-nv-group">
+			<h3><a href="http://www.nflshop.com/entry.point?target=z&amp;source=SHOP_TAB" target="_blank" onclick="s_objectID='Nav_Shop_Main'">Shop</a></h3>
+	 		<div class="channel-content">
+	 			<div class="alt-nv-content-wrapper">
+	 				<div class="channels">
+						<ul>
+							<li><a href="http://www.nflshop.com/entry.point?entry=2237409&amp;source=SHOP_JERSEYS" target="_blank" onclick="s_objectID='Nav_Shop_Jerseys'">Jerseys</a></li>
+							<li><a href="http://www.nflshop.com/entry.point?entry=2237411&amp;source=SHOP_MENS" target="_blank" onclick="s_objectID='Nav_Shop_Mens'">Men's</a></li>
+							<li><a href="http://www.replayphotos.com/nflphotostore/?icampaign=Nav_PhotoStore" target="_blank" onclick="s_objectID='Nav_Shop_Photostore'">Photo Store</a></li>
+						</ul>
+						<ul>
+							<li><a href="http://www.nflshop.com/entry.point?entry=2251924&amp;source=SHOP_CUSTOM_SHOP" target="_blank" onclick="s_objectID='Nav_Shop_Custom_Shop'">Custom Shop</a></li>
+							<li><a href="http://www.nflshop.com/entry.point?entry=2237412&amp;source=NFL_SHOP_WOMENS" target="_blank" onclick="s_objectID='Nav_Shop_Womens'">Women's</a></li>
+							<li><a href="http://www.nflauction.nfl.com" target="_blank" onclick="s_objectID='Nav_Shop_NFL_Auction'">NFL Auction</a></li>
+						</ul>
+						<ul>
+							<li><a href="http://www.nflshop.com/entry.point?entry=2237414&amp;source=NFL_SHOP_KIDS" target="_blank" onclick="s_objectID='Nav_Shop_Kids'">Kids</a></li>
+							<li><a href="http://www.nflshop.com/entry.point?entry=2735301&source=NFL_PlayerShop" target="_blank" onclick="s_objectID='Nav_Shop_Player_Shop'">Player Shop</a></li>
+						<!--<li><a href="http://www.nflshop.com/entry.point?entry=2421485&source=SHOP_NEWARRIVALS" target="_blank" onclick="s_objectID='Nav_Shop_New_Arrivals'">New Arrivals</a></li> -->
+						<!--<li><a href="http://www.nflshop.com/entry.point?entry=4381832&source=SHOP_PERFORMANCEAPPAREL" target="_blank" onclick="s_objectID='Nav_Shop_Performance_Apparel'">Performance Apparel</a></li> -->
+							<li><a style="color:#FF0000" href="http://www.nflshop.com/entry.point?entry=3388868&source=NFL_Outlet" target="_blank" onclick="s_objectID='Nav_Shop_Outlet_Center'">Outlet Center</a></li>
+						</ul>
+					</div>
+					<div class="video-nv-content bottom alt-nv-main-watermark-text">
+						<div class="bg">Shop</div>
+						
+<!-- BEGIN WIDGET global/alt-shop-nav -->
+<ul class="items">
+	<li>
+		
+			
+			<div class="thumbnail"><a href="http://www.nflshop.com/entry.point?entry=11507897&amp;source=NFL_DF:NAV" target="_blank"><img src="http://img.static.nfl.com/static/site/img/shop/p10064437th.gif" alt="Photo: NFL 2011 Player Hat DETROIT LIONS" /></a></div>
+			<div class="content">
+				<p><a href="http://www.nflshop.com/entry.point?entry=11507897&amp;source=NFL_DF:NAV" target="_blank">NFL 2011 Player Hat DETROIT LIONS</a></p>
+				<p><span class="price">24.99</span></p>
+			</div>
+		
+	</li>
+</ul>
+<!-- END WIDGET global/alt-shop-nav -->
+
+					</div>					
+				</div>
+			</div>
+		</li>
+	</ul>
+	
+	<!--Opt In Smart Pixel -->
+	<iframe src='http://pixel.fetchback.com/serve/fb/pdc?cat=&name=landing&sid=2002' scrolling='no' width='1' height='1' marginheight='0' marginwidth='0' frameborder='0'></iframe> 
+
+</div>
+<!-- END INCLUDE navigation/default-alt -->
+                        </div>
+                  </div>
+                  
+                  
+                        <div id="hd-scorestrip">
+                              <div id="hdscorestripContainer">
+                                    
+
+                              </div>
+
+							<script type="text/javascript">
+							nfl.use('scorestrip', function(Y) {
+								var ss = new Y.NFL.ScoreStrip({
+									srcNode: "#hdscorestripContainer",
+									type: "default"
+								});
+								ss.render();
+								window.ss = ss;
+							});
+							</script>
+						</div>
+				
+		</div>
+		
+		
+			<div id="page-top-ad">
+				
+					
+				 	
+				 	
+		<div class="adcontainer" id="ad1312831595663top" style="width:728px;height:90px;">
+			<noscript>
+				<a href="http://ad.doubleclick.net/jump/nfl.teams/atl/coaches;s1=ATL;s2=coaches;slot=top;url=ATL_coaches;nfl=ad;!category=;kw=;conf=nfc;dvsn=ncs;team=atl;tile={tile};test=;sz=728x90{dcopt}" target="_blank">
+					<img class="adImg" src="http://ad.doubleclick.net/ad/nfl.teams/atl/coaches;s1=ATL;s2=coaches;slot=top;url=ATL_coaches;nfl=ad;!category=;kw=;conf=nfc;dvsn=ncs;team=atl;tile={tile};test=;sz=728x90{dcopt}" width="728" height="90" border="0" alt=""/>
+				</a>
+			</noscript>
+		</div>
+		<script type="text/javascript">
+			YUI().use('node','ads-v2',function(Y){
+				var _Ad	= Y.NFL.Ads.create({
+					srcNode: Y.one('#ad1312831595663top'),
+					id: 'ad1312831595663top',
+					type: 'adi',
+					path: 'http://ad.doubleclick.net/adi/nfl.teams/atl/coaches;s1=ATL;s2=coaches;slot=top;url=ATL_coaches;nfl=ad;!category=;kw=;conf=nfc;dvsn=ncs;team=atl;tile={tile};test=;sz=728x90{dcopt}',
+					width: 728,
+					height: 90
+				});
+				_Ad.render();
+				
+				
+				
+			})
+		</script>
+				
+			</div>
+		
+		
+		<div id="doc">
+			<div id="doc-wrap">
+				<!-- BEGIN DECORATOR 2010/default -->
+			
+			
+				<div id="event-header">
+</div>
+			
+			<div id="main-content" class="content-div default">
+				<div class="c">
+					
+					<!-- 
+contentTitle = Atlanta Falcons
+contentLink = /teams/profile?team=ATL
+sponsorTitle = 
+sponsorLink = 
+-->
+<div class="article-decorator">		
+	<h2>Atlanta Falcons &nbsp;</h2>
+	<p> &nbsp;</p>
+	<div class="visual-treatment" style="background-image:url(http://img.static.nfl.com/static/site/3.5/img/subheaders/atl.png) !important;"></div>
+	
+		<div class="content-link"><a href="/teams/profile?team=ATL">&nbsp;</a></div>
+		
+		
+	
+		
+		<div class="sponsor-link">&nbsp;</div>
+	
+</div>
+<div class="grid ATL">
+	<div class="col span-10">
+		
+
+
+
+
+
+<!-- BEGIN INCLUDE teams/teamoverview -->
+
+<div id="team-overview-wrapper">
+	<div id="team-overview-profile">
+		<div id="team-overlay-container">
+			<img src="http://img.static.nfl.com/static/site/3.5/img/logos/watermarks/ATL.gif" class='team-overlay'/>
+		</div>
+		<div class="team-bio">
+			<div class="team-logo">
+				<img src="http://img.static.nfl.com/static/site/3.5/img/teams/ATL/ATL_logo-80x90.gif"  width="80" height="90" class="logo" alt="" />
+			</div>
+			<div class="team-info">
+				<p class='team-overall-ranking'>4th NFC South <span>(--)</span></p>
+				<p class='team-official-link'><a href="http://www.atlantafalcons.com/" target="_blank">http://www.atlantafalcons.com/</a></p>
+				<p><strong>Founded:</strong> 1966</p>
+				<p><strong>Stadium:</strong> Georgia Dome</p>
+				
+				
+						
+				<p>
+					<strong>Tickets:</strong> <a href="/tickets/atlanta-falcons?icampaign=Teams_Tel_Tickets">404-223-8444</a>
+					
+| <a href="http://www.ticketexchangebyticketmaster.com/nfl/atlanta-falcons-tickets/?intcmp=tm103731&wt.mc_id=NFL_LEAGUE_TEAM_EX_LINK_ATL&extcmp=Teams_Pages_ATL">Buy/Sell Tickets</a>
+				</p>
+				<p><strong>Game Averages (2010)</strong></p>
+				<p><a href="#" class='game-averages' data-tab='#team-quick-stats-1'>offense</a> | <a href="#" class='game-averages' data-tab='#team-quick-stats-2'>defense</a> | <a href="/stats/team">more</a></p>
+			</div>
+		</div>
+		<div class="team-quick-stats">
+			<p class="social">
+				<a target="_blank" href="/rss/rsslanding?searchString=team&amp;id=0200&amp;name=Atlanta Falcons&amp;abbr=ATL" class="blackLinkNoUL rss_subscribe">
+					<img src="http://img.static.nfl.com/static/site/3.5/img/icon_rss.gif" alt="" width="16" height="16" /> Subscribe
+				</a>
+				
+				<!-- Twitter Share -->
+				
+				
+				<iframe allowtransparency="true" frameborder="0" scrolling="no"
+				        src="http://platform.twitter.com/widgets/tweet_button.html?url=http%3A%2F%2Fwww.nfl.com%2Fteams%2Fatlantafalcons%2Fprofile%3Fteam%3DATL&amp;text=Checking out the Atlanta Falcons at the NFL&amp;count=horizontal&amp;via=nfl"
+				        style="width:110px; height:20px;"></iframe>
+				<!-- Facebook Like -->
+				<iframe allowTransparency="true" frameborder="0" scrolling="no" 
+					src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.nfl.com%2Fteams%2Fatlantafalcons%2Fprofile%3Fteam%3DATL&amp;layout=button_count&amp;show_faces=true&amp;width=450&amp;action=like&amp;colorscheme=light&amp;height=50"
+					style="border:none; overflow:hidden; width:90px; height:21px;"></iframe>
+			</p>
+			 
+			<div id="team-quick-stats-1" class="tabContent">
+				<div class="team-quick-stat-container">
+					
+	 					<div class="team-quick-stat-item first">
+							<div class='team-quick-stat-header'>PTS</div>
+	 						<div class='team-quick-stat-body'>
+	 							25.9 
+	        					
+								
+			        				<br /><span class='team-quick-stat-rank'>(5th)</span>
+		        				
+	        				</div>					
+						</div>
+	  				
+	 					<div class="team-quick-stat-item ">
+							<div class='team-quick-stat-header'>YDS</div>
+	 						<div class='team-quick-stat-body'>
+	 							341.1 
+	        					
+								
+			        				<br /><span class='team-quick-stat-rank'>(16th)</span>
+		        				
+	        				</div>					
+						</div>
+	  				
+	 					<div class="team-quick-stat-item ">
+							<div class='team-quick-stat-header'>PASS YDS</div>
+	 						<div class='team-quick-stat-body'>
+	 							222.9 
+	        					
+								
+			        				<br /><span class='team-quick-stat-rank'>(15th)</span>
+		        				
+	        				</div>					
+						</div>
+	  				
+	 					<div class="team-quick-stat-item ">
+							<div class='team-quick-stat-header'>RUSH YDS</div>
+	 						<div class='team-quick-stat-body'>
+	 							118.2 
+	        					
+								
+			        				<br /><span class='team-quick-stat-rank'>(12th)</span>
+		        				
+	        				</div>					
+						</div>
+	  				
+	 			</div>
+			</div>
+	  
+	   		
+	  		<div id="team-quick-stats-2" class="tabContent" style='display:none'>
+	  			<div class="team-quick-stat-container">
+		 			
+		  				<div class="team-quick-stat-item first">
+							<div class="team-quick-stat-header">PTS</div>
+		      				<div class="team-quick-stat-body">
+			      				18.0 
+			        			
+								
+					        		<br /><span class="team-quick-stat-rank">(5th)</span>
+			        			
+		        			</div>		
+		  				</div>
+		  			
+		  				<div class="team-quick-stat-item ">
+							<div class="team-quick-stat-header">YDS</div>
+		      				<div class="team-quick-stat-body">
+			      				332.4 
+			        			
+								
+					        		<br /><span class="team-quick-stat-rank">(16th)</span>
+			        			
+		        			</div>		
+		  				</div>
+		  			
+		  				<div class="team-quick-stat-item ">
+							<div class="team-quick-stat-header">PASS YDS</div>
+		      				<div class="team-quick-stat-body">
+			      				226.6 
+			        			
+								
+					        		<br /><span class="team-quick-stat-rank">(22nd)</span>
+			        			
+		        			</div>		
+		  				</div>
+		  			
+		  				<div class="team-quick-stat-item ">
+							<div class="team-quick-stat-header">RUSH YDS</div>
+		      				<div class="team-quick-stat-body">
+			      				105.9 
+			        			
+								
+					        		<br /><span class="team-quick-stat-rank">(10th)</span>
+			        			
+		        			</div>		
+		  				</div>
+		  			
+				</div>
+	  		</div>
+	  		<div class='league-rank'>(league rank)</div>
+		</div>
+		<div style="clear:both"></div>
+	</div>
+
+
+	<div id="team-main-nav">
+		<ul>
+			
+				
+				
+					<li><a href="profile?team=ATL">Profile</a></li>
+				
+			
+			
+				
+				
+					<li><a href="statistics?team=ATL">Stats</a></li>
+				
+			
+			
+				
+				
+					<li><a href="schedule?team=ATL">Schedule</a></li>
+				
+			
+			
+				
+				
+					<li><a href="roster?team=ATL">Roster</a></li>
+				
+			
+			
+				
+				
+					<li><a href="depthchart?team=ATL">Depth Chart</a></li>
+				
+			
+			
+				
+				
+					<li><a href="transactions?team=ATL">Trans</a></li>
+				
+			
+			
+				
+				
+					<li><a href="injuries?team=ATL">Injuries</a></li>
+				
+			
+			
+				
+					<li class="selected ATLcolors"><a href="coaches?coaType=head&amp;team=ATL">Coaches</a></li>
+				
+				
+			
+	  </ul>
+	</div>
+</div>
+<!-- 116 Tabbed Subnav for Pages with Wide RR 720px END -->
+<!-- END INCLUDE teams/teamoverview -->
+
+		<div id='team-stats-wrapper'>				
+			
+			<div id="head-coach" style="display:block" class="coach-container">
+				<p class='coach-toggle'>Head Coach  |  <a href="#" data-tab="assistant-coach" >Assistant Coaches</a></p>  
+				<div class="divheadcoachprofile">
+					
+					
+						<div class="coachprofileimage">
+	 						<img src="http://static.nfl.com/static/content/catch_all/nfl_image/m_smith_head_080125.jpg" width="65" height="90"/> 
+	 					</div>
+ 						 
+					<div class="coachprofiletext">
+						<p><span class="bold">Head Coach:</span> Mike Smith</p>
+						<br />
+	 					
+								
+<p id="person_profile"> <person_profile_text> <p> <b>Career Record:</b> 20-12-0 regular season; 0-1 playoffs<br> <br> <b>Pro Career:</b> Smith signed as the 14th head coach in <A HREF="/teams/atlantafalcons/profile?team=ATL">Atlanta Falcons</A> history on Jan. 23, 2008. From 2003&ndash;2007, Smith served as the defensive coordinator for the <A HREF="/teams/jacksonvillejaguars/profile?team=JAC">Jacksonville Jaguars</A> and led a defensive unit which ranked fourth in overall defense (296.6), third in offensive points allowed (16.1) and fifth in rushing defense (99.3). The Jaguars defense also contributed to a team-record 20 interceptions and allowed an NFL-low 11 points per game on their home turf. In 2002, Smith served as the linebackers coach for the <A HREF="/teams/baltimoreravens/profile?team=BAL">Baltimore Ravens</A> and before joining the NFL ranks, he spent 12 seasons at Tennessee Tech from 1987&ndash;1998.<br> <br> <b>Background:</b> Smith became a coach at 18, instructing linebackers while he was still in high school. He played college football at East Tennessee(1977&ndash;1981) and was named defensive MVP twice at his position. He led the team with 186 tackles as a senior, becoming the all-time single-season tackle leader. Smith then forged his way up the coaching ladder with stints at San Diego State (1982-85), Morehead State (1986) and Tennessee Tech (1987-1998) before making the jump to the NFL.<br> <br> <b>Personal:</b> A native of Daytona Beach, Fla., Smith was born on June 13, 1959 in Chicago, Ill. He and his wife, Julie, have one daughter, Logan.</p> </person_profile_text> </p>
+	 					
+	  					
+					</div>
+				</div>
+
+			</div>
+			
+			<div id='assistant-coach' style='display:none' class="coach-container">
+				<p class='coach-toggle'><a href="#" data-tab='head-coach'>Head Coach</a>  |  Assistant Coaches</p>
+		 		
+<div class="divcoachprofile">
+<!-- Assistant Coach -->
+	<!-- Assistant Coach -->
+	<div class="assistcoach">
+ 		<div class="unlinkedphoto"><img src="http://www.nfl.com/static/content/catch_all/nfl_image/Armstrong_Keith_10.jpg" width="65" height="90" alt="Keith Armstrong" /></div>
+	  	<div>
+			<p class="bold">Keith Armstrong</p>
+			<p>Special Teams Coordinator; born Dec. 15, 1963, Trenton, N.J. Running back/defensive back Temple 1983-86. No pro playing experience: College coach: Temple 1987, Miami 1988, Akron 1989, Oklahoma State 1990-92, Notre Dame 1993. Pro coach: Atlanta Falcons 1994-96, Chicago Bears 1997-2000, Miami Dolphins, 2001-07, joined Falcons in 2008.</p>
+	  	</div>
+	</div>
+	  
+	  
+	  		<!-- Assistant Coach -->
+	<div class="assistcoach">
+	 <div class="unlinkedphoto"><img src="http://www.nfl.com/static/content/catch_all/nfl_image/Beauchemin_Jonas_10.jpg" width="65" height="90" alt="Jonas Beauchemin" /></div>		  <div>
+		<p class="bold">Jonas Beauchemin</p>
+		<p>
+		Strength and conditioning assistant; born October 11, 1984, Burlington, Vt. Attended Keene State. No college or pro playing experience. Pro coach: Joined Falcons in 2009.</p>
+	  </div>
+	</div> 
+	  
+
+		<!-- Assistant Coach -->
+	<!-- Assistant Coach -->
+	<div class="assistcoach">
+	 <div class="unlinkedphoto"><img src="http://www.nfl.com/static/content/catch_all/nfl_image/Boudreau_Paul_10.jpg" width="65" height="90" alt="Paul Boudreau" /></div>		  <div>
+		<p class="bold">Paul Boudreau</p>
+		<p>Offensive Line; born December 30, 1949, Arlington, Mass. Offensive lineman Boston College 1971-73. No pro playing experience. College coach: Boston College 1974-75, Maine 1976-78, Dartmouth 1979-1981, Navy 1982. Pro coach: Edmonton Eskimos (CFL) 1983-86, New Orleans Saints 1987-1993, Detroit Lions 1994-96, New England Patriots 1997-98, Miami Dolphins 1999-2000, Carolina Panthers 2001-02, Jacksonville Jaguars 2003-05, St. Louis 2006-07. Joined Atlanta in 2008 
+</p>
+	  </div>
+	</div>
+	
+	
+	<!-- Assistant Coach -->
+	<div class="assistcoach">
+	  	  <div class="unlinkedphoto"><img src="http://static.nfl.com/static/content/catch_all/nfl_image/Bratkowski_Bob_10.jpg" width="65" height="90" alt="Bob Bratkowski" /></div>
+
+	  <div>
+		<p class="bold">Bob Bratkowski</p>
+		<p>Quarterbacks; born December 2, 1955, San Angelo, Texas. Wide receiver Washington State 1975-77. No pro playing experience. College coach: Missouri 1978-1980, Weber State 1981-85, Wyoming 1986, Washington State 1987-88, Miami 1989-1991. Pro coach: Seattle Seahawks 1992-98, Pittsburgh Steelers 1999-2000, Cincinnati Bengals in 2001-2010, joined Falcons in 2011.
+</p>
+	  </div>
+	</div>
+
+
+		<!-- Assistant Coach -->
+	<!-- Assistant Coach -->
+	<div class="assistcoach">
+	 <div class="unlinkedphoto"><img src="http://www.nfl.com/static/content/catch_all/nfl_image/Brown_Gerald_10.jpg" width="65" height="90" alt="Gerald Brown" /></div>		  <div>
+		<p class="bold">Gerald Brown</p>
+		<p>Running backs; born September 4, 1959, Sweetwater, Tenn. Attended Memphis State. No college or pro playing expeirence. College coach: Tennessee Tech 1991-2000, Indiana 2002-07. Pro coach: Joined Falcons in 2008.
+</p>
+	  </div>
+	</div>
+	
+	
+		<!-- Assistant Coach -->
+	<!-- Assistant Coach -->
+	<div class="assistcoach">
+	 <div class="unlinkedphoto"><img src="http://www.nfl.com/static/content/catch_all/nfl_image/Collins_Mark_10.jpg" width="65" height="90" alt="Mark Collins" /></div>		  <div>
+		<p class="bold">Mark Collins</p>
+		<p>Defensive assistant; born
+August 30, 1975, Sault Ste. Marie, Mich.
+Defensive end/outside linebacker East
+Tennessee State 1995-98. No pro playing
+experience. College coach: East
+Tennessee State 1999-2002, Michigan
+2003-04, Elon, 2005, Georgia Southern,
+2006, Georgia 2007, Louisiana-Monroe
+2009. Pro coach: Joined Falcons in 2010.
+</p>
+	  </div>
+	</div> 
+	
+	<!-- Assistant Coach -->
+	<!-- Assistant Coach -->
+	<div class="assistcoach">
+	 <div class="unlinkedphoto"><img src="http://www.nfl.com/static/content/catch_all/nfl_image/Dunn_Paul_10.jpg" width="65" height="90" alt="Paul Dunn" /></div>		  <div>
+		<p class="bold">Paul Dunn</p>
+		<p>Asst. offensive line; born July 7, 1960, Philadelphia. Offensive lineman Pittsburgh 1978-1982. No pro playing experience. College coach: Pittsburgh 1983, 2005-07, Penn State 1984-85, Edinboro 1986-88, Rutgers 1989, Maine 1990-93, Cincinnati 1994-95, Vanderbilt 1996-97, Kansas State 1998-2002, Kentucky 2003-04. Pro coach: Joined Falcons in 2008.
+</p>
+	  </div>
+	</div>
+	
+	
+	<div class="assistcoach">
+	  <div class="unlinkedphoto"><img src="http://static.nfl.com/static/content//public/static/img/teams/coaching/OAK/Fish_Jeff.jpg" alt="Jeff Fish" width="65" height="90" /></div>
+	  <div>
+		<p class="bold">Jeff Fish</p>
+		<p>Director of athletic performance; born June 6, 1966, Ithaca, N.Y. Wide receiver Western Carolina 1986-88. No pro playing experience. College coach: Clemson 1991-92, Kent State 1993-94, Tulsa 1995-96, Missouri 2001-02. Pro coach: Tampa Bay Buccaneers 1997, Kansas City Chiefs 1998-2000, Oakland Raiders, 2004-07, joined Falcons in 2008.
+</p>
+	  </div>
+	</div>
+	
+	
+	
+	<!-- Assistant Coach -->
+	<div class="assistcoach">
+	  	  <div class="unlinkedphoto"><img src="http://www.nfl.com/static/content/catch_all/nfl_image/Hamilton_Ray_10.jpg" width="65" height="90" alt="Ray Hamilton" /></div>
+	  <div>
+		<p class="bold">Ray Hamilton</p>
+		<p>Defensive Line; born January 20, 1951, Omaha, Neb. Nose tackle Oklahoma 1969-1972. Pro defensive lineman New England Patriots 1973-1981. College coach: Tennessee 1992. Pro coach: New England Patriots 1985-89, Tampa Bay Buccaneers 1991, Los Angeles Raiders 1993-94, New York Jets 1994-96, 2000, New England Patriots 1997-99, Cleveland Browns 2001-02, joined Jaguars in 2003.
+</p>
+	  </div>
+	</div>
+	
+	
+	<!-- Assistant Coach -->
+	<!-- Assistant Coach -->
+	<div class="assistcoach">
+	 <div class="unlinkedphoto"><img src="http://www.nfl.com/static/content/catch_all/nfl_image/B_Hughan_081108_hs.jpg" width="65" height="90" alt="Bill Hughan" /></div>		  <div>
+		<p class="bold">Bill Hughan</p>
+		<p>Assistant strength and conditioning coach; born February 8, 1975, Oxford, Conn. Attended Springfield College. No college or pro playing experience. College coach: Yale 1997-98, Columbia 1999-2000, Missouri 2001-03. Pro coach: Oakland Raiders 2004-07, joined Falcons in 2008.
+</p>
+	  </div>
+	</div>
+	
+	
+	<!-- Assistant Coach -->
+	<!-- Assistant Coach -->
+	<div class="assistcoach">
+	 <div class="unlinkedphoto"><img src="http://www.nfl.com/static/content/catch_all/nfl_image/Lewis_Tim_10.jpg" width="65" height="90" alt="Tim Lewis" /></div>		  <div>
+		<p class="bold">Tim Lewis</p>
+		<p>Secondary; born June 3, 1943, Angleton, Texas. Lewis has spent 15 seasons as an NFL coaching assistant as was most recently with the Seattle Seahawks as the team's Defensive Backs Coach last year. He began his professional career as the defensive backs Coach with the Pittsburgh Steelers (1995-99) before serving as the team's defensive coordinator from 2000-03. Lewis moved on to the New York Giants as the team's defensive coordinator for three seasons (2004-06) before joining the Carolina Panthers staff as the secondary coach from 2007-08.
+</p>
+	  </div>
+	</div>
+
+		
+	<!-- Assistant Coach -->
+	<!-- Assistant Coach -->
+	 <div class="assistcoach">
+		<div class="unlinkedphoto"><img src="http://www.nfl.com/static/content/catch_all/nfl_image/Mularkey_Mike_10.jpg" width="65" height="90" alt="Mike Mularkey" /></div>
+	  <div>
+		<p class="bold">Mike Mularkey</p>
+		<p> Offensive Coordinator; born November 19, 1961, Ft. Lauderdale, Fla. Tight end Florida 1979-1982. Pro tight end Minnesota Vikings 1983-88, Pittsburgh Steelers 1989-1991. College coach: Concordia 1993. Pro coach: Tampa Bay Buccaneers 1994-95, Pittsburgh Steelers, 1996-2003, Buffalo Bills, 2004-05 (head coach), Miami Dolphins, 2006-07, joined Falcons in 2008.
+</p>
+	  </div> 
+	</div>	  
+	
+	<!-- Assistant Coach -->
+	<!-- Assistant Coach -->
+	<div class="assistcoach">
+	 <div class="unlinkedphoto"><img src="http://www.nfl.com/static/content/catch_all/nfl_image/Pires_Glenn_09.jpg" width="65" height="90" alt="Glenn Pires" /></div>		  <div>
+		<p class="bold">Glenn Pires</p>
+		<p>Linebackers; born September 13, 1958, New Bedford, Mass. Offensive lineman Springfield College 1976-79. No pro playing experience. College coach: Dartmouth 1985-88, Syracuse 1989-1994, Michigan State 1995. Pro coach: Arizona Cardinals 1996-2000, Detroit Lions 2001-02, Miami Dolphins 2003-07, joined Falcons in 2008.
+</p>
+	  </div>
+	</div>
+	
+	<!-- Assistant Coach -->
+	<!-- Assistant Coach -->
+<div class="assistcoach">
+	 <div class="unlinkedphoto"><img src="http://www.nfl.com/static/content/catch_all/nfl_image/Reynolds_Alvin_10.jpg" width="65" height="90" alt="Alvin Reynolds" /></div>		  <div>
+		<p class="bold">Alvin Reynolds</p>
+		<p>Defensive backs; born June 24, 1959, Pineville, La. Safety Indiana State 1978-1981. No pro playing experience. College coach: Indiana State 1982-1992. Pro coach: Denver Broncos 1993-95, Baltimore Ravens 1996-98, Carolina Panthers 1999-2002, Jacksonville Jaguars 2003-07, joined Falcons in 2008.
+</p>
+	  </div>
+	</div>
+	
+	<!-- Assistant Coach -->
+	<!-- Assistant Coach -->
+	  <div class="assistcoach">
+	  <div class="unlinkedphoto"><img src="http://www.nfl.com/static/content/catch_all/nfl_image/Robiskie_Terry_10.jpg" width="65" height="90" alt="Terry Robiskie" /></div>
+	  <div>
+		<p class="bold">Terry Robiskie</p>
+		<p>Wide Receivers; born Nov. 12, 1954, New Orleans. Running back Louisiana State 1973-76. Pro running back Oakland Raiders 1977-79, Miami Dolphins 1980-81. Pro coach: Los Angelens Raiders 1982-93, Washington Redskins 1994-2000 (interim head coach 2000), Cleveland Browns (2001-06 (interim head coach 2004), Miami Dolphins, 2007, joined Falcons in 2008.
+</p> 
+	  </div>
+	</div>
+
+	<!-- Assistant Coach -->
+	<!-- Assistant Coach -->
+	<div class="assistcoach">
+	 <div class="unlinkedphoto"><img src="http://www.nfl.com/static/content/catch_all/nfl_image/Scelfo_Chris_10.jpg" width="65" height="90" alt="Chris Scelfo" /></div>		  <div>
+		<p class="bold">Chris Scelfo</p>
+		<p>Tight ends; born September 30, 1963, New Iberia, La. Center; Northeast Louisiana 1981-84. No pro playing experience. College coach: Northeast Louisiana 1986-87, Oklahoma 1988-89, Marshall 1990-95, Georgia 1996-98, Tulane 1998-2006. Pro coach: Joined Falcons in 2008.
+</p>
+	  </div>
+	</div>
+	
+		<!-- Assistant Coach -->
+	<!-- Assistant Coach -->
+	<div class="assistcoach">
+	 <div class="unlinkedphoto"><img src="http://www.nfl.com/static/content/catch_all/nfl_image/Sutulovich_Eric_10.jpg" width="65" height="90" alt="Eric Sutulovich" /></div>		  <div>
+		<p class="bold">Eric Sutulovich</p>
+		<p>Assistant special teams; born September 30, 1963, New Iberia, La. Center; Northeast Louisiana 1981-84. No pro playing experience. College coach: Northeast Louisiana 1986-87, Oklahoma 1988-89, Marshall 1990-95, Georgia 1996-98, Tulane 1998-2006. Pro coach: Joined Falcons in 2008.
+</p>
+	  </div>
+	</div>
+		
+		
+		<!-- Assistant Coach -->
+	<!-- Assistant Coach -->
+<div class="assistcoach">
+	 <div class="unlinkedphoto"><img src="http://www.nfl.com/static/content/catch_all/nfl_image/Thomas_Glenn_10.jpg" width="65" height="90" alt="Glenn Thomas" /></div>		  <div>
+		<p class="bold">Glenn Thomas</p>
+		<p>Offensive quality control; born September 22, 1977, Eastland, Texas. Attended Texas Tech. No college or pro playing experience. College coach: Texas Tech 1998-2001, Midwestern State 2001-07. Pro coach: Joined Falcons in 2008.
+</p>
+	  </div>
+	</div>
+
+	
+	<!-- Assistant Coach -->
+<div class="assistcoach">
+	 <div class="unlinkedphoto"><img src="http://www.nfl.com/static/content/catch_all/nfl_image/VanGorder_Brian_10.jpg" width="65" height="90" alt="Brian VanGorder" /></div>		  <div>
+		<p class="bold">Brian VanGorder</p>
+		<p>defensive coordinator; born April 17, 1959, Jackson, Mich. Linebacker Wayne State 1979-80. No pro playing experience. College coach: Grand Valley State 1989-91, Wayne State 1992-94 (head coach), Central Florida 1995-97, Central Michigan 1998-99, Western Illinois 2000, Georgia 2001-04, Georgia Southern 2006 (head coach). Pro coach: Jacksonville Jaguars 2005, joined Falcons in 2007.  </p>
+	  </div>
+	</div> 
+
+
+
+<br><br>&raquo For more information on the Falcons' assistant coaches, <a href="http://www.atlantafalcons.com/roster-coaches/" target="_blank">please visit their official site</a>.
+
+
+</div>
+
+
+
+
+	  
+	  
+	
+	  
+	  
+	<!-- Assistant Coach -->
+	<!-- Assistant Coach -->
+	<!-- <div class="assistcoach">
+	 <div class="unlinkedphoto"><img src="http://www.nfl.com/static/content/catch_all/nfl_image/J_Danna_081108_hs.jpg" width="65" height="90" alt="Joe Danna" /></div>		  <div>
+		<p class="bold">Joe Danna</p>
+		<p>Defensive Quality Control; born April 3, 1977, Midland, Mich. Wide receiver Central Michigan 1995-98. No pro playing experience. College coach: Central Michigan 1999-2000, 2002-05, Georgia 2001, Georgia Southern 2006, James Madison 2008. Pro coach: Joined Falcons in 2008.
+</p> 
+	  </div>
+	</div>
+-->
+
+	
+	
+		
+	<!-- Assistant Coach -->
+	<!--<div class="assistcoach">
+	 <div class="unlinkedphoto"><img src="http://static.nfl.com/static/content//public/static/img/teams/coaching/ATL/Blank_Headshot.jpg" width="65" height="90" alt="Jonathan Gannon" /></div>		  <div>
+		<p class="bold">Jonathan Gannon</p>
+		<p>Defensive quality control; born April 4, 1983, Cleveland. Safety Louisville 2002-03. No pro playing experience. Pro coach: Joined Falcons in 2007.
+</p>
+	  </div>
+	</div>-->
+
+	<!-- Assistant Coach -->
+<!-- Assistant Coach -->
+	<!--<div class="assistcoach">
+	 <div class="unlinkedphoto"><img src="http://static.nfl.com/static/content//public/static/img/teams/coaching/ATL/Blank_Headshot.jpg" width="65" height="90" alt="Jonathan Gannon" /></div>		  <div>
+		<p class="bold">Jonathan Gannon</p>
+		<p>Defensive quality control; born April 4, 1983, Cleveland. Safety Louisville 2002-03. No pro playing experience. Pro coach: Joined Falcons in 2007.
+</p>
+	  </div>
+	</div>-->
+
+		<!-- Assistant Coach -->
+	<!-- Assistant Coach -->
+	<!--<div class="assistcoach">
+	 <div class="unlinkedphoto"><img src="http://static.nfl.com/static/content//public/static/img/teams/coaching/ATL/Blank_Headshot.jpg" width="65" height="90" alt="Jonathan Gannon" /></div>		  <div>
+		<p class="bold">Jonathan Gannon</p>
+		<p>Defensive quality control; born April 4, 1983, Cleveland. Safety Louisville 2002-03. No pro playing experience. Pro coach: Joined Falcons in 2007.
+</p>
+	  </div>
+	</div>-->
+
+	<!-- Assistant Coach -->
+	<!-- Assistant Coach -->
+	<!--<div class="assistcoach">
+	 <div class="unlinkedphoto"><img src="http://static.nfl.com/static/content//public/static/img/teams/coaching/ATL/Blank_Headshot.jpg" width="65" height="90" alt="Jonathan Gannon" /></div>		  <div>
+		<p class="bold">Jonathan Gannon</p>
+		<p>Defensive quality control; born April 4, 1983, Cleveland. Safety Louisville 2002-03. No pro playing experience. Pro coach: Joined Falcons in 2007.
+</p>
+	  </div>
+	</div>-->
+
+	<!-- Assistant Coach -->
+	<!-- Assistant Coach -->
+	<!--<div class="assistcoach">
+	 <div class="unlinkedphoto"><img src="http://static.nfl.com/static/content//public/static/img/teams/coaching/ATL/Blank_Headshot.jpg" width="65" height="90" alt="Jonathan Gannon" /></div>		  <div>
+		<p class="bold">Jonathan Gannon</p>
+		<p>Defensive quality control; born April 4, 1983, Cleveland. Safety Louisville 2002-03. No pro playing experience. Pro coach: Joined Falcons in 2007.
+</p>
+	  </div>
+	</div>-->
+
+	
+
+
+	<!-- Assistant Coach -->
+	<!-- Assistant Coach -->
+	<!--<div class="assistcoach">
+	 <div class="unlinkedphoto"><img src="http://static.nfl.com/static/content//public/static/img/teams/coaching/ATL/Blank_Headshot.jpg" width="65" height="90" alt="Jonathan Gannon" /></div>		  <div>
+		<p class="bold">Jonathan Gannon</p>
+		<p>Defensive quality control; born April 4, 1983, Cleveland. Safety Louisville 2002-03. No pro playing experience. Pro coach: Joined Falcons in 2007.
+</p>
+	  </div>
+	</div>-->
+			</div>
+			<div style="clear:both"></div>
+		</div>
+		<br />
+		<img src="http://img.static.nfl.com/static/site/3.5/img/players/player-stats-wrapper-foot-bg-small.png" class="player-stats-footer"/>
+		
+
+	
+	
+		<div class="search-ads">
+			<script type="text/javascript">/*<![CDATA[*/
+
+var adsonar_placementId = parseInt("1488438", 10),
+    adsonar_pid         = parseInt("1956789", 10),
+    adsonar_ps          = parseInt("-1", 10),
+    adsonar_zw          = parseInt("650", 10),
+    adsonar_zh          = parseInt("200", 10),
+    adsonar_jv          = 'ads.adsonar.com';
+if ((typeof nfl === 'undefined') || nfl.constants.SEARCH_ADS) {
+	document.write('<sc'+'ript type="text/javascript" src="http://js.adsonar.com/js/adsonar.js"></sc'+'ript>');
+}
+			/*]]>*/</script>
+		</div>
+	
+
+
+	</div>
+	<div class="col last-span-5">
+		<!-- move this code into an include file -->
+		
+
+
+
+
+
+
+
+<div id="other-links" class="news-widget">
+	<h3 class="replaced">Other Links<span></span></h3>
+	<div class="widget-shading-short">
+		<ul class="story-links" id="headlines-story-links">
+			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+					<li><a href="/scores">Scoreboard</a></li>
+					<li><a href="/standings">Standings</a></li>
+					<li><a href="/stats/player">Stats</a></li>
+					<li><a href="/tickets?icampaign=Standings_Tickets">NFL Tickets Directory</a></li>
+					<li><a href="http://www.ticketexchangebyticketmaster.com/nfl?intcmp=tm103729&wt.mc_id=NFL_LEAGUE_STANDINGS_EX_LINK&extcmp=TE_Standings_buy">NFL Ticket Exchange</a></li>
+				
+			
+		</ul>
+	</div>
+</div>
+<!-- END PAGE rightrail/otherlinks -->
+
+		
+<div class="adcontainer" id="ad1312831595645rightrailsecond" style="width:300px;height:600px;">
+	
+	
+	<noscript>
+		<a href="http://ad.doubleclick.net/jump/nfl.teams/atl/coaches;s1=ATL;s2=coaches;slot=rightrailsecond;url=ATL_coaches;nfl=ad;!category=;kw=;conf=nfc;dvsn=ncs;team=atl;tile=#{tile};test=;sz=300x600" target="_blank">
+			<img class="adImg" src="http://ad.doubleclick.net/ad/nfl.teams/atl/coaches;s1=ATL;s2=coaches;slot=rightrailsecond;url=ATL_coaches;nfl=ad;!category=;kw=;conf=nfc;dvsn=ncs;team=atl;tile=#{tile};test=;sz=300x600" width="300" height="600" alt=""/>
+		</a>
+	</noscript>
+</div>
+<script type="text/javascript">
+
+nfl.ads.createAd("ad1312831595645rightrailsecond", 'nfl.teams/atl/coaches;s1=ATL;s2=coaches;slot=rightrailsecond;url=ATL_coaches;nfl=ad;!category=;kw=;conf=nfc;dvsn=ncs;team=atl;tile=#{tile};test=;sz=300x600', {
+	
+	
+	
+	
+	width: 300,
+	height: 600,
+	rotating: false,
+	slot: 'rightrailsecond',
+	transparent: false
+});
+</script>
+
+		<div style="height:10px;">&nbsp;</div>
+		
+
+	
+	
+		<div class="search-ads">
+			<script type="text/javascript">/*<![CDATA[*/
+
+var adsonar_placementId = parseInt("1488441", 10),
+    adsonar_pid         = parseInt("1956789", 10),
+    adsonar_ps          = parseInt("-1", 10),
+    adsonar_zw          = parseInt("300", 10),
+    adsonar_zh          = parseInt("250", 10),
+    adsonar_jv          = 'ads.adsonar.com';
+if ((typeof nfl === 'undefined') || nfl.constants.SEARCH_ADS) {
+	document.write('<sc'+'ript type="text/javascript" src="http://js.adsonar.com/js/adsonar.js"></sc'+'ript>');
+}
+			/*]]>*/</script>
+		</div>
+	
+
+
+		
+<div class="adcontainer" id="ad1312831595647inpage" style="width:300px;height:100px;">
+	
+	
+	<noscript>
+		<a href="http://ad.doubleclick.net/jump/nfl.teams/atl/coaches;s1=ATL;s2=coaches;slot=inpage;url=ATL_coaches;nfl=ad;!category=;kw=;conf=nfc;dvsn=ncs;team=atl;tile=#{tile};test=;sz=300x100" target="_blank">
+			<img class="adImg" src="http://ad.doubleclick.net/ad/nfl.teams/atl/coaches;s1=ATL;s2=coaches;slot=inpage;url=ATL_coaches;nfl=ad;!category=;kw=;conf=nfc;dvsn=ncs;team=atl;tile=#{tile};test=;sz=300x100" width="300" height="100" alt=""/>
+		</a>
+	</noscript>
+</div>
+<script type="text/javascript">
+
+nfl.ads.createAd("ad1312831595647inpage", 'nfl.teams/atl/coaches;s1=ATL;s2=coaches;slot=inpage;url=ATL_coaches;nfl=ad;!category=;kw=;conf=nfc;dvsn=ncs;team=atl;tile=#{tile};test=;sz=300x100', {
+	
+	
+	
+	
+	width: 300,
+	height: 100,
+	rotating: false,
+	slot: 'inpage',
+	transparent: false
+});
+</script>
+
+	</div>
+
+</div>
+				</div>
+				<div class="w"></div>
+				<div class="t"></div>
+			</div>
+			<!-- END DECORATOR 2010/default -->
+			</div>
+		</div>
+		
+		<div id="br">
+			<div id="ft-teams">
+				<div id="footer-logo">
+					<a href="http://www.nfl.com/"><img alt="NFL Logo" src="http://img.static.nfl.com/static/site/3.5/img/global/nfl-logo-footer-2010.png" />&nbsp;</a>
+				</div>
+				
+<ul>
+	<li><a href="http://nflrush.com/?campaign=NFL_footer" target="_blank">NFL Rush</a> | <a href="http://www.nflrush.com/play60">PLAY 60</a></li>
+	<li><a href="http://www.nflyouthpd.com/" target="_blank">NFL Youth Tackle</a></li>
+	<li><a href="http://www.usafootball.com" target="_blank">USA Football</a></li>
+	<li><a href="http://www.nfl.com/international">NFL International</a></li>
+	<li><a href="http://www.nflonlocation.net" target="_blank">NFL On Location</a></li>
+	<li><a href="http://www.nflextrapoints.com/">NFL Extra Points</a></li>
+	<li><a href="http://www.nfl.com/rulebook" target="_blank">Rulebook</a></li>
+	<li><a href="http://www.nfl.com/contact-us">Contact Us</a> | <a href="http://www.nfl.com/help/faq">FAQ</a> | <a href="http://www.nfl.com/news/author?id=09000d5d8142ac0e" target="_blank">PR</a></li>
+	<li>Jobs: <a href="http://www.nfl.apply2jobs.com/" target="_blank">League</a> | <a href="http://footballjobs.teamworkonline.com/teamwork/jobs/default.cfm" target="_blank">Team</a></li>
+	<li><a href="http://www.nflhealthandsafety.com/" target="_blank">NFLHealthandSafety.com</a></li>
+</ul>
+
+<ul>
+	<!--  li>NFL Corporate</li  -->
+	<li><a href="http://www.nflshop.com/entry.point?target=z&source=NFL_SHOP_TAB_BOTTOM_BANNER" target="_blank">NFL Shop</a></li>
+	<li><a href="http://www.ticketexchangebyticketmaster.com/NFL/default.aspx?intcmp=tm100454&wt.mc_id=NFL_LEAGUE_TE_FOOTER&extcmp=Footer_TX_EX" target="_blank">NFL Ticket Exchange</a></li>
+	<!-- <li><a href="http://women.nfl.com">NFL Women's Apparel</a></li> -->
+	<li><a href="http://www.nfl.com/static/content/catch_all/nfl_generic_content/media-kit-2010.pdf">Media</a> | <a href="http://www.nfl.biz">Licensing</a></li>
+	<li><a href="http://profootballhof.com" target="_blank">Profootballhof.com</a></li>
+	<li><a href="http://www.nfllabor.com" target="_blank">NFLLabor.com</a></li>
+	<li><a href="http://www.nfl.com/community" target="_blank">In The Community</a></li>
+	<!-- <li><a href="http://nflplayers.com" target="_blank">NFLPlayers.com</a></li> -->
+	<li><a href="https://www.nflplayercare.com/" target="_blank">NFL Player Care</a></li>
+	<li><a href="https://www.nflplayerengagement.com" target="_blank">Player Engagement</a></li>
+</ul>
+
+<div id="ft-teams-afc-mark-container">
+	<div id="ft-teams-afc-mark"></div>
+	<div class="ft-teams-parenthesis"></div>
+</div>
+<ul class="ft-teams-list">
+	<li><a href="http://www.buffalobills.com/" target="_blank">Bills</a></li>
+	<li><a href="http://www.miamidolphins.com/" target="_blank">Dolphins</a></li>
+	<li><a href="http://www.patriots.com/" target="_blank">Patriots</a></li>
+	<li><a href="http://www.newyorkjets.com/" target="_blank">Jets</a></li>
+</ul>
+<ul class="ft-teams-list">
+	<li><a href="http://www.baltimoreravens.com/" target="_blank">Ravens</a></li>
+	<li><a href="http://www.bengals.com/" target="_blank">Bengals</a></li>
+	<li><a href="http://www.clevelandbrowns.com/" target="_blank">Browns</a></li>
+	<li><a href="http://www.steelers.com/" target="_blank">Steelers</a></li>
+</ul>
+<ul class="ft-teams-list">
+	<li><a href="http://www.houstontexans.com/" target="_blank">Texans</a></li>
+	<li><a href="http://www.colts.com/" target="_blank">Colts</a></li>
+	<li><a href="http://www.jaguars.com/" target="_blank">Jaguars</a></li>
+	<li><a href="http://www.titansonline.com/" target="_blank">Titans</a></li>
+</ul>
+<ul class="ft-teams-list">
+	<li><a href="http://www.denverbroncos.com/" target="_blank">Broncos</a></li>
+	<li><a href="http://www.kcchiefs.com/" target="_blank">Chiefs</a></li>
+	<li><a href="http://www.raiders.com/" target="_blank">Raiders</a></li>
+	<li><a href="http://www.chargers.com/" target="_blank">Chargers</a></li>
+</ul>
+<div id="ft-teams-nfc-mark-container">
+	<div id="ft-teams-nfc-mark"></div>
+	<div class="ft-teams-parenthesis"></div>
+</div>
+<ul class="ft-teams-list">
+	<li><a href="http://www.dallascowboys.com/" target="_blank">Cowboys</a></li>
+	<li><a href="http://www.giants.com/" target="_blank">Giants</a></li>
+	<li><a href="http://www.philadelphiaeagles.com/" target="_blank">Eagles</a></li>
+	<li><a href="http://www.redskins.com/" target="_blank">Redskins</a></li>
+</ul>
+<ul class="ft-teams-list">
+	<li><a href="http://www.chicagobears.com/" target="_blank">Bears</a></li>
+	<li><a href="http://www.detroitlions.com/" target="_blank">Lions</a></li>
+	<li><a href="http://www.packers.com/" target="_blank">Packers</a></li>
+	<li><a href="http://www.vikings.com/" target="_blank">Vikings</a></li>
+</ul>
+<ul class="ft-teams-list">
+	<li><a href="http://www.atlantafalcons.com/" target="_blank">Falcons</a></li>
+	<li><a href="http://www.panthers.com/" target="_blank">Panthers</a></li>
+	<li><a href="http://www.neworleanssaints.com/" target="_blank">Saints</a></li>
+	<li><a href="http://www.buccaneers.com/" target="_blank">Buccaneers</a></li>
+</ul>
+<ul class="ft-teams-list">
+	<li><a href="http://www.azcardinals.com/" target="_blank">Cardinals</a></li>
+	<li><a href="http://www.stlouisrams.com/" target="_blank">Rams</a></li>
+	<li><a href="http://www.sf49ers.com/" target="_blank">49ers</a></li>
+	<li><a href="http://www.seahawks.com/" target="_blank">Seahawks</a></li>
+</ul>
+<script>nfl.bandages.IE6FooterFixes();</script>
+				
+<p class="copyright">
+			&copy; 2011 NFL Enterprises LLC. NFL and the NFL shield design are registered trademarks of the
+			National Football League.The team names, logos and uniform designs are registered trademarks of
+			the teams indicated. All other NFL-related trademarks are trademarks of the National Football
+			League. NFL	footage &copy; NFL Productions LLC. <a href="http://www.nfl.com/help/privacy" style="color:#b6061e;">PRIVACY POLICY</a> | <a href="http://www.nfl.com/help/terms" style="color:#b6061e;">Terms & Conditions</a>
+	</p>
+	<div id="slice" class="hslice" style=" display:none; ">
+		<div class="entry-title">NFL News</div>
+		<div class="entry-content">CONTENT</div>
+		<a rel="entry-content" href="http://www.nfl.com/ie/web-slice" style=" display:none; "></a>
+		<a rel="bookmark" target="_blank" href="http://www.nfl.com" style=" display:none; "></a>
+		<span class="ttl" style=" display:none; ">15</span>
+	</div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">/*<![CDATA[*/
+	nfl.use('node', 'nfl-header', 'nfl-omniture', function (Y) {
+		// Initialize Header
+		Y.local.header = new Y.NFL.Header({
+			ss: '#hdscorestripContainer',
+			ddn: '#ddn',
+			micro: '#hd-micro-nav-list',
+			search: '#hd-search',
+			fanteams: '#fantasy-dyn-box'
+		});
+		Y.local.omnitureTracker = new Y.NFL.OmnitureTracking({ autoTrack: true });
+		// Render shadows if necessary
+		if (! Modernizr.boxshadow) {
+			Y.all('div.shadowed').insert(
+				'<div class="s ' +
+				['tl', 't', 'tr', 'l', 'r', 'bl', 'b', 'br'].join('"></div><div class="s ') +
+				'"></div>',
+				0
+			);
+		}
+	});
+	/*]]>*/</script>
+	<!-- END DECORATOR 2010/global -->
+</body>
+</html>
+
