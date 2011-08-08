@@ -1,0 +1,3029 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[if lt IE 7 ]> <html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" class="ie ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" class="ie ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" class="ie ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" class="ie ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"> <!--<![endif]-->
+<head>
+	<title>NFL Players</title>
+	<!-- BEGIN DECORATOR 2010/global -->
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+	<meta name="viewport" content="width=1009" />
+	
+	<link rel="shortcut icon" href="http://img.static.nfl.com/static/site/3.5/img/favicon.png" type="image/png" />
+	<link rel="apple-touch-icon" href="http://img.static.nfl.com/static/site/3.5/img/apple/apple-touch-icon-57x57.png" />
+	<link rel="apple-touch-icon" sizes="72x72" href="http://img.static.nfl.com/static/site/3.5/img/apple/apple-touch-icon-72x72.png" />
+	<link rel="apple-touch-icon" sizes="114x114" href="http://img.static.nfl.com/static/site/3.5/img/apple/apple-touch-icon-114x114.png" />
+
+	<link rel="stylesheet" href="http://css.static.nfl.com/static/site/3.5/styles/redesign/global-2010.css" type="text/css" />
+	
+	<script src="http://scripts.static.nfl.com/static/site/3.5/scripts/third-party/prototype-scripty-swfobject-min.js" type="text/javascript"></script>
+	<script type="text/javascript" src="http://scripts.static.nfl.com/static/site/3.5/scripts/third-party/modernizr-1.7.min.js"></script>
+	
+	<!-- BEGIN INCLUDE global/nfl-constants -->
+	<script type="text/javascript" src="http://www.nfl.com/yui/3.3.0/build/yui/yui-min.js"></script>
+	<script type="text/javascript" src="http://www.nfl.com/widget/partner/constants"></script>
+	<script type="text/javascript" src="http://scripts.static.nfl.com/static/site/3.5/scripts/global/dependencies.js"></script>
+	<!-- END INCLUDE global/nfl-constants -->
+	
+
+	
+	<script src="http://scripts.static.nfl.com/static/site/3.5/scripts/redesign/nfl.global.js" type="text/javascript"></script>
+	<script type="text/javascript" src="http://scripts.static.nfl.com/static/site/3.5/scripts/analytics/s_code.js"></script>
+	<script type="text/javascript" src="http://scripts.static.nfl.com/static/site/3.5/scripts/analytics/s_code_common.js"></script>
+	<script src="http://connect.facebook.net/en_US/all.js" type="text/javascript"></script>
+	<!-- END DECORATOR 2010/global -->
+	<!-- BEGIN DECORATOR 2010/default -->
+			<!-- BEGIN PAGE player/playerfilteredresults -->
+	<meta name="prototypejs" content="true" />
+	<meta id = 'filter' content = 'A' />
+	<meta id = 'category' content = 'lastName' />
+	<meta id = 'conference' content = '' />
+	<meta id = 'searchResultsCount' content = '121' />
+	<meta id = 'conferenceAbbr' content = '' />
+	<meta id = 'teamAbbr' content = '' />
+	<meta id = 'playerType' content = 'current' />
+	<link rel="stylesheet" href="http://css.static.nfl.com/static/site/3.5/styles/redesign/deprecated.css" type="text/css" />
+	<link rel="stylesheet" href="http://css.static.nfl.com/static/site/3.5/styles/redesign/data-tables.css" type="text/css" />
+	<script src="http://scripts.static.nfl.com/static/site/3.5/scripts/player_search_results.js" type="text/javascript"></script>	
+	
+		
+			
+		
+		
+		
+	
+	<style>
+	.linkNavigation { letter-spacing: 1px; text-align: right;}
+	#searchResultsLargeTable strong { font-weight:bold;}
+	</style>
+	<!-- END PAGE player/playerfilteredresults -->
+			<!-- END DECORATOR 2010/default -->
+	
+	<!-- THE BROWSER PANEL INFO IS AT THE DECORATOR LEVEL 2010/global -->
+	
+
+
+
+
+	<!-- THE BROWSER PANEL INFO IS AT THE DECORATOR LEVEL 2010/global -->
+</head>
+<body id="com-nfl" class="">
+      <div id="fb-root"></div>
+      <script type="text/javascript">FB.init({appId: nfl.constants.FACEBOOK_APP_ID, status:true, cookie:true, xfbml:true});</script>
+      <!-- BEGIN DECORATOR 2010/global -->
+      
+            <div style="display:none">
+<script type="text/javascript">
+var loggingOff = true;
+var noOmnitureCall = false;
+//applyFireBugX();
+isPageTypeError();
+//moved all the functions into s_code_common.js until we can overhaul this atrocity
+
+/**
+* s_analytics.trackLinkClick will send a request to omniture indicating a minor level page event occurred
+* @param {String} _propNum is a number provided by Marketing.  ex, prop1, prop14, prop35, etc.
+* @param {String} _propValue is the value to place within the prop.  ex, Avatar, Friends_alerts, Message_Alerts, Global_Alerts, etc.
+* TO DO: update this function so it accepts multiple prop values.  
+*/
+s_analytics.trackLinkClick = function(_propNum, _propValue) {
+	var s_analytics = s_gi(s_account),
+	    propName    = 'prop' + _propNum;
+	s_analytics.linkTrackEvents = "";
+	s_analytics.linkTrackVars = "prop" + _propNum;
+	s_analytics[propName] = _propValue;
+	s_analytics.events = '';
+	s_analytics.tl(true, 'o', _propValue);
+	// should empty out the track properties after the call is made.  this is a directive from omniture.
+	s_analytics.linkTrackEvents = "";
+	s_analytics.linkTrackVars = "";
+}
+
+/* analytics_file: players_search.js */
+function initAnalytics() { 
+	
+	setChannel('players'); 
+		
+	var isProcessed = false; 
+	
+	var params = new Array(6); 
+	params[0] = (document.getElementById('filter')) ? document.getElementById('filter').content : ""; 
+	params[1] = (document.getElementById('category')) ? document.getElementById('category').content : ""; 
+	params[2] = (document.getElementById('conference')) ? document.getElementById('conference').content : ""; 
+	params[3] = (document.getElementById('searchResultsCount')) ? document.getElementById('searchResultsCount').content : ""; 
+	params[4] = (document.getElementById('conferenceAbbr')) ? document.getElementById('conferenceAbbr').content : ""; 
+	params[5] = (document.getElementById('teamAbbr')) ? document.getElementById('teamAbbr').content : ""; 
+	var playerType = (document.getElementById('playerType')) ? document.getElementById('playerType').content : ""; 
+	if(isVarEmpty(playerType)) 
+		playerType = 'current'; 
+	
+	params = lowerCase(params); 
+	
+	if(isVarEmpty(params[0]) && isProcessed == false) { 
+		setPageName('nfl:players:search:by' + params[1]); 
+		setContentSubSection('');
+		setHierarchy('nfl:players|' + playerType + '|playerfilter|by' + params[1]);  	
+		isProcessed = true;
+		isLog('test 1 passed'); 
+	}
+	
+	
+	if (isVarEmpty(params[2])) { 
+		
+		if(params[1] == 'name' && params[0].length > 1 && isProcessed == false) { 
+			
+			setPlayerSearchTerm(params[0]); 
+			setSearchResultsReturned(params[3]); 
+			
+			if(params[3] == '0') { 
+				setPageName('nfl:players:search:bysearchterm:no results');
+				setContentSubSection('');
+				setHierarchy('nfl:players|'+ playerType + '|playerfilter|bysearchterm');
+				isProcessed = true; 
+			} else { 
+				setPageName('nfl:players:search:bysearchterm:' + params[0]);
+				setContentSubSection('');
+				setHierarchy('nfl:players|' + playerType + '|playerfilter|bysearchterm');
+				isProcessed = true;
+			} 
+			
+		} 
+		
+		if(params[1] == 'name' && !(params[0].length > 1) && isProcessed == false) {
+			setPageName('nfl:players:search:by' + params[1] + ':' + params[0]); 
+			setContentSubSection(''); 
+			setHierarchy('nfl:players|' + playerType + '|playerfilter|by' + params[1]); 	
+			isProcessed = true; 
+				
+		} 
+		
+		if(params[1] == 'team' && isProcessed == false) { 
+			setPageName('nfl:players:search:by' + params[1] + ':' + params[5]);
+			setContentSubSection(''); 
+			setHierarchy('nfl:players|' + playerType + '|playerfilter|by' + params[1]); 
+			isProcessed = true; 
+		} 
+
+
+	}		
+		
+	if(isProcessed == false) { 
+		setPageName('nfl:players:search:by' + params[1] + ':' + params[0]); 
+		setContentSubSection(''); 
+		setHierarchy('nfl:players|' + playerType + '|playerfilter|by' + params[1]);
+		isProcessed = true; 
+		isLog(''); 
+	} 	
+
+}
+
+
+
+
+function applyFooter() {  
+	if (noOmnitureCall == true) return;
+	/******* ****** DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+	try { 
+		var s_code = s_analytics.t();
+		if (s_code) document.write(s_code);
+	} catch(e) { 
+		console.warn(e);
+	}
+}
+</script>
+</div>
+      
+      <div id="com-nfl-doc">
+            
+            <div id="hd" class="global">
+                  
+                  
+<!-- BEGIN ECM widgets/navigation/hd-micro-nav-list -->
+<div id="hd-micro-nav-list">
+	<ul class="left">
+		<!-- <li id="link-pink"><a style="color:#e22882" href="http://www.nfl.com/pink">Why Pink?</a></li> -->
+	<!--	<li id="link-ballot"><a href="http://www.nfl.com/probowl/ballot?icampaign=PB_topheader">Pro Bowl Ballot</a></li> -->
+		<li id="link-mobile"><a href="http://www.nfl.com/mobile">Mobile</a></li>
+		<li id="link-nflatino"><a href="http://nfl.univision.com/" target="_blank">En Español</a></li>
+	</ul>
+	<ul class="right">
+		<li id="link-fans">
+			<h3>
+				<a href="http://www.nfl.com/fans">Fans</a>
+			</h3>
+			<ul>
+				<li><a href="http://www.nfl.com/fans?icampaign=Nav_SM_Fans">Community Home</a></li>
+				<li><a href="http://www.nfl.com/fans/forums?icampaign=Nav_SM_Forums">Forums</a></li>
+				<li><a href="http://www.facebook.com/nfl" target="_blank">NFL on Facebook</a></li>
+				<li><a href="http://twitter.com/nfl" target="_blank">NFL on Twitter</a></li>				
+			</ul>
+		</li>
+		<li id="sign-in-links"></li>
+	</ul>
+</div>
+<!-- END ECM widgets/navigation/hd-micro-nav-list -->
+                  
+                  
+<!-- BEGIN INCLUDE teamlogos -->
+<div id="tl">
+	<h2>NFL Team Sites</h2>
+	<ul class="xoxo">
+		<li><h3><a class="AFC" href="/teams">AFC <span></span></a></h3>
+			<ul>
+				<li>
+					<h4>AFC-East</h4>
+					<ul>
+						<li><a class="BUF" target="_blank"  href="http://www.buffalobills.com/">Buffalo Bills <span></span></a></li>
+						<li><a class="MIA" target="_blank"  href="http://www.miamidolphins.com/">Miami Dolphins <span></span></a></li>
+						<li><a class="NE" target="_blank"  href="http://www.patriots.com/">New England Patriots <span></span></a></li>
+						<li><a class="NYJ" target="_blank"  href="http://www.newyorkjets.com/">New York Jets <span></span></a></li>
+					</ul>
+				</li>
+				<li>
+					<h4>AFC-North</h4>
+					<ul>
+						<li><a class="BAL" target="_blank"  href="http://www.baltimoreravens.com/">Baltimore Ravens <span></span></a></li>
+						<li><a class="CIN" target="_blank"  href="http://www.bengals.com/">Cincinnati Bengals <span></span></a></li>
+						<li><a class="CLE" target="_blank"  href="http://www.clevelandbrowns.com/">Cleveland Browns <span></span></a></li>
+						<li><a class="PIT" target="_blank"  href="http://www.steelers.com/">Pittsburgh Steelers <span></span></a></li>
+					</ul>
+				</li>
+				<li>
+					<h4>AFC-South</h4>
+					<ul>
+						<li><a class="HOU" target="_blank"  href="http://www.houstontexans.com/">Houston Texans <span></span></a></li>
+						<li><a class="IND" target="_blank"  href="http://www.colts.com/">Indianapolis Colts <span></span></a></li>
+						<li><a class="JAC" target="_blank"  href="http://www.jaguars.com/">Jacksonville Jaguars <span></span></a></li>
+						<li><a class="TEN" target="_blank"  href="http://www.titansonline.com/">Tennessee Titans <span></span></a></li>
+					</ul>
+				</li>
+				<li>
+					<h4>AFC-West</h4>
+					<ul>
+						<li><a class="DEN" target="_blank"  href="http://www.denverbroncos.com/">Denver Broncos <span></span></a></li>
+						<li><a class="KC" target="_blank"  href="http://www.kcchiefs.com/">Kansas City Chiefs <span></span></a></li>
+						<li><a class="OAK" target="_blank"  href="http://www.raiders.com/">Oakland Raiders <span></span></a></li>
+						<li><a class="SD" target="_blank"  href="http://www.chargers.com/">San Diego Chargers <span></span></a></li>
+					</ul>
+				</li>
+			</ul>
+		</li>
+		<li><h3><a class="NFC"  href="/teams">NFC <span></span></a></h3>
+			<ul>
+				<li>
+					<h4>NFC-East</h4>
+					<ul>
+						<li><a class="DAL" target="_blank"  href="http://www.dallascowboys.com/">Dallas Cowboys <span></span></a></li>
+						<li><a class="NYG" target="_blank"  href="http://www.giants.com/">New York Giants <span></span></a></li>
+						<li><a class="PHI" target="_blank"  href="http://www.philadelphiaeagles.com/">Philadelphia Eagles <span></span></a></li>
+						<li><a class="WAS" target="_blank"  href="http://www.redskins.com/">Washington Redskins <span></span></a></li>
+					</ul>
+				</li>
+				<li>
+					<h4>NFC-North</h4>
+					<ul>
+						<li><a class="CHI" target="_blank"  href="http://www.chicagobears.com/">Chicago Bears <span></span></a></li>
+						<li><a class="DET" target="_blank"  href="http://www.detroitlions.com/">Detroit Lions <span></span></a></li>
+						<li><a class="GB" target="_blank"  href="http://www.packers.com/">Green Bay Packers <span></span></a></li>
+						<li><a class="MIN" target="_blank"  href="http://www.vikings.com/">Minnesota Vikings <span></span></a></li>
+					</ul>
+				</li>
+				<li>
+					<h4>NFC-Souch</h4>
+					<ul>
+						<li><a class="ATL" target="_blank"  href="http://www.atlantafalcons.com/">Atlanta Falcons <span></span></a></li>
+						<li><a class="CAR" target="_blank"  href="http://www.panthers.com/">Carolina Panthers <span></span></a></li>
+						<li><a class="NO" target="_blank"  href="http://www.neworleanssaints.com/">New Orleans Saints <span></span></a></li>
+						<li><a class="TB" target="_blank"  href="http://www.buccaneers.com/">Tampa Bay Buccaneers <span></span></a></li>
+					</ul>
+				</li>
+				<li>
+					<h4>NFC-West</h4>
+					<ul>
+						<li><a class="ARI" target="_blank"  href="http://www.azcardinals.com/">Arizona Cardinals <span></span></a></li>
+						<li><a class="STL" target="_blank"  href="http://www.stlouisrams.com/">St. Louis Rams <span></span></a></li>
+						<li><a class="SF" target="_blank"  href="http://www.sf49ers.com/">San Francisco 49'ers <span></span></a></li>
+						<li><a class="SEA" target="_blank"  href="http://www.seahawks.com/">Seattle Seahawks <span></span></a></li>
+					</ul>
+				</li>
+			</ul>
+		</li>
+	</ul>
+</div>
+<!-- END INCLUDE teamlogos -->
+
+                  <div id="header-content">
+                        
+                        <form class="yui3-searchbox-loading" id="hd-search" action="http://search.nfl.com/search" method="get">
+                              <div>
+                                    <label id="hd-search-label" for="hd-search-input">Search NFL.com</label>
+                                    <input type="text" name="query" id="hd-search-input" maxlength="50" />
+                                    <button type="submit">
+                                          <img alt="search" src="http://img.static.nfl.com/static/site/3.5/img/home-2010/search.png" />
+                                    </button>
+                              </div>
+                        </form>
+                        
+                        <div id="header-logo">
+                              <a href="http://www.nfl.com/"><img alt="NFL Logo link to home page" src="http://img.static.nfl.com/static/site/3.5/img/global/alt/large-logo.png" /></a>
+                        </div>
+                        
+                        <div class="yui3-ddn-loading" id="ddn">
+                              
+<!-- BEGIN INCLUDE navigation/default-alt -->
+
+
+<div id="alt-nv-main">
+	<ul class="alt-nv-groups">
+		<li id="alt-nv-group-news" class="alt-nv-group">
+			<h3><a href="http://www.nfl.com/news" onclick="s_objectID='Nav_News_Main'">News</a></h3>
+			<div class="channel-content">
+				<div class="alt-nv-content-wrapper">
+					<div class="video-nv-content bottom alt-nv-main-watermark-text">News</div>
+					<div class="channels">
+						<ul>
+							<li><a href="http://blogs.nfl.com/" onclick="s_objectID='Nav_News_Blogs'">Blogs</a></li>
+						<!--	<li><a href="http://blogblitz.nfl.com/" onclick="s_objectID='Nav_News_Blog_Blitz'">Blog Blitz</a></li> -->
+							<li><a href="http://www.nfl.com/injuries" onclick="s_objectID='Nav_News_Injuries'">Injuries</a></li>
+							<li><a href="http://www.nfl.com/transactions" onclick="s_objectID='Nav_News_Transactions'">Transactions</a></li>
+							<li><a href="http://www.nfl.com/photos" onclick="s_objectID='Nav_News_Photos'">Photos</a></li>
+						</ul>
+						<ul>
+							<li class="subChoiceMarker"><h4>Events:</h4></li>
+							<li><a href="http://www.nfl.com/superbowl/46" onclick="s_objectID='Nav_Events_Super_Bowl'">Super Bowl</a></li>
+							<li><a href="http://www.nfl.com/probowl" onclick="s_objectID='Nav_Events_Pro_Bowl'">Pro Bowl</a></li>
+							<li><a href="http://www.nfl.com/combine" onclick="s_objectID='Nav_Events_Combine'">Combine</a></li>
+						</ul>
+						<ul>
+							<li><a href="http://www.nfl.com/draft/2012" onclick="s_objectID='Nav_Events_Draft'">Draft</a></li>
+							<li><a href="http://www.nfl.com/trainingcamp" onclick="s_objectID='Nav_Events_Training_Camp'">Training Camp</a></li>
+							<li><a href="http://www.profootballhof.com/" onclick="s_objectID='Nav_Events_Hall_of_Fame'"target="_blank">Hall of Fame</a></li>
+							<li><a href="http://www.nfl.com/freeagency" onclick="s_objectID='Nav_Events_Free_Agency'">Free Agency</a></li>
+						</ul>
+						<ul>
+							<li><a href="http://www.nfl.com/kickoff" onclick="s_objectID='Nav_Events_Kickoff'">Kickoff</a></li>
+							<li><a href="http://www.nfl.com/international" onclick="s_objectID='Nav_Events_International'">International</a></li>
+							<li><a href="http://www.nfl.com/thanksgiving" onclick="s_objectID='Nav_Events_Thanksgiving'">Thanksgiving</a></li>
+							<li><a href="http://www.nfl.com/seniorbowl" onclick="s_objectID='Nav_Events_Senior_Bowl'">Senior Bowl</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</li>
+		<li id="alt-nv-group-videos" class="alt-nv-group">
+			<h3><a href="http://www.nfl.com/videos" onclick="s_objectID='Nav_Videos_Main'">Video</a></h3>
+			<div class="channel-content">
+				<div class="alt-nv-content-wrapper">
+					<div class="video-nv-content bottom alt-nv-main-watermark-text">Video</div>
+					<div class="channels">
+						<ul>
+							<li><a href="http://www.nfl.com/videos/nfl-game-highlights" onclick="s_objectID='Nav_Videos_Highlights'">Highlights</a></li>
+							<li><a href="http://www.nfl.com/videos/nfl-videos" onclick="s_objectID='Nav_Videos_All_Videos'">All Videos</a></li>
+							<li><a href="http://www.nfl.com/live" onclick="s_objectID='Nav_Videos_Live'">NFL.com/Live</a></li>
+						</ul>
+						<ul>
+							<li><a href="http://www.nfl.com/preseasonlive" onclick="s_objectID='Nav_Videos_PreseasonLive'">Preseason Live</a></li>
+							<li><a href="http://www.nfl.com/gamepass" onclick="s_objectID='Nav_NFL_Anytime_Game_Pass'">Game Pass</a></li>
+							<li><a href="http://www.nfl.com/gamerewind" onclick="s_objectID='Nav_NFL_Anytime_Game_Rewind'">Game Rewind</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</li>
+		<li id="alt-nv-group-teams" class="alt-nv-group">
+			<h3><a href="http://www.nfl.com/teams" onclick="s_objectID='Nav_Teams_Main'">Teams</a></h3>
+			<div class="channel-content">
+				<div class="alt-nv-content-wrapper">
+					<div class="video-nv-content bottom alt-nv-main-watermark-text">Teams</div>
+					<div class="channels">
+						<ul>
+							<li><a href="http://www.nfl.com/teams/arizonacardinals/profile?team=ARI" onclick="s_objectID='Nav_Teams_ARI'">Arizona Cardinals</a></li>
+							<li><a href="http://www.nfl.com/teams/atlantafalcons/profile?team=ATL" onclick="s_objectID='Nav_Teams_ATL'">Atlanta Falcons</a></li>							
+							<li><a href="http://www.nfl.com/teams/baltimoreravens/profile?team=BAL" onclick="s_objectID='Nav_Teams_BAL'">Baltimore Ravens</a></li>
+							<li><a href="http://www.nfl.com/teams/buffalobills/profile?team=BUF" onclick="s_objectID='Nav_Teams_BUF'">Buffalo Bills</a></li>
+							<li><a href="http://www.nfl.com/teams/carolinapanthers/profile?team=CAR" onclick="s_objectID='Nav_Teams_CAR'">Carolina Panthers</a></li>
+							<li><a href="http://www.nfl.com/teams/chicagobears/profile?team=CHI" onclick="s_objectID='Nav_Teams_CHI'">Chicago Bears</a></li>
+							<li><a href="http://www.nfl.com/teams/cincinnatibengals/profile?team=CIN" onclick="s_objectID='Nav_Teams_CIN'">Cincinnati Bengals</a></li>
+							<li><a href="http://www.nfl.com/teams/clevelandbrowns/profile?team=CLE" onclick="s_objectID='Nav_Teams_CLE'">Cleveland Browns</a></li>
+							<li><a href="http://www.nfl.com/teams/dallascowboys/profile?team=DAL" onclick="s_objectID='Nav_Teams_DAL'">Dallas Cowboys</a></li>
+							<li><a href="http://www.nfl.com/teams/denverbroncos/profile?team=DEN" onclick="s_objectID='Nav_Teams_DEN'">Denver Broncos</a></li>
+							<li><a href="http://www.nfl.com/teams/detroitlions/profile?team=DET" onclick="s_objectID='Nav_Teams_DET'">Detroit Lions</a></li>
+						</ul>
+						<ul>
+							<li><a href="http://www.nfl.com/teams/greenbaypackers/profile?team=GB" onclick="s_objectID='Nav_Teams_GB'">Green Bay Packers</a></li>
+							<li><a href="http://www.nfl.com/teams/houstontexans/profile?team=HOU" onclick="s_objectID='Nav_Teams_HOU'">Houston Texans</a></li>
+							<li><a href="http://www.nfl.com/teams/indianapoliscolts/profile?team=IND" onclick="s_objectID='Nav_Teams_IND'">Indianapolis Colts</a></li>
+							<li><a href="http://www.nfl.com/teams/jacksonvillejaguars/profile?team=JAC" onclick="s_objectID='Nav_Teams_JAC'">Jacksonville Jaguars</a></li>
+				 			<li><a href="http://www.nfl.com/teams/kansascitychiefs/profile?team=KC" onclick="s_objectID='Nav_Teams_KC'">Kansas City Chiefs</a></li>
+				 			<li><a href="http://www.nfl.com/teams/miamidolphins/profile?team=MIA" onclick="s_objectID='Nav_Teams_MIA'">Miami Dolphins</a></li>
+							<li><a href="http://www.nfl.com/teams/minnesotavikings/profile?team=MIN" onclick="s_objectID='Nav_Teams_MIN'">Minnesota Vikings</a></li>
+							<li><a href="http://www.nfl.com/teams/newenglandpatriots/profile?team=NE" onclick="s_objectID='Nav_Teams_NE'">New England Patriots</a></li>
+							<li><a href="http://www.nfl.com/teams/neworleanssaints/profile?team=NO" onclick="s_objectID='Nav_Teams_NO'">New Orleans Saints</a></li>
+							<li><a href="http://www.nfl.com/teams/newyorkgiants/profile?team=NYG" onclick="s_objectID='Nav_Teams_NYG'">New York Giants</a></li>
+							<li><a href="http://www.nfl.com/teams/newyorkjets/profile?team=NYJ" onclick="s_objectID='Nav_Teams_NYJ'">New York Jets</a></li>
+						</ul>
+						<ul>
+							<li><a href="http://www.nfl.com/teams/oaklandraiders/profile?team=OAK" onclick="s_objectID='Nav_Teams_OAK'">Oakland Raiders</a></li>
+							<li><a href="http://www.nfl.com/teams/philadelphiaeagles/profile?team=PHI" onclick="s_objectID='Nav_Teams_PHI'">Philadelphia Eagles</a></li>
+							<li><a href="http://www.nfl.com/teams/pittsburghsteelers/profile?team=PIT" onclick="s_objectID='Nav_Teams_PIT'">Pittsburgh Steelers</a></li>
+				 			<li><a href="http://www.nfl.com/teams/sandiegochargers/profile?team=SD" onclick="s_objectID='Nav_Teams_SD'">San Diego Chargers</a></li>
+							<li><a href="http://www.nfl.com/teams/sanfrancisco49ers/profile?team=SF" onclick="s_objectID='Nav_Teams_SF'">San Francisco 49ers</a></li>
+							<li><a href="http://www.nfl.com/teams/seattleseahawks/profile?team=SEA" onclick="s_objectID='Nav_Teams_SEA'">Seattle Seahawks</a></li>
+							<li><a href="http://www.nfl.com/teams/st.louisrams/profile?team=STL" onclick="s_objectID='Nav_Teams_STL'">St. Louis Rams</a></li>
+							<li><a href="http://www.nfl.com/teams/tampabaybuccaneers/profile?team=TB" onclick="s_objectID='Nav_Teams_TB'">Tampa Bay Buccaneers</a></li>
+							<li><a href="http://www.nfl.com/teams/tennesseetitans/profile?team=TEN" onclick="s_objectID='Nav_Teams_TEN'">Tennessee Titans</a></li>
+							<li><a href="http://www.nfl.com/teams/washingtonredskins/profile?team=WAS" onclick="s_objectID='Nav_Teams_WAS'">Washington Redskins</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</li>
+		<li id="alt-nv-group-players" class="alt-nv-group">
+			<h3><a href="http://www.nfl.com/players" onclick="s_objectID='Nav_Players_Main'">Players</a></h3>
+	 		<div class="channel-content">
+	 			<div class="alt-nv-content-wrapper">
+					<div class="video-nv-content bottom alt-nv-main-watermark-text">Players</div>
+	 				<div class="channels">
+						<ul>
+				 			<li><a href="http://www.nfl.com/players/search?category=name&amp;playerType=current" onclick="s_objectID='Nav_Players_By_Name'">By Name</a></li>
+							<li><a href="http://www.nfl.com/players/search?category=position&amp;playerType=current" onclick="s_objectID='Nav_Players_By_Position'">By Position</a></li>
+						</ul>
+						<ul>
+							<li><a href="http://www.nfl.com/players/search?category=team&amp;playerType=current" onclick="s_objectID='Nav_Players_By_Team_Roster'">By Team Roster</a></li>
+							<li><a href="http://www.nfl.com/players/search?playerType=historical" onclick="s_objectID='Nav_Players_Historical_Players'">Historical Players</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</li>
+		<li id="alt-nv-group-scores" class="alt-nv-group"><h3><a href="http://www.nfl.com/scores/2011/REG1" onclick="s_objectID='Nav_Scores_Main'">Scores</a></h3></li>
+		<li id="alt-nv-group-schedules" class="alt-nv-group">
+			<!-- <h3><a href="http://www.nfl.com/schedules?seasonType=POST#Week" onclick="s_objectID='Nav_Schedules_Main'">Schedules</a></h3> -->
+			<h3><a href="http://www.nfl.com/schedules" onclick="s_objectID='Nav_Schedules_Main'">Schedules</a></h3>
+	 		<div class="channel-content">
+	 			<div class="alt-nv-content-wrapper">
+					<div class="video-nv-content bottom alt-nv-main-watermark-text">Schedules</div>
+	 				<div class="channels">
+						<ul>
+							<li><a href="http://www.nfl.com/schedules?seasonType=PRE#Week" onclick="s_objectID='Nav_Schedules_Preseason'">Preseason</a></li> 
+							<li><a href="http://www.nfl.com/schedules?seasonType=REG#Week" onclick="s_objectID='Nav_Schedules_Regular_Season'">Regular Season</a></li>
+							<!-- <li><a href="http://www.nfl.com/goto?id=09000d5d81f36ce3" onclick="s_objectID='Nav_Schedules_Preseason'">Preseason</a></li> -->
+							<!-- <li><a href="http://www.nfl.com/schedules" onclick="s_objectID='Nav_Schedules_Regular_Season'">Regular Season</a></li> -->
+						</ul>
+						<ul>
+							<li><a href="http://www.nfl.com/schedules?seasonType=POST#Week" onclick="s_objectID='Nav_Schedules_Postseason'">Postseason</a></li>
+							<li><a href="http://www.nfl.com/schedules/interactive" onclick="s_objectID='Nav_Schedules_Interactive_Schedule'">Interactive Schedules</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</li>
+
+		<li id="alt-nv-group-stats" class="alt-nv-group">
+			<h3><a href="http://www.nfl.com/stats/player" onclick="s_objectID='Nav_Stats_Main'">Stats</a></h3>
+	 		<div class="channel-content">
+	 			<div class="alt-nv-content-wrapper">
+					<div class="video-nv-content bottom alt-nv-main-watermark-text">Stats</div>
+	 				<div class="channels">
+						<ul>
+							<li><a href="http://www.nfl.com/stats/player" onclick="s_objectID='Nav_Stats_Player_Stats'">Player Stats</a></li>
+							<li><a href="http://www.nfl.com/stats/team" onclick="s_objectID='Nav_Stats_Team_Stats'">Team Stats</a></li>
+							<li><a href="http://www.nfl.com/stats/categorystats?archive=false&role=TM&offensiveStatisticCategory=OFFENSIVE_LINE&tabSeq=2&qualified=true" onclick="s_objectID='Nav_Offensive_Line_Stats'">Offensive Line Stats</a></li>
+						</ul>
+						<ul>
+							<li><a href="http://www.nfl.com/stats/categorystats?archive=false&amp;conference=null&amp;statisticCategory=PASSING&amp;seasonString=null&amp;experience=0&amp;tabSeq=0&amp;Submit=Fin" onclick="s_objectID='Nav_Stats_Rookie_Stats'">Rookie Stats</a></li>
+							<li><a href="http://www.nfl.com/stats/weeklyleaders" onclick="s_objectID='Nav_Stats_Weekly_Leaders'">Weekly Leaders</a></li>
+							<li><a href="http://www.nfl.com/history" onclick="s_objectID='Nav_Stats_Historical_Stats'">Historical Stats</a></li>
+						</ul>
+						<ul>
+							<li><a href="http://www.nfl.com/stats/topperformers" onclick="s_objectID='Nav_Stats_Top_Performers'">Top Performers</a></li>
+							<li><a href="http://www.nfl.com/stats/headtohead" onclick="s_objectID='Nav_Stats_Player_Matchups'">Player Matchups</a></li>
+							<li><a href="http://www.nfl.com/stats/milestone?icampaign=milestone_Nav" onclick="s_objectID='Nav_Stats_Milestone_Tracker'">Milestone Tracker</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</li>
+		<li id="alt-nv-group-standings" class="alt-nv-group">
+			<h3><a href="http://www.nfl.com/standings" onclick="s_objectID='Nav_Standings_Main'">Standings</a></h3>
+	 		<div class="channel-content">
+	 			<div class="alt-nv-content-wrapper">
+					<div class="video-nv-content bottom alt-nv-main-watermark-text">Standings</div>
+	 				<div class="channels">
+						<ul>
+							<li><a href="http://www.nfl.com/standings" onclick="s_objectID='Nav_Standings_By_Division'">By Division</a></li>
+							<li><a href="http://www.nfl.com/standings?category=conf" onclick="s_objectID='Nav_Standings_By_Conference'">By Conference</a></li>
+						</ul>
+						<ul>
+							<li><a href="http://www.nfl.com/standings?category=league" onclick="s_objectID='Nav_Standings_By_League'">By League</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</li>
+		<li id="alt-nv-group-fantasy" class="alt-nv-group">
+			<h3><a href="http://www.nfl.com/fantasy" onclick="s_objectID='Nav_Fantasy_Main'">Fantasy</a></h3>
+	 		<div class="channel-content">
+	 			<div class="alt-nv-content-wrapper">
+					<div class="video-nv-content bottom alt-nv-main-watermark-text">Fantasy</div>
+					<div id="fantasy-promo-wrapper" style="height: 250px; overflow: hidden; width: 375px; position: absolute; right: 430px; bottom: 16px;">
+</div>
+					<div id="fantasy-dyn-box-wrapper">
+						<div class="head"><h2><img src="http://img.static.nfl.com/static/site/3.5/img/fantasy/header-title-my-fantasy.png" width="178" height="14" alt="My Fantasy Teams"/>&nbsp;</h2><span><a href="http://fantasy.nfl.com">Fantasy Football 2011</a></span></div>
+						<div id="fantasy-dyn-box" class="body">
+							<div class="nv-fantasy-signed-out">
+<a href="https://id2.s.nfl.com/fans/login?returnTo=/fantasy">Sign in</a> to access your fantasy teams.</div>
+							<div class="nv-fantasy-signed-in-no-teams">
+								<span class="userlink">(<a data-href="http://www.nfl.com/fans/profile/#{user.username}">#{user.username}</a>)</span>
+								<span class="msg-italic">
+You have no teams.<br><p style="height: 7px;"></p>
+<a href="http://fantasy.nfl.com?icampaign=Fantasy_teams_sign_up">Sign up now!</a></span>
+								<div class="get-started">
+									<span class="msg-bold">Resources</span>
+									
+<ul>
+	<li><a href="http://fantasy.nfl.com?icampaign=Fantasy_teams_sign_up">Create a League &#187;</a></li>	
+	<li><a href="http://fantasy.nfl.com/registration/leagueDirectory">Join a League &#187;</a></li>
+	<li><a href="http://fantasy.nfl.com/myleagues">Activate a League &#187;</a></li>
+	<li><a href="http://fantasy.nfl.com/draftcenter/mockdrafts">Join a Mock Draft &#187;</a></li>
+</ul>
+								</div>
+							</div>
+							<div class="nv-fantasy-signed-in-teams">
+								<span class="userlink">(<a data-href="http://www.nfl.com/fans/profile/#{user.username}">#{user.username}</a>)</span>
+								<div class="body">
+									<div class="team-node #{leagues.league1.leagueType}">
+										<span class="team-node-number">(#{leagues.league1.index}/#{leagues.total})</span>
+										<span class="team-node-name">#{leagues.league1.teamLink}</span>
+										<span class="team-node-league-frag">in: </span><span class="team-node-league">#{leagues.league1.leagueLink}</span>
+									</div>
+									<div class="team-node #{leagues.league2.leagueType}">
+										<span class="team-node-number">(#{leagues.league2.index}/#{leagues.total})</span>
+										<span class="team-node-name">#{leagues.league2.teamLink}</span>
+										<span class="team-node-league-frag">in: </span><span class="team-node-league">#{leagues.league2.leagueLink}</span>
+									</div>
+									<div class="team-node #{leagues.league3.leagueType}">
+										<span class="team-node-number">(#{leagues.league3.index}/#{leagues.total})</span>
+										<span class="team-node-name">#{leagues.league3.teamLink}</span>
+										<span class="team-node-league-frag">in: </span><span class="team-node-league">#{leagues.league3.leagueLink}</span>
+									</div>
+								</div>
+								<div class="foot"><a href="http://fantasy.nfl.com">More Teams</a></div>
+							</div>
+						</div>
+					</div>
+	 				<div class="channels">
+						<ul>
+							<li><a href="http://www.nfl.com/fantasy" onclick="s_objectID='Nav_Fantasy_Home'">Home</a></li>
+							<li><a href="http://fantasy.nfl.com?icampaign=Nav_Fantasy_sign_up" onclick="s_objectID='Nav_Fantasy_Fantasy_Football_2011'">Fantasy '11</a></li>
+							<li><a href="http://www.nfl.com/fantasy/playernews?newsIndex=1&amp;pageIndex=1" onclick="s_objectID='Nav_Fantasy_Player_News'">Player News</a></li>
+							<li><a href="http://www.nfl.com/fantasy/rankings" onclick="s_objectID='Nav_Fantasy_Player_Rankings'">Rankings</a></li>
+							<li><a href="http://www.nfl.com/fantasy/draftkit" onclick="s_objectID='Nav_Fantasy_Draft_Kit'">Draft Kit</a></li>
+							<li><a href="http://www.nfl.com/fantasy/blog" onclick="s_objectID='Nav_Fantasy_Blog'">Blog</a></li>
+							<li><a href="http://www.nfl.com/videos/nfl-fantasy" onclick="s_objectID='Nav_Fantasy_Video'">Video</a></li>
+							<li><a href="http://quickhit.com/?rid=nfl&utm_source=nfl&utm_medium=topnav&utm_campaign=nfl_topnav" onclick="s_objectID='Nav_Fantasy_Quickhit'" target="_blank">QUICKHIT</a></li>
+							<li><a href="http://www.nfl.com/fans/forums" onclick="s_objectID='Nav_Fantasy_Forums'">Forums</a></li>							
+							<li><a href="http://www.nfl.com/fantasy/help" onclick="s_objectID='Nav_Fantasy_Help'">Help</a></li>
+							
+							
+						</ul>	
+					</div>
+				</div>
+			</div>
+		</li>
+		<li id="alt-nv-group-nfl-network" class="alt-nv-group">
+			<h3><a href="http://www.nfl.com/nflnetwork" onclick="s_objectID='Nav_NFLN_Main'">NFL Network</a></h3>
+	 		<div class="channel-content">
+	 			<div class="alt-nv-content-wrapper">
+
+	 				<div class="channels">
+						<div style="width:0px;height:83px;float:left;display:inline"></div>
+						<ul>
+							<li><a href="/nflnetwork" onclick="s_objectID='Nav_NFLN_Main_submenu'">NFL Network</a></li>
+							<li><a href="http://www.nfl.com/nflnetwork/networkschedule" onclick="s_objectID='Nav_NFLN_NFL_Network_Schedule'">Schedules</a></li>
+							<li><a href="http://www.nfl.com/videos" onclick="s_objectID='Nav_NFLN_Video'">Video</a></li>
+							<li><a href="http://www.nfl.com/redzonetv" onclick="s_objectID='Nav_NFLN_NFL_RedZone'">NFL RedZone</a></li>
+							<li><a href="http://www.keepgyminschool.com/" onclick="s_objectID='Keep_Gym_In_School'">Keep Gym in School</a></li>
+						</ul>
+						<ul>
+							<li><a href="http://www.nfl.com/videos/nfl-network-total-access" onclick="s_objectID='Total_Access'">Total Access</a></li>
+							<li><a href="http://www.nfl.com/videos/nfl-network-gameday" onclick="s_objectID='GameDay'">GameDay</a></li>
+							<li><a href="http://www.nfl.com/videos/nfl-network-around-the-league" onclick="s_objectID='Around_The_League'">Around the League</a></li>
+							<li><a href="http://www.nfl.com/videos/nfl-films-sound-efx" onclick="s_objectID='Sound_Fx'">Sound FX</a></li>
+							<li><a href="http://www.nfl.com/videos/nfl-network-the-coaches" onclick="s_objectID='The_Coaches'">The Coaches</a></li>
+						</ul>
+						<ul>
+							<li><a href="http://www.nfl.com/top100" onclick="s_objectID='Top100'">Top 100</a></li>
+							<li><a href="http://www.nfl.com/videos/nfl-network-playbook" onclick="s_objectID='Playbook'">Playbook</a></li>
+							<li><a href="http://www.nfl.com/nflnetwork/onairtalent" onclick="s_objectID='Onairtalent'">On Air Talent</a></li>
+							<li><a href="https://network.nfl.com/nfln/secure/registerform" onclick="s_objectID='NFLNO'">Watch Online</a></li>
+							<!--<li><a href="http://iwantnflnetwork.com/" onclick="s_objectID='I_Want_NFL_Network'">I Want NFL Network</a></li>-->
+							<!--<li><a href="http://www.nfl.com/nflnetwork/games" onclick="s_objectID='Nav_NFLN_Games_on_NFL_Network'">Games on NFL Network</a></li>
+							<li><a href="http://www.nfl.com/nflnetwork/shows" onclick="s_objectID='Nav_NFLN_Shows'">Shows</a></li>-->
+						</ul>
+						
+					</div>
+<!--Commented out Redzone per Product and added DIV with same class before div.channels.  Make sure you remove that div if you add this back.
+					 <div class="video-nv-content bottom">
+						<a href="http://www.iwantnflnetwork.com" onclick="s_objectID='Nav_NFL_Network_Promtion_Unit'"><img style="margin: 0 10px 10px" alt="" src="http://static.nfl.com/static/content/catch_all/nfl_image/iwantnflnetwork2.jpg"/></a>
+					</div>
+
+					<div class="video-nv-content bottom alt-nv-main-watermark-text">
+						<a href="http://www.iwantnflnetwork.com" onclick="s_objectID='Nav_NFL_Network_Promtion_Unit'"><img style="margin: 0 10px 10px" alt="" src="http://static.nfl.com/static/content/catch_all/nfl_image/iwantnflnetwork2.jpg"/></a>
+					</div> -->
+				</div>
+			</div>
+		</li>
+		<li id="alt-nv-group-game-access" class="alt-nv-group">
+			<h3><a href="http://subscriptions.nfl.com/nflsubs/" onclick="s_objectID='Nav_NFL_Game_Access'">Game Pass</a></h3>
+	 		<div class="channel-content">
+	 			<div class="alt-nv-content-wrapper">
+					<div class="video-nv-content bottom alt-nv-main-watermark-text">Game Pass</div>
+	 				<div class="channels">
+						<ul>
+							<li class="subChoiceMarker"><h4>Online:</h4></li>
+							<!--<li><a href="https://gamerewind.nfl.com/nflgr/secure/gameaccess" onclick="s_objectID='Nav_NFL_Anytime_Game_Access'">Game Access</a></li>-->
+							<li><a href="http://www.nfl.com/preseasonlive" onclick="s_objectID='Nav_NFL_Anytime_Audio_Pass'">Preseason Live</a></li>
+							<li><a href="http://www.nfl.com/gamepass" onclick="s_objectID='Nav_NFL_Anytime_Game_Pass'">Game Pass</a></li>
+							<li><a href="http://www.nfl.com/gamerewind" onclick="s_objectID='Nav_NFL_Anytime_Game_Rewind'">Game Rewind</a></li>
+							<li><a href="http://www.nfl.com/audiopass" onclick="s_objectID='Nav_NFL_Anytime_Audio_Pass'">Audio Pass</a></li>
+							<li><a href="https://network.nfl.com/nfln/secure/registerform" onclick="s_objectID='Nav_NFL_Anytime_NFLNO'">NFL Network Online</a></li>
+							<li><a href="http://www.nfl.com/downloads" onclick="s_objectID='Nav_NFL_Anytime_Downloads'">Downloads</a></li>							
+						</ul>
+						<ul>
+							<li class="subChoiceMarker"><h4>Mobile:</h4></li>
+							<!--<li><a href="http://www.nfl.com/mobile" onclick="s_objectID='Nav_NFL_Anytime_NFL_Mobilie_Live'">NFL Mobile</a></li>-->
+							<li><a href="http://www.nfl.com/wireless" onclick="s_objectID='Nav_NFL_Anytime_NFL.com_Wireless'">NFL.com Wireless</a></li>
+							<li><a href="http://mywireless.nfl.com" target="_blank" onclick="s_objectID='Nav_NFL_Anytime_Tones_&amp;_Graphics'">Tones &amp; Graphics</a></li>
+							<li><a href="http://mywireless.nfl.com/alerts.php" target="_blank" onclick="s_objectID='Nav_NFL_Anytime_Alerts'">Alerts</a></li>
+						</ul>
+						<ul>
+							<li class="subChoiceMarker"><h4>TV &amp; Radio:</h4></li>
+							<!--<li><a href="http://www.nfl.com/promotions/directv/sundayticket" onclick="s_objectID='Nav_NFL_Anytime_NFL_Sunday_Ticket'">NFL Sunday Ticket</a></li>-->
+							<li><a href="https://www.directv.com/DTVAPP/content/sports/nfl?footernavtype=-1" onclick="s_objectID='Nav_NFL_Anytime_NFL_Sunday_Ticket'">NFL Sunday Ticket</a></li>
+							<li><a href="http://iwantnflnetwork.com/" onclick="s_objectID='Nav_NFL_Anytime_I_want_NFL_Network'">I want NFL Network</a></li>				
+							<li><a href="http://www.nfl.com/nflnetwork/networkschedule" onclick="s_objectID='Nav_NFL_Anytime_NFL_Network_Schedule'">NFL Network Schedule</a></li>
+							<li><a href="http://www.nfl.com/snf" onclick="s_objectID='Nav_NFL_Anytime_Sunday_Night_Football_Extra'">Sunday Night Football Extra</a></li>
+							<li><a href="http://www.sirius.com/servlet/ContentServer?pagename=Sirius/Page&amp;c=FlexContent&amp;cid=1185296533780" onclick="s_objectID='Nav_NFL_Anytime_NFL_Sunday_Drive'">NFL Sunday Drive</a></li>
+							<li><a href="http://redzonetv.nfl.com/" onclick="s_objectID='Nav_NFL_Anytime_NFL_Red_Zone'">NFL Red Zone</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</li>
+		<li id="alt-nv-group-tickets" class="alt-nv-group">
+			<h3><a href="http://www.nfl.com/tickets" onclick="s_objectID='Nav_Tickets_Main'">Tickets</a></h3>
+	 		<div class="channel-content">
+	 			<div class="alt-nv-content-wrapper">
+					<div class="video-nv-content bottom alt-nv-main-watermark-text">Tickets</div>
+	 				<div class="channels">
+						<ul>
+							<li><a href="http://www.nfl.com/tickets?icampaign=Tickets_Nav" onclick="s_objectID='Nav_Tickets_Landing'">Tickets by Team</a></li>
+							<li><a href="http://www.ticketexchangebyticketmaster.com/nfl?intcmp=tm100456&amp;wt.mc_id=NFL_LEAGUE_TIX_DROP_DWN_MEN&amp;extcmp=TicketsEX_NFL" onclick="s_objectID='Nav_Tickets_Exchange'">NFL Ticket Exchange</a></li>
+							<li><a href="http://nflonlocation.com/index.php?utm_source=nflcom&utm_medium=link&utm_campaign=nflDirLinks" onclick="s_objectID='Nav_Tickets_Location'">NFL On Location</a></li>
+							<li><a href="http://www.lombardibroadway.com/nfl.php" onclick="s_objectID='Nav_Tickets_Lombardi'">Lombardi on Broadway</a></li>
+					<!--	<li><a href="http://www.ticketmaster.com/event/2B00458E9D712785?artistid=1535351&majorcatid=10001&minorcatid=1" onclick="s_objectID='Nav_Tickets_Pepsi'">Pepsi Fan Jam</a></li>
+							<li><a href="http://www.profootballhof.com/enshrinement/ticket_policies.aspx" onclick="s_objectID='Nav_Tickets_HOF'">HOF Enshrinement</a></li>
+					 		<li><a href="http://www.nflonlocation.net/probowl.php" onclick="s_objectID='Nav_Pro_Bowl_Packages'">Pro Bowl Packages</a></li>
+							<li><a href="http://www.ticketmaster.com/event/0D00432E9AB03313?intcmp=tm103892&wt.mc_id=NFL_LEAGUE_PRO_BOWL" onclick="s_objectID='Nav_Pro_Bowl_Tickets'">Pro Bowl Tickets</a></li> 
+							<li><a href="http://www.nflonlocation.net/superbowl.php" onclick="s_objectID='Nav_Super_Bowl_Packages'">Super Bowl Packages</a></li>
+							<li><a href="http://www.ticketexchangebyticketmaster.com/NFL/InventoryBrowse/Super-Bowl-Tickets-at-Dolphin-Stadium-in-Opa-Locka?PID=505575&intcmp=tm104190&wt.mc_id=NFL_LEAGUE_TIX_SB&extcmp=NFL_League_SB44" onclick="s_objectID='Nav_Super_Bowl_Tickets'">Super Bowl Tickets</a></li> -->
+						</ul>
+						<!-- <ul>
+						    <li class="subChoiceMarker"><h4>WILD CARD GAMES:</h4></li>
+						    <li><a href="http://www.ticketexchangebyticketmaster.com/NFL/InventoryBrowse/Seattle-Seahawks-Tickets-at-Qwest-Field-in-Seattle?PID=1062599&intcmp=tm104882&wt.mc_id=NFL_LEAGUE_SEA_PLAYOFF1&extcmp=SEA_Playoff_NAV" onclick="s_objectID='Nav_Tickets_Exchange_Playoffs_Seahawks'">Saints at Seahawks</a></li> 
+							<li><a href="http://www.ticketexchangebyticketmaster.com/NFL/InventoryBrowse/Indianapolis-Colts-Tickets-at-Lucas-Oil-Stadium-in-Indianapolis?PID=1062177&intcmp=tm104866&wt.mc_id=NFL_LEAGUE_IND_PLAYOFF1&extcmp=IND_Playoff_Nav" onclick="s_objectID='Nav_Tickets_Exchange_Playoffs_Colts'">Jets at Colts</a></li>
+							<li><a href="http://www.ticketexchangebyticketmaster.com/NFL/InventoryBrowse/Kansas-City-Chiefs-Tickets-at-Arrowhead-Stadium-in-Kansas-City?PID=1073885&intcmp=tm104870&extcmp=KC_Playoff_NAV" onclick="s_objectID='Nav_Tickets_Exchange_Playoffs_Chiefs'">Ravens at Chiefs</a></li>
+							<li><a href="https://teamexchange.ticketmaster.com/html/postinglist.htmI?l=EN&team=eagles&EVNT=10POGM1&CNTX=&intcmp=tm104878&wt.mc_id=NFL_LEAGUE_PHI_PLAYOFF1&extcmp=PHI_Playoff_NAV" onclick="s_objectID='Nav_Tickets_Exchange_Playoffs_Eagles'">Packers at Eagles</a></li>
+							<li><a href="xxx" onclick="s_objectID='Nav_Tickets_Playoffs_Saints'">Saints Box Office</a></li> 
+						</ul> -->
+					<!--	<ul>
+						    <li class="subChoiceMarker"><h4>DIVISIONAL ROUND:</h4></li>
+							<li><a href="http://www.ticketexchangebyticketmaster.com/NFL/InventoryBrowse/Pittsburgh-Steelers-Tickets-at-Heinz-Field-in-Pittsburgh?PID=1067585&intcmp=tm104880&extcmp=PIT_Playoff_NAV" onclick="s_objectID='Nav_Tickets_Exchange_Playoffs_Steelers'">Ravens at Steelers</a></li>
+							<li><a href="http://www.ticketexchangebyticketmaster.com/NFL/InventoryBrowse/Atlanta-Falcons-Tickets-at-Georgia-Dome-in-Atlanta?PID=1073037&intcmp=tm104858&extcmp=ATL_Playoff_Nav" onclick="s_objectID='Nav_Tickets_Exchange_Playoffs_Falcons'">Packers at Falcons</a></li> 
+							<li><a href="http://www.ticketexchangebyticketmaster.com/NFL/InventoryBrowse/Chicago-Bears-Tickets-at-Soldier-Field-in-Chicago?PID=1073889&intcmp=tm104862&extcmp=CHI_Playoff_NAV" onclick="s_objectID='Nav_Tickets_Exchange_Playoffs_Chiefs'">Seahawks at Bears</a></li>
+						    <li><a href="https://teamexchange.ticketmaster.com/html/postinglist.htmI?l=EN&team=patriots&EVNT=EFPGAME1&CNTX=&intcmp=tm104872&wt.mc_id=NFL_LEAGUE_NE_PLAYOFF1&extcmp=NE_Playoff_NAV" onclick="s_objectID='Nav_Tickets_Exchange_Playoffs_Patriots'">Jets at Patriots</a></li>
+							<li><a href="xxx" onclick="s_objectID='Nav_Tickets_Playoffs_Saints'">Saints Box Office</a></li> 
+						</ul> -->
+					<!--	<ul>
+						    <li class="subChoiceMarker"><h4>CHAMPIONSHIP ROUND:</h4></li>
+							<li><a href="http://www.ticketexchangebyticketmaster.com/NFL/InventoryBrowse/Pittsburgh-Steelers-Tickets-at-Heinz-Field-in-Pittsburgh?PID=1060682&intcmp=tm104881&wt.mc_id=NFL_LEAGUE_PIT_PLAYOFF2&extcmp=PIT_Playoff_NAV" onclick="s_objectID='Nav_Tickets_Exchange_Playoffs_Steelers'">Jets at Steelers</a></li>
+							<li><a href="http://www.ticketexchangebyticketmaster.com/NFL/InventoryBrowse/Chicago-Bears-Tickets-at-Soldier-Field-in-Chicago?PID=1062191&intcmp=tm104863&wt.mc_id=NFL_LEAGUE_CHI_PLAYOFF2&extcmp=CHI_Playoff_Nav" onclick="s_objectID='Nav_Tickets_Exchange_Playoffs_Bears'">Packers at Bears</a></li>
+						</ul> -->
+					</div>
+				</div>
+			</div>
+		</li>
+		<li id="alt-nv-group-nfl-shop" class="alt-nv-group">
+			<h3><a href="http://www.nflshop.com/entry.point?target=z&amp;source=SHOP_TAB" target="_blank" onclick="s_objectID='Nav_Shop_Main'">Shop</a></h3>
+	 		<div class="channel-content">
+	 			<div class="alt-nv-content-wrapper">
+	 				<div class="channels">
+						<ul>
+							<li><a href="http://www.nflshop.com/entry.point?entry=2237409&amp;source=SHOP_JERSEYS" target="_blank" onclick="s_objectID='Nav_Shop_Jerseys'">Jerseys</a></li>
+							<li><a href="http://www.nflshop.com/entry.point?entry=2237411&amp;source=SHOP_MENS" target="_blank" onclick="s_objectID='Nav_Shop_Mens'">Men's</a></li>
+							<li><a href="http://www.replayphotos.com/nflphotostore/?icampaign=Nav_PhotoStore" target="_blank" onclick="s_objectID='Nav_Shop_Photostore'">Photo Store</a></li>
+						</ul>
+						<ul>
+							<li><a href="http://www.nflshop.com/entry.point?entry=2251924&amp;source=SHOP_CUSTOM_SHOP" target="_blank" onclick="s_objectID='Nav_Shop_Custom_Shop'">Custom Shop</a></li>
+							<li><a href="http://www.nflshop.com/entry.point?entry=2237412&amp;source=NFL_SHOP_WOMENS" target="_blank" onclick="s_objectID='Nav_Shop_Womens'">Women's</a></li>
+							<li><a href="http://www.nflauction.nfl.com" target="_blank" onclick="s_objectID='Nav_Shop_NFL_Auction'">NFL Auction</a></li>
+						</ul>
+						<ul>
+							<li><a href="http://www.nflshop.com/entry.point?entry=2237414&amp;source=NFL_SHOP_KIDS" target="_blank" onclick="s_objectID='Nav_Shop_Kids'">Kids</a></li>
+							<li><a href="http://www.nflshop.com/entry.point?entry=2735301&source=NFL_PlayerShop" target="_blank" onclick="s_objectID='Nav_Shop_Player_Shop'">Player Shop</a></li>
+						<!--<li><a href="http://www.nflshop.com/entry.point?entry=2421485&source=SHOP_NEWARRIVALS" target="_blank" onclick="s_objectID='Nav_Shop_New_Arrivals'">New Arrivals</a></li> -->
+						<!--<li><a href="http://www.nflshop.com/entry.point?entry=4381832&source=SHOP_PERFORMANCEAPPAREL" target="_blank" onclick="s_objectID='Nav_Shop_Performance_Apparel'">Performance Apparel</a></li> -->
+							<li><a style="color:#FF0000" href="http://www.nflshop.com/entry.point?entry=3388868&source=NFL_Outlet" target="_blank" onclick="s_objectID='Nav_Shop_Outlet_Center'">Outlet Center</a></li>
+						</ul>
+					</div>
+					<div class="video-nv-content bottom alt-nv-main-watermark-text">
+						<div class="bg">Shop</div>
+						
+<!-- BEGIN WIDGET global/alt-shop-nav -->
+<ul class="items">
+	<li>
+		
+			
+			<div class="thumbnail"><a href="http://www.nflshop.com/entry.point?entry=11507889&amp;source=NFL_DF:NAV" target="_blank"><img src="http://img.static.nfl.com/static/site/img/shop/p10064421th.gif" alt="Photo: NFL 2011 Player Hat ATLANTA FALCONS" /></a></div>
+			<div class="content">
+				<p><a href="http://www.nflshop.com/entry.point?entry=11507889&amp;source=NFL_DF:NAV" target="_blank">NFL 2011 Player Hat ATLANTA FALCONS</a></p>
+				<p><span class="price">24.99</span></p>
+			</div>
+		
+	</li>
+</ul>
+<!-- END WIDGET global/alt-shop-nav -->
+
+					</div>					
+				</div>
+			</div>
+		</li>
+	</ul>
+	
+	<!--Opt In Smart Pixel -->
+	<iframe src='http://pixel.fetchback.com/serve/fb/pdc?cat=&name=landing&sid=2002' scrolling='no' width='1' height='1' marginheight='0' marginwidth='0' frameborder='0'></iframe> 
+
+</div>
+<!-- END INCLUDE navigation/default-alt -->
+                        </div>
+                  </div>
+                  
+                  
+                        <div id="hd-scorestrip">
+                              <div id="hdscorestripContainer">
+                                    
+
+                              </div>
+
+							<script type="text/javascript">
+							nfl.use('scorestrip', function(Y) {
+								var ss = new Y.NFL.ScoreStrip({
+									srcNode: "#hdscorestripContainer",
+									type: "default"
+								});
+								ss.render();
+								window.ss = ss;
+							});
+							</script>
+						</div>
+				
+		</div>
+		
+		
+			<div id="page-top-ad">
+				
+					
+				 	
+				 	
+		<div class="adcontainer" id="ad1312833110651top" style="width:728px;height:90px;">
+			<noscript>
+				<a href="http://ad.doubleclick.net/jump/nfl.players/search;s1=search;slot=top;url=search;nfl=ad;!category=;kw=;tile={tile};test=;sz=728x90{dcopt}" target="_blank">
+					<img class="adImg" src="http://ad.doubleclick.net/ad/nfl.players/search;s1=search;slot=top;url=search;nfl=ad;!category=;kw=;tile={tile};test=;sz=728x90{dcopt}" width="728" height="90" border="0" alt=""/>
+				</a>
+			</noscript>
+		</div>
+		<script type="text/javascript">
+			YUI().use('node','ads-v2',function(Y){
+				var _Ad	= Y.NFL.Ads.create({
+					srcNode: Y.one('#ad1312833110651top'),
+					id: 'ad1312833110651top',
+					type: 'adi',
+					path: 'http://ad.doubleclick.net/adi/nfl.players/search;s1=search;slot=top;url=search;nfl=ad;!category=;kw=;tile={tile};test=;sz=728x90{dcopt}',
+					width: 728,
+					height: 90
+				});
+				_Ad.render();
+				
+				
+				
+			})
+		</script>
+				
+			</div>
+		
+		
+		<div id="doc">
+			<div id="doc-wrap">
+				<!-- BEGIN DECORATOR 2010/default -->
+			
+			
+				<div id="event-header">
+</div>
+			
+			<div id="main-content" class="content-div default">
+				<div class="c">
+					
+					<!-- BEGIN PAGE player/playerfilteredresults -->
+
+
+
+<!-- 
+contentTitle = Players
+contentLink = 
+sponsorTitle = 
+sponsorLink = 
+-->
+<div class="article-decorator">		
+	<h2>Players &nbsp;</h2>
+	<p> &nbsp;</p>
+	<div class="visual-treatment" style="background-image:url(http://img.static.nfl.com/static/site/3.5/img/subheaders/players.png) !important;"></div>
+	
+		
+		<div class="content-link">&nbsp;</div>
+		
+	
+		
+		<div class="sponsor-link">&nbsp;</div>
+	
+</div>
+
+<div class="grid-235">
+	<div class="grid col">
+
+	<div id="col1_720">
+
+	<div id="quickFindSearchArea" class="greyBackground">
+		
+
+
+
+
+<!-- BEGIN PAGE players/playersearchheader -->
+<script type="text/javascript">
+	var historicalPlayerSelected = false;
+
+	function showHistoricalPlayerOptions() { 
+		historicalPlayerSelected = true;
+		
+			window.location="/players?playerType=historical";
+		
+		$("teamRostersSection").style.visibility = "hidden";
+		if ( $("byLetterCurrent") != null )
+			$("byLetterCurrent").show();
+		if ( $("byPositionTable") != null )
+			$("byPositionTable").show();
+		if ( $("byTeamRosterTable") != null )
+			$("byTeamRosterTable").hide();
+		if ( $("nonPlayerTabs") != null )
+			$("nonPlayerTabs").hide();
+		if ( $("conference") != null )
+			$("conference").hide();
+		if ( document.forms['lastNameSearchForm'] != null )
+			document.forms['lastNameSearchForm'].playerType.value='historical';
+		if ( document.forms['positionSearchForm'] != null )
+			document.forms['positionSearchForm'].playerType.value='historical';
+	}
+	
+	function showCurrentPlayerOptions() {
+		historicalPlayerSelected = false;
+		
+		$("teamRostersSection").style.visibility = "visible";
+		if ( $("byLetterCurrent") != null )
+			$("byLetterCurrent").show();
+		if ( $("byPositionTable") != null )
+			$("byPositionTable").show();
+		if ( $("byTeamRosterTable") != null )
+			$("byTeamRosterTable").show();
+		if ( $("nonPlayerTabs") != null )
+			$("nonPlayerTabs").show();
+		if ( $("conference") != null )
+			$("conference").show();
+		if ( document.forms['lastNameSearchForm'] != null )
+			document.forms['lastNameSearchForm'].playerType.value='current';
+		if ( document.forms['positionSearchForm'] != null )
+			document.forms['positionSearchForm'].playerType.value='current';
+		
+	}
+
+	function validateSearch(){
+		if($('playerName').value != null && $('playerName').value != ""){
+			if( historicalPlayerSelected && $('playerName').value.length < 3 ) {
+				$('searchValidation').hide();
+				$('numCharactersValidation').show();
+			} 
+			else {
+				//document.nameQuickSearchForm.submit();
+				return true;
+			}
+		}
+		else{
+			$('numCharactersValidation').hide();
+			$('searchValidation').show();
+		}
+		return false;
+	}
+	function init() {
+		try{ showHistoricalPlayerOptions(); }catch(e){ Event.observe(window,"load", init); throw(e) }
+	}
+	if(window.location.search.match(/playerType=historical/)) {
+		Event.observe(window,"load", init);
+	}
+
+</script>
+	<div class="hSpacer5px"></div>
+	<div class="pad_bottom">
+		<span style="display:none; padding-left:208px" id="searchValidation"><font class="red bold">Search field cannot be blank</font></span>
+		<span style="display:none; padding-left:208px" id="numCharactersValidation"><font class="red bold">Please enter at least 3 characters</font></span>
+	</div>
+
+	<table class="playersquickfindtable" cellspacing="0" cellpadding="0" border="0">
+	<tr valign="top">
+	<td>
+		<form name="nameQuickSearchForm" action="/players/search" method="get" onsubmit="return validateSearch()">
+		<table>
+		<tr>
+			<td>
+				<div style="padding-right:20px">
+					<img src="http://img.static.nfl.com/static/site/3.5/img/players/quick-find.png" align="middle" width="102" height="21" alt="Quick Find" />
+				</div>
+			</td>
+			<td>
+				<input type="hidden" name="category" value="name"/>
+				<b>player name</b> 
+				<input style="width:140px;" name="filter" id="playerName" />
+				<input type="submit" value="Go">
+			</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td>
+				<div style="text-align:right; padding-top:10px;">
+					
+						
+						
+							<label>
+								<input type="radio" name="playerType" value="current" onclick="showCurrentPlayerOptions()" checked>
+								<span>&nbsp;Current Players&nbsp;&nbsp;&nbsp;</span>
+							</label>
+							<label>
+								<input type="radio" name="playerType" value="historical" onclick="showHistoricalPlayerOptions()">
+								<span>&nbsp;Historical Players</span>
+							</label>
+						
+					
+				</div>
+			</td>
+		</tr>
+		</table>
+		</form>
+	</td>
+	<td>
+		<div id="teamRostersSection">
+		<form name="teamQuickSearchForm" action="/players/search" method="get">
+			<input type="hidden" name="category" value="team"/>
+			<input type="hidden" name="playerType" value="current"/>
+			<b>team rosters</b>
+			<select name="filter" class="teamroster" onchange="document.forms['teamQuickSearchForm'].submit();">
+				<option>Select a Team</option>
+				
+					<option value="3800">Arizona Cardinals</option>
+				
+					<option value="0200">Atlanta Falcons</option>
+				
+					<option value="0325">Baltimore Ravens</option>
+				
+					<option value="0610">Buffalo Bills</option>
+				
+					<option value="0750">Carolina Panthers</option>
+				
+					<option value="0810">Chicago Bears</option>
+				
+					<option value="0920">Cincinnati Bengals</option>
+				
+					<option value="1050">Cleveland Browns</option>
+				
+					<option value="1200">Dallas Cowboys</option>
+				
+					<option value="1400">Denver Broncos</option>
+				
+					<option value="1540">Detroit Lions</option>
+				
+					<option value="1800">Green Bay Packers</option>
+				
+					<option value="2120">Houston Texans</option>
+				
+					<option value="2200">Indianapolis Colts</option>
+				
+					<option value="2250">Jacksonville Jaguars</option>
+				
+					<option value="2310">Kansas City Chiefs</option>
+				
+					<option value="2700">Miami Dolphins</option>
+				
+					<option value="3000">Minnesota Vikings</option>
+				
+					<option value="3200">New England Patriots</option>
+				
+					<option value="3300">New Orleans Saints</option>
+				
+					<option value="3410">New York Giants</option>
+				
+					<option value="3430">New York Jets</option>
+				
+					<option value="2520">Oakland Raiders</option>
+				
+					<option value="3700">Philadelphia Eagles</option>
+				
+					<option value="3900">Pittsburgh Steelers</option>
+				
+					<option value="4400">San Diego Chargers</option>
+				
+					<option value="4500">San Francisco 49ers</option>
+				
+					<option value="4600">Seattle Seahawks</option>
+				
+					<option value="2510">St. Louis Rams</option>
+				
+					<option value="4900">Tampa Bay Buccaneers</option>
+				
+					<option value="2100">Tennessee Titans</option>
+				
+					<option value="5110">Washington Redskins</option>
+				
+			</select>
+		</form>
+		</div>
+	</td>
+	</tr>
+	</table>
+	
+<!-- END PAGE players/playersearchheader -->
+
+	</div>
+
+	<!-- tabs begin -->
+	<div class="greyTabs">
+	<ul>
+		
+			
+				<li class="special-current blackLinkNoUL"><a
+					href="/players/search?category=name"
+					class="wideSpecialTab">By Name</a></li>
+			
+			
+		
+		
+			
+			
+				<li class="greyLink"><a
+					href="/players/search?category=position&amp;playerType=current">By Position</a></li>
+			
+		
+		
+			
+			
+				<li class="greyLink"><a
+					href="/players/search?category=team&amp;playerType=current">By Team Roster</a></li>
+			
+		
+	</ul>
+	</div>
+	<br clear="all" /><br />
+
+	<div id="playertabs_0" class="tabContent"><!-- 086 - Large Table Search Results 720px START -->
+	<div id="searchResultsLargeTable">
+	
+	
+	
+	<div id="searchResultsLargeTable">
+	<div id="searchResults">
+
+	
+		<span class="linkNavigation floatRight"> <strong>1</strong>&nbsp|&nbsp<a href="/players/search?category=lastName&amp;playerType=current&amp;d-447263-p=2&amp;filter=A" title="Go to page 2">2</a> <a href="/players/search?category=lastName&amp;playerType=current&amp;d-447263-p=2&amp;filter=A">next</a> </span> <br/>
+<table id="result" style="width:100%" cellpadding="0" class="data-table1" cellspacing="0">
+<tr>
+<th class="thd2">Pos</th>
+<th class="thd2">Num</th>
+<th class="thd2">Player Name</th>
+<th class="thd2">Status</th>
+<th colspan="8" class="thd2 center">Quick Stats</th>
+<th class="hideme"></th>
+<th class="hideme"></th>
+<th class="hideme"></th>
+<th class="hideme"></th>
+<th class="hideme"></th>
+<th class="hideme"></th>
+<th class="hideme"></th>
+<th class="thd2">Team</th></tr>
+<tbody>
+<tr class="odd">
+<td class="tbdy">DB</td>
+<td class="tbdy">20</td>
+<td><a href="/player/isaabdulquddus/2530658/profile">Abdul-Quddus, Isa</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								TCKL
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								SCK
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								FF
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								INT
+							</td>
+<td class="tbdy">--</td>
+<td class="tbdy1"><a href="/teams/neworleanssaints/profile?team=NO">NO</a></td></tr>
+<tr class="even">
+<td class="tbdy">DT</td>
+<td class="tbdy"></td>
+<td><a href="/player/ibrahimabdulai/2530820/profile">Abdulai, Ibrahim</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								TCKL
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								SCK
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								FF
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								INT
+							</td>
+<td class="tbdy">--</td>
+<td class="tbdy1"><a href="/teams/newyorkgiants/profile?team=NYG">NYG</a></td></tr>
+<tr class="odd">
+<td class="tbdy">DB</td>
+<td class="tbdy">21</td>
+<td><a href="/player/hamzaabdullah/2506563/profile">Abdullah, Hamza</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								TCKL
+							</td>
+<td class="tbdy">4</td>
+<td class="ra">
+								SCK
+							</td>
+<td class="tbdy">0.0</td>
+<td class="ra">
+								FF
+							</td>
+<td class="tbdy">0</td>
+<td class="ra">
+								INT
+							</td>
+<td class="tbdy">--</td>
+<td class="tbdy1"><a href="/teams/arizonacardinals/profile?team=ARI">ARI</a></td></tr>
+<tr class="even">
+<td class="tbdy">DB</td>
+<td class="tbdy">39</td>
+<td><a href="/player/husainabdullah/729/profile">Abdullah, Husain</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								TCKL
+							</td>
+<td class="tbdy">75</td>
+<td class="ra">
+								SCK
+							</td>
+<td class="tbdy">0.0</td>
+<td class="ra">
+								FF
+							</td>
+<td class="tbdy">0</td>
+<td class="ra">
+								INT
+							</td>
+<td class="tbdy">3</td>
+<td class="tbdy1"><a href="/teams/minnesotavikings/profile?team=MIN">MIN</a></td></tr>
+<tr class="odd">
+<td class="tbdy">DE</td>
+<td class="tbdy">95</td>
+<td><a href="/player/victorabiamiri/2495525/profile">Abiamiri, Victor</a></td>
+<td class="tbdy">RES</td>
+<td class="ra">
+								TCKL
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								SCK
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								FF
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								INT
+							</td>
+<td class="tbdy">--</td>
+<td class="tbdy1"><a href="/teams/philadelphiaeagles/profile?team=PHI">PHI</a></td></tr>
+<tr class="even">
+<td class="tbdy">DE</td>
+<td class="tbdy">55</td>
+<td><a href="/player/johnabraham/2504171/profile">Abraham, John</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								TCKL
+							</td>
+<td class="tbdy">40</td>
+<td class="ra">
+								SCK
+							</td>
+<td class="tbdy">13.0</td>
+<td class="ra">
+								FF
+							</td>
+<td class="tbdy">2</td>
+<td class="ra">
+								INT
+							</td>
+<td class="tbdy">1</td>
+<td class="tbdy1"><a href="/teams/atlantafalcons/profile?team=ATL">ATL</a></td></tr>
+<tr class="odd">
+<td class="tbdy">LB</td>
+<td class="tbdy">94</td>
+<td><a href="/player/samacho/2495101/profile">Acho, Sam</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								TCKL
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								SCK
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								FF
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								INT
+							</td>
+<td class="tbdy">--</td>
+<td class="tbdy1"><a href="/teams/arizonacardinals/profile?team=ARI">ARI</a></td></tr>
+<tr class="even">
+<td class="tbdy">T</td>
+<td class="tbdy"></td>
+<td><a href="/player/joseacuna/2530935/profile">Acuna, Jose</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								G
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								GS
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								
+							</td>
+<td class="tbdy"></td>
+<td class="ra">
+								
+							</td>
+<td class="tbdy"></td>
+<td class="tbdy1"><a href="/teams/dallascowboys/profile?team=DAL">DAL</a></td></tr>
+<tr class="odd">
+<td class="tbdy">DT</td>
+<td class="tbdy">95</td>
+<td><a href="/player/anthonyadams/2505588/profile">Adams, Anthony</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								TCKL
+							</td>
+<td class="tbdy">37</td>
+<td class="ra">
+								SCK
+							</td>
+<td class="tbdy">2.0</td>
+<td class="ra">
+								FF
+							</td>
+<td class="tbdy">2</td>
+<td class="ra">
+								INT
+							</td>
+<td class="tbdy">--</td>
+<td class="tbdy1"><a href="/teams/chicagobears/profile?team=CHI">CHI</a></td></tr>
+<tr class="even">
+<td class="tbdy">LS</td>
+<td class="tbdy"></td>
+<td><a href="/player/coreyadams/2530936/profile">Adams, Corey</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								G
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								GS
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								
+							</td>
+<td class="tbdy"></td>
+<td class="ra">
+								
+							</td>
+<td class="tbdy"></td>
+<td class="tbdy1"><a href="/teams/dallascowboys/profile?team=DAL">DAL</a></td></tr>
+<tr class="odd">
+<td class="tbdy">WR</td>
+<td class="tbdy">86</td>
+<td><a href="/player/darvinadams/2495444/profile">Adams, Darvin</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								REC
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								YDS
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								AVG
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								TDS
+							</td>
+<td class="tbdy">--</td>
+<td class="tbdy1"><a href="/teams/carolinapanthers/profile?team=CAR">CAR</a></td></tr>
+<tr class="even">
+<td class="tbdy">T</td>
+<td class="tbdy">71</td>
+<td><a href="/player/flozelladams/2499355/profile">Adams, Flozell</a></td>
+<td class="tbdy">UFA</td>
+<td class="ra">
+								G
+							</td>
+<td class="tbdy">16</td>
+<td class="ra">
+								GS
+							</td>
+<td class="tbdy">16</td>
+<td class="ra">
+								
+							</td>
+<td class="tbdy"></td>
+<td class="ra">
+								
+							</td>
+<td class="tbdy"></td>
+<td class="tbdy1"><a href="/teams/pittsburghsteelers/profile?team=PIT">PIT</a></td></tr>
+<tr class="odd">
+<td class="tbdy">DB</td>
+<td class="tbdy">45</td>
+<td><a href="/player/jamaradams/1820/profile">Adams, Jamar</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								TCKL
+							</td>
+<td class="tbdy">3</td>
+<td class="ra">
+								SCK
+							</td>
+<td class="tbdy">0.0</td>
+<td class="ra">
+								FF
+							</td>
+<td class="tbdy">0</td>
+<td class="ra">
+								INT
+							</td>
+<td class="tbdy">--</td>
+<td class="tbdy1"><a href="/teams/philadelphiaeagles/profile?team=PHI">PHI</a></td></tr>
+<tr class="even">
+<td class="tbdy">WR</td>
+<td class="tbdy">84</td>
+<td><a href="/player/krisadams/2530472/profile">Adams, Kris</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								REC
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								YDS
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								AVG
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								TDS
+							</td>
+<td class="tbdy">--</td>
+<td class="tbdy1"><a href="/teams/chicagobears/profile?team=CHI">CHI</a></td></tr>
+<tr class="odd">
+<td class="tbdy">TE</td>
+<td class="tbdy">86</td>
+<td><a href="/player/kyleadams/2530473/profile">Adams, Kyle</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								REC
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								YDS
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								AVG
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								TDS
+							</td>
+<td class="tbdy">--</td>
+<td class="tbdy1"><a href="/teams/chicagobears/profile?team=CHI">CHI</a></td></tr>
+<tr class="even">
+<td class="tbdy">DB</td>
+<td class="tbdy">27</td>
+<td><a href="/player/michaeladams/2507266/profile">Adams, Michael</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								TCKL
+							</td>
+<td class="tbdy">52</td>
+<td class="ra">
+								SCK
+							</td>
+<td class="tbdy">0.0</td>
+<td class="ra">
+								FF
+							</td>
+<td class="tbdy">0</td>
+<td class="ra">
+								INT
+							</td>
+<td class="tbdy">2</td>
+<td class="tbdy1"><a href="/teams/arizonacardinals/profile?team=ARI">ARI</a></td></tr>
+<tr class="odd">
+<td class="tbdy">DB</td>
+<td class="tbdy">20</td>
+<td><a href="/player/mikeadams/2505708/profile">Adams, Mike</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								TCKL
+							</td>
+<td class="tbdy">45</td>
+<td class="ra">
+								SCK
+							</td>
+<td class="tbdy">1.0</td>
+<td class="ra">
+								FF
+							</td>
+<td class="tbdy">0</td>
+<td class="ra">
+								INT
+							</td>
+<td class="tbdy">2</td>
+<td class="tbdy1"><a href="/teams/clevelandbrowns/profile?team=CLE">CLE</a></td></tr>
+<tr class="even">
+<td class="tbdy">DB</td>
+<td class="tbdy">35</td>
+<td><a href="/player/phillipadams/1037889/profile">Adams, Phillip</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								TCKL
+							</td>
+<td class="tbdy">13</td>
+<td class="ra">
+								SCK
+							</td>
+<td class="tbdy">0.0</td>
+<td class="ra">
+								FF
+							</td>
+<td class="tbdy">0</td>
+<td class="ra">
+								INT
+							</td>
+<td class="tbdy">--</td>
+<td class="tbdy1"><a href="/teams/sanfrancisco49ers/profile?team=SF">SF</a></td></tr>
+<tr class="odd">
+<td class="tbdy">DT</td>
+<td class="tbdy">62</td>
+<td><a href="/player/titusadams/2506981/profile">Adams, Titus</a></td>
+<td class="tbdy">UFA</td>
+<td class="ra">
+								TCKL
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								SCK
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								FF
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								INT
+							</td>
+<td class="tbdy">--</td>
+<td class="tbdy1"><a href="/teams/clevelandbrowns/profile?team=CLE">CLE</a></td></tr>
+<tr class="even">
+<td class="tbdy">LB</td>
+<td class="tbdy">50</td>
+<td><a href="/player/derickaddai/2531075/profile">Addai, Derick</a></td>
+<td class="tbdy">CUT</td>
+<td class="ra">
+								TCKL
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								SCK
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								FF
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								INT
+							</td>
+<td class="tbdy">--</td>
+<td class="tbdy1"><a href="/teams/clevelandbrowns/profile?team=CLE">CLE</a></td></tr>
+<tr class="odd">
+<td class="tbdy">RB</td>
+<td class="tbdy">29</td>
+<td><a href="/player/josephaddai/2495793/profile">Addai, Joseph</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								CAR
+							</td>
+<td class="tbdy">116</td>
+<td class="ra">
+								YDS
+							</td>
+<td class="tbdy">495</td>
+<td class="ra">
+								AVG
+							</td>
+<td class="tbdy">4.3</td>
+<td class="ra">
+								TDS
+							</td>
+<td class="tbdy">4</td>
+<td class="tbdy1"><a href="/teams/indianapoliscolts/profile?team=IND">IND</a></td></tr>
+<tr class="even">
+<td class="tbdy">DE</td>
+<td class="tbdy">78</td>
+<td><a href="/player/marioaddison/2530474/profile">Addison, Mario</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								TCKL
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								SCK
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								FF
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								INT
+							</td>
+<td class="tbdy">--</td>
+<td class="tbdy1"><a href="/teams/chicagobears/profile?team=CHI">CHI</a></td></tr>
+<tr class="odd">
+<td class="tbdy">WR</td>
+<td class="tbdy">84</td>
+<td><a href="/player/damolaadeniji/2508241/profile">Adeniji, Damola</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								REC
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								YDS
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								AVG
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								TDS
+							</td>
+<td class="tbdy">--</td>
+<td class="tbdy1"><a href="/teams/oaklandraiders/profile?team=OAK">OAK</a></td></tr>
+<tr class="even">
+<td class="tbdy">DE</td>
+<td class="tbdy">95</td>
+<td><a href="/player/victoradeyanju/2506920/profile">Adeyanju, Victor</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								TCKL
+							</td>
+<td class="tbdy">0</td>
+<td class="ra">
+								SCK
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								FF
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								INT
+							</td>
+<td class="tbdy">--</td>
+<td class="tbdy1"><a href="/teams/cincinnatibengals/profile?team=CIN">CIN</a></td></tr>
+<tr class="odd">
+<td class="tbdy">LB</td>
+<td class="tbdy">52</td>
+<td><a href="/player/xavieradibi/182/profile">Adibi, Xavier</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								TCKL
+							</td>
+<td class="tbdy">22</td>
+<td class="ra">
+								SCK
+							</td>
+<td class="tbdy">0.0</td>
+<td class="ra">
+								FF
+							</td>
+<td class="tbdy">1</td>
+<td class="ra">
+								INT
+							</td>
+<td class="tbdy">--</td>
+<td class="tbdy1"><a href="/teams/houstontexans/profile?team=HOU">HOU</a></td></tr>
+<tr class="even">
+<td class="tbdy">DB</td>
+<td class="tbdy">41</td>
+<td><a href="/player/chrisadingupu/2530475/profile">Adingupu, Chris</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								TCKL
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								SCK
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								FF
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								INT
+							</td>
+<td class="tbdy">--</td>
+<td class="tbdy1"><a href="/teams/minnesotavikings/profile?team=MIN">MIN</a></td></tr>
+<tr class="odd">
+<td class="tbdy">LB</td>
+<td class="tbdy">59</td>
+<td><a href="/player/spenceradkins/238455/profile">Adkins, Spencer</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								TCKL
+							</td>
+<td class="tbdy">6</td>
+<td class="ra">
+								SCK
+							</td>
+<td class="tbdy">0.0</td>
+<td class="ra">
+								FF
+							</td>
+<td class="tbdy">0</td>
+<td class="ra">
+								INT
+							</td>
+<td class="tbdy">--</td>
+<td class="tbdy1"><a href="/teams/atlantafalcons/profile?team=ATL">ATL</a></td></tr>
+<tr class="even">
+<td class="tbdy">DB</td>
+<td class="tbdy">23</td>
+<td><a href="/player/alafalava/89682/profile">Afalava, Al</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								TCKL
+							</td>
+<td class="tbdy">4</td>
+<td class="ra">
+								SCK
+							</td>
+<td class="tbdy">0.0</td>
+<td class="ra">
+								FF
+							</td>
+<td class="tbdy">0</td>
+<td class="ra">
+								INT
+							</td>
+<td class="tbdy">--</td>
+<td class="tbdy1"><a href="/teams/indianapoliscolts/profile?team=IND">IND</a></td></tr>
+<tr class="odd">
+<td class="tbdy">CB</td>
+<td class="tbdy">41</td>
+<td><a href="/player/vinceagnew/2530745/profile">Agnew, Vince</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								TCKL
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								SCK
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								FF
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								INT
+							</td>
+<td class="tbdy">--</td>
+<td class="tbdy1"><a href="/teams/miamidolphins/profile?team=MIA">MIA</a></td></tr>
+<tr class="even">
+<td class="tbdy">DE</td>
+<td class="tbdy">99</td>
+<td><a href="/player/c.j.ahyou/2495527/profile">Ah You, C.J.</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								TCKL
+							</td>
+<td class="tbdy">18</td>
+<td class="ra">
+								SCK
+							</td>
+<td class="tbdy">4.0</td>
+<td class="ra">
+								FF
+							</td>
+<td class="tbdy">1</td>
+<td class="ra">
+								INT
+							</td>
+<td class="tbdy">--</td>
+<td class="tbdy1"><a href="/teams/st.louisrams/profile?team=STL">STL</a></td></tr>
+<tr class="odd">
+<td class="tbdy">LS</td>
+<td class="tbdy">85</td>
+<td><a href="/player/dannyaiken/2530659/profile">Aiken, Danny</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								G
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								GS
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								
+							</td>
+<td class="tbdy"></td>
+<td class="ra">
+								
+							</td>
+<td class="tbdy"></td>
+<td class="tbdy1"><a href="/teams/buffalobills/profile?team=BUF">BUF</a></td></tr>
+<tr class="even">
+<td class="tbdy">WR</td>
+<td class="tbdy">88</td>
+<td><a href="/player/kamaraiken/2530660/profile">Aiken, Kamar</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								REC
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								YDS
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								AVG
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								TDS
+							</td>
+<td class="tbdy">--</td>
+<td class="tbdy1"><a href="/teams/buffalobills/profile?team=BUF">BUF</a></td></tr>
+<tr class="odd">
+<td class="tbdy">QB</td>
+<td class="tbdy">3</td>
+<td><a href="/player/erikainge/363/profile">Ainge, Erik</a></td>
+<td class="tbdy">UFA</td>
+<td class="ra">
+								TDS
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								INT
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								YDS
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								RTG
+							</td>
+<td class="tbdy">--</td>
+<td class="tbdy1"><a href="/teams/newyorkjets/profile?team=NYJ">NYJ</a></td></tr>
+<tr class="even">
+<td class="tbdy">LB</td>
+<td class="tbdy">4</td>
+<td><a href="/player/victoraiyewa/2530937/profile">Aiyewa, Victor</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								TCKL
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								SCK
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								FF
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								INT
+							</td>
+<td class="tbdy">--</td>
+<td class="tbdy1"><a href="/teams/tampabaybuccaneers/profile?team=TB">TB</a></td></tr>
+<tr class="odd">
+<td class="tbdy">DT</td>
+<td class="tbdy"></td>
+<td><a href="/player/ladiajiboye/2495256/profile">Ajiboye, Ladi</a></td>
+<td class="tbdy">CUT</td>
+<td class="ra">
+								TCKL
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								SCK
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								FF
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								INT
+							</td>
+<td class="tbdy">--</td>
+<td class="tbdy1"><a href="/teams/seattleseahawks/profile?team=SEA">SEA</a></td></tr>
+<tr class="even">
+<td class="tbdy">WR</td>
+<td class="tbdy">89</td>
+<td><a href="/player/seyiajirotutu/497260/profile">Ajirotutu, Seyi</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								REC
+							</td>
+<td class="tbdy">13</td>
+<td class="ra">
+								YDS
+							</td>
+<td class="tbdy">262</td>
+<td class="ra">
+								AVG
+							</td>
+<td class="tbdy">20.2</td>
+<td class="ra">
+								TDS
+							</td>
+<td class="tbdy">2</td>
+<td class="tbdy1"><a href="/teams/sandiegochargers/profile?team=SD">SD</a></td></tr>
+<tr class="odd">
+<td class="tbdy">K</td>
+<td class="tbdy">2</td>
+<td><a href="/player/davidakers/2499370/profile">Akers, David</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								FGA
+							</td>
+<td class="tbdy">38</td>
+<td class="ra">
+								FGM
+							</td>
+<td class="tbdy">32</td>
+<td class="ra">
+								PCT
+							</td>
+<td class="tbdy">84.2</td>
+<td class="ra">
+								LNG
+							</td>
+<td class="tbdy">50</td>
+<td class="tbdy1"><a href="/teams/sanfrancisco49ers/profile?team=SF">SF</a></td></tr>
+<tr class="even">
+<td class="tbdy">DE</td>
+<td class="tbdy">60</td>
+<td><a href="/player/davidakinniyi/2530476/profile">Akinniyi, David</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								TCKL
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								SCK
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								FF
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								INT
+							</td>
+<td class="tbdy">--</td>
+<td class="tbdy1"><a href="/teams/minnesotavikings/profile?team=MIN">MIN</a></td></tr>
+<tr class="odd">
+<td class="tbdy">DE</td>
+<td class="tbdy">41</td>
+<td><a href="/player/daunteakra/2530938/profile">Akra, Daunte</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								TCKL
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								SCK
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								FF
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								INT
+							</td>
+<td class="tbdy">--</td>
+<td class="tbdy1"><a href="/teams/detroitlions/profile?team=DET">DET</a></td></tr>
+<tr class="even">
+<td class="tbdy">DE</td>
+<td class="tbdy">59</td>
+<td><a href="/player/ikaikaalama-francis/2507178/profile">Alama-Francis, Ikaika</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								TCKL
+							</td>
+<td class="tbdy">11</td>
+<td class="ra">
+								SCK
+							</td>
+<td class="tbdy">0.0</td>
+<td class="ra">
+								FF
+							</td>
+<td class="tbdy">0</td>
+<td class="ra">
+								INT
+							</td>
+<td class="tbdy">--</td>
+<td class="tbdy1"><a href="/teams/miamidolphins/profile?team=MIA">MIA</a></td></tr>
+<tr class="odd">
+<td class="tbdy">OT</td>
+<td class="tbdy">76</td>
+<td><a href="/player/brandenalbert/660/profile">Albert, Branden</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								G
+							</td>
+<td class="tbdy">15</td>
+<td class="ra">
+								GS
+							</td>
+<td class="tbdy">15</td>
+<td class="ra">
+								
+							</td>
+<td class="tbdy"></td>
+<td class="ra">
+								
+							</td>
+<td class="tbdy"></td>
+<td class="tbdy1"><a href="/teams/kansascitychiefs/profile?team=KC">KC</a></td></tr>
+<tr class="even">
+<td class="tbdy">LB</td>
+<td class="tbdy"></td>
+<td><a href="/player/alexalbright/2530939/profile">Albright, Alex</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								TCKL
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								SCK
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								FF
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								INT
+							</td>
+<td class="tbdy">--</td>
+<td class="tbdy1"><a href="/teams/dallascowboys/profile?team=DAL">DAL</a></td></tr>
+<tr class="odd">
+<td class="tbdy">WR</td>
+<td class="tbdy">84</td>
+<td><a href="/player/danarioalexander/497262/profile">Alexander, Danario</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								REC
+							</td>
+<td class="tbdy">20</td>
+<td class="ra">
+								YDS
+							</td>
+<td class="tbdy">306</td>
+<td class="ra">
+								AVG
+							</td>
+<td class="tbdy">15.3</td>
+<td class="ra">
+								TDS
+							</td>
+<td class="tbdy">1</td>
+<td class="tbdy1"><a href="/teams/st.louisrams/profile?team=STL">STL</a></td></tr>
+<tr class="even">
+<td class="tbdy">LB</td>
+<td class="tbdy">57</td>
+<td><a href="/player/ericalexander/2505746/profile">Alexander, Eric</a></td>
+<td class="tbdy">UFA</td>
+<td class="ra">
+								TCKL
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								SCK
+							</td>
+<td class="tbdy">0.0</td>
+<td class="ra">
+								FF
+							</td>
+<td class="tbdy">1</td>
+<td class="ra">
+								INT
+							</td>
+<td class="tbdy">0</td>
+<td class="tbdy1"><a href="/teams/clevelandbrowns/profile?team=CLE">CLE</a></td></tr>
+<tr class="odd">
+<td class="tbdy">DB</td>
+<td class="tbdy">21</td>
+<td><a href="/player/geraldalexander/2495528/profile">Alexander, Gerald</a></td>
+<td class="tbdy">UFA</td>
+<td class="ra">
+								TCKL
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								SCK
+							</td>
+<td class="tbdy">0.0</td>
+<td class="ra">
+								FF
+							</td>
+<td class="tbdy">0</td>
+<td class="ra">
+								INT
+							</td>
+<td class="tbdy">0</td>
+<td class="tbdy1"><a href="/teams/carolinapanthers/profile?team=CAR">CAR</a></td></tr>
+<tr class="even">
+<td class="tbdy">LB</td>
+<td class="tbdy">97</td>
+<td><a href="/player/lorenzoalexander/2506268/profile">Alexander, Lorenzo</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								TCKL
+							</td>
+<td class="tbdy">57</td>
+<td class="ra">
+								SCK
+							</td>
+<td class="tbdy">1.5</td>
+<td class="ra">
+								FF
+							</td>
+<td class="tbdy">2</td>
+<td class="ra">
+								INT
+							</td>
+<td class="tbdy">--</td>
+<td class="tbdy1"><a href="/teams/washingtonredskins/profile?team=WAS">WAS</a></td></tr>
+<tr class="odd">
+<td class="tbdy">LB</td>
+<td class="tbdy">54</td>
+<td><a href="/player/misteralexander/2530661/profile">Alexander, Mister</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								TCKL
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								SCK
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								FF
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								INT
+							</td>
+<td class="tbdy">--</td>
+<td class="tbdy1"><a href="/teams/houstontexans/profile?team=HOU">HOU</a></td></tr>
+<tr class="even">
+<td class="tbdy">OL</td>
+<td class="tbdy">78</td>
+<td><a href="/player/dominicalford/2531028/profile">Alford, Dominic</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								G
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								GS
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								
+							</td>
+<td class="tbdy"></td>
+<td class="ra">
+								
+							</td>
+<td class="tbdy"></td>
+<td class="tbdy1"><a href="/teams/clevelandbrowns/profile?team=CLE">CLE</a></td></tr>
+<tr class="odd">
+<td class="tbdy">NT</td>
+<td class="tbdy">69</td>
+<td><a href="/player/jayalford/2507186/profile">Alford, Jay</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								TCKL
+							</td>
+<td class="tbdy">2</td>
+<td class="ra">
+								SCK
+							</td>
+<td class="tbdy">0.0</td>
+<td class="ra">
+								FF
+							</td>
+<td class="tbdy">0</td>
+<td class="ra">
+								INT
+							</td>
+<td class="tbdy">--</td>
+<td class="tbdy1"><a href="/teams/seattleseahawks/profile?team=SEA">SEA</a></td></tr>
+<tr class="even">
+<td class="tbdy">RB</td>
+<td class="tbdy">42</td>
+<td><a href="/player/charlesali/2507123/profile">Ali, Charles</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								CAR
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								YDS
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								AVG
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								TDS
+							</td>
+<td class="tbdy">--</td>
+<td class="tbdy1"><a href="/teams/arizonacardinals/profile?team=ARI">ARI</a></td></tr>
+<tr class="odd">
+<td class="tbdy">RB</td>
+<td class="tbdy">35</td>
+<td><a href="/player/anthonyallen/2508138/profile">Allen, Anthony</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								CAR
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								YDS
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								AVG
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								TDS
+							</td>
+<td class="tbdy">--</td>
+<td class="tbdy1"><a href="/teams/baltimoreravens/profile?team=BAL">BAL</a></td></tr>
+<tr class="even">
+<td class="tbdy">RB</td>
+<td class="tbdy">13</td>
+<td><a href="/player/armandoallen/2495257/profile">Allen, Armando</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								CAR
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								YDS
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								AVG
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								TDS
+							</td>
+<td class="tbdy">--</td>
+<td class="tbdy1"><a href="/teams/tampabaybuccaneers/profile?team=TB">TB</a></td></tr>
+<tr class="odd">
+<td class="tbdy">DB</td>
+<td class="tbdy">21</td>
+<td><a href="/player/asherallen/80626/profile">Allen, Asher</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								TCKL
+							</td>
+<td class="tbdy">58</td>
+<td class="ra">
+								SCK
+							</td>
+<td class="tbdy">0.0</td>
+<td class="ra">
+								FF
+							</td>
+<td class="tbdy">0</td>
+<td class="ra">
+								INT
+							</td>
+<td class="tbdy">2</td>
+<td class="tbdy1"><a href="/teams/minnesotavikings/profile?team=MIN">MIN</a></td></tr>
+<tr class="even">
+<td class="tbdy">DB</td>
+<td class="tbdy"></td>
+<td><a href="/player/cortezallen/2495497/profile">Allen, Cortez</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								TCKL
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								SCK
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								FF
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								INT
+							</td>
+<td class="tbdy">--</td>
+<td class="tbdy1"><a href="/teams/pittsburghsteelers/profile?team=PIT">PIT</a></td></tr>
+<tr class="odd">
+<td class="tbdy">DE</td>
+<td class="tbdy">69</td>
+<td><a href="/player/jaredallen/2505940/profile">Allen, Jared</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								TCKL
+							</td>
+<td class="tbdy">60</td>
+<td class="ra">
+								SCK
+							</td>
+<td class="tbdy">11.0</td>
+<td class="ra">
+								FF
+							</td>
+<td class="tbdy">1</td>
+<td class="ra">
+								INT
+							</td>
+<td class="tbdy">2</td>
+<td class="tbdy1"><a href="/teams/minnesotavikings/profile?team=MIN">MIN</a></td></tr>
+<tr class="even">
+<td class="tbdy">DB</td>
+<td class="tbdy">30</td>
+<td><a href="/player/jasonallen/2495794/profile">Allen, Jason</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								TCKL
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								SCK
+							</td>
+<td class="tbdy">0.0</td>
+<td class="ra">
+								FF
+							</td>
+<td class="tbdy">0</td>
+<td class="ra">
+								INT
+							</td>
+<td class="tbdy">6</td>
+<td class="tbdy1"><a href="/teams/houstontexans/profile?team=HOU">HOU</a></td></tr>
+<tr class="odd">
+<td class="tbdy">C</td>
+<td class="tbdy">66</td>
+<td><a href="/player/mattallen/2530746/profile">Allen, Matt</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								G
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								GS
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								
+							</td>
+<td class="tbdy"></td>
+<td class="ra">
+								
+							</td>
+<td class="tbdy"></td>
+<td class="tbdy1"><a href="/teams/tampabaybuccaneers/profile?team=TB">TB</a></td></tr>
+<tr class="even">
+<td class="tbdy">DB</td>
+<td class="tbdy">29</td>
+<td><a href="/player/nateallen/2508043/profile">Allen, Nate</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								TCKL
+							</td>
+<td class="tbdy">48</td>
+<td class="ra">
+								SCK
+							</td>
+<td class="tbdy">2.0</td>
+<td class="ra">
+								FF
+							</td>
+<td class="tbdy">1</td>
+<td class="ra">
+								INT
+							</td>
+<td class="tbdy">3</td>
+<td class="tbdy1"><a href="/teams/philadelphiaeagles/profile?team=PHI">PHI</a></td></tr>
+<tr class="odd">
+<td class="tbdy">DE</td>
+<td class="tbdy">96</td>
+<td><a href="/player/pierreallen/2495103/profile">Allen, Pierre</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								TCKL
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								SCK
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								FF
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								INT
+							</td>
+<td class="tbdy">--</td>
+<td class="tbdy1"><a href="/teams/seattleseahawks/profile?team=SEA">SEA</a></td></tr>
+<tr class="even">
+<td class="tbdy">OG</td>
+<td class="tbdy">70</td>
+<td><a href="/player/rogerallen/81803/profile">Allen, Roger</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								G
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								GS
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								
+							</td>
+<td class="tbdy"></td>
+<td class="ra">
+								
+							</td>
+<td class="tbdy"></td>
+<td class="tbdy1"><a href="/teams/neworleanssaints/profile?team=NO">NO</a></td></tr>
+<tr class="odd">
+<td class="tbdy">LB</td>
+<td class="tbdy">50</td>
+<td><a href="/player/russellallen/2507609/profile">Allen, Russell</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								TCKL
+							</td>
+<td class="tbdy">42</td>
+<td class="ra">
+								SCK
+							</td>
+<td class="tbdy">0.0</td>
+<td class="ra">
+								FF
+							</td>
+<td class="tbdy">0</td>
+<td class="ra">
+								INT
+							</td>
+<td class="tbdy">--</td>
+<td class="tbdy1"><a href="/teams/jacksonvillejaguars/profile?team=JAC">JAC</a></td></tr>
+<tr class="even">
+<td class="tbdy">DB</td>
+<td class="tbdy">26</td>
+<td><a href="/player/willallen/2506088/profile">Allen, Will</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								TCKL
+							</td>
+<td class="tbdy">12</td>
+<td class="ra">
+								SCK
+							</td>
+<td class="tbdy">0.0</td>
+<td class="ra">
+								FF
+							</td>
+<td class="tbdy">0</td>
+<td class="ra">
+								INT
+							</td>
+<td class="tbdy">--</td>
+<td class="tbdy1"><a href="/teams/pittsburghsteelers/profile?team=PIT">PIT</a></td></tr>
+<tr class="odd">
+<td class="tbdy">DB</td>
+<td class="tbdy">25</td>
+<td><a href="/player/willallen/2504716/profile">Allen, Will</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								TCKL
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								SCK
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								FF
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								INT
+							</td>
+<td class="tbdy">--</td>
+<td class="tbdy1"><a href="/teams/miamidolphins/profile?team=MIA">MIA</a></td></tr>
+<tr class="even">
+<td class="tbdy">LB</td>
+<td class="tbdy">56</td>
+<td><a href="/player/colinallred/2506654/profile">Allred, Colin</a></td>
+<td class="tbdy">UFA</td>
+<td class="ra">
+								TCKL
+							</td>
+<td class="tbdy">5</td>
+<td class="ra">
+								SCK
+							</td>
+<td class="tbdy">0.0</td>
+<td class="ra">
+								FF
+							</td>
+<td class="tbdy">0</td>
+<td class="ra">
+								INT
+							</td>
+<td class="tbdy">--</td>
+<td class="tbdy1"><a href="/teams/tennesseetitans/profile?team=TEN">TEN</a></td></tr>
+<tr class="odd">
+<td class="tbdy">LB</td>
+<td class="tbdy">50</td>
+<td><a href="/player/jonalston/2506905/profile">Alston, Jon</a></td>
+<td class="tbdy">UFA</td>
+<td class="ra">
+								TCKL
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								SCK
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								FF
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								INT
+							</td>
+<td class="tbdy">--</td>
+<td class="tbdy1"><a href="/teams/tampabaybuccaneers/profile?team=TB">TB</a></td></tr>
+<tr class="even">
+<td class="tbdy">DE</td>
+<td class="tbdy">93</td>
+<td><a href="/player/tysonalualu/496760/profile">Alualu, Tyson</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								TCKL
+							</td>
+<td class="tbdy">38</td>
+<td class="ra">
+								SCK
+							</td>
+<td class="tbdy">3.5</td>
+<td class="ra">
+								FF
+							</td>
+<td class="tbdy">0</td>
+<td class="ra">
+								INT
+							</td>
+<td class="tbdy">--</td>
+<td class="tbdy1"><a href="/teams/jacksonvillejaguars/profile?team=JAC">JAC</a></td></tr>
+<tr class="odd">
+<td class="tbdy">C</td>
+<td class="tbdy">54</td>
+<td><a href="/player/eugeneamano/2505968/profile">Amano, Eugene</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								G
+							</td>
+<td class="tbdy">13</td>
+<td class="ra">
+								GS
+							</td>
+<td class="tbdy">13</td>
+<td class="ra">
+								
+							</td>
+<td class="tbdy"></td>
+<td class="ra">
+								
+							</td>
+<td class="tbdy"></td>
+<td class="tbdy1"><a href="/teams/tennesseetitans/profile?team=TEN">TEN</a></td></tr>
+<tr class="even">
+<td class="tbdy">LS</td>
+<td class="tbdy">58</td>
+<td><a href="/player/kenamato/2505005/profile">Amato, Ken</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								G
+							</td>
+<td class="tbdy">16</td>
+<td class="ra">
+								GS
+							</td>
+<td class="tbdy">0</td>
+<td class="ra">
+								
+							</td>
+<td class="tbdy"></td>
+<td class="ra">
+								
+							</td>
+<td class="tbdy"></td>
+<td class="tbdy1"><a href="/teams/tennesseetitans/profile?team=TEN">TEN</a></td></tr>
+<tr class="odd">
+<td class="tbdy">DB</td>
+<td class="tbdy">40</td>
+<td><a href="/player/jonathonamaya/494246/profile">Amaya, Jonathon</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								TCKL
+							</td>
+<td class="tbdy">15</td>
+<td class="ra">
+								SCK
+							</td>
+<td class="tbdy">0.0</td>
+<td class="ra">
+								FF
+							</td>
+<td class="tbdy">0</td>
+<td class="ra">
+								INT
+							</td>
+<td class="tbdy">--</td>
+<td class="tbdy1"><a href="/teams/neworleanssaints/profile?team=NO">NO</a></td></tr>
+<tr class="even">
+<td class="tbdy">DE</td>
+<td class="tbdy">69</td>
+<td><a href="/player/damarioambrose/2530821/profile">Ambrose, Damario</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								TCKL
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								SCK
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								FF
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								INT
+							</td>
+<td class="tbdy">--</td>
+<td class="tbdy1"><a href="/teams/st.louisrams/profile?team=STL">STL</a></td></tr>
+<tr class="odd">
+<td class="tbdy">WR</td>
+<td class="tbdy">16</td>
+<td><a href="/player/dannyamendola/2649/profile">Amendola, Danny</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								REC
+							</td>
+<td class="tbdy">85</td>
+<td class="ra">
+								YDS
+							</td>
+<td class="tbdy">689</td>
+<td class="ra">
+								AVG
+							</td>
+<td class="tbdy">8.1</td>
+<td class="ra">
+								TDS
+							</td>
+<td class="tbdy">3</td>
+<td class="tbdy1"><a href="/teams/st.louisrams/profile?team=STL">STL</a></td></tr>
+<tr class="even">
+<td class="tbdy">G</td>
+<td class="tbdy">60</td>
+<td><a href="/player/conanamituanai/2530477/profile">Amituanai, Conan</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								G
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								GS
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								
+							</td>
+<td class="tbdy"></td>
+<td class="ra">
+								
+							</td>
+<td class="tbdy"></td>
+<td class="tbdy1"><a href="/teams/minnesotavikings/profile?team=MIN">MIN</a></td></tr>
+<tr class="odd">
+<td class="tbdy">DB</td>
+<td class="tbdy"></td>
+<td><a href="/player/princeamukamara/2495108/profile">Amukamara, Prince</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								TCKL
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								SCK
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								FF
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								INT
+							</td>
+<td class="tbdy">--</td>
+<td class="tbdy1"><a href="/teams/newyorkgiants/profile?team=NYG">NYG</a></td></tr>
+<tr class="even">
+<td class="tbdy">LB</td>
+<td class="tbdy">52</td>
+<td><a href="/player/charlieanderson/2505962/profile">Anderson, Charlie</a></td>
+<td class="tbdy">UFA</td>
+<td class="ra">
+								TCKL
+							</td>
+<td class="tbdy">0</td>
+<td class="ra">
+								SCK
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								FF
+							</td>
+<td class="tbdy">--</td>
+<td class="ra">
+								INT
+							</td>
+<td class="tbdy">--</td>
+<td class="tbdy1"><a href="/teams/kansascitychiefs/profile?team=KC">KC</a></td></tr>
+<tr class="odd">
+<td class="tbdy">DB</td>
+<td class="tbdy">30</td>
+<td><a href="/player/coltanderson/2507597/profile">Anderson, Colt</a></td>
+<td class="tbdy">ACT</td>
+<td class="ra">
+								TCKL
+							</td>
+<td class="tbdy">16</td>
+<td class="ra">
+								SCK
+							</td>
+<td class="tbdy">0.0</td>
+<td class="ra">
+								FF
+							</td>
+<td class="tbdy">0</td>
+<td class="ra">
+								INT
+							</td>
+<td class="tbdy">--</td>
+<td class="tbdy1"><a href="/teams/philadelphiaeagles/profile?team=PHI">PHI</a></td></tr></tbody></table><span class="linkNavigation floatRight"> <strong>1</strong>&nbsp|&nbsp<a href="/players/search?category=lastName&amp;playerType=current&amp;d-447263-p=2&amp;filter=A" title="Go to page 2">2</a> <a href="/players/search?category=lastName&amp;playerType=current&amp;d-447263-p=2&amp;filter=A">next</a> </span> <br/>
+
+		<br>
+		ACT = Active <br>
+		RES = Injured reserve <br>
+		NON = Non football related injured reserve <br>
+		SUS = Suspended <br>
+		PUP = Physically unable to perform <br>
+		UDF = Unsigned draft pick <br>
+		EXE = Exempt <br />
+		<br />
+
+		<br />
+	
+	</div>
+	</div>
+	<!-- 086 - Large Table Search Results 720px END --></div>
+	</div>
+	</div>
+
+		
+
+	
+	
+		<div class="search-ads">
+			<script type="text/javascript">/*<![CDATA[*/
+
+var adsonar_placementId = parseInt("1488369", 10),
+    adsonar_pid         = parseInt("1956780", 10),
+    adsonar_ps          = parseInt("-1", 10),
+    adsonar_zw          = parseInt("650", 10),
+    adsonar_zh          = parseInt("200", 10),
+    adsonar_jv          = 'ads.adsonar.com';
+if ((typeof nfl === 'undefined') || nfl.constants.SEARCH_ADS) {
+	document.write('<sc'+'ript type="text/javascript" src="http://js.adsonar.com/js/adsonar.js"></sc'+'ript>');
+}
+			/*]]>*/</script>
+		</div>
+	
+
+
+	</div>
+	<div class="ad col">
+		<!-- move this code into an include file -->
+		
+
+
+
+
+
+
+
+<div id="other-links" class="news-widget">
+	<h3 class="replaced">Other Links<span></span></h3>
+	<div class="widget-shading-short">
+		<ul class="story-links" id="headlines-story-links">
+			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+					<li><a href="/scores">Scoreboard</a></li>
+					<li><a href="/standings">Standings</a></li>
+					<li><a href="/stats/player">Stats</a></li>
+					<li><a href="/tickets?icampaign=Standings_Tickets">NFL Tickets Directory</a></li>
+					<li><a href="http://www.ticketexchangebyticketmaster.com/nfl?intcmp=tm103729&wt.mc_id=NFL_LEAGUE_STANDINGS_EX_LINK&extcmp=TE_Standings_buy">NFL Ticket Exchange</a></li>
+				
+			
+		</ul>
+	</div>
+</div>
+<!-- END PAGE rightrail/otherlinks -->
+
+		<div class="ad-section">
+			<p class="ad-below"><img src="http://img.static.nfl.com/static/site/3.5/img/advertisment-notice-top.gif" alt="The next object is an advertisement" /></p>
+			
+<div class="adcontainer" id="ad1312833110633rightrailfirst" style="width:160px;height:600px;">
+	
+	
+	<noscript>
+		<a href="http://ad.doubleclick.net/jump/nfl.players/search;s1=search;slot=rightrailfirst;url=search;nfl=ad;!category=;kw=;tile=#{tile};test=;sz=160x600" target="_blank">
+			<img class="adImg" src="http://ad.doubleclick.net/ad/nfl.players/search;s1=search;slot=rightrailfirst;url=search;nfl=ad;!category=;kw=;tile=#{tile};test=;sz=160x600" width="160" height="600" alt=""/>
+		</a>
+	</noscript>
+</div>
+<script type="text/javascript">
+
+nfl.ads.createAd("ad1312833110633rightrailfirst", 'nfl.players/search;s1=search;slot=rightrailfirst;url=search;nfl=ad;!category=;kw=;tile=#{tile};test=;sz=160x600', {
+	
+	
+	
+	
+	width: 160,
+	height: 600,
+	rotating: false,
+	slot: 'rightrailfirst',
+	transparent: false
+});
+</script>
+
+		</div>
+	</div>
+</div>
+<!-- END PAGE player/playerfilteredresults -->
+				</div>
+				<div class="w"></div>
+				<div class="t"></div>
+			</div>
+			<!-- END DECORATOR 2010/default -->
+			</div>
+		</div>
+		
+		<div id="br">
+			<div id="ft-teams">
+				<div id="footer-logo">
+					<a href="http://www.nfl.com/"><img alt="NFL Logo" src="http://img.static.nfl.com/static/site/3.5/img/global/nfl-logo-footer-2010.png" />&nbsp;</a>
+				</div>
+				
+<ul>
+	<li><a href="http://nflrush.com/?campaign=NFL_footer" target="_blank">NFL Rush</a> | <a href="http://www.nflrush.com/play60">PLAY 60</a></li>
+	<li><a href="http://www.nflyouthpd.com/" target="_blank">NFL Youth Tackle</a></li>
+	<li><a href="http://www.usafootball.com" target="_blank">USA Football</a></li>
+	<li><a href="http://www.nfl.com/international">NFL International</a></li>
+	<li><a href="http://www.nflonlocation.net" target="_blank">NFL On Location</a></li>
+	<li><a href="http://www.nflextrapoints.com/">NFL Extra Points</a></li>
+	<li><a href="http://www.nfl.com/rulebook" target="_blank">Rulebook</a></li>
+	<li><a href="http://www.nfl.com/contact-us">Contact Us</a> | <a href="http://www.nfl.com/help/faq">FAQ</a> | <a href="http://www.nfl.com/news/author?id=09000d5d8142ac0e" target="_blank">PR</a></li>
+	<li>Jobs: <a href="http://www.nfl.apply2jobs.com/" target="_blank">League</a> | <a href="http://footballjobs.teamworkonline.com/teamwork/jobs/default.cfm" target="_blank">Team</a></li>
+	<li><a href="http://www.nflhealthandsafety.com/" target="_blank">NFLHealthandSafety.com</a></li>
+</ul>
+
+<ul>
+	<!--  li>NFL Corporate</li  -->
+	<li><a href="http://www.nflshop.com/entry.point?target=z&source=NFL_SHOP_TAB_BOTTOM_BANNER" target="_blank">NFL Shop</a></li>
+	<li><a href="http://www.ticketexchangebyticketmaster.com/NFL/default.aspx?intcmp=tm100454&wt.mc_id=NFL_LEAGUE_TE_FOOTER&extcmp=Footer_TX_EX" target="_blank">NFL Ticket Exchange</a></li>
+	<!-- <li><a href="http://women.nfl.com">NFL Women's Apparel</a></li> -->
+	<li><a href="http://www.nfl.com/static/content/catch_all/nfl_generic_content/media-kit-2010.pdf">Media</a> | <a href="http://www.nfl.biz">Licensing</a></li>
+	<li><a href="http://profootballhof.com" target="_blank">Profootballhof.com</a></li>
+	<li><a href="http://www.nfllabor.com" target="_blank">NFLLabor.com</a></li>
+	<li><a href="http://www.nfl.com/community" target="_blank">In The Community</a></li>
+	<!-- <li><a href="http://nflplayers.com" target="_blank">NFLPlayers.com</a></li> -->
+	<li><a href="https://www.nflplayercare.com/" target="_blank">NFL Player Care</a></li>
+	<li><a href="https://www.nflplayerengagement.com" target="_blank">Player Engagement</a></li>
+</ul>
+
+<div id="ft-teams-afc-mark-container">
+	<div id="ft-teams-afc-mark"></div>
+	<div class="ft-teams-parenthesis"></div>
+</div>
+<ul class="ft-teams-list">
+	<li><a href="http://www.buffalobills.com/" target="_blank">Bills</a></li>
+	<li><a href="http://www.miamidolphins.com/" target="_blank">Dolphins</a></li>
+	<li><a href="http://www.patriots.com/" target="_blank">Patriots</a></li>
+	<li><a href="http://www.newyorkjets.com/" target="_blank">Jets</a></li>
+</ul>
+<ul class="ft-teams-list">
+	<li><a href="http://www.baltimoreravens.com/" target="_blank">Ravens</a></li>
+	<li><a href="http://www.bengals.com/" target="_blank">Bengals</a></li>
+	<li><a href="http://www.clevelandbrowns.com/" target="_blank">Browns</a></li>
+	<li><a href="http://www.steelers.com/" target="_blank">Steelers</a></li>
+</ul>
+<ul class="ft-teams-list">
+	<li><a href="http://www.houstontexans.com/" target="_blank">Texans</a></li>
+	<li><a href="http://www.colts.com/" target="_blank">Colts</a></li>
+	<li><a href="http://www.jaguars.com/" target="_blank">Jaguars</a></li>
+	<li><a href="http://www.titansonline.com/" target="_blank">Titans</a></li>
+</ul>
+<ul class="ft-teams-list">
+	<li><a href="http://www.denverbroncos.com/" target="_blank">Broncos</a></li>
+	<li><a href="http://www.kcchiefs.com/" target="_blank">Chiefs</a></li>
+	<li><a href="http://www.raiders.com/" target="_blank">Raiders</a></li>
+	<li><a href="http://www.chargers.com/" target="_blank">Chargers</a></li>
+</ul>
+<div id="ft-teams-nfc-mark-container">
+	<div id="ft-teams-nfc-mark"></div>
+	<div class="ft-teams-parenthesis"></div>
+</div>
+<ul class="ft-teams-list">
+	<li><a href="http://www.dallascowboys.com/" target="_blank">Cowboys</a></li>
+	<li><a href="http://www.giants.com/" target="_blank">Giants</a></li>
+	<li><a href="http://www.philadelphiaeagles.com/" target="_blank">Eagles</a></li>
+	<li><a href="http://www.redskins.com/" target="_blank">Redskins</a></li>
+</ul>
+<ul class="ft-teams-list">
+	<li><a href="http://www.chicagobears.com/" target="_blank">Bears</a></li>
+	<li><a href="http://www.detroitlions.com/" target="_blank">Lions</a></li>
+	<li><a href="http://www.packers.com/" target="_blank">Packers</a></li>
+	<li><a href="http://www.vikings.com/" target="_blank">Vikings</a></li>
+</ul>
+<ul class="ft-teams-list">
+	<li><a href="http://www.atlantafalcons.com/" target="_blank">Falcons</a></li>
+	<li><a href="http://www.panthers.com/" target="_blank">Panthers</a></li>
+	<li><a href="http://www.neworleanssaints.com/" target="_blank">Saints</a></li>
+	<li><a href="http://www.buccaneers.com/" target="_blank">Buccaneers</a></li>
+</ul>
+<ul class="ft-teams-list">
+	<li><a href="http://www.azcardinals.com/" target="_blank">Cardinals</a></li>
+	<li><a href="http://www.stlouisrams.com/" target="_blank">Rams</a></li>
+	<li><a href="http://www.sf49ers.com/" target="_blank">49ers</a></li>
+	<li><a href="http://www.seahawks.com/" target="_blank">Seahawks</a></li>
+</ul>
+<script>nfl.bandages.IE6FooterFixes();</script>
+				
+<p class="copyright">
+			&copy; 2011 NFL Enterprises LLC. NFL and the NFL shield design are registered trademarks of the
+			National Football League.The team names, logos and uniform designs are registered trademarks of
+			the teams indicated. All other NFL-related trademarks are trademarks of the National Football
+			League. NFL	footage &copy; NFL Productions LLC. <a href="http://www.nfl.com/help/privacy" style="color:#b6061e;">PRIVACY POLICY</a> | <a href="http://www.nfl.com/help/terms" style="color:#b6061e;">Terms & Conditions</a>
+	</p>
+	<div id="slice" class="hslice" style=" display:none; ">
+		<div class="entry-title">NFL News</div>
+		<div class="entry-content">CONTENT</div>
+		<a rel="entry-content" href="http://www.nfl.com/ie/web-slice" style=" display:none; "></a>
+		<a rel="bookmark" target="_blank" href="http://www.nfl.com" style=" display:none; "></a>
+		<span class="ttl" style=" display:none; ">15</span>
+	</div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">/*<![CDATA[*/
+	nfl.use('node', 'nfl-header', 'nfl-omniture', function (Y) {
+		// Initialize Header
+		Y.local.header = new Y.NFL.Header({
+			ss: '#hdscorestripContainer',
+			ddn: '#ddn',
+			micro: '#hd-micro-nav-list',
+			search: '#hd-search',
+			fanteams: '#fantasy-dyn-box'
+		});
+		Y.local.omnitureTracker = new Y.NFL.OmnitureTracking({ autoTrack: true });
+		// Render shadows if necessary
+		if (! Modernizr.boxshadow) {
+			Y.all('div.shadowed').insert(
+				'<div class="s ' +
+				['tl', 't', 'tr', 'l', 'r', 'bl', 'b', 'br'].join('"></div><div class="s ') +
+				'"></div>',
+				0
+			);
+		}
+	});
+	/*]]>*/</script>
+	<!-- END DECORATOR 2010/global -->
+</body>
+</html>
+
