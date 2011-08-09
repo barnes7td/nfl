@@ -1,0 +1,2675 @@
+
+
+
+
+
+
+  
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[if lt IE 7 ]> <html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" class="ie ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" class="ie ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" class="ie ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" class="ie ie9"> <![endif]-->   
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"> <!--<![endif]-->
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+	<title>NFL Game Center: Minnesota Vikings at New Orleans Saints - 2010 Week 1</title>
+	<!-- BEGIN DECORATOR redesign/global-alt -->
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+	<meta name="viewport" content="width=1009" />
+	<link rel="shortcut icon" href="http://img.static.nfl.com/static/site/3.5/img/favicon.png" type="image/png" />
+	<link rel="stylesheet" href="http://css.static.nfl.com/static/site/3.5/styles/redesign/global.css" type="text/css" />
+	<script type="text/javascript" src="http://scripts.static.nfl.com/static/site/3.5/scripts/third-party/modernizr-1.7.min.js"></script>
+	<script src="http://scripts.static.nfl.com/static/site/3.5/scripts/lib/prototype-1.6.0.3.js" type="text/javascript"></script>
+	<script src="http://scripts.static.nfl.com/static/site/3.5/scripts/scriptaculous-1.8.1/scriptaculous.js?load=effects" type="text/javascript"></script>
+	<script src="http://scripts.static.nfl.com/static/site/3.5/scripts/lib/swfobject.js" type="text/javascript"></script>
+	
+	<!-- BEGIN INCLUDE global/nfl-constants -->
+	<script type="text/javascript" src="http://www.nfl.com/yui/3.3.0/build/yui/yui-min.js"></script>
+	<script type="text/javascript" src="http://www.nfl.com/widget/partner/constants"></script>
+	<script type="text/javascript" src="http://scripts.static.nfl.com/static/site/3.5/scripts/global/dependencies.js"></script>
+	<!-- END INCLUDE global/nfl-constants -->
+	
+
+	<script src="http://scripts.static.nfl.com/static/site/3.5/scripts/analytics/s_code.js" type="text/javascript"></script><script src="http://scripts.static.nfl.com/static/site/3.5/scripts/analytics/s_code_common.js" type="text/javascript"></script>
+	<script src="http://scripts.static.nfl.com/static/site/3.5/scripts/redesign/nfl.global.js" type="text/javascript"></script>
+	<script src="http://scripts.static.nfl.com/static/site/3.5/scripts/redesign/polls.js" type="text/javascript"></script>
+	<script src="http://connect.facebook.net/en_US/all.js" type="text/javascript"></script>
+	<meta name="decorator" content="redesign/one-column" />
+	<link rel="stylesheet" href="http://css.static.nfl.com/static/site/3.5/styles/redesign/deprecated.css" type="text/css" />
+	<meta name="description" content="Minnesota Vikings at New Orleans Saints NFL Game Center">
+	<meta id='tabPath' content='cat-post-recap-quick-take' />
+	<meta id='displayPage' content='cat-post-recap-quick-take' />
+	<meta id='visitorTeam' content='MIN' />
+	<meta id='homeTeam' content='NO' /> 
+	<meta id='season' content='2010' />
+	<meta id='week' content='REG1' />
+	<meta id='gameState' content='POST' />
+	
+	<!-- header -->
+	<meta name="show-banner-ads" content="false" />
+	<meta name="footer" content="false" />
+ 	<meta http-equiv="refresh" content="1500" />
+ 	
+	<!-- gameid : 2010090900 -->
+	<!-- gamekey : 54863 -->
+
+	<!-- commenting files -->
+	<script type="text/javascript" src="http://scripts.static.nfl.com/static/site/3.5/scripts/gamecenter/comments.js"></script>
+	<script type="text/javascript" src="http://scripts.static.nfl.com/static/site/3.5/scripts/news/comments.js"></script>
+	<script src="http://pluck.nfl.com/ver1.0/content/direct/scripts/directproxyfast.js" type="text/javascript"></script>
+	<!-- end commenting files -->
+	<!-- ratings files -->
+	<script type="text/javascript" src="http://scripts.static.nfl.com/static/site/3.5/scripts/sitelife.js"></script>
+	<script type="text/javascript" src="http://scripts.static.nfl.com/static/site/3.5/scripts/gc/gamecenter.sitelife.js"></script>
+	<!-- end ratings files -->
+	<!-- mbox omniture files  -->
+	<script type="text/javascript" src="http://scripts.static.nfl.com/static/site/3.5/scripts/analytics/mbox.js"></script>
+	<!-- end mbox omniture files  -->
+	
+	<link rel="stylesheet" type="text/css" href="http://css.static.nfl.com/static/site/3.5/styles/gc/gc.css" />
+	<script src="http://scripts.static.nfl.com/static/site/3.5/scripts/lib/slider.js" type="text/javascript" ></script>
+	<script src="http://scripts.static.nfl.com/static/site/3.5/scripts/lib/nfl.ui.tabset.js" type="text/javascript" ></script>
+	<script src="http://scripts.static.nfl.com/static/site/3.5/scripts/gc/gamecenter.engine.js" type="text/javascript" ></script>
+	<script type="text/javascript">
+	//uriTabHrefBase 	= "/gamecenter/2010090900/2010/REG1/vikings@saints/";
+	//uriBase			= "/gamecenter/2010090900/2010/REG1/"
+	//uriHrefFull 		= "/gamecenter/2010090900/2010/REG1/vikings@saints/";
+	window.location = "/gamecenter/2010090900/2010/REG1/vikings@saints/";
+	
+	
+	nfl.namespace('nfl.global.gc.extdata');
+	nfl.namespace('nfl.global.gc.ads');
+	nfl.namespace('nfl.global.gc.dc');
+	nfl.namespace('nfl.global.gc.game');
+	nfl.namespace('nfl.global.gc.tabs');
+	nfl.namespace('nfl.global.gc.vp');
+	nfl.global.gc.game.uri			= "/gamecenter/2010090900/2010/REG1/vikings@saints/";
+	nfl.global.gc.game.key			= "54863";
+	nfl.global.gc.game.id			= "2010090900";
+	nfl.global.gc.game.state		= "POST";
+	nfl.global.gc.game.date			= "2010-09-09";
+	nfl.global.gc.game.year			= 2010;
+	nfl.global.gc.game.day			= "Thursday";
+	nfl.global.gc.game.time			= "20:30:00";
+	nfl.global.gc.game.week			= "1";
+	nfl.global.gc.game.seasontype	= "REG";
+	nfl.global.gc.game.teams		= {"MIN":{"fullname":"Minnesota Vikings","link":"/teams/profile?team=MIN","standing":"(0-1-0)"},"NO":{"fullname":"New Orleans Saints","link":"/teams/profile?team=NO","standing":"(1-0-0)"}};
+	nfl.global.gc.game.gamebook		= ('/liveupdate/gamecenter/54863/NO_Gamebook.pdf' !== '')?"/liveupdate/gamecenter/54863/NO_Gamebook.pdf":false;
+	nfl.global.gc.game.cp			= ('http://static.nfl.com/static/content/public/gamecenterpiece/2010/Postgamecp-2010090900.xml' !== '')?"http://static.nfl.com/static/content/public/gamecenterpiece/2010/Postgamecp-2010090900.xml":false;
+	nfl.global.gc.extdata.stadium	= "Superdome";
+	nfl.global.gc.extdata.rooftype	= "INDOOR";
+	nfl.global.gc.extdata.teams		= {"home":{"standing":nfl.global.gc.game.teams["NO"].standing,"abbr":"NO"},"away":{"standing":nfl.global.gc.game.teams["MIN"].standing,"abbr":"MIN"}}
+	nfl.global.gc.extdata.weather	= {};
+	
+	
+	nfl.global.gc.extdata.players	= {"away":{"players":{"00-0026938":{"ln":"Wright","hometown":"Washington, DC","ht":"5-11","college":"New Mexico","team":"MIN","wt":190,"pos":"CB","uniformNumber":null,"id":"00-0026938","esbid":"WRI160201","exp":"1st season","age":25,"bdate":"4/13/1986","fn":"DeAndre"},"00-0025900":{"ln":"Clark","hometown":"New Orleans, LA","ht":"6-5","college":"Southern Mississippi","team":"MIN","wt":315,"pos":"OT","uniformNumber":75,"id":"00-0025900","esbid":"CLA232975","exp":"1st season","age":25,"bdate":"10/1/1985","fn":"Chris"},"00-0025955":{"ln":"Young","hometown":"Moorestown, NJ","ht":"5-10","college":"Iowa","team":"MIN","wt":209,"pos":"RB","uniformNumber":34,"id":"00-0025955","esbid":"YOU052455","exp":"2nd season","age":26,"bdate":"2/25/1985","fn":"Albert"},"00-0025489":{"ln":"Robison","hometown":"Houston, TX","ht":"6-3","college":"Texas","team":"MIN","wt":259,"pos":"DE","uniformNumber":96,"id":"00-0025489","esbid":"ROB744810","exp":"4th season","age":28,"bdate":"4/27/1983","fn":"Brian"},"00-0024342":{"ln":"Edwards","hometown":"Cincinnati, OH","ht":"6-5","college":"Purdue","team":"MIN","wt":268,"pos":"DE","uniformNumber":91,"id":"00-0024342","esbid":"EDW639849","exp":"5th season","age":26,"bdate":"1/1/1985","fn":"Ray"},"00-0026327":{"ln":"Sullivan","hometown":"Mount Kisco, NY","ht":"6-4","college":"Notre Dame","team":"MIN","wt":301,"pos":"C","uniformNumber":65,"id":"00-0026327","esbid":"SUL513788","exp":"3rd season","age":26,"bdate":"8/8/1985","fn":"John"},"00-0026486":{"ln":"Onatolu","hometown":"Chicago, IL","ht":"6-2","college":"Nebraska-Omaha","team":"MIN","wt":225,"pos":"LB","uniformNumber":55,"id":"00-0026486","esbid":"ONA622937","exp":"2nd season","age":28,"bdate":"10/8/1982","fn":"Kenny"},"00-0026578":{"ln":"Anderson","hometown":"Butte, MT","ht":"5-10","college":"Montana","team":"MIN","wt":194,"pos":"DB","uniformNumber":49,"id":"00-0026578","esbid":"AND162908","exp":"1st season","age":25,"bdate":"10/25/1985","fn":"Colt"},"00-0026585":{"ln":"Johnson","hometown":"Houston, TX","ht":"6-2","college":"LSU","team":"MIN","wt":285,"pos":"DT","uniformNumber":95,"id":"00-0026585","esbid":"JOH695764","exp":"1st season","age":25,"bdate":"9/26/1985","fn":"Tremaine"},"00-0026599":{"ln":"Parks","hometown":"Atlanta, GA","ht":"5-10","college":"Northeastern","team":"MIN","wt":178,"pos":"DB","uniformNumber":null,"id":"00-0026599","esbid":"PAR496984","exp":"1st season","age":24,"bdate":"11/12/1986","fn":"Cord"},"00-0025458":{"ln":"Booker","hometown":"Oxnard, CA","ht":"5-10","college":"Florida State","team":"MIN","wt":191,"pos":"RB","uniformNumber":27,"id":"00-0025458","esbid":"BOO032357","exp":"3rd season","age":27,"bdate":"6/14/1984","fn":"Lorenzo"},"00-0025910":{"ln":"Castille","hometown":"Phenix City, AL","ht":"6-0","college":"Alabama","team":"MIN","wt":190,"pos":"DB","uniformNumber":null,"id":"00-0025910","esbid":"CAS757901","exp":"2nd season","age":25,"bdate":"10/12/1985","fn":"Simeon"},"00-0025552":{"ln":"Frampton","hometown":"San Jose, CA","ht":"5-11","college":"Washington State","team":"MIN","wt":205,"pos":"DB","uniformNumber":37,"id":"00-0025552","esbid":"FRA046140","exp":"4th season","age":27,"bdate":"2/6/1984","fn":"Eric"},"00-0026292":{"ln":"Guion","hometown":"Starke, FL","ht":"6-4","college":"Florida State","team":"MIN","wt":303,"pos":"DT","uniformNumber":98,"id":"00-0026292","esbid":"GUI723790","exp":"3rd season","age":24,"bdate":"6/21/1987","fn":"Letroy"},"00-0025945":{"ln":"Henderson","hometown":"Aberdeen, MD","ht":"6-3","college":"Maryland","team":"MIN","wt":244,"pos":"LB","uniformNumber":50,"id":"00-0025945","esbid":"HEN060724","exp":"3rd season","age":25,"bdate":"7/1/1986","fn":"Erin"},"00-0026700":{"ln":"Brown","hometown":"Naperville, IL","ht":"6-5","college":"Central Florida","team":"MIN","wt":310,"pos":"T","uniformNumber":79,"id":"00-0026700","esbid":"BRO574770","exp":"1st season","age":24,"bdate":"12/25/1986","fn":"Patrick"},"00-0024263":{"ln":"Griffin","hometown":"Natchez, MS","ht":"6-0","college":"Texas","team":"MIN","wt":203,"pos":"DB","uniformNumber":23,"id":"00-0024263","esbid":"GRI080223","exp":"5th season","age":28,"bdate":"11/11/1982","fn":"Cedric"},"00-0025431":{"ln":"Rice","hometown":"Gaffney, SC","ht":"6-4","college":"South Carolina","team":"MIN","wt":202,"pos":"WR","uniformNumber":18,"id":"00-0025431","esbid":"RIC161100","exp":"4th season","age":24,"bdate":"9/1/1986","fn":"Sidney"},"00-0026333":{"ln":"Johnson","hometown":"Gary, IN","ht":"6-0","college":"Jackson State","team":"MIN","wt":176,"pos":"WR","uniformNumber":11,"id":"00-0026333","esbid":"JOH341279","exp":"2nd season","age":27,"bdate":"7/10/1984","fn":"Jaymar"},"00-0009323":{"ln":"Kleinsasser","hometown":"Carrington, ND","ht":"6-3","college":"North Dakota","team":"MIN","wt":272,"pos":"TE","uniformNumber":40,"id":"00-0009323","esbid":"KLE428040","exp":"12th season","age":34,"bdate":"1/31/1977","fn":"Jimmy"},"00-0010072":{"ln":"Longwell","hometown":"Seattle, WA","ht":"6-0","college":"California","team":"MIN","wt":200,"pos":"K","uniformNumber":8,"id":"00-0010072","esbid":"LON819356","exp":"14th season","age":36,"bdate":"8/16/1974","fn":"Ryan"},"00-0020466":{"ln":"Hutchinson","hometown":"Fort Lauderdale, FL","ht":"6-5","college":"Michigan","team":"MIN","wt":313,"pos":"G","uniformNumber":76,"id":"00-0020466","esbid":"HUT173616","exp":"10th season","age":33,"bdate":"11/1/1977","fn":"Steve"},"00-0020480":{"ln":"Rosenfels","hometown":"Maquoketa, IA","ht":"6-4","college":"Iowa State","team":"MIN","wt":225,"pos":"QB","uniformNumber":2,"id":"00-0020480","esbid":"ROS396938","exp":"10th season","age":33,"bdate":"3/6/1978","fn":"Sage"},"00-0024321":{"ln":"Mills","hometown":"Tulsa, OK","ht":"6-1","college":"Tulsa","team":"MIN","wt":235,"pos":"TE","uniformNumber":45,"id":"00-0024321","esbid":"MIL686619","exp":"4th season","age":27,"bdate":"10/12/1983","fn":"Garrett"},"00-0025948":{"ln":"Leman","hometown":"Champaign, IL","ht":"6-2","college":"Illinois","team":"MIN","wt":240,"pos":"LB","uniformNumber":57,"id":"00-0025948","esbid":"LEM105154","exp":"2nd season","age":26,"bdate":"3/1/1985","fn":"Jeremy"},"00-0021153":{"ln":"Walker","hometown":"Galveston, TX","ht":"6-3","college":"Florida State","team":"MIN","wt":215,"pos":"WR","uniformNumber":null,"id":"00-0021153","esbid":"WAL209632","exp":"9th season","age":32,"bdate":"10/14/1978","fn":"Javon"},"00-0021157":{"ln":"Sheppard","hometown":"Jacksonville, FL","ht":"5-10","college":"Florida","team":"MIN","wt":194,"pos":"DB","uniformNumber":29,"id":"00-0021157","esbid":"SHE556636","exp":"9th season","age":30,"bdate":"4/8/1981","fn":"Lito"},"00-0026959":{"ln":"Mitchell","hometown":"Port Huron, MI","ht":"6-4","college":"Nevada-Reno","team":"MIN","wt":218,"pos":"WR","uniformNumber":19,"id":"00-0026959","esbid":"MIT512333","exp":"2nd season","age":26,"bdate":"3/11/1985","fn":"Marko"},"00-0011754":{"ln":"Moss","hometown":"Rand, WV","ht":"6-4","college":"Marshall","team":"MIN","wt":210,"pos":"WR","uniformNumber":84,"id":"00-0011754","esbid":"MOS699912","exp":"13th season","age":34,"bdate":"2/13/1977","fn":"Randy"},"00-0021197":{"ln":"Leber","hometown":"Vermillion, SD","ht":"6-3","college":"Kansas State","team":"MIN","wt":244,"pos":"LB","uniformNumber":51,"id":"00-0021197","esbid":"LEB506360","exp":"9th season","age":32,"bdate":"12/7/1978","fn":"Ben"},"00-0021379":{"ln":"Ramsey","hometown":"Ruston, LA","ht":"6-2","college":"Tulane","team":"MIN","wt":225,"pos":"QB","uniformNumber":9,"id":"00-0021379","esbid":"RAM596976","exp":"8th season","age":32,"bdate":"2/14/1979","fn":"Patrick"},"00-0021383":{"ln":"McKinnie","hometown":"Woodbury, NJ","ht":"6-8","college":"Miami (Fla.)","team":"MIN","wt":335,"pos":"T","uniformNumber":74,"id":"00-0021383","esbid":"MCK582010","exp":"9th season","age":31,"bdate":"9/23/1979","fn":"Bryant"},"00-0027096":{"ln":"Olsen","hometown":"Willmar, MN","ht":"6-5","college":"Iowa","team":"MIN","wt":308,"pos":"OG","uniformNumber":null,"id":"00-0027096","esbid":"OLS327015","exp":"2nd season","age":25,"bdate":"12/17/1985","fn":"Seth"},"00-0021508":{"ln":"Lewis","hometown":"Chicago, IL","ht":"6-0","college":"Illinois","team":"MIN","wt":185,"pos":"WR","uniformNumber":17,"id":"00-0021508","esbid":"LEW333082","exp":"8th season","age":31,"bdate":"2/12/1980","fn":"Greg"},"00-0021943":{"ln":"Walker","hometown":"Tuskegee, AL","ht":"5-11","college":"Tuskegee","team":"MIN","wt":200,"pos":"DB","uniformNumber":41,"id":"00-0021943","esbid":"WAL155727","exp":"8th season","age":30,"bdate":"8/6/1981","fn":"Frank"},"00-0022054":{"ln":"Shiancoe","hometown":"Birmingham, null","ht":"6-4","college":"Morgan State","team":"MIN","wt":250,"pos":"TE","uniformNumber":81,"id":"00-0022054","esbid":"SHI025168","exp":"8th season","age":31,"bdate":"6/18/1980","fn":"Visanthe"},"00-0022073":{"ln":"Williams","hometown":"Arkadelphia, AR","ht":"6-5","college":"Oklahoma State","team":"MIN","wt":311,"pos":"DT","uniformNumber":93,"id":"00-0022073","esbid":"WIL407346","exp":"8th season","age":30,"bdate":"8/16/1980","fn":"Kevin"},"00-0022081":{"ln":"Henderson","hometown":"Fort Campbell, KY","ht":"6-1","college":"Maryland","team":"MIN","wt":245,"pos":"LB","uniformNumber":56,"id":"00-0022081","esbid":"HEN060332","exp":"8th season","age":31,"bdate":"8/3/1980","fn":"E.J."},"00-0022155":{"ln":"Kennedy","hometown":"Yonkers, NY","ht":"6-4","college":"Penn State","team":"MIN","wt":320,"pos":"DT","uniformNumber":73,"id":"00-0022155","esbid":"KEN437436","exp":"8th season","age":31,"bdate":"11/15/1979","fn":"Jimmy"},"00-0027385":{"ln":"Austin","hometown":"","ht":"6-4","college":"Clemson","team":"MIN","wt":310,"pos":"G","uniformNumber":63,"id":"00-0027385","esbid":"AUS686510","exp":"Rookie","age":24,"bdate":"11/14/1986","fn":"Thomas"},"00-0027390":{"ln":"Small","hometown":"","ht":"5-11","college":"Ohio State","team":"MIN","wt":180,"pos":"WR","uniformNumber":85,"id":"00-0027390","esbid":"SMA689163","exp":"Rookie","age":24,"bdate":"3/25/1987","fn":"Ray"},"00-0027487":{"ln":"Martinez","hometown":"San Clemente, CA","ht":"6-3","college":"Colorado State","team":"MIN","wt":208,"pos":"C","uniformNumber":null,"id":"00-0027487","esbid":"MAR776008","exp":"Rookie","age":23,"bdate":"11/4/1987","fn":"Adrian"},"00-0027522":{"ln":"Noethlich","hometown":"","ht":"6-7","college":"Southwest State","team":"MIN","wt":308,"pos":"T","uniformNumber":61,"id":"00-0027522","esbid":"NOE622937","exp":"Rookie","age":24,"bdate":"11/10/1986","fn":"Bill"},"00-0027535":{"ln":"Hamilton","hometown":"","ht":"6-3","college":"Iowa State","team":"MIN","wt":222,"pos":"WR","uniformNumber":13,"id":"00-0027535","esbid":"HAM278300","exp":"Rookie","age":24,"bdate":"6/18/1987","fn":"Marquis"},"00-0027545":{"ln":"Battles","hometown":"","ht":"6-3","college":"Minnesota State-Mankato","team":"MIN","wt":311,"pos":"G","uniformNumber":79,"id":"00-0027545","esbid":"BAT654593","exp":"Rookie","age":24,"bdate":"10/30/1986","fn":"Adrian"},"00-0027547":{"ln":"Sherels","hometown":"Rochester, MN","ht":"5-10","college":"Minnesota","team":"MIN","wt":175,"pos":"DB","uniformNumber":35,"id":"00-0027547","esbid":"SHE563263","exp":"Rookie","age":23,"bdate":"9/30/1987","fn":"Marcus"},"00-0022266":{"ln":"Herrera","hometown":"","ht":"6-2","college":"Tennessee","team":"MIN","wt":315,"pos":"G","uniformNumber":64,"id":"00-0022266","esbid":"HER474016","exp":"7th season","age":31,"bdate":"6/14/1980","fn":"Anthony"},"00-0022352":{"ln":"Sapp","hometown":"Fort Lauderdale, FL","ht":"5-9","college":"Northern Iowa","team":"MIN","wt":190,"pos":"DB","uniformNumber":22,"id":"00-0022352","esbid":"SAP584685","exp":"7th season","age":30,"bdate":"1/20/1981","fn":"Benny"},"00-0022581":{"ln":"Loeffler","hometown":"Washington, DC","ht":"6-5","college":"Texas","team":"MIN","wt":241,"pos":"LS","uniformNumber":46,"id":"00-0022581","esbid":"LOE114001","exp":"7th season","age":30,"bdate":"1/27/1981","fn":"Cullen"},"00-0026998":{"ln":"Harvin","hometown":"Chesapeake, VA","ht":"5-11","college":"Florida","team":"MIN","wt":184,"pos":"WR","uniformNumber":12,"id":"00-0026998","esbid":"HAR829482","exp":"2nd season","age":23,"bdate":"5/28/1988","fn":"Percy"},"00-0022740":{"ln":"Allen","hometown":"Dallas, TX","ht":"6-6","college":"Idaho State","team":"MIN","wt":270,"pos":"DE","uniformNumber":69,"id":"00-0022740","esbid":"ALL454745","exp":"7th season","age":29,"bdate":"4/3/1982","fn":"Jared"},"00-0022746":{"ln":"Dugan","hometown":"Pittsburgh, PA","ht":"6-4","college":"Maryland","team":"MIN","wt":258,"pos":"TE","uniformNumber":83,"id":"00-0022746","esbid":"DUG092572","exp":"7th season","age":30,"bdate":"4/8/1981","fn":"Jeff"},"00-0022807":{"ln":"Berrian","hometown":"Barcelona, null","ht":"6-1","college":"Fresno State","team":"MIN","wt":185,"pos":"WR","uniformNumber":87,"id":"00-0022807","esbid":"BER454540","exp":"7th season","age":30,"bdate":"12/27/1980","fn":"Bernard"},"00-0022842":{"ln":"Williams","hometown":"","ht":"6-1","college":"Maryland","team":"MIN","wt":203,"pos":"DB","uniformNumber":20,"id":"00-0022842","esbid":"WIL430429","exp":"7th season","age":29,"bdate":"10/18/1981","fn":"Madieu"},"00-0027108":{"ln":"Brinkley","hometown":"Thomson, GA","ht":"6-1","college":"South Carolina","team":"MIN","wt":252,"pos":"LB","uniformNumber":54,"id":"00-0027108","esbid":"BRI423678","exp":"2nd season","age":26,"bdate":"7/12/1985","fn":"Jasper"},"00-0023060":{"ln":"Kluwe","hometown":"Philadelphia, PA","ht":"6-4","college":"UCLA","team":"MIN","wt":215,"pos":"P","uniformNumber":5,"id":"00-0023060","esbid":"KLU751480","exp":"6th season","age":29,"bdate":"12/24/1981","fn":"Chris"},"00-0027760":{"ln":"DeGeare","hometown":"Chandler, AZ","ht":"6-4","college":"Wake Forest","team":"MIN","wt":335,"pos":"OG","uniformNumber":72,"id":"00-0027760","esbid":"DEG152616","exp":"Rookie","age":24,"bdate":"2/17/1987","fn":"Chris"},"00-0027766":{"ln":"Triplett","hometown":"Maple Plain, MN","ht":"6-3","college":"Minnesota","team":"MIN","wt":247,"pos":"LB","uniformNumber":58,"id":"00-0027766","esbid":"TRI309578","exp":"Rookie","age":24,"bdate":"3/15/1987","fn":"Nate"},"00-0027809":{"ln":"Shuler","hometown":"Lido Beach, NY","ht":"6-4","college":"Penn State","team":"MIN","wt":247,"pos":"TE","uniformNumber":82,"id":"00-0027809","esbid":"SHU338232","exp":"Rookie","age":24,"bdate":"10/9/1986","fn":"Mickey"},"00-0023215":{"ln":"Farwell","hometown":"Fontana, CA","ht":"6-0","college":"San Diego State","team":"MIN","wt":235,"pos":"LB","uniformNumber":59,"id":"00-0023215","esbid":"FAR798216","exp":"6th season","age":29,"bdate":"12/31/1981","fn":"Heath"},"00-0023363":{"ln":"Lloyd","hometown":"Dover, null","ht":"6-0","college":"Minnesota","team":"MIN","wt":238,"pos":"K","uniformNumber":9,"id":"00-0023363","esbid":"LLO676464","exp":"4th season","age":29,"bdate":"6/5/1982","fn":"Rhys"},"00-0023408":{"ln":"Camarillo","hometown":"Redwood City, CA","ht":"6-1","college":"Stanford","team":"MIN","wt":190,"pos":"WR","uniformNumber":85,"id":"00-0023408","esbid":"CAM014486","exp":"5th season","age":29,"bdate":"4/18/1982","fn":"Greg"},"00-0023512":{"ln":"Moats","hometown":"Dallas, TX","ht":"5-8","college":"Louisiana Tech","team":"MIN","wt":210,"pos":"RB","uniformNumber":30,"id":"00-0023512","esbid":"MOA618964","exp":"6th season","age":28,"bdate":"12/17/1982","fn":"Ryan"},"00-0025950":{"ln":"Radovich","hometown":"Mission Viejo, CA","ht":"6-5","college":"USC","team":"MIN","wt":305,"pos":"T","uniformNumber":60,"id":"00-0025950","esbid":"RAD702174","exp":"2nd season","age":26,"bdate":"6/20/1985","fn":"Drew"},"00-0005106":{"ln":"Favre","hometown":"Gulfport, MS","ht":"6-2","college":"Southern Mississippi","team":"MIN","wt":222,"pos":"QB","uniformNumber":4,"id":"00-0005106","esbid":"FAV540222","exp":"20th season","age":41,"bdate":"10/10/1969","fn":"Brett"},"00-0023613":{"ln":"Montgomery","hometown":"Carthage, TX","ht":"6-5","college":"Texas A&M","team":"MIN","wt":282,"pos":"DT","uniformNumber":99,"id":"00-0023613","esbid":"MON607346","exp":"6th season","age":27,"bdate":"8/18/1983","fn":"Mike"},"00-0023774":{"ln":"Tahi","hometown":"Fontana, CA","ht":"6-0","college":"Brigham Young","team":"MIN","wt":254,"pos":"RB","uniformNumber":38,"id":"00-0023774","esbid":"TAH296636","exp":"5th season","age":29,"bdate":"10/30/1981","fn":"Naufahu"},"00-0025940":{"ln":"Abdullah","hometown":"Los Angeles, CA","ht":"6-0","college":"Washington State","team":"MIN","wt":204,"pos":"DB","uniformNumber":39,"id":"00-0025940","esbid":"ABD660476","exp":"3rd season","age":26,"bdate":"7/27/1985","fn":"Husain"},"00-0026183":{"ln":"Johnson","hometown":"Rison, AR","ht":"6-0","college":"Arkansas State","team":"MIN","wt":207,"pos":"DB","uniformNumber":25,"id":"00-0026183","esbid":"JOH488871","exp":"3rd season","age":26,"bdate":"5/19/1985","fn":"Tyrell"},"00-0026916":{"ln":"Bomar","hometown":"Groesbeck, TX","ht":"6-2","college":"Sam Houston State","team":"MIN","wt":225,"pos":"QB","uniformNumber":3,"id":"00-0026916","esbid":"BOM404041","exp":"1st season","age":26,"bdate":"7/2/1985","fn":"Rhett"},"00-0023867":{"ln":"Biddle","hometown":"","ht":"6-1","college":"Mississippi","team":"MIN","wt":185,"pos":"WR","uniformNumber":15,"id":"00-0023867","esbid":"BID148317","exp":"2nd season","age":28,"bdate":"2/27/1983","fn":"Taye"},"00-0023893":{"ln":"Mitchell","hometown":"Abbeville, LA","ht":"6-6","college":"Mississippi","team":"MIN","wt":285,"pos":"DE","uniformNumber":92,"id":"00-0023893","esbid":"MIT360131","exp":"5th season","age":27,"bdate":"3/15/1984","fn":"Jayme"},"00-0026580":{"ln":"Cooper","hometown":"Phoenix, NY","ht":"6-2","college":"Oklahoma","team":"MIN","wt":291,"pos":"C","uniformNumber":68,"id":"00-0026580","esbid":"COO616198","exp":"2nd season","age":24,"bdate":"10/1/1986","fn":"Jon"},"00-0026929":{"ln":"Gardner","hometown":"Chamblee, GA","ht":"6-6","college":"Georgia Tech","team":"MIN","wt":305,"pos":"OT","uniformNumber":null,"id":"00-0026929","esbid":"GAR153212","exp":"2nd season","age":25,"bdate":"4/4/1986","fn":"Andrew"},"00-0027030":{"ln":"Loadholt","hometown":"Honolulu, HI","ht":"6-8","college":"Oklahoma","team":"MIN","wt":343,"pos":"OT","uniformNumber":71,"id":"00-0027030","esbid":"LOA148317","exp":"2nd season","age":25,"bdate":"1/21/1986","fn":"Phil"},"00-0026952":{"ln":"Sanford","hometown":"Batesville, MS","ht":"5-10","college":"Mississippi","team":"MIN","wt":200,"pos":"DB","uniformNumber":33,"id":"00-0026952","esbid":"SAN663248","exp":"2nd season","age":25,"bdate":"8/27/1985","fn":"Jamarca"},"00-0017899":{"ln":"Williams","hometown":"Monroe, LA","ht":"6-3","college":"Texas A&M","team":"MIN","wt":317,"pos":"DT","uniformNumber":94,"id":"00-0017899","esbid":"WIL462033","exp":"14th season","age":38,"bdate":"10/24/1972","fn":"Pat"},"00-0018093":{"ln":"Winfield","hometown":"Akron, OH","ht":"5-9","college":"Ohio State","team":"MIN","wt":180,"pos":"DB","uniformNumber":26,"id":"00-0018093","esbid":"WIN144862","exp":"12th season","age":34,"bdate":"6/24/1977","fn":"Antoine"},"00-0024232":{"ln":"Greenway","hometown":"Mount Vernon, SD","ht":"6-2","college":"Iowa","team":"MIN","wt":242,"pos":"LB","uniformNumber":52,"id":"00-0024232","esbid":"GRE573953","exp":"5th season","age":28,"bdate":"1/12/1983","fn":"Chad"},"00-0024266":{"ln":"Cook","hometown":"Albuquerque, NM","ht":"6-6","college":"New Mexico","team":"MIN","wt":328,"pos":"T","uniformNumber":62,"id":"00-0024266","esbid":"COO225916","exp":"5th season","age":28,"bdate":"5/8/1983","fn":"Ryan"},"00-0024426":{"ln":"Evans","hometown":"Chicago, IL","ht":"6-4","college":"Texas State","team":"MIN","wt":305,"pos":"NT","uniformNumber":90,"id":"00-0024426","esbid":"EVA202016","exp":"5th season","age":27,"bdate":"11/6/1983","fn":"Fred"},"00-0025951":{"ln":"Reynaud","hometown":"Luling, LA","ht":"5-9","college":"West Virginia","team":"MIN","wt":201,"pos":"WR","uniformNumber":27,"id":"00-0025951","esbid":"REY044528","exp":"3rd season","age":26,"bdate":"12/29/1984","fn":"Darius"},"00-0024279":{"ln":"Jackson","hometown":"Montgomery, AL","ht":"6-2","college":"Alabama State","team":"MIN","wt":225,"pos":"QB","uniformNumber":7,"id":"00-0024279","esbid":"JAC566507","exp":"5th season","age":28,"bdate":"4/21/1983","fn":"Tarvaris"},"00-0024013":{"ln":"Baskett","hometown":"Clovis, NM","ht":"6-4","college":"New Mexico","team":"MIN","wt":220,"pos":"WR","uniformNumber":19,"id":"00-0024013","esbid":"BAS256097","exp":"5th season","age":28,"bdate":"9/4/1982","fn":"Hank"},"00-0024595":{"ln":"Payne","hometown":"Tampa, FL","ht":"6-2","college":"Minnesota","team":"MIN","wt":208,"pos":"WR","uniformNumber":84,"id":"00-0024595","esbid":"PAY385838","exp":"1st season","age":26,"bdate":"1/21/1985","fn":"Logan"},"00-0025394":{"ln":"Peterson","hometown":"Palestine, TX","ht":"6-1","college":"Oklahoma","team":"MIN","wt":217,"pos":"RB","uniformNumber":28,"id":"00-0025394","esbid":"PET260705","exp":"4th season","age":26,"bdate":"3/21/1985","fn":"Adrian"},"00-0027796":{"ln":"Webb","hometown":"Birmingham, AL","ht":"6-4","college":"Alabama-Birmingham","team":"MIN","wt":220,"pos":"QB","uniformNumber":14,"id":"00-0027796","esbid":"WEB212765","exp":"Rookie","age":24,"bdate":"11/14/1986","fn":"Joe"},"00-0027803":{"ln":"Welch","hometown":"","ht":"6-7","college":"Vanderbilt","team":"MIN","wt":310,"pos":"OT","uniformNumber":66,"id":"00-0027803","esbid":"WEL130587","exp":"Rookie","age":24,"bdate":"6/19/1987","fn":"Thomas"},"00-0027888":{"ln":"Gerhart","hometown":"Norco, CA","ht":"6-0","college":"Stanford","team":"MIN","wt":231,"pos":"RB","uniformNumber":32,"id":"00-0027888","esbid":"GER353982","exp":"Rookie","age":24,"bdate":"3/28/1987","fn":"Toby"},"00-0027612":{"ln":"D'Imperio","hometown":"","ht":"6-3","college":"Rutgers","team":"MIN","wt":241,"pos":"RB","uniformNumber":44,"id":"00-0027612","esbid":"DIM685225","exp":"Rookie","age":23,"bdate":"8/15/1987","fn":"Ryan"},"00-0027649":{"ln":"Cook","hometown":"Lynchburg, VA","ht":"6-2","college":"Virginia","team":"MIN","wt":212,"pos":"DB","uniformNumber":31,"id":"00-0027649","esbid":"COO033097","exp":"Rookie","age":24,"bdate":"2/15/1987","fn":"Chris"},"00-0027058":{"ln":"Allen","hometown":"Marietta, GA","ht":"5-9","college":"Georgia","team":"MIN","wt":194,"pos":"DB","uniformNumber":21,"id":"00-0027058","esbid":"ALL060962","exp":"2nd season","age":23,"bdate":"1/22/1988","fn":"Asher"},"00-0027126":{"ln":"Harris","hometown":"Los Angeles, CA","ht":"5-11","college":"USC","team":"MIN","wt":187,"pos":"DB","uniformNumber":null,"id":"00-0027126","esbid":"HAR348341","exp":"2nd season","age":24,"bdate":"3/22/1987","fn":"Cary"},"00-0026904":{"ln":"Iglesias","hometown":"Killeen, TX","ht":"6-1","college":"Oklahoma","team":"MIN","wt":205,"pos":"WR","uniformNumber":13,"id":"00-0026904","esbid":"IGL422041","exp":"2nd season","age":23,"bdate":"8/22/1987","fn":"Juaquin"},"00-0026584":{"ln":"Johnson","hometown":"Monrovia, CA","ht":"5-11","college":"Boise State","team":"MIN","wt":212,"pos":"RB","uniformNumber":42,"id":"00-0026584","esbid":"JOH321169","exp":"1st season","age":25,"bdate":"9/25/1985","fn":"Ian"},"00-0027701":{"ln":"Griffen","hometown":"Avondale, AZ","ht":"6-3","college":"USC","team":"MIN","wt":273,"pos":"DE","uniformNumber":97,"id":"00-0027701","esbid":"GRI051627","exp":"Rookie","age":23,"bdate":"12/22/1987","fn":"Everson"},"00-0026966":{"ln":"Brown","hometown":"La Verne, CA","ht":"6-4","college":"Utah","team":"MIN","wt":200,"pos":"WR","uniformNumber":84,"id":"00-0026966","esbid":"BRO435417","exp":"1st season","age":25,"bdate":"6/24/1986","fn":"Freddie"},"00-0026923":{"ln":"Nalbone","hometown":"Trenton, NJ","ht":"6-4","college":"Monmouth (N.J.)","team":"MIN","wt":255,"pos":"TE","uniformNumber":null,"id":"00-0026923","esbid":"NAL088990","exp":"1st season","age":25,"bdate":"5/14/1986","fn":"John"}}},"home":{"players":{"00-0026147":{"ln":"Ellis","hometown":"Los Angeles, CA","ht":"6-1","college":"USC","team":"NO","wt":307,"pos":"DT","uniformNumber":98,"id":"00-0026147","esbid":"ELL641039","exp":"3rd season","age":26,"bdate":"7/9/1985","fn":"Sedrick"},"00-0020507":{"ln":"Evans","hometown":"West Palm Beach, FL","ht":"6-0","college":"Auburn","team":"NO","wt":250,"pos":"RB","uniformNumber":44,"id":"00-0020507","esbid":"EVA025725","exp":"10th season","age":32,"bdate":"12/30/1978","fn":"Heath"},"00-0024323":{"ln":"Evans","hometown":"Philadelphia, PA","ht":"6-4","college":"Bloomsburg","team":"NO","wt":318,"pos":"T","uniformNumber":73,"id":"00-0024323","esbid":"EVA231866","exp":"5th season","age":27,"bdate":"8/22/1983","fn":"Jahri"},"00-0019809":{"ln":"Evans","hometown":"Bay City, MI","ht":"6-3","college":"Cincinnati","team":"NO","wt":238,"pos":"OLB","uniformNumber":54,"id":"00-0019809","esbid":"EVA793485","exp":"9th season","age":33,"bdate":"12/3/1977","fn":"Troy"},"00-0027551":{"ln":"Galette","hometown":"Port-Au-Prince, null","ht":"6-2","college":"Stillman","team":"NO","wt":258,"pos":"DE","uniformNumber":93,"id":"00-0027551","esbid":"GAL199835","exp":"Rookie","age":23,"bdate":"3/27/1988","fn":"Junior"},"00-0021228":{"ln":"Brown","hometown":"Jasper, FL","ht":"6-3","college":"Florida","team":"NO","wt":260,"pos":"DE","uniformNumber":96,"id":"00-0021228","esbid":"BRO246330","exp":"9th season","age":32,"bdate":"6/4/1979","fn":"Alex"},"00-0027669":{"ln":"Brown","hometown":"Chino Hills, CA","ht":"6-5","college":"USC","team":"NO","wt":297,"pos":"OT","uniformNumber":71,"id":"00-0027669","esbid":"BRO304605","exp":"Rookie","age":24,"bdate":"4/10/1987","fn":"Charles"},"00-0022344":{"ln":"Gay","hometown":"Baton Rouge, LA","ht":"5-11","college":"LSU","team":"NO","wt":190,"pos":"DB","uniformNumber":20,"id":"00-0022344","esbid":"GAY363730","exp":"7th season","age":29,"bdate":"5/5/1982","fn":"Randall"},"00-0023569":{"ln":"Giordano","hometown":"Fresno, CA","ht":"5-11","college":"California","team":"NO","wt":207,"pos":"DB","uniformNumber":37,"id":"00-0023569","esbid":"GIO563610","exp":"6th season","age":28,"bdate":"10/16/1982","fn":"Matt"},"00-0023792":{"ln":"Goddard","hometown":"Dayton, OH","ht":"6-5","college":"South Carolina","team":"NO","wt":315,"pos":"T","uniformNumber":70,"id":"00-0023792","esbid":"GOD159430","exp":"2nd season","age":28,"bdate":"4/23/1983","fn":"Na'Shan"},"00-0021267":{"ln":"Goodwin","hometown":"Columbia, SC","ht":"6-3","college":"Michigan","team":"NO","wt":318,"pos":"G","uniformNumber":76,"id":"00-0021267","esbid":"GOO677384","exp":"9th season","age":32,"bdate":"12/2/1978","fn":"Jonathan"},"00-0026837":{"ln":"Gorrer","hometown":"Port Arthur, TX","ht":"6-0","college":"Texas A&M","team":"NO","wt":173,"pos":"DB","uniformNumber":29,"id":"00-0026837","esbid":"GOR775873","exp":"2nd season","age":25,"bdate":"6/1/1986","fn":"Danny"},"00-0027696":{"ln":"Graham","hometown":"Goldsboro, NC","ht":"6-6","college":"Miami (Fla.)","team":"NO","wt":260,"pos":"TE","uniformNumber":80,"id":"00-0027696","esbid":"GRA207087","exp":"Rookie","age":24,"bdate":"11/24/1986","fn":"Jimmy"},"00-0024217":{"ln":"Bush","hometown":"San Diego, CA","ht":"6-0","college":"USC","team":"NO","wt":203,"pos":"RB","uniformNumber":25,"id":"00-0024217","esbid":"BUS294963","exp":"5th season","age":26,"bdate":"3/2/1985","fn":"Reggie"},"00-0025512":{"ln":"Bushrod","hometown":"Fredricksburg, VA","ht":"6-5","college":"Towson","team":"NO","wt":315,"pos":"OT","uniformNumber":74,"id":"00-0025512","esbid":"BUS379552","exp":"4th season","age":26,"bdate":"8/19/1984","fn":"Jermon"},"00-0026072":{"ln":"Collins","hometown":"San Juan Capistrano, CA","ht":"6-1","college":"Washington State","team":"NO","wt":255,"pos":"RB","uniformNumber":45,"id":"00-0026072","esbid":"COL612676","exp":"2nd season","age":25,"bdate":"3/3/1986","fn":"Jed"},"00-0024466":{"ln":"Colston","hometown":"Harrisburg, PA","ht":"6-4","college":"Hofstra","team":"NO","wt":225,"pos":"WR","uniformNumber":12,"id":"00-0024466","esbid":"COL777594","exp":"5th season","age":28,"bdate":"6/5/1983","fn":"Marques"},"00-0022527":{"ln":"Greer","hometown":"Jackson, TN","ht":"5-11","college":"Tennessee","team":"NO","wt":180,"pos":"DB","uniformNumber":33,"id":"00-0022527","esbid":"GRE654582","exp":"7th season","age":29,"bdate":"2/11/1982","fn":"Jabari"},"00-0026121":{"ln":"Hamilton","hometown":"Stockton, CA","ht":"6-0","college":"San Diego State","team":"NO","wt":235,"pos":"RB","uniformNumber":30,"id":"00-0026121","esbid":"HAM277383","exp":"2nd season","age":26,"bdate":"8/5/1985","fn":"Lynell"},"00-0027830":{"ln":"Canfield","hometown":"La Jolla, CA","ht":"6-4","college":"Oregon State","team":"NO","wt":223,"pos":"QB","uniformNumber":null,"id":"00-0027830","esbid":"CAN329293","exp":"Rookie","age":24,"bdate":"11/12/1986","fn":"Sean"},"00-0002655":{"ln":"Carney","hometown":"Hartford, CT","ht":"5-11","college":"Notre Dame","team":"NO","wt":185,"pos":"K","uniformNumber":3,"id":"00-0002655","esbid":"CAR243867","exp":"22nd season","age":47,"bdate":"4/20/1964","fn":"John"},"00-0027528":{"ln":"Carter","hometown":"Lakewood, NJ","ht":"6-6","college":"Texas Tech","team":"NO","wt":319,"pos":"OG","uniformNumber":61,"id":"00-0027528","esbid":"CAR621613","exp":"Rookie","age":24,"bdate":"9/10/1986","fn":"Brandon"},"00-0026832":{"ln":"Casillas","hometown":"Jersey City, NJ","ht":"6-1","college":"Wisconsin","team":"NO","wt":227,"pos":"LB","uniformNumber":52,"id":"00-0026832","esbid":"CAS320904","exp":"2nd season","age":24,"bdate":"6/3/1987","fn":"Jonathan"},"00-0023847":{"ln":"Charleston","hometown":"Oregon City, OR","ht":"6-4","college":"Idaho State","team":"NO","wt":265,"pos":"DE","uniformNumber":97,"id":"00-0023847","esbid":"CHA617869","exp":"4th season","age":28,"bdate":"1/19/1983","fn":"Jeff"},"00-0019630":{"ln":"Clancy","hometown":"Tuscaloosa, AL","ht":"6-1","college":"Mississippi","team":"NO","wt":305,"pos":"NT","uniformNumber":null,"id":"00-0019630","esbid":"CLA068672","exp":"11th season","age":32,"bdate":"8/17/1978","fn":"Kendrick"},"00-0027340":{"ln":"Clapp","hometown":"","ht":"6-2","college":"Oklahoma","team":"NO","wt":246,"pos":"RB","uniformNumber":null,"id":"00-0027340","esbid":"CLA118298","exp":"Rookie","age":24,"bdate":"12/6/1986","fn":"Matt"},"00-0019506":{"ln":"Clark","hometown":"Blue Island, IL","ht":"6-2","college":"Illinois","team":"NO","wt":233,"pos":"LB","uniformNumber":55,"id":"00-0019506","esbid":"CLA246253","exp":"11th season","age":34,"bdate":"5/9/1977","fn":"Danny"},"00-0026544":{"ln":"Daniel","hometown":"Irving, TX","ht":"6-0","college":"Missouri","team":"NO","wt":225,"pos":"QB","uniformNumber":10,"id":"00-0026544","esbid":"DAN230354","exp":"2nd season","age":24,"bdate":"10/7/1986","fn":"Chase"},"00-0025980":{"ln":"De La Puente","hometown":"Los Angeles, CA","ht":"6-3","college":"California","team":"NO","wt":306,"pos":"G","uniformNumber":60,"id":"00-0025980","esbid":"DEL177979","exp":"2nd season","age":26,"bdate":"5/13/1985","fn":"Brian"},"00-0022753":{"ln":"Hargrove","hometown":"Brooklyn, NY","ht":"6-3","college":"Georgia Tech","team":"NO","wt":272,"pos":"DE","uniformNumber":69,"id":"00-0022753","esbid":"HAR144150","exp":"6th season","age":28,"bdate":"7/20/1983","fn":"Anthony"},"00-0026025":{"ln":"Harper","hometown":"Venice, FL","ht":"6-0","college":"Murray State","team":"NO","wt":209,"pos":"WR","uniformNumber":13,"id":"00-0026025","esbid":"HAR289161","exp":"2nd season","age":26,"bdate":"3/26/1985","fn":"Rod"},"00-0024258":{"ln":"Harper","hometown":"Prattville, AL","ht":"6-1","college":"Alabama","team":"NO","wt":200,"pos":"DB","uniformNumber":41,"id":"00-0024258","esbid":"HAR293034","exp":"5th season","age":28,"bdate":"12/11/1982","fn":"Roman"},"00-0025824":{"ln":"Hartley","hometown":"Keller, TX","ht":"5-8","college":"Oklahoma","team":"NO","wt":196,"pos":"K","uniformNumber":5,"id":"00-0025824","esbid":"HAR717525","exp":"3rd season","age":25,"bdate":"5/16/1986","fn":"Garrett"},"00-0025644":{"ln":"Duckworth","hometown":"Taylorsville, MS","ht":"6-4","college":"Auburn","team":"NO","wt":318,"pos":"G","uniformNumber":72,"id":"00-0025644","esbid":"DUC611270","exp":"1st season","age":28,"bdate":"9/14/1982","fn":"Tim"},"00-0025838":{"ln":"Dunbar","hometown":"Syracuse, NY","ht":"6-0","college":"Boston College","team":"NO","wt":226,"pos":"LB","uniformNumber":56,"id":"00-0025838","esbid":"DUN097263","exp":"3rd season","age":26,"bdate":"3/13/1985","fn":"Jo-Lonn"},"00-0022929":{"ln":"Henderson","hometown":"Lafayette, LA","ht":"5-11","college":"LSU","team":"NO","wt":200,"pos":"WR","uniformNumber":19,"id":"00-0022929","esbid":"HEN056415","exp":"7th season","age":29,"bdate":"3/26/1982","fn":"Devery"},"00-0026838":{"ln":"Hill","hometown":"Queens, NY","ht":"5-10","college":"Wisconsin","team":"NO","wt":218,"pos":"RB","uniformNumber":32,"id":"00-0026838","esbid":"HIL538550","exp":"2nd season","age":24,"bdate":"1/3/1987","fn":"P.J."},"00-0022888":{"ln":"McCray","hometown":"Miami, FL","ht":"6-6","college":"Florida","team":"NO","wt":260,"pos":"DE","uniformNumber":93,"id":"00-0022888","esbid":"MCC663361","exp":"7th season","age":30,"bdate":"8/8/1981","fn":"Bobby"},"00-0020805":{"ln":"McKie","hometown":"Gulf Breeze, FL","ht":"5-11","college":"Temple","team":"NO","wt":247,"pos":"RB","uniformNumber":null,"id":"00-0020805","esbid":"MCK386889","exp":"9th season","age":31,"bdate":"5/22/1980","fn":"Jason"},"00-0026672":{"ln":"Humber","hometown":"Minneapolis, MN","ht":"5-11","college":"North Dakota State","team":"NO","wt":232,"pos":"LB","uniformNumber":54,"id":"00-0026672","esbid":"HUM029529","exp":"2nd season","age":23,"bdate":"8/10/1987","fn":"Ramon"},"00-0023210":{"ln":"Humphrey","hometown":"Saginaw, MI","ht":"6-2","college":"Central Michigan","team":"NO","wt":255,"pos":"TE","uniformNumber":84,"id":"00-0023210","esbid":"HUM613935","exp":"4th season","age":28,"bdate":"1/20/1983","fn":"Tory"},"00-0024295":{"ln":"Ingram","hometown":"Hallsville, TX","ht":"6-2","college":"Oklahoma","team":"NO","wt":240,"pos":"LB","uniformNumber":55,"id":"00-0024295","esbid":"ING456819","exp":"5th season","age":28,"bdate":"3/21/1983","fn":"Clint"},"00-0027133":{"ln":"Ingram","hometown":"Albuquerque, NM","ht":"6-3","college":"Hawaii","team":"NO","wt":240,"pos":"LS","uniformNumber":47,"id":"00-0027133","esbid":"ING540183","exp":"2nd season","age":25,"bdate":"10/23/1985","fn":"Jake"},"00-0027531":{"ln":"Ivory","hometown":"Longview, TX","ht":"6-0","college":"Tiffin University","team":"NO","wt":222,"pos":"RB","uniformNumber":29,"id":"00-0027531","esbid":"IVO253611","exp":"Rookie","age":23,"bdate":"3/22/1988","fn":"Chris"},"00-0026990":{"ln":"Jenkins","hometown":"East Orange, NJ","ht":"6-0","college":"Ohio State","team":"NO","wt":204,"pos":"DB","uniformNumber":27,"id":"00-0026990","esbid":"JEN372222","exp":"2nd season","age":23,"bdate":"12/20/1987","fn":"Malcolm"},"00-0025414":{"ln":"Meachem","hometown":"Tulsa, OK","ht":"6-2","college":"Tennessee","team":"NO","wt":210,"pos":"WR","uniformNumber":17,"id":"00-0025414","esbid":"MEA057501","exp":"4th season","age":26,"bdate":"9/28/1984","fn":"Robert"},"00-0021218":{"ln":"Metcalf","hometown":"MS","ht":"6-4","college":"Mississippi","team":"NO","wt":310,"pos":"T","uniformNumber":62,"id":"00-0021218","esbid":"MET352212","exp":"8 Seasons","age":33,"bdate":"1/28/1978","fn":"Terrence"},"00-0027457":{"ln":"Miller","hometown":"","ht":"6-4","college":"Oklahoma State","team":"NO","wt":310,"pos":"DT","uniformNumber":null,"id":"00-0027457","esbid":"MIL573554","exp":"Rookie","age":25,"bdate":"3/24/1986","fn":"Swanson"},"00-0027367":{"ln":"Minor","hometown":"Richmond, VA","ht":"6-0","college":"Michigan","team":"NO","wt":214,"pos":"RB","uniformNumber":null,"id":"00-0027367","esbid":"MIN476570","exp":"Rookie","age":23,"bdate":"7/24/1988","fn":"Brandon"},"00-0022840":{"ln":"Jones","hometown":"Big Stone Gap, VA","ht":"5-10","college":"Notre Dame","team":"NO","wt":208,"pos":"RB","uniformNumber":21,"id":"00-0022840","esbid":"JON514079","exp":"7th season","age":29,"bdate":"8/14/1981","fn":"Julius"},"00-0026835":{"ln":"Jones","hometown":"","ht":"6-0","college":"Portland State","team":"NO","wt":193,"pos":"DB","uniformNumber":35,"id":"00-0026835","esbid":"JON651586","exp":"2nd season","age":25,"bdate":"3/15/1986","fn":"Reggie"},"00-0023384":{"ln":"Keasey","hometown":"Detroit, MI","ht":"6-0","college":"Princeton","team":"NO","wt":235,"pos":"LB","uniformNumber":45,"id":"00-0023384","esbid":"KEA559552","exp":"3rd season","age":29,"bdate":"3/19/1982","fn":"Zak"},"00-0021970":{"ln":"Mitchell","hometown":"Winter Springs, FL","ht":"6-1","college":"South Florida","team":"NO","wt":253,"pos":"LB","uniformNumber":94,"id":"00-0021970","esbid":"MIT375441","exp":"8th season","age":31,"bdate":"10/10/1979","fn":"Kawika"},"00-0025607":{"ln":"Mitchell","hometown":"","ht":"6-3","college":"Tennessee","team":"NO","wt":249,"pos":"LB","uniformNumber":50,"id":"00-0025607","esbid":"MIT520429","exp":"4th season","age":26,"bdate":"10/21/1984","fn":"Marvin"},"00-0023310":{"ln":"Moore","hometown":"Columbus, OH","ht":"5-9","college":"Toledo","team":"NO","wt":190,"pos":"WR","uniformNumber":16,"id":"00-0023310","esbid":"MOO468248","exp":"5th season","age":27,"bdate":"8/31/1983","fn":"Lance"},"00-0027114":{"ln":"Morstead","hometown":"Houston, TX","ht":"6-4","college":"Southern Methodist","team":"NO","wt":225,"pos":"P","uniformNumber":6,"id":"00-0027114","esbid":"MOR758512","exp":"2nd season","age":25,"bdate":"3/7/1986","fn":"Thomas"},"00-0026548":{"ln":"King","hometown":"Burlington, IA","ht":"6-2","college":"Iowa","team":"NO","wt":282,"pos":"DT","uniformNumber":null,"id":"00-0026548","esbid":"KIN585214","exp":"1st season","age":25,"bdate":"5/5/1986","fn":"Mitch"},"00-0026304":{"ln":"Nicks","hometown":"San Francisco, CA","ht":"6-5","college":"Nebraska","team":"NO","wt":343,"pos":"OG","uniformNumber":77,"id":"00-0026304","esbid":"NIC723945","exp":"3rd season","age":26,"bdate":"5/14/1985","fn":"Carl"},"00-0009530":{"ln":"Kyle","hometown":"Mesa, AZ","ht":"6-3","college":"Arizona State","team":"NO","wt":242,"pos":"LS","uniformNumber":57,"id":"00-0009530","esbid":"KYL343482","exp":"16th season","age":39,"bdate":"5/12/1972","fn":"Jason"},"00-0022904":{"ln":"Leckey","hometown":"Dallas Co., TX","ht":"6-3","college":"Kansas State","team":"NO","wt":291,"pos":"C","uniformNumber":60,"id":"00-0022904","esbid":"LEC297966","exp":"7th season","age":29,"bdate":"3/12/1982","fn":"Nick"},"00-0026611":{"ln":"Lorenzen","hometown":"Fremont, IA","ht":"6-5","college":"Connecticut","team":"NO","wt":234,"pos":"TE","uniformNumber":null,"id":"00-0026611","esbid":"LOR488919","exp":"1st season","age":25,"bdate":"12/24/1985","fn":"Tyler"},"00-0026572":{"ln":"Mailei","hometown":"Salt Lake City, UT","ht":"6-0","college":"Weber State","team":"NO","wt":255,"pos":"FB","uniformNumber":null,"id":"00-0026572","esbid":"MAI318732","exp":"2nd season","age":24,"bdate":"10/30/1986","fn":"Marcus"},"00-0027614":{"ln":"Billings","hometown":"","ht":"6-1","college":"Auburn","team":"NO","wt":181,"pos":"WR","uniformNumber":null,"id":"00-0027614","esbid":"BIL465053","exp":"Rookie","age":25,"bdate":"6/15/1986","fn":"Montez"},"00-0023474":{"ln":"Bradley","hometown":"Pine Bluff, AR","ht":"6-1","college":"Oklahoma","team":"NO","wt":201,"pos":"WR","uniformNumber":16,"id":"00-0023474","esbid":"BRA220941","exp":"6th season","age":29,"bdate":"1/29/1982","fn":"Mark"},"00-0020531":{"ln":"Brees","hometown":"Austin, TX","ht":"6-0","college":"Purdue","team":"NO","wt":209,"pos":"QB","uniformNumber":9,"id":"00-0020531","esbid":"BRE229498","exp":"10th season","age":32,"bdate":"1/15/1979","fn":"Drew"},"00-0026592":{"ln":"Allen","hometown":"Raytown, MO","ht":"6-3","college":"Missouri Western State","team":"NO","wt":323,"pos":"OG","uniformNumber":70,"id":"00-0026592","esbid":"ALL643531","exp":"2nd season","age":25,"bdate":"2/10/1986","fn":"Roger"},"00-0027086":{"ln":"Arnoux","hometown":"Washington, DC","ht":"6-0","college":"Wake Forest","team":"NO","wt":232,"pos":"LB","uniformNumber":53,"id":"00-0027086","esbid":"ARN772901","exp":"2nd season","age":24,"bdate":"9/9/1986","fn":"Stanley"},"00-0026377":{"ln":"Arrington","hometown":"Cedar Rapids, IA","ht":"6-3","college":"Michigan","team":"NO","wt":192,"pos":"WR","uniformNumber":87,"id":"00-0026377","esbid":"ARR162645","exp":"2nd season","age":25,"bdate":"11/7/1985","fn":"Adrian"},"00-0026593":{"ln":"Asiodu","hometown":"Los Angeles, CA","ht":"6-2","college":"Central Oklahoma","team":"NO","wt":242,"pos":"LB","uniformNumber":94,"id":"00-0026593","esbid":"ASI474618","exp":"2nd season","age":24,"bdate":"11/24/1986","fn":"K.C."},"00-0024073":{"ln":"Ayodele","hometown":"Grand Prarie, TX","ht":"6-2","college":"Oklahoma","team":"NO","wt":318,"pos":"NT","uniformNumber":92,"id":"00-0024073","esbid":"AYO158817","exp":"4th season","age":28,"bdate":"4/22/1983","fn":"Remi"},"00-0026698":{"ln":"Beavers","hometown":"","ht":"5-10","college":"Wesleyan","team":"NO","wt":186,"pos":"WR","uniformNumber":18,"id":"00-0026698","esbid":"BEA798810","exp":"1 Seasons","age":25,"bdate":"10/7/1985","fn":"Larry"},"00-0027218":{"ln":"Bell","hometown":"Benton Harbor, MI","ht":"5-11","college":"Wayne State (Mich.)","team":"NO","wt":220,"pos":"RB","uniformNumber":43,"id":"00-0027218","esbid":"BEL389385","exp":"Rookie","age":25,"bdate":"8/4/1986","fn":"Joique"},"00-0025564":{"ln":"Bender","hometown":"Mayo, MD","ht":"6-6","college":"Nicholls State","team":"NO","wt":315,"pos":"T","uniformNumber":null,"id":"00-0025564","esbid":"BEN007006","exp":"3rd season","age":26,"bdate":"4/25/1985","fn":"Jacob"},"00-0021184":{"ln":"Betts","hometown":"Blue Springs, MO","ht":"5-11","college":"Iowa","team":"NO","wt":224,"pos":"RB","uniformNumber":46,"id":"00-0021184","esbid":"BET780192","exp":"9th season","age":31,"bdate":"8/27/1979","fn":"Ladell"},"00-0023757":{"ln":"Reis","hometown":"Canton, OH","ht":"6-1","college":"Georgia Tech","team":"NO","wt":215,"pos":"DB","uniformNumber":39,"id":"00-0023757","esbid":"REI689919","exp":"4th season","age":27,"bdate":"9/19/1983","fn":"Chris"},"00-0027882":{"ln":"Robinson","hometown":"Miami, FL","ht":"5-11","college":"Florida State","team":"NO","wt":191,"pos":"DB","uniformNumber":34,"id":"00-0027882","esbid":"ROB671457","exp":"Rookie","age":23,"bdate":"9/7/1987","fn":"Patrick"},"00-0023503":{"ln":"Roby","hometown":"Indianapolis, IN","ht":"6-0","college":"Indiana","team":"NO","wt":189,"pos":"WR","uniformNumber":15,"id":"00-0023503","esbid":"ROB808006","exp":"5th season","age":28,"bdate":"1/10/1983","fn":"Courtney"},"00-0022911":{"ln":"Smith","hometown":"Queens, NY","ht":"6-3","college":"Ohio State","team":"NO","wt":282,"pos":"DE","uniformNumber":91,"id":"00-0022911","esbid":"SMI805040","exp":"7th season","age":30,"bdate":"7/4/1981","fn":"Will"},"00-0022078":{"ln":"Stinchcomb","hometown":"Atlanta, GA","ht":"6-5","college":"Georgia","team":"NO","wt":315,"pos":"T","uniformNumber":78,"id":"00-0022078","esbid":"STI503973","exp":"8th season","age":31,"bdate":"8/27/1979","fn":"Jonathan"},"00-0024424":{"ln":"Strief","hometown":"Cincinnati, OH","ht":"6-7","college":"Northwestern","team":"NO","wt":320,"pos":"T","uniformNumber":64,"id":"00-0024424","esbid":"STR434040","exp":"5th season","age":27,"bdate":"9/22/1983","fn":"Zach"},"00-0027616":{"ln":"Tanner","hometown":"","ht":"6-0","college":"Midwestern State","team":"NO","wt":183,"pos":"WR","uniformNumber":null,"id":"00-0027616","esbid":"TAN392788","exp":"Rookie","age":23,"bdate":"5/16/1988","fn":"Andy"},"00-0023844":{"ln":"Taylor","hometown":"Memphis, TN","ht":"6-0","college":"Indiana","team":"NO","wt":224,"pos":"RB","uniformNumber":36,"id":"00-0023844","esbid":"TAY113550","exp":"5th season","age":27,"bdate":"11/7/1983","fn":"Chris"},"00-0027757":{"ln":"Tennant","hometown":"Cincinnati, OH","ht":"6-4","college":"Boston College","team":"NO","wt":300,"pos":"C","uniformNumber":65,"id":"00-0027757","esbid":"TEN153366","exp":"Rookie","age":24,"bdate":"3/19/1987","fn":"Matt"},"00-0024813":{"ln":"Thomas","hometown":"Chicago, IL","ht":"5-11","college":"Illinois","team":"NO","wt":215,"pos":"RB","uniformNumber":23,"id":"00-0024813","esbid":"THO085535","exp":"4th season","age":26,"bdate":"12/18/1984","fn":"Pierre"},"00-0024301":{"ln":"Thomas","hometown":"Plainview, TX","ht":"6-3","college":"Texas","team":"NO","wt":248,"pos":"TE","uniformNumber":85,"id":"00-0024301","esbid":"THO095101","exp":"5th season","age":28,"bdate":"7/5/1983","fn":"David"},"00-0023186":{"ln":"Torrence","hometown":"Raleigh, NC","ht":"5-11","college":"Stanford","team":"NO","wt":179,"pos":"DB","uniformNumber":24,"id":"00-0023186","esbid":"TOR692424","exp":"5th season","age":29,"bdate":"1/4/1982","fn":"Leigh"},"00-0027085":{"ln":"Vaughn","hometown":"Goldsboro, NC","ht":"6-2","college":"Wake Forest","team":"NO","wt":221,"pos":"DB","uniformNumber":21,"id":"00-0027085","esbid":"VAU413244","exp":"2nd season","age":25,"bdate":"10/26/1985","fn":"Chip"},"00-0022778":{"ln":"Vilma","hometown":"Coral Gables, FL","ht":"6-1","college":"Miami (Fla.)","team":"NO","wt":230,"pos":"LB","uniformNumber":51,"id":"00-0022778","esbid":"VIL582180","exp":"7th season","age":29,"bdate":"4/16/1982","fn":"Jonathan"},"00-0025483":{"ln":"Waters","hometown":"Dillon, SC","ht":"6-3","college":"Clemson","team":"NO","wt":238,"pos":"LB","uniformNumber":59,"id":"00-0025483","esbid":"WAT049178","exp":"3rd season","age":27,"bdate":"7/25/1984","fn":"Anthony"},"00-0021960":{"ln":"Wilkerson","hometown":"Mount Pleasant, TX","ht":"6-2","college":"Oklahoma","team":"NO","wt":270,"pos":"DE","uniformNumber":99,"id":"00-0021960","esbid":"WIL078164","exp":"8th season","age":30,"bdate":"1/4/1981","fn":"Jimmy"},"00-0027723":{"ln":"Woods","hometown":"Jennings, LA","ht":"6-4","college":"LSU","team":"NO","wt":307,"pos":"DT","uniformNumber":94,"id":"00-0027723","esbid":"WOO401988","exp":"Rookie","age":24,"bdate":"3/25/1987","fn":"Al"},"00-0025615":{"ln":"Wynn","hometown":"Cincinnati, OH","ht":"5-10","college":"Florida","team":"NO","wt":232,"pos":"RB","uniformNumber":35,"id":"00-0025615","esbid":"WYN129025","exp":"4th season","age":27,"bdate":"10/9/1983","fn":"DeShawn"},"00-0025453":{"ln":"Young","hometown":"Washington, DC","ht":"6-0","college":"Kent State","team":"NO","wt":200,"pos":"DB","uniformNumber":28,"id":"00-0025453","esbid":"YOU614589","exp":"4th season","age":26,"bdate":"5/8/1985","fn":"Usama"},"00-0026839":{"ln":"Parnell","hometown":"Blytheville, AR","ht":"6-6","college":"Mississippi","team":"NO","wt":290,"pos":"T","uniformNumber":null,"id":"00-0026839","esbid":"PAR613767","exp":"1st season","age":25,"bdate":"7/20/1986","fn":"Jermey"},"00-0026976":{"ln":"Parson","hometown":"Chesterfield, VA","ht":"5-10","college":"Ohio U.","team":"NO","wt":189,"pos":"DB","uniformNumber":38,"id":"00-0026976","esbid":"PAR728456","exp":"2nd season","age":25,"bdate":"5/9/1986","fn":"Mark"},"00-0027532":{"ln":"Ross","hometown":"Wilmington, NC","ht":"6-3","college":"East Carolina","team":"NO","wt":302,"pos":"DT","uniformNumber":68,"id":"00-0027532","esbid":"ROS611047","exp":"Rookie","age":23,"bdate":"10/3/1987","fn":"Jay"},"00-0026180":{"ln":"Porter","hometown":"Port Allen, LA","ht":"5-11","college":"Indiana","team":"NO","wt":186,"pos":"DB","uniformNumber":22,"id":"00-0026180","esbid":"POR632160","exp":"3rd season","age":24,"bdate":"8/11/1986","fn":"Tracy"},"00-0026284":{"ln":"Pressley","hometown":"Greensboro, NC","ht":"6-3","college":"North Carolina State","team":"NO","wt":301,"pos":"DT","uniformNumber":90,"id":"00-0026284","esbid":"PRE424518","exp":"3rd season","age":25,"bdate":"11/3/1985","fn":"DeMario"},"00-0013255":{"ln":"Prioleau","hometown":"Charleston, SC","ht":"5-11","college":"Virginia Tech","team":"NO","wt":188,"pos":"DB","uniformNumber":31,"id":"00-0013255","esbid":"PRI603942","exp":"12th season","age":34,"bdate":"8/6/1977","fn":"Pierson"},"00-0021379":{"ln":"Ramsey","hometown":"Ruston, LA","ht":"6-2","college":"Tulane","team":"NO","wt":225,"pos":"QB","uniformNumber":11,"id":"00-0021379","esbid":"RAM596976","exp":"8th season","age":32,"bdate":"2/14/1979","fn":"Patrick"},"00-0022040":{"ln":"Shanle","hometown":"Genoa, NE","ht":"6-2","college":"Nebraska","team":"NO","wt":245,"pos":"LB","uniformNumber":58,"id":"00-0022040","esbid":"SHA171501","exp":"8th season","age":31,"bdate":"11/23/1979","fn":"Scott"},"00-0014724":{"ln":"Sharper","hometown":"Richmond, VA","ht":"6-2","college":"William & Mary","team":"NO","wt":210,"pos":"DB","uniformNumber":42,"id":"00-0014724","esbid":"SHA500479","exp":"14th season","age":35,"bdate":"11/3/1975","fn":"Darren"},"00-0021148":{"ln":"Shockey","hometown":"Ada, OK","ht":"6-5","college":"Miami (Fla.)","team":"NO","wt":251,"pos":"TE","uniformNumber":88,"id":"00-0021148","esbid":"SHO162072","exp":"9th season","age":30,"bdate":"8/18/1980","fn":"Jeremy"}}}};
+	nfl.global.gc.extdata.media		= {"tv":"NBC","sat":retDefinedValue(),"sathd":retDefinedValue(),"radio":{"home":retDefinedValue(126),"away":retDefinedValue(125)}};
+	nfl.global.gc.extdata.config	= {"gameState":"POST","config":{"epicFail":false,"adinterval":60,"videoadinterval":-1,"cookieExpiry":0,"adevents":["onload","endofthird","pregame"]}}
+	
+	nfl.global.gc.ads.rr			= {};
+	nfl.global.gc.ads.dc			= {};
+	nfl.global.gc.ads.vp			= {};
+	nfl.global.gc.ads.page			= {};
+	nfl.global.gc.tabs.defaultIndex	= 0;
+	nfl.global.gc.tabs.defaultName	= "recap";
+	//fn:toLowerCase(fn:replace(tab.tabId,'_','-'))
+
+	nfl.global.gc.dc.load			= true;
+	nfl.global.gc.dc.view			= "TOP";
+	nfl.global.gc.dc.testandtarget	=null;
+	
+	if(typeof nfl.global.gc.extdata.config.config !== 'undefined'){ nfl.global.gc.extdata.config = nfl.global.gc.extdata.config.config; /* fix it*/ }
+	if(nfl.global.gc.game.state == 'PRE' || nfl.global.gc.game.state == 'ACTIVE'){
+		/* I know this looks just like pregame data but it also serves a purpose for active games that do not yet have gtds as well */
+		nfl.global.gc.predata		= {
+			"2010090900":{
+				"home":{"score":{"1": 0,"2": 0,"3": 0,"4": 0,"5": 0,"T": 0},"abbr": "NO","to": 3,"stats": null,"standing":nfl.global.gc.game.teams["NO"].standing},
+				"away":{"score":{"1": 0,"2": 0,"3": 0,"4": 0,"5": 0,"T": 0},"abbr": "MIN","to": 3,"stats": null,"standing":nfl.global.gc.game.teams["MIN"].standing},
+				"drives": {"crntdrv": 0},
+				"scrsummary": null,
+				"weather": nfl.global.gc.extdata.weather,
+				"media": nfl.global.gc.extdata.media,
+				"qtr": "Pregame",
+				"stadium": nfl.global.gc.extdata.stadium,
+				"rooftype":nfl.global.gc.extdata.rooftype
+			}
+		}
+	}
+	function retDefinedValue(value){
+		if(typeof value !== 'undefined'){ return value; }
+		return null
+	}
+
+	/*****************************************
+	 * NEW ad code here, starting this over from
+	 * scratch for proper tiling
+	 *****************************************/
+	 /* TILE VALUES
+	 1) background
+	 2) header
+	 3) RR
+	 10) Video player ads
+	 10) BIA ads
+	 */
+		/*
+		nfl.global.gc.ads.dc.getAdPathForEvent = function(evtname){
+			var adPath = "nfl.gamecenter/gamecenter/tab_gamecenter/2010/REG1;s1=gamecenter;s2=tab_gamecenter;s3=2010;s4=REG1;slot=inpage;break="+evtname+";url=gamecenter_tab_gamecenter_2010_REG1;nfl=ad;!category=;kw=;team=min;team=no;mnf=thursday;gameid=2010090900;tile=10;test=;sz=640x360;ord=";
+			return adPath
+		}
+		nfl.global.gc.ads.rr.getAdPath = function(path,size){
+			var adPath = "nfl.gamecenter/gamecenter/#{tab.id}/2010/REG1;s1=gamecenter;s2=#{tab.id};s3=2010;s4=REG1;slot=rightrailfirst;url=gamecenter_#{tab.id}_2010_REG1;nfl=ad;!category=;kw=;team=min;team=no;mnf=thursday;gameid=2010090900;tile=10;test=;sz="+size+"";
+			// remove the ord from nfl:ad generated path 
+			//adPath = adPath.substring(0,(adPath.indexOf(';ord')));
+			return adPath
+		}
+		*/
+	nfl.global.gc.ads.pathMutator			= function(config){
+		if(config.type === 'rr'){
+			var adPath = "nfl.gamecenter/gamecenter/#{tab.id}/2010/REG1;s1=gamecenter;s2=#{tab.id};s3=2010;s4=REG1;slot=rightrailfirst;url=gamecenter_#{tab.id}_2010_REG1;nfl=ad;!category=;kw=;team=min;team=no;mnf=thursday;gameid=2010090900;tile="+ config.tile +";test=;sz="+ config.size +"";
+			return adPath
+		}
+		if(config.type === 'event'){
+			var adPath = "nfl.gamecenter/gamecenter/tab_gamecenter/2010/REG1;s1=gamecenter;s2=tab_gamecenter;s3=2010;s4=REG1;slot=inpage;break="+config.eventname+";url=gamecenter_tab_gamecenter_2010_REG1;nfl=ad;!category=;kw=;team=min;team=no;mnf=thursday;gameid=2010090900;tile=10;test=;sz=640x360;ord=";
+			return adPath
+		}
+		if(config.type === 'background'){
+			return 'http://ad.doubleclick.net/adj/'+config.path;
+		}
+		if(config.type === 'video'){
+			return adPath	= "http://ad.doubleclick.net/pfadx/nfl.gamecenter/gamecenter/tab_watch/2010/reg2;s1=gamecenter;s2=tab_watch;s3=2010;s4=REG1;slot=inpage;url=gamecenter_tab_gamecenter_2010_REG1;nfl=ad;!category=;kw=;team=min;team=no;mnf=thursday;gameid=2010090900;tile=10;test=;sz=640x360;ord=" + adRandom + "?"; 
+		}
+	}
+	nfl.global.gc.ads.dc.showOnLoad = function(cookieExp){
+		console.info('showOnLoadAd',cookieExp);
+		if(cookieExp > -2){
+			/* show ad */
+			document.fire('gamecenter:data:adevent',['onload']);
+			if(cookieExp === 0){ return; }
+			if(cookieExp === -1){ document.cookies.set('gcolbia','true',false,'/'); return; }
+			document.cookies.set('gcolbia','true',document.cookies.getExipiry(0,cookieExp,0),'/');
+		}
+	}
+	nfl.global.gc.ads.page.loadBackground = function(path){
+		var head = $$('head')[0], script;
+		if (head)
+		{
+		    script = new Element('script', {type: 'text/javascript', src: path});
+		    head.appendChild(script);
+		}
+	}
+	nfl.global.gc.ads.page.renderBackground = function(e){
+		var options	= e.memo;
+		console.info('nfl.global.gc.ads.page.renderBackground',e);
+		try{
+			options.background_color = options.background_color || "#ffffff";
+			options.image_url = options.image_url || "";
+			options.background_tiling = options.background_tiling || "";
+			options.link_url = options.link_url || "";
+	
+			var oBODY = document.body,
+			cssBrowserPanelBG = options.background_color + " url(" + options.image_url + ") center 122px " + options.background_tiling + " fixed",
+			cssDefaultBG = 'url(/img/global/alt/body.jpg) no-repeat scroll center 102px #FFFFFF';
+	
+			if (document.cookies.get('gcolbia') == '' || document.cookies.get('gcolbia') == 'true')
+			{
+				oBODY.style.background = cssBrowserPanelBG;
+			}
+			
+			document.observe(nfl.events.VideoPlayerEvent.AD_LOADED,function(event){
+			    if (event.memo.swfid === 'drive_chart_ads') {
+					oBODY.style.background = cssDefaultBG;
+			    }
+			});
+	
+			document.observe(nfl.events.VideoPlayerEvent.AD_COMPLETE,function(event){
+			    if (event.memo.swfid === 'drive_chart_ads') {
+					oBODY.style.background = cssBrowserPanelBG;
+			    }
+			});
+		}catch(e){ console.error('nfl.global.gc.ads.page.renderBackground',e); }
+	}
+	// BG
+	
+		var adRandom = (nfl.constants.AD_RANDOM)? nfl.constants.AD_RANDOM : adRandom ;
+		var adPath = nfl.ads.createAd("ad1312841864136background", 
+			"nfl.gamecenter/gamecenter;s1=gamecenter;slot=background;url=gamecenter;nfl=ad;!category=;kw=;team=min;team=no;mnf=thursday;gameid=2010090900;tile=#{tile};test=;sz=1x1", 
+			{
+				width: 1,
+				height: 1,
+				slot: 'background',
+				transparent: false,
+				pathOnly: true
+			},
+			Y
+		);
+	
+	nfl.global.gc.ads.page['background']	= nfl.global.gc.ads.pathMutator({type:'background',path:adPath});
+	// HEADER
+	
+		var adRandom = (nfl.constants.AD_RANDOM)? nfl.constants.AD_RANDOM : adRandom ;
+		var adPath = nfl.ads.createAd("ad1312841864136spon", 
+			"nfl.gamecenter/gamecenter;s1=gamecenter;slot=spon;url=gamecenter;nfl=ad;!category=;kw=;team=min;team=no;mnf=thursday;gameid=2010090900;tile=#{tile};test=;sz=985x55", 
+			{
+				width: 985,
+				height: 55,
+				slot: 'spon',
+				transparent: true,
+				pathOnly: true
+			},
+			Y
+		);
+	
+	nfl.global.gc.ads.page['header'] 		= adPath;
+	// RR (calls one real ad tag to increment ads collection, reuses new ad's tile)
+	
+		var adRandom = (nfl.constants.AD_RANDOM)? nfl.constants.AD_RANDOM : adRandom ;
+		var adPath = nfl.ads.createAd("ad1312841864137rightrailfirst", 
+			"nfl.gamecenter/gamecenter;s1=gamecenter;slot=rightrailfirst;url=gamecenter;nfl=ad;!category=;kw=;team=min;team=no;mnf=thursday;gameid=2010090900;tile=#{tile};test=;sz=160x600", 
+			{
+				width: 160,
+				height: 600,
+				slot: 'rightrailfirst',
+				transparent: false,
+				pathOnly: true
+			},
+			Y
+		);
+	
+	nfl.global.gc.ads.rr.adObject			= nfl.ads.collection[(nfl.ads.collection.length -1)];
+	nfl.global.gc.ads.rr['160x600']			= nfl.global.gc.ads.pathMutator({type:'rr', tile: nfl.ads.tilesOnPage(), size:'160x600'});
+	nfl.global.gc.ads.rr['300x250']			= nfl.global.gc.ads.pathMutator({type:'rr', tile: nfl.ads.tilesOnPage(), size:'300x250'});
+	// DC BIA and VP
+	nfl.global.gc.ads.dc['onload']			= nfl.global.gc.ads.pathMutator({type:'event', eventname:'onload'});
+	nfl.global.gc.ads.dc['pregame']			= nfl.global.gc.ads.pathMutator({type:'event', eventname:'pregame'});
+	nfl.global.gc.ads.dc['endoffirst']		= nfl.global.gc.ads.pathMutator({type:'event', eventname:'endoffirst'});
+	nfl.global.gc.ads.dc['halftime']		= nfl.global.gc.ads.pathMutator({type:'event', eventname:'halftime'});
+	nfl.global.gc.ads.dc['endofthird']		= nfl.global.gc.ads.pathMutator({type:'event', eventname:'endofthird'});
+	nfl.global.gc.ads.dc['endofgame']		= nfl.global.gc.ads.pathMutator({type:'event', eventname:'endofgame'});
+	nfl.global.gc.ads.dc['timeouts']		= nfl.global.gc.ads.pathMutator({type:'event', eventname:'timeouts'});
+	nfl.global.gc.ads.vp['ad640x360']		= nfl.global.gc.ads.pathMutator({type:'video'});
+	
+	
+	if(document.cookies.get('gcolbia') == ''){
+		/* do initial onload bia code */
+		document.observe('gamecenter:drivechart:initialized',function(){ nfl.global.gc.ads.dc.showOnLoad.delay(2,0); });
+	}
+	// setup things that can only load after the head of document is rendered
+	dartWallpaperRender	= function(options){ document.fire('adbackground:loaded',options);} //event proxy from dartWallpaperRender to proper event model
+	document.observe('head:loaded',function(e){
+		// load background ad
+		document.observe('adbackground:loaded',nfl.global.gc.ads.page.renderBackground);
+		nfl.global.gc.ads.page.loadBackground(nfl.global.gc.ads.page['background']); //when loaded, dart calls "dartWallpaperRender" which then fires off an event of "adbackground:loaded"
+		
+		// overwrite team colors if values are too close
+		nfl.GameCenter.Utility.overwriteTeamColorClasses('NO','MIN');
+	});
+	
+	</script>
+	<script src="http://scripts.static.nfl.com/static/site/3.5/scripts/gc/gamecenter.init.js" type="text/javascript" ></script>
+	<!-- THE BROWSER PANEL INFO IS AT THE DECORATOR LEVEL 2010/global -->
+	
+
+
+
+
+	<!-- THE BROWSER PANEL INFO IS AT THE DECORATOR LEVEL 2010/global -->
+</head>
+<body id="com-nfl" class="">
+	<div id="fb-root"></div>
+	<script type="text/javascript"> FB.init({appId: nfl.constants.FACEBOOK_APP_ID,status:true,cookie:true,xfbml:true});</script>
+	<div id="accessible-jump-link"><a href="#doc-wrap">Jump to content</a></div>
+	<div style="display:none">
+<script type="text/javascript">
+var loggingOff = true;
+var noOmnitureCall = false;
+//applyFireBugX();
+isPageTypeError();
+//moved all the functions into s_code_common.js until we can overhaul this atrocity
+
+/**
+* s_analytics.trackLinkClick will send a request to omniture indicating a minor level page event occurred
+* @param {String} _propNum is a number provided by Marketing.  ex, prop1, prop14, prop35, etc.
+* @param {String} _propValue is the value to place within the prop.  ex, Avatar, Friends_alerts, Message_Alerts, Global_Alerts, etc.
+* TO DO: update this function so it accepts multiple prop values.  
+*/
+s_analytics.trackLinkClick = function(_propNum, _propValue) {
+	var s_analytics = s_gi(s_account),
+	    propName    = 'prop' + _propNum;
+	s_analytics.linkTrackEvents = "";
+	s_analytics.linkTrackVars = "prop" + _propNum;
+	s_analytics[propName] = _propValue;
+	s_analytics.events = '';
+	s_analytics.tl(true, 'o', _propValue);
+	// should empty out the track properties after the call is made.  this is a directive from omniture.
+	s_analytics.linkTrackEvents = "";
+	s_analytics.linkTrackVars = "";
+}
+
+/* analytics_file: gamecenter.js */
+function initAnalytics() { 
+	noOmnitureCall = true;
+	// the tab now handles the omniture call	  
+} 
+
+
+
+function applyFooter() {  
+	if (noOmnitureCall == true) return;
+	/******* ****** DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+	try { 
+		var s_code = s_analytics.t();
+		if (s_code) document.write(s_code);
+	} catch(e) { 
+		console.warn(e);
+	}
+}
+</script>
+</div>
+	<div id="hd" class="global-alt">
+		
+		
+<!-- BEGIN INCLUDE headers/global-alt -->
+
+<!-- BEGIN ECM widgets/navigation/hd-micro-nav-list -->
+<div id="hd-micro-nav-list">
+	<ul class="left">
+		<!-- <li id="link-pink"><a style="color:#e22882" href="http://www.nfl.com/pink">Why Pink?</a></li> -->
+	<!--	<li id="link-ballot"><a href="http://www.nfl.com/probowl/ballot?icampaign=PB_topheader">Pro Bowl Ballot</a></li> -->
+		<li id="link-mobile"><a href="http://www.nfl.com/mobile">Mobile</a></li>
+		<li id="link-nflatino"><a href="http://nfl.univision.com/" target="_blank">En Español</a></li>
+	</ul>
+	<ul class="right">
+		<li id="link-fans">
+			<h3>
+				<a href="http://www.nfl.com/fans">Fans</a>
+			</h3>
+			<ul>
+				<li><a href="http://www.nfl.com/fans?icampaign=Nav_SM_Fans">Community Home</a></li>
+				<li><a href="http://www.nfl.com/fans/forums?icampaign=Nav_SM_Forums">Forums</a></li>
+				<li><a href="http://www.facebook.com/nfl" target="_blank">NFL on Facebook</a></li>
+				<li><a href="http://twitter.com/nfl" target="_blank">NFL on Twitter</a></li>				
+			</ul>
+		</li>
+		<li id="sign-in-links"></li>
+	</ul>
+</div>
+<!-- END ECM widgets/navigation/hd-micro-nav-list -->
+
+<!-- BEGIN INCLUDE teamlogos -->
+<div id="tl">
+	<h2>NFL Team Sites</h2>
+	<ul class="xoxo">
+		<li><h3><a class="AFC" href="/teams">AFC <span></span></a></h3>
+			<ul>
+				<li>
+					<h4>AFC-East</h4>
+					<ul>
+						<li><a class="BUF" target="_blank"  href="http://www.buffalobills.com/">Buffalo Bills <span></span></a></li>
+						<li><a class="MIA" target="_blank"  href="http://www.miamidolphins.com/">Miami Dolphins <span></span></a></li>
+						<li><a class="NE" target="_blank"  href="http://www.patriots.com/">New England Patriots <span></span></a></li>
+						<li><a class="NYJ" target="_blank"  href="http://www.newyorkjets.com/">New York Jets <span></span></a></li>
+					</ul>
+				</li>
+				<li>
+					<h4>AFC-North</h4>
+					<ul>
+						<li><a class="BAL" target="_blank"  href="http://www.baltimoreravens.com/">Baltimore Ravens <span></span></a></li>
+						<li><a class="CIN" target="_blank"  href="http://www.bengals.com/">Cincinnati Bengals <span></span></a></li>
+						<li><a class="CLE" target="_blank"  href="http://www.clevelandbrowns.com/">Cleveland Browns <span></span></a></li>
+						<li><a class="PIT" target="_blank"  href="http://www.steelers.com/">Pittsburgh Steelers <span></span></a></li>
+					</ul>
+				</li>
+				<li>
+					<h4>AFC-South</h4>
+					<ul>
+						<li><a class="HOU" target="_blank"  href="http://www.houstontexans.com/">Houston Texans <span></span></a></li>
+						<li><a class="IND" target="_blank"  href="http://www.colts.com/">Indianapolis Colts <span></span></a></li>
+						<li><a class="JAC" target="_blank"  href="http://www.jaguars.com/">Jacksonville Jaguars <span></span></a></li>
+						<li><a class="TEN" target="_blank"  href="http://www.titansonline.com/">Tennessee Titans <span></span></a></li>
+					</ul>
+				</li>
+				<li>
+					<h4>AFC-West</h4>
+					<ul>
+						<li><a class="DEN" target="_blank"  href="http://www.denverbroncos.com/">Denver Broncos <span></span></a></li>
+						<li><a class="KC" target="_blank"  href="http://www.kcchiefs.com/">Kansas City Chiefs <span></span></a></li>
+						<li><a class="OAK" target="_blank"  href="http://www.raiders.com/">Oakland Raiders <span></span></a></li>
+						<li><a class="SD" target="_blank"  href="http://www.chargers.com/">San Diego Chargers <span></span></a></li>
+					</ul>
+				</li>
+			</ul>
+		</li>
+		<li><h3><a class="NFC"  href="/teams">NFC <span></span></a></h3>
+			<ul>
+				<li>
+					<h4>NFC-East</h4>
+					<ul>
+						<li><a class="DAL" target="_blank"  href="http://www.dallascowboys.com/">Dallas Cowboys <span></span></a></li>
+						<li><a class="NYG" target="_blank"  href="http://www.giants.com/">New York Giants <span></span></a></li>
+						<li><a class="PHI" target="_blank"  href="http://www.philadelphiaeagles.com/">Philadelphia Eagles <span></span></a></li>
+						<li><a class="WAS" target="_blank"  href="http://www.redskins.com/">Washington Redskins <span></span></a></li>
+					</ul>
+				</li>
+				<li>
+					<h4>NFC-North</h4>
+					<ul>
+						<li><a class="CHI" target="_blank"  href="http://www.chicagobears.com/">Chicago Bears <span></span></a></li>
+						<li><a class="DET" target="_blank"  href="http://www.detroitlions.com/">Detroit Lions <span></span></a></li>
+						<li><a class="GB" target="_blank"  href="http://www.packers.com/">Green Bay Packers <span></span></a></li>
+						<li><a class="MIN" target="_blank"  href="http://www.vikings.com/">Minnesota Vikings <span></span></a></li>
+					</ul>
+				</li>
+				<li>
+					<h4>NFC-Souch</h4>
+					<ul>
+						<li><a class="ATL" target="_blank"  href="http://www.atlantafalcons.com/">Atlanta Falcons <span></span></a></li>
+						<li><a class="CAR" target="_blank"  href="http://www.panthers.com/">Carolina Panthers <span></span></a></li>
+						<li><a class="NO" target="_blank"  href="http://www.neworleanssaints.com/">New Orleans Saints <span></span></a></li>
+						<li><a class="TB" target="_blank"  href="http://www.buccaneers.com/">Tampa Bay Buccaneers <span></span></a></li>
+					</ul>
+				</li>
+				<li>
+					<h4>NFC-West</h4>
+					<ul>
+						<li><a class="ARI" target="_blank"  href="http://www.azcardinals.com/">Arizona Cardinals <span></span></a></li>
+						<li><a class="STL" target="_blank"  href="http://www.stlouisrams.com/">St. Louis Rams <span></span></a></li>
+						<li><a class="SF" target="_blank"  href="http://www.sf49ers.com/">San Francisco 49'ers <span></span></a></li>
+						<li><a class="SEA" target="_blank"  href="http://www.seahawks.com/">Seattle Seahawks <span></span></a></li>
+					</ul>
+				</li>
+			</ul>
+		</li>
+	</ul>
+</div>
+<!-- END INCLUDE teamlogos -->
+
+<div id="header-content">
+	<form class="yui3-searchbox-loading" id="hd-search" action="http://search.nfl.com/search" method="get">
+		<div>
+			<label id="hd-search-label" for="hd-search-input">Search NFL.com</label>
+			<input type="text" name="query" id="hd-search-input" maxlength="50" />
+			<button type="submit">
+				 <img alt="search" src="http://img.static.nfl.com/static/site/3.5/img/home-2010/search.png" />
+			</button>
+		</div>
+	</form>
+	<script>nfl.global.InitializeSearch({ input: "hd-search-input", label: "hd-search-label" });</script>
+	<div id="header-logo">
+		<a href="http://www.nfl.com/"><img alt="NFL Logo link to home page" src="http://img.static.nfl.com/static/site/3.5/img/global/alt/large-logo.png" /></a>
+	</div>
+	<!-- navigation goes here -->
+	
+<!-- BEGIN INCLUDE navigation/default-alt -->
+
+
+<div id="alt-nv-main">
+	<ul class="alt-nv-groups">
+		<li id="alt-nv-group-news" class="alt-nv-group">
+			<h3><a href="http://www.nfl.com/news" onclick="s_objectID='Nav_News_Main'">News</a></h3>
+			<div class="channel-content">
+				<div class="alt-nv-content-wrapper">
+					<div class="video-nv-content bottom alt-nv-main-watermark-text">News</div>
+					<div class="channels">
+						<ul>
+							<li><a href="http://blogs.nfl.com/" onclick="s_objectID='Nav_News_Blogs'">Blogs</a></li>
+						<!--	<li><a href="http://blogblitz.nfl.com/" onclick="s_objectID='Nav_News_Blog_Blitz'">Blog Blitz</a></li> -->
+							<li><a href="http://www.nfl.com/injuries" onclick="s_objectID='Nav_News_Injuries'">Injuries</a></li>
+							<li><a href="http://www.nfl.com/transactions" onclick="s_objectID='Nav_News_Transactions'">Transactions</a></li>
+							<li><a href="http://www.nfl.com/photos" onclick="s_objectID='Nav_News_Photos'">Photos</a></li>
+						</ul>
+						<ul>
+							<li class="subChoiceMarker"><h4>Events:</h4></li>
+							<li><a href="http://www.nfl.com/superbowl/46" onclick="s_objectID='Nav_Events_Super_Bowl'">Super Bowl</a></li>
+							<li><a href="http://www.nfl.com/probowl" onclick="s_objectID='Nav_Events_Pro_Bowl'">Pro Bowl</a></li>
+							<li><a href="http://www.nfl.com/combine" onclick="s_objectID='Nav_Events_Combine'">Combine</a></li>
+						</ul>
+						<ul>
+							<li><a href="http://www.nfl.com/draft/2012" onclick="s_objectID='Nav_Events_Draft'">Draft</a></li>
+							<li><a href="http://www.nfl.com/trainingcamp" onclick="s_objectID='Nav_Events_Training_Camp'">Training Camp</a></li>
+							<li><a href="http://www.profootballhof.com/" onclick="s_objectID='Nav_Events_Hall_of_Fame'"target="_blank">Hall of Fame</a></li>
+							<li><a href="http://www.nfl.com/freeagency" onclick="s_objectID='Nav_Events_Free_Agency'">Free Agency</a></li>
+						</ul>
+						<ul>
+							<li><a href="http://www.nfl.com/kickoff" onclick="s_objectID='Nav_Events_Kickoff'">Kickoff</a></li>
+							<li><a href="http://www.nfl.com/international" onclick="s_objectID='Nav_Events_International'">International</a></li>
+							<li><a href="http://www.nfl.com/thanksgiving" onclick="s_objectID='Nav_Events_Thanksgiving'">Thanksgiving</a></li>
+							<li><a href="http://www.nfl.com/seniorbowl" onclick="s_objectID='Nav_Events_Senior_Bowl'">Senior Bowl</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</li>
+		<li id="alt-nv-group-videos" class="alt-nv-group">
+			<h3><a href="http://www.nfl.com/videos" onclick="s_objectID='Nav_Videos_Main'">Video</a></h3>
+			<div class="channel-content">
+				<div class="alt-nv-content-wrapper">
+					<div class="video-nv-content bottom alt-nv-main-watermark-text">Video</div>
+					<div class="channels">
+						<ul>
+							<li><a href="http://www.nfl.com/videos/nfl-game-highlights" onclick="s_objectID='Nav_Videos_Highlights'">Highlights</a></li>
+							<li><a href="http://www.nfl.com/videos/nfl-videos" onclick="s_objectID='Nav_Videos_All_Videos'">All Videos</a></li>
+							<li><a href="http://www.nfl.com/live" onclick="s_objectID='Nav_Videos_Live'">NFL.com/Live</a></li>
+						</ul>
+						<ul>
+							<li><a href="http://www.nfl.com/preseasonlive" onclick="s_objectID='Nav_Videos_PreseasonLive'">Preseason Live</a></li>
+							<li><a href="http://www.nfl.com/gamepass" onclick="s_objectID='Nav_NFL_Anytime_Game_Pass'">Game Pass</a></li>
+							<li><a href="http://www.nfl.com/gamerewind" onclick="s_objectID='Nav_NFL_Anytime_Game_Rewind'">Game Rewind</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</li>
+		<li id="alt-nv-group-teams" class="alt-nv-group">
+			<h3><a href="http://www.nfl.com/teams" onclick="s_objectID='Nav_Teams_Main'">Teams</a></h3>
+			<div class="channel-content">
+				<div class="alt-nv-content-wrapper">
+					<div class="video-nv-content bottom alt-nv-main-watermark-text">Teams</div>
+					<div class="channels">
+						<ul>
+							<li><a href="http://www.nfl.com/teams/arizonacardinals/profile?team=ARI" onclick="s_objectID='Nav_Teams_ARI'">Arizona Cardinals</a></li>
+							<li><a href="http://www.nfl.com/teams/atlantafalcons/profile?team=ATL" onclick="s_objectID='Nav_Teams_ATL'">Atlanta Falcons</a></li>							
+							<li><a href="http://www.nfl.com/teams/baltimoreravens/profile?team=BAL" onclick="s_objectID='Nav_Teams_BAL'">Baltimore Ravens</a></li>
+							<li><a href="http://www.nfl.com/teams/buffalobills/profile?team=BUF" onclick="s_objectID='Nav_Teams_BUF'">Buffalo Bills</a></li>
+							<li><a href="http://www.nfl.com/teams/carolinapanthers/profile?team=CAR" onclick="s_objectID='Nav_Teams_CAR'">Carolina Panthers</a></li>
+							<li><a href="http://www.nfl.com/teams/chicagobears/profile?team=CHI" onclick="s_objectID='Nav_Teams_CHI'">Chicago Bears</a></li>
+							<li><a href="http://www.nfl.com/teams/cincinnatibengals/profile?team=CIN" onclick="s_objectID='Nav_Teams_CIN'">Cincinnati Bengals</a></li>
+							<li><a href="http://www.nfl.com/teams/clevelandbrowns/profile?team=CLE" onclick="s_objectID='Nav_Teams_CLE'">Cleveland Browns</a></li>
+							<li><a href="http://www.nfl.com/teams/dallascowboys/profile?team=DAL" onclick="s_objectID='Nav_Teams_DAL'">Dallas Cowboys</a></li>
+							<li><a href="http://www.nfl.com/teams/denverbroncos/profile?team=DEN" onclick="s_objectID='Nav_Teams_DEN'">Denver Broncos</a></li>
+							<li><a href="http://www.nfl.com/teams/detroitlions/profile?team=DET" onclick="s_objectID='Nav_Teams_DET'">Detroit Lions</a></li>
+						</ul>
+						<ul>
+							<li><a href="http://www.nfl.com/teams/greenbaypackers/profile?team=GB" onclick="s_objectID='Nav_Teams_GB'">Green Bay Packers</a></li>
+							<li><a href="http://www.nfl.com/teams/houstontexans/profile?team=HOU" onclick="s_objectID='Nav_Teams_HOU'">Houston Texans</a></li>
+							<li><a href="http://www.nfl.com/teams/indianapoliscolts/profile?team=IND" onclick="s_objectID='Nav_Teams_IND'">Indianapolis Colts</a></li>
+							<li><a href="http://www.nfl.com/teams/jacksonvillejaguars/profile?team=JAC" onclick="s_objectID='Nav_Teams_JAC'">Jacksonville Jaguars</a></li>
+				 			<li><a href="http://www.nfl.com/teams/kansascitychiefs/profile?team=KC" onclick="s_objectID='Nav_Teams_KC'">Kansas City Chiefs</a></li>
+				 			<li><a href="http://www.nfl.com/teams/miamidolphins/profile?team=MIA" onclick="s_objectID='Nav_Teams_MIA'">Miami Dolphins</a></li>
+							<li><a href="http://www.nfl.com/teams/minnesotavikings/profile?team=MIN" onclick="s_objectID='Nav_Teams_MIN'">Minnesota Vikings</a></li>
+							<li><a href="http://www.nfl.com/teams/newenglandpatriots/profile?team=NE" onclick="s_objectID='Nav_Teams_NE'">New England Patriots</a></li>
+							<li><a href="http://www.nfl.com/teams/neworleanssaints/profile?team=NO" onclick="s_objectID='Nav_Teams_NO'">New Orleans Saints</a></li>
+							<li><a href="http://www.nfl.com/teams/newyorkgiants/profile?team=NYG" onclick="s_objectID='Nav_Teams_NYG'">New York Giants</a></li>
+							<li><a href="http://www.nfl.com/teams/newyorkjets/profile?team=NYJ" onclick="s_objectID='Nav_Teams_NYJ'">New York Jets</a></li>
+						</ul>
+						<ul>
+							<li><a href="http://www.nfl.com/teams/oaklandraiders/profile?team=OAK" onclick="s_objectID='Nav_Teams_OAK'">Oakland Raiders</a></li>
+							<li><a href="http://www.nfl.com/teams/philadelphiaeagles/profile?team=PHI" onclick="s_objectID='Nav_Teams_PHI'">Philadelphia Eagles</a></li>
+							<li><a href="http://www.nfl.com/teams/pittsburghsteelers/profile?team=PIT" onclick="s_objectID='Nav_Teams_PIT'">Pittsburgh Steelers</a></li>
+				 			<li><a href="http://www.nfl.com/teams/sandiegochargers/profile?team=SD" onclick="s_objectID='Nav_Teams_SD'">San Diego Chargers</a></li>
+							<li><a href="http://www.nfl.com/teams/sanfrancisco49ers/profile?team=SF" onclick="s_objectID='Nav_Teams_SF'">San Francisco 49ers</a></li>
+							<li><a href="http://www.nfl.com/teams/seattleseahawks/profile?team=SEA" onclick="s_objectID='Nav_Teams_SEA'">Seattle Seahawks</a></li>
+							<li><a href="http://www.nfl.com/teams/st.louisrams/profile?team=STL" onclick="s_objectID='Nav_Teams_STL'">St. Louis Rams</a></li>
+							<li><a href="http://www.nfl.com/teams/tampabaybuccaneers/profile?team=TB" onclick="s_objectID='Nav_Teams_TB'">Tampa Bay Buccaneers</a></li>
+							<li><a href="http://www.nfl.com/teams/tennesseetitans/profile?team=TEN" onclick="s_objectID='Nav_Teams_TEN'">Tennessee Titans</a></li>
+							<li><a href="http://www.nfl.com/teams/washingtonredskins/profile?team=WAS" onclick="s_objectID='Nav_Teams_WAS'">Washington Redskins</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</li>
+		<li id="alt-nv-group-players" class="alt-nv-group">
+			<h3><a href="http://www.nfl.com/players" onclick="s_objectID='Nav_Players_Main'">Players</a></h3>
+	 		<div class="channel-content">
+	 			<div class="alt-nv-content-wrapper">
+					<div class="video-nv-content bottom alt-nv-main-watermark-text">Players</div>
+	 				<div class="channels">
+						<ul>
+				 			<li><a href="http://www.nfl.com/players/search?category=name&amp;playerType=current" onclick="s_objectID='Nav_Players_By_Name'">By Name</a></li>
+							<li><a href="http://www.nfl.com/players/search?category=position&amp;playerType=current" onclick="s_objectID='Nav_Players_By_Position'">By Position</a></li>
+						</ul>
+						<ul>
+							<li><a href="http://www.nfl.com/players/search?category=team&amp;playerType=current" onclick="s_objectID='Nav_Players_By_Team_Roster'">By Team Roster</a></li>
+							<li><a href="http://www.nfl.com/players/search?playerType=historical" onclick="s_objectID='Nav_Players_Historical_Players'">Historical Players</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</li>
+		<li id="alt-nv-group-scores" class="alt-nv-group"><h3><a href="http://www.nfl.com/scores/2011/REG1" onclick="s_objectID='Nav_Scores_Main'">Scores</a></h3></li>
+		<li id="alt-nv-group-schedules" class="alt-nv-group">
+			<!-- <h3><a href="http://www.nfl.com/schedules?seasonType=POST#Week" onclick="s_objectID='Nav_Schedules_Main'">Schedules</a></h3> -->
+			<h3><a href="http://www.nfl.com/schedules" onclick="s_objectID='Nav_Schedules_Main'">Schedules</a></h3>
+	 		<div class="channel-content">
+	 			<div class="alt-nv-content-wrapper">
+					<div class="video-nv-content bottom alt-nv-main-watermark-text">Schedules</div>
+	 				<div class="channels">
+						<ul>
+							<li><a href="http://www.nfl.com/schedules?seasonType=PRE#Week" onclick="s_objectID='Nav_Schedules_Preseason'">Preseason</a></li> 
+							<li><a href="http://www.nfl.com/schedules?seasonType=REG#Week" onclick="s_objectID='Nav_Schedules_Regular_Season'">Regular Season</a></li>
+							<!-- <li><a href="http://www.nfl.com/goto?id=09000d5d81f36ce3" onclick="s_objectID='Nav_Schedules_Preseason'">Preseason</a></li> -->
+							<!-- <li><a href="http://www.nfl.com/schedules" onclick="s_objectID='Nav_Schedules_Regular_Season'">Regular Season</a></li> -->
+						</ul>
+						<ul>
+							<li><a href="http://www.nfl.com/schedules?seasonType=POST#Week" onclick="s_objectID='Nav_Schedules_Postseason'">Postseason</a></li>
+							<li><a href="http://www.nfl.com/schedules/interactive" onclick="s_objectID='Nav_Schedules_Interactive_Schedule'">Interactive Schedules</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</li>
+
+		<li id="alt-nv-group-stats" class="alt-nv-group">
+			<h3><a href="http://www.nfl.com/stats/player" onclick="s_objectID='Nav_Stats_Main'">Stats</a></h3>
+	 		<div class="channel-content">
+	 			<div class="alt-nv-content-wrapper">
+					<div class="video-nv-content bottom alt-nv-main-watermark-text">Stats</div>
+	 				<div class="channels">
+						<ul>
+							<li><a href="http://www.nfl.com/stats/player" onclick="s_objectID='Nav_Stats_Player_Stats'">Player Stats</a></li>
+							<li><a href="http://www.nfl.com/stats/team" onclick="s_objectID='Nav_Stats_Team_Stats'">Team Stats</a></li>
+							<li><a href="http://www.nfl.com/stats/categorystats?archive=false&role=TM&offensiveStatisticCategory=OFFENSIVE_LINE&tabSeq=2&qualified=true" onclick="s_objectID='Nav_Offensive_Line_Stats'">Offensive Line Stats</a></li>
+						</ul>
+						<ul>
+							<li><a href="http://www.nfl.com/stats/categorystats?archive=false&amp;conference=null&amp;statisticCategory=PASSING&amp;seasonString=null&amp;experience=0&amp;tabSeq=0&amp;Submit=Fin" onclick="s_objectID='Nav_Stats_Rookie_Stats'">Rookie Stats</a></li>
+							<li><a href="http://www.nfl.com/stats/weeklyleaders" onclick="s_objectID='Nav_Stats_Weekly_Leaders'">Weekly Leaders</a></li>
+							<li><a href="http://www.nfl.com/history" onclick="s_objectID='Nav_Stats_Historical_Stats'">Historical Stats</a></li>
+						</ul>
+						<ul>
+							<li><a href="http://www.nfl.com/stats/topperformers" onclick="s_objectID='Nav_Stats_Top_Performers'">Top Performers</a></li>
+							<li><a href="http://www.nfl.com/stats/headtohead" onclick="s_objectID='Nav_Stats_Player_Matchups'">Player Matchups</a></li>
+							<li><a href="http://www.nfl.com/stats/milestone?icampaign=milestone_Nav" onclick="s_objectID='Nav_Stats_Milestone_Tracker'">Milestone Tracker</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</li>
+		<li id="alt-nv-group-standings" class="alt-nv-group">
+			<h3><a href="http://www.nfl.com/standings" onclick="s_objectID='Nav_Standings_Main'">Standings</a></h3>
+	 		<div class="channel-content">
+	 			<div class="alt-nv-content-wrapper">
+					<div class="video-nv-content bottom alt-nv-main-watermark-text">Standings</div>
+	 				<div class="channels">
+						<ul>
+							<li><a href="http://www.nfl.com/standings" onclick="s_objectID='Nav_Standings_By_Division'">By Division</a></li>
+							<li><a href="http://www.nfl.com/standings?category=conf" onclick="s_objectID='Nav_Standings_By_Conference'">By Conference</a></li>
+						</ul>
+						<ul>
+							<li><a href="http://www.nfl.com/standings?category=league" onclick="s_objectID='Nav_Standings_By_League'">By League</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</li>
+		<li id="alt-nv-group-fantasy" class="alt-nv-group">
+			<h3><a href="http://www.nfl.com/fantasy" onclick="s_objectID='Nav_Fantasy_Main'">Fantasy</a></h3>
+	 		<div class="channel-content">
+	 			<div class="alt-nv-content-wrapper">
+					<div class="video-nv-content bottom alt-nv-main-watermark-text">Fantasy</div>
+					<div id="fantasy-promo-wrapper" style="height: 250px; overflow: hidden; width: 375px; position: absolute; right: 430px; bottom: 16px;">
+</div>
+					<div id="fantasy-dyn-box-wrapper">
+						<div class="head"><h2><img src="http://img.static.nfl.com/static/site/3.5/img/fantasy/header-title-my-fantasy.png" width="178" height="14" alt="My Fantasy Teams"/>&nbsp;</h2><span><a href="http://fantasy.nfl.com">Fantasy Football 2011</a></span></div>
+						<div id="fantasy-dyn-box" class="body">
+							<div class="nv-fantasy-signed-out">
+<a href="https://id2.s.nfl.com/fans/login?returnTo=/fantasy">Sign in</a> to access your fantasy teams.</div>
+							<div class="nv-fantasy-signed-in-no-teams">
+								<span class="userlink">(<a data-href="http://www.nfl.com/fans/profile/#{user.username}">#{user.username}</a>)</span>
+								<span class="msg-italic">
+You have no teams.<br><p style="height: 7px;"></p>
+<a href="http://fantasy.nfl.com?icampaign=Fantasy_teams_sign_up">Sign up now!</a></span>
+								<div class="get-started">
+									<span class="msg-bold">Resources</span>
+									
+<ul>
+	<li><a href="http://fantasy.nfl.com?icampaign=Fantasy_teams_sign_up">Create a League &#187;</a></li>	
+	<li><a href="http://fantasy.nfl.com/registration/leagueDirectory">Join a League &#187;</a></li>
+	<li><a href="http://fantasy.nfl.com/myleagues">Activate a League &#187;</a></li>
+	<li><a href="http://fantasy.nfl.com/draftcenter/mockdrafts">Join a Mock Draft &#187;</a></li>
+</ul>
+								</div>
+							</div>
+							<div class="nv-fantasy-signed-in-teams">
+								<span class="userlink">(<a data-href="http://www.nfl.com/fans/profile/#{user.username}">#{user.username}</a>)</span>
+								<div class="body">
+									<div class="team-node #{leagues.league1.leagueType}">
+										<span class="team-node-number">(#{leagues.league1.index}/#{leagues.total})</span>
+										<span class="team-node-name">#{leagues.league1.teamLink}</span>
+										<span class="team-node-league-frag">in: </span><span class="team-node-league">#{leagues.league1.leagueLink}</span>
+									</div>
+									<div class="team-node #{leagues.league2.leagueType}">
+										<span class="team-node-number">(#{leagues.league2.index}/#{leagues.total})</span>
+										<span class="team-node-name">#{leagues.league2.teamLink}</span>
+										<span class="team-node-league-frag">in: </span><span class="team-node-league">#{leagues.league2.leagueLink}</span>
+									</div>
+									<div class="team-node #{leagues.league3.leagueType}">
+										<span class="team-node-number">(#{leagues.league3.index}/#{leagues.total})</span>
+										<span class="team-node-name">#{leagues.league3.teamLink}</span>
+										<span class="team-node-league-frag">in: </span><span class="team-node-league">#{leagues.league3.leagueLink}</span>
+									</div>
+								</div>
+								<div class="foot"><a href="http://fantasy.nfl.com">More Teams</a></div>
+							</div>
+						</div>
+					</div>
+	 				<div class="channels">
+						<ul>
+							<li><a href="http://www.nfl.com/fantasy" onclick="s_objectID='Nav_Fantasy_Home'">Home</a></li>
+							<li><a href="http://fantasy.nfl.com?icampaign=Nav_Fantasy_sign_up" onclick="s_objectID='Nav_Fantasy_Fantasy_Football_2011'">Fantasy '11</a></li>
+							<li><a href="http://www.nfl.com/fantasy/playernews?newsIndex=1&amp;pageIndex=1" onclick="s_objectID='Nav_Fantasy_Player_News'">Player News</a></li>
+							<li><a href="http://www.nfl.com/fantasy/rankings" onclick="s_objectID='Nav_Fantasy_Player_Rankings'">Rankings</a></li>
+							<li><a href="http://www.nfl.com/fantasy/draftkit" onclick="s_objectID='Nav_Fantasy_Draft_Kit'">Draft Kit</a></li>
+							<li><a href="http://www.nfl.com/fantasy/blog" onclick="s_objectID='Nav_Fantasy_Blog'">Blog</a></li>
+							<li><a href="http://www.nfl.com/videos/nfl-fantasy" onclick="s_objectID='Nav_Fantasy_Video'">Video</a></li>
+							<li><a href="http://quickhit.com/?rid=nfl&utm_source=nfl&utm_medium=topnav&utm_campaign=nfl_topnav" onclick="s_objectID='Nav_Fantasy_Quickhit'" target="_blank">QUICKHIT</a></li>
+							<li><a href="http://www.nfl.com/fans/forums" onclick="s_objectID='Nav_Fantasy_Forums'">Forums</a></li>							
+							<li><a href="http://www.nfl.com/fantasy/help" onclick="s_objectID='Nav_Fantasy_Help'">Help</a></li>
+							
+							
+						</ul>	
+					</div>
+				</div>
+			</div>
+		</li>
+		<li id="alt-nv-group-nfl-network" class="alt-nv-group">
+			<h3><a href="http://www.nfl.com/nflnetwork" onclick="s_objectID='Nav_NFLN_Main'">NFL Network</a></h3>
+	 		<div class="channel-content">
+	 			<div class="alt-nv-content-wrapper">
+
+	 				<div class="channels">
+						<div style="width:0px;height:83px;float:left;display:inline"></div>
+						<ul>
+							<li><a href="/nflnetwork" onclick="s_objectID='Nav_NFLN_Main_submenu'">NFL Network</a></li>
+							<li><a href="http://www.nfl.com/nflnetwork/networkschedule" onclick="s_objectID='Nav_NFLN_NFL_Network_Schedule'">Schedules</a></li>
+							<li><a href="http://www.nfl.com/videos" onclick="s_objectID='Nav_NFLN_Video'">Video</a></li>
+							<li><a href="http://www.nfl.com/redzonetv" onclick="s_objectID='Nav_NFLN_NFL_RedZone'">NFL RedZone</a></li>
+							<li><a href="http://www.keepgyminschool.com/" onclick="s_objectID='Keep_Gym_In_School'">Keep Gym in School</a></li>
+						</ul>
+						<ul>
+							<li><a href="http://www.nfl.com/videos/nfl-network-total-access" onclick="s_objectID='Total_Access'">Total Access</a></li>
+							<li><a href="http://www.nfl.com/videos/nfl-network-gameday" onclick="s_objectID='GameDay'">GameDay</a></li>
+							<li><a href="http://www.nfl.com/videos/nfl-network-around-the-league" onclick="s_objectID='Around_The_League'">Around the League</a></li>
+							<li><a href="http://www.nfl.com/videos/nfl-films-sound-efx" onclick="s_objectID='Sound_Fx'">Sound FX</a></li>
+							<li><a href="http://www.nfl.com/videos/nfl-network-the-coaches" onclick="s_objectID='The_Coaches'">The Coaches</a></li>
+						</ul>
+						<ul>
+							<li><a href="http://www.nfl.com/top100" onclick="s_objectID='Top100'">Top 100</a></li>
+							<li><a href="http://www.nfl.com/videos/nfl-network-playbook" onclick="s_objectID='Playbook'">Playbook</a></li>
+							<li><a href="http://www.nfl.com/nflnetwork/onairtalent" onclick="s_objectID='Onairtalent'">On Air Talent</a></li>
+							<li><a href="https://network.nfl.com/nfln/secure/registerform" onclick="s_objectID='NFLNO'">Watch Online</a></li>
+							<!--<li><a href="http://iwantnflnetwork.com/" onclick="s_objectID='I_Want_NFL_Network'">I Want NFL Network</a></li>-->
+							<!--<li><a href="http://www.nfl.com/nflnetwork/games" onclick="s_objectID='Nav_NFLN_Games_on_NFL_Network'">Games on NFL Network</a></li>
+							<li><a href="http://www.nfl.com/nflnetwork/shows" onclick="s_objectID='Nav_NFLN_Shows'">Shows</a></li>-->
+						</ul>
+						
+					</div>
+<!--Commented out Redzone per Product and added DIV with same class before div.channels.  Make sure you remove that div if you add this back.
+					 <div class="video-nv-content bottom">
+						<a href="http://www.iwantnflnetwork.com" onclick="s_objectID='Nav_NFL_Network_Promtion_Unit'"><img style="margin: 0 10px 10px" alt="" src="http://static.nfl.com/static/content/catch_all/nfl_image/iwantnflnetwork2.jpg"/></a>
+					</div>
+
+					<div class="video-nv-content bottom alt-nv-main-watermark-text">
+						<a href="http://www.iwantnflnetwork.com" onclick="s_objectID='Nav_NFL_Network_Promtion_Unit'"><img style="margin: 0 10px 10px" alt="" src="http://static.nfl.com/static/content/catch_all/nfl_image/iwantnflnetwork2.jpg"/></a>
+					</div> -->
+				</div>
+			</div>
+		</li>
+		<li id="alt-nv-group-game-access" class="alt-nv-group">
+			<h3><a href="http://subscriptions.nfl.com/nflsubs/" onclick="s_objectID='Nav_NFL_Game_Access'">Game Pass</a></h3>
+	 		<div class="channel-content">
+	 			<div class="alt-nv-content-wrapper">
+					<div class="video-nv-content bottom alt-nv-main-watermark-text">Game Pass</div>
+	 				<div class="channels">
+						<ul>
+							<li class="subChoiceMarker"><h4>Online:</h4></li>
+							<!--<li><a href="https://gamerewind.nfl.com/nflgr/secure/gameaccess" onclick="s_objectID='Nav_NFL_Anytime_Game_Access'">Game Access</a></li>-->
+							<li><a href="http://www.nfl.com/preseasonlive" onclick="s_objectID='Nav_NFL_Anytime_Audio_Pass'">Preseason Live</a></li>
+							<li><a href="http://www.nfl.com/gamepass" onclick="s_objectID='Nav_NFL_Anytime_Game_Pass'">Game Pass</a></li>
+							<li><a href="http://www.nfl.com/gamerewind" onclick="s_objectID='Nav_NFL_Anytime_Game_Rewind'">Game Rewind</a></li>
+							<li><a href="http://www.nfl.com/audiopass" onclick="s_objectID='Nav_NFL_Anytime_Audio_Pass'">Audio Pass</a></li>
+							<li><a href="https://network.nfl.com/nfln/secure/registerform" onclick="s_objectID='Nav_NFL_Anytime_NFLNO'">NFL Network Online</a></li>
+							<li><a href="http://www.nfl.com/downloads" onclick="s_objectID='Nav_NFL_Anytime_Downloads'">Downloads</a></li>							
+						</ul>
+						<ul>
+							<li class="subChoiceMarker"><h4>Mobile:</h4></li>
+							<!--<li><a href="http://www.nfl.com/mobile" onclick="s_objectID='Nav_NFL_Anytime_NFL_Mobilie_Live'">NFL Mobile</a></li>-->
+							<li><a href="http://www.nfl.com/wireless" onclick="s_objectID='Nav_NFL_Anytime_NFL.com_Wireless'">NFL.com Wireless</a></li>
+							<li><a href="http://mywireless.nfl.com" target="_blank" onclick="s_objectID='Nav_NFL_Anytime_Tones_&amp;_Graphics'">Tones &amp; Graphics</a></li>
+							<li><a href="http://mywireless.nfl.com/alerts.php" target="_blank" onclick="s_objectID='Nav_NFL_Anytime_Alerts'">Alerts</a></li>
+						</ul>
+						<ul>
+							<li class="subChoiceMarker"><h4>TV &amp; Radio:</h4></li>
+							<!--<li><a href="http://www.nfl.com/promotions/directv/sundayticket" onclick="s_objectID='Nav_NFL_Anytime_NFL_Sunday_Ticket'">NFL Sunday Ticket</a></li>-->
+							<li><a href="https://www.directv.com/DTVAPP/content/sports/nfl?footernavtype=-1" onclick="s_objectID='Nav_NFL_Anytime_NFL_Sunday_Ticket'">NFL Sunday Ticket</a></li>
+							<li><a href="http://iwantnflnetwork.com/" onclick="s_objectID='Nav_NFL_Anytime_I_want_NFL_Network'">I want NFL Network</a></li>				
+							<li><a href="http://www.nfl.com/nflnetwork/networkschedule" onclick="s_objectID='Nav_NFL_Anytime_NFL_Network_Schedule'">NFL Network Schedule</a></li>
+							<li><a href="http://www.nfl.com/snf" onclick="s_objectID='Nav_NFL_Anytime_Sunday_Night_Football_Extra'">Sunday Night Football Extra</a></li>
+							<li><a href="http://www.sirius.com/servlet/ContentServer?pagename=Sirius/Page&amp;c=FlexContent&amp;cid=1185296533780" onclick="s_objectID='Nav_NFL_Anytime_NFL_Sunday_Drive'">NFL Sunday Drive</a></li>
+							<li><a href="http://redzonetv.nfl.com/" onclick="s_objectID='Nav_NFL_Anytime_NFL_Red_Zone'">NFL Red Zone</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</li>
+		<li id="alt-nv-group-tickets" class="alt-nv-group">
+			<h3><a href="http://www.nfl.com/tickets" onclick="s_objectID='Nav_Tickets_Main'">Tickets</a></h3>
+	 		<div class="channel-content">
+	 			<div class="alt-nv-content-wrapper">
+					<div class="video-nv-content bottom alt-nv-main-watermark-text">Tickets</div>
+	 				<div class="channels">
+						<ul>
+							<li><a href="http://www.nfl.com/tickets?icampaign=Tickets_Nav" onclick="s_objectID='Nav_Tickets_Landing'">Tickets by Team</a></li>
+							<li><a href="http://www.ticketexchangebyticketmaster.com/nfl?intcmp=tm100456&amp;wt.mc_id=NFL_LEAGUE_TIX_DROP_DWN_MEN&amp;extcmp=TicketsEX_NFL" onclick="s_objectID='Nav_Tickets_Exchange'">NFL Ticket Exchange</a></li>
+							<li><a href="http://nflonlocation.com/index.php?utm_source=nflcom&utm_medium=link&utm_campaign=nflDirLinks" onclick="s_objectID='Nav_Tickets_Location'">NFL On Location</a></li>
+							<li><a href="http://www.lombardibroadway.com/nfl.php" onclick="s_objectID='Nav_Tickets_Lombardi'">Lombardi on Broadway</a></li>
+					<!--	<li><a href="http://www.ticketmaster.com/event/2B00458E9D712785?artistid=1535351&majorcatid=10001&minorcatid=1" onclick="s_objectID='Nav_Tickets_Pepsi'">Pepsi Fan Jam</a></li>
+							<li><a href="http://www.profootballhof.com/enshrinement/ticket_policies.aspx" onclick="s_objectID='Nav_Tickets_HOF'">HOF Enshrinement</a></li>
+					 		<li><a href="http://www.nflonlocation.net/probowl.php" onclick="s_objectID='Nav_Pro_Bowl_Packages'">Pro Bowl Packages</a></li>
+							<li><a href="http://www.ticketmaster.com/event/0D00432E9AB03313?intcmp=tm103892&wt.mc_id=NFL_LEAGUE_PRO_BOWL" onclick="s_objectID='Nav_Pro_Bowl_Tickets'">Pro Bowl Tickets</a></li> 
+							<li><a href="http://www.nflonlocation.net/superbowl.php" onclick="s_objectID='Nav_Super_Bowl_Packages'">Super Bowl Packages</a></li>
+							<li><a href="http://www.ticketexchangebyticketmaster.com/NFL/InventoryBrowse/Super-Bowl-Tickets-at-Dolphin-Stadium-in-Opa-Locka?PID=505575&intcmp=tm104190&wt.mc_id=NFL_LEAGUE_TIX_SB&extcmp=NFL_League_SB44" onclick="s_objectID='Nav_Super_Bowl_Tickets'">Super Bowl Tickets</a></li> -->
+						</ul>
+						<!-- <ul>
+						    <li class="subChoiceMarker"><h4>WILD CARD GAMES:</h4></li>
+						    <li><a href="http://www.ticketexchangebyticketmaster.com/NFL/InventoryBrowse/Seattle-Seahawks-Tickets-at-Qwest-Field-in-Seattle?PID=1062599&intcmp=tm104882&wt.mc_id=NFL_LEAGUE_SEA_PLAYOFF1&extcmp=SEA_Playoff_NAV" onclick="s_objectID='Nav_Tickets_Exchange_Playoffs_Seahawks'">Saints at Seahawks</a></li> 
+							<li><a href="http://www.ticketexchangebyticketmaster.com/NFL/InventoryBrowse/Indianapolis-Colts-Tickets-at-Lucas-Oil-Stadium-in-Indianapolis?PID=1062177&intcmp=tm104866&wt.mc_id=NFL_LEAGUE_IND_PLAYOFF1&extcmp=IND_Playoff_Nav" onclick="s_objectID='Nav_Tickets_Exchange_Playoffs_Colts'">Jets at Colts</a></li>
+							<li><a href="http://www.ticketexchangebyticketmaster.com/NFL/InventoryBrowse/Kansas-City-Chiefs-Tickets-at-Arrowhead-Stadium-in-Kansas-City?PID=1073885&intcmp=tm104870&extcmp=KC_Playoff_NAV" onclick="s_objectID='Nav_Tickets_Exchange_Playoffs_Chiefs'">Ravens at Chiefs</a></li>
+							<li><a href="https://teamexchange.ticketmaster.com/html/postinglist.htmI?l=EN&team=eagles&EVNT=10POGM1&CNTX=&intcmp=tm104878&wt.mc_id=NFL_LEAGUE_PHI_PLAYOFF1&extcmp=PHI_Playoff_NAV" onclick="s_objectID='Nav_Tickets_Exchange_Playoffs_Eagles'">Packers at Eagles</a></li>
+							<li><a href="xxx" onclick="s_objectID='Nav_Tickets_Playoffs_Saints'">Saints Box Office</a></li> 
+						</ul> -->
+					<!--	<ul>
+						    <li class="subChoiceMarker"><h4>DIVISIONAL ROUND:</h4></li>
+							<li><a href="http://www.ticketexchangebyticketmaster.com/NFL/InventoryBrowse/Pittsburgh-Steelers-Tickets-at-Heinz-Field-in-Pittsburgh?PID=1067585&intcmp=tm104880&extcmp=PIT_Playoff_NAV" onclick="s_objectID='Nav_Tickets_Exchange_Playoffs_Steelers'">Ravens at Steelers</a></li>
+							<li><a href="http://www.ticketexchangebyticketmaster.com/NFL/InventoryBrowse/Atlanta-Falcons-Tickets-at-Georgia-Dome-in-Atlanta?PID=1073037&intcmp=tm104858&extcmp=ATL_Playoff_Nav" onclick="s_objectID='Nav_Tickets_Exchange_Playoffs_Falcons'">Packers at Falcons</a></li> 
+							<li><a href="http://www.ticketexchangebyticketmaster.com/NFL/InventoryBrowse/Chicago-Bears-Tickets-at-Soldier-Field-in-Chicago?PID=1073889&intcmp=tm104862&extcmp=CHI_Playoff_NAV" onclick="s_objectID='Nav_Tickets_Exchange_Playoffs_Chiefs'">Seahawks at Bears</a></li>
+						    <li><a href="https://teamexchange.ticketmaster.com/html/postinglist.htmI?l=EN&team=patriots&EVNT=EFPGAME1&CNTX=&intcmp=tm104872&wt.mc_id=NFL_LEAGUE_NE_PLAYOFF1&extcmp=NE_Playoff_NAV" onclick="s_objectID='Nav_Tickets_Exchange_Playoffs_Patriots'">Jets at Patriots</a></li>
+							<li><a href="xxx" onclick="s_objectID='Nav_Tickets_Playoffs_Saints'">Saints Box Office</a></li> 
+						</ul> -->
+					<!--	<ul>
+						    <li class="subChoiceMarker"><h4>CHAMPIONSHIP ROUND:</h4></li>
+							<li><a href="http://www.ticketexchangebyticketmaster.com/NFL/InventoryBrowse/Pittsburgh-Steelers-Tickets-at-Heinz-Field-in-Pittsburgh?PID=1060682&intcmp=tm104881&wt.mc_id=NFL_LEAGUE_PIT_PLAYOFF2&extcmp=PIT_Playoff_NAV" onclick="s_objectID='Nav_Tickets_Exchange_Playoffs_Steelers'">Jets at Steelers</a></li>
+							<li><a href="http://www.ticketexchangebyticketmaster.com/NFL/InventoryBrowse/Chicago-Bears-Tickets-at-Soldier-Field-in-Chicago?PID=1062191&intcmp=tm104863&wt.mc_id=NFL_LEAGUE_CHI_PLAYOFF2&extcmp=CHI_Playoff_Nav" onclick="s_objectID='Nav_Tickets_Exchange_Playoffs_Bears'">Packers at Bears</a></li>
+						</ul> -->
+					</div>
+				</div>
+			</div>
+		</li>
+		<li id="alt-nv-group-nfl-shop" class="alt-nv-group">
+			<h3><a href="http://www.nflshop.com/entry.point?target=z&amp;source=SHOP_TAB" target="_blank" onclick="s_objectID='Nav_Shop_Main'">Shop</a></h3>
+	 		<div class="channel-content">
+	 			<div class="alt-nv-content-wrapper">
+	 				<div class="channels">
+						<ul>
+							<li><a href="http://www.nflshop.com/entry.point?entry=2237409&amp;source=SHOP_JERSEYS" target="_blank" onclick="s_objectID='Nav_Shop_Jerseys'">Jerseys</a></li>
+							<li><a href="http://www.nflshop.com/entry.point?entry=2237411&amp;source=SHOP_MENS" target="_blank" onclick="s_objectID='Nav_Shop_Mens'">Men's</a></li>
+							<li><a href="http://www.replayphotos.com/nflphotostore/?icampaign=Nav_PhotoStore" target="_blank" onclick="s_objectID='Nav_Shop_Photostore'">Photo Store</a></li>
+						</ul>
+						<ul>
+							<li><a href="http://www.nflshop.com/entry.point?entry=2251924&amp;source=SHOP_CUSTOM_SHOP" target="_blank" onclick="s_objectID='Nav_Shop_Custom_Shop'">Custom Shop</a></li>
+							<li><a href="http://www.nflshop.com/entry.point?entry=2237412&amp;source=NFL_SHOP_WOMENS" target="_blank" onclick="s_objectID='Nav_Shop_Womens'">Women's</a></li>
+							<li><a href="http://www.nflauction.nfl.com" target="_blank" onclick="s_objectID='Nav_Shop_NFL_Auction'">NFL Auction</a></li>
+						</ul>
+						<ul>
+							<li><a href="http://www.nflshop.com/entry.point?entry=2237414&amp;source=NFL_SHOP_KIDS" target="_blank" onclick="s_objectID='Nav_Shop_Kids'">Kids</a></li>
+							<li><a href="http://www.nflshop.com/entry.point?entry=2735301&source=NFL_PlayerShop" target="_blank" onclick="s_objectID='Nav_Shop_Player_Shop'">Player Shop</a></li>
+						<!--<li><a href="http://www.nflshop.com/entry.point?entry=2421485&source=SHOP_NEWARRIVALS" target="_blank" onclick="s_objectID='Nav_Shop_New_Arrivals'">New Arrivals</a></li> -->
+						<!--<li><a href="http://www.nflshop.com/entry.point?entry=4381832&source=SHOP_PERFORMANCEAPPAREL" target="_blank" onclick="s_objectID='Nav_Shop_Performance_Apparel'">Performance Apparel</a></li> -->
+							<li><a style="color:#FF0000" href="http://www.nflshop.com/entry.point?entry=3388868&source=NFL_Outlet" target="_blank" onclick="s_objectID='Nav_Shop_Outlet_Center'">Outlet Center</a></li>
+						</ul>
+					</div>
+					<div class="video-nv-content bottom alt-nv-main-watermark-text">
+						<div class="bg">Shop</div>
+						
+<!-- BEGIN WIDGET global/alt-shop-nav -->
+<ul class="items">
+	<li>
+		
+			
+			<div class="thumbnail"><a href="http://www.nflshop.com/entry.point?entry=11745390&amp;source=NFL_DF:NAV" target="_blank"><img src="http://img.static.nfl.com/static/site/img/shop/p10512674th.gif" alt="Photo: CWB 2011 Player Sideline Hat COWBOYS WHITE" /></a></div>
+			<div class="content">
+				<p><a href="http://www.nflshop.com/entry.point?entry=11745390&amp;source=NFL_DF:NAV" target="_blank">CWB 2011 Player Sideline Hat COWBOYS WHITE</a></p>
+				<p><span class="price">24.99</span></p>
+			</div>
+		
+	</li>
+</ul>
+<!-- END WIDGET global/alt-shop-nav -->
+
+					</div>					
+				</div>
+			</div>
+		</li>
+	</ul>
+	
+	<!--Opt In Smart Pixel -->
+	<iframe src='http://pixel.fetchback.com/serve/fb/pdc?cat=&name=landing&sid=2002' scrolling='no' width='1' height='1' marginheight='0' marginwidth='0' frameborder='0'></iframe> 
+
+</div>
+<!-- END INCLUDE navigation/default-alt -->
+	<script type="text/javascript">
+nfl.global.Navigation.initialize();
+nfl.global.MicroNav.initialize("#hd-micro-nav-list");
+nfl.use("nfl-sign-in-links", function (Y) {
+	var sil = new Y.NFLSignInLinks({ render: "#sign-in-links" });
+});
+	</script>
+</div>
+<!-- END INCLUDE headers/global-alt -->
+
+			<div id="hd-scorestrip">
+				<div id="hdscorestripContainer">
+					
+
+				</div>
+				<script type="text/javascript">
+YUI().use('prototype-compat', 'scorestrip', function(Y) {
+	var ss = new Y.NFL.ScoreStrip({
+		url: '/ajax/scorestrip?season=2010&seasonType=REG&week=1&',
+		srcNode: "#hdscorestripContainer"
+	});
+	ss.render();
+	window.ss = ss;
+});
+				</script>
+			</div>
+		
+	</div><div id="doc">
+		<div id="doc-wrap">
+			<div id="main-content" class="content-div">
+				<div class="c">
+					
+					<script type="text/javascript">
+		document.fire('head:loaded',{awesome: true});
+	</script>
+	<div id="gc-notice" class="content-div">
+		<div id="gc-notice-message" class="c"></div>
+		<div class="w"></div>
+		<div class="t"></div>
+		<div class="b"></div>
+	</div>
+	
+		<div id="dc-container" class="content-div">
+			<div class="c">
+				<div id="dc-header" class="header">
+					<h1 class="replaced">
+						Game Center
+						<span></span>
+					</h1>
+					
+					<div class="adcontainer" id="ad1312841864115spon" style="width:985px;height:55px;">
+						<script type="text/javascript">
+							document.write('<iframe width="985" scrolling="no" height="55" frameborder="0" allowtransparency="true" name="ad1312841864115spon-iframe" id="ad1312841864115spon-iframe" src="http://ad.doubleclick.net/adi/'+ nfl.global.gc.ads.page['header'] +'"></iframe>');
+						</script>
+					</div>
+				</div>
+				<div id="dc-test-and-target">
+					<script type="text/javascript">
+						loadMBoxOffers = function(text,url){
+							nfl.global.gc.dc.testandtarget	= {'url': url,'text': text}; // values are stored and retrieved once drive chart swf is loaded
+							nfl.global.gc.dc.loadTestAndTarget(nfl.global.gc.dc.testandtarget);
+						}
+					</script>
+					<div class="mboxDefault"></div>
+					<script type="text/javascript"> mboxCreate('NFL_GC','days=-7','state=post');</script>
+				</div>
+				<div id="dc-wrap"><div id="dc"></div></div>
+			</div>
+			<div class="w"></div>
+			<div class="t"></div>
+			<div class="b"></div>
+		</div>
+	
+	<div class="tab-list-wrapper">
+		<ol id="tab" class="tab-list">
+			
+				
+					
+					
+						
+						
+						
+						
+					
+						
+						
+						
+					
+					
+					<li id="gc-tabs-tab-recap" class="active" data-tabid="cat-post-recap-quick-take"><a href="/gamecenter/2010090900/2010/REG1/vikings@saints/recap#recap">news & results</a></li>
+				
+			
+				
+					
+					
+						
+						
+						
+						
+					
+						
+						
+						
+					
+					
+					<li id="gc-tabs-tab-analyze" data-tabid="cat-post-boxscore"><a href="/gamecenter/2010090900/2010/REG1/vikings@saints/analyze#analyze">complete stats & plays</a></li>
+				
+			
+				
+					
+					
+						
+						
+						
+						
+					
+					
+					<li id="gc-tabs-tab-discuss" data-tabid="cat-post-discuss"><a href="/gamecenter/2010090900/2010/REG1/vikings@saints/discuss#discuss">chat with fans</a></li>
+				
+			
+				
+					
+					
+						
+						
+						
+						
+					
+					
+					<li id="gc-tabs-tab-rate" data-tabid="cat-post-rate"><a href="/gamecenter/2010090900/2010/REG1/vikings@saints/rate#rate">game & team leaders</a></li>
+				
+			
+				
+					
+					
+						
+						
+						
+						
+					
+						
+						
+						
+					
+					
+					<li id="gc-tabs-tab-watch" data-tabid="cat-post-watch"><a href="/gamecenter/2010090900/2010/REG1/vikings@saints/watch#watch">game highlights</a></li>
+				
+			
+			<li id="gc-alert">alert area</li>
+		</ol>
+	</div>
+	<div id="main-content" class="content-div grid-160">
+	<!-- PAGE CONTENT -->
+		<div class="c">
+			<div id="gc-tab-wrapper" class="col grid">
+			
+				
+				<div id="recap" name="recap" class="gc-tabs-tab">
+					<!-- 
+						uriTabHrefBase: /gamecenter/2010090900/2010/REG1/vikings@saints/
+						uriCatParam: 
+						defaultTabContentPath: cat-post-recap-quick-take
+						name: Recap
+						id: tab-post-recap
+						gameState: POST
+						default: true
+						caption: news & results
+					-->
+					
+						
+							
+							
+						
+					
+						
+							
+							
+						
+					
+					
+						<ol id="recap-channels" class="tab-channel-nav">
+						
+							
+								<!-- 
+								defaultTabContentPath = "cat-post-recap-quick-take" 
+								cat.categoryId = "cat-post-recap-quick-take"
+								-->
+								<li id="cat-post-recap-quick-take" class="col span-2 l active"><div><a href="tab-post-recap/cat-post-recap-quick-take#cat-post-recap-quick-take">Quick-Take</a></div></li>
+							
+						
+							
+								<!-- 
+								defaultTabContentPath = "cat-post-recap-quick-take" 
+								cat.categoryId = "cat-post-recap-full-story"
+								-->
+								<li id="cat-post-recap-full-story" class="col span-2 l"><div><a href="tab-post-recap/cat-post-recap-full-story#cat-post-recap-full-story">Full-Story</a></div></li>
+							
+						
+							
+						</ol>
+					
+					<div id="recap-channel-content" class="gc-tabs-tab-content">
+						
+							<!-- start embedded tab content for SEO "/widget/gc/tabs/cat-post-recap-quick-take" -->
+							
+
+<div class="col span-8">
+	
+		<div id="gc-quicktake" class="widget">
+			<div class="gc-widget-shading-long">
+				<h1>Brees' passing leads Saints past Vikings in opener</h1>
+				<!-- public/ap/nfl_news/2010/09000d5d81a679ca.htm -->
+				
+<div class="articleText"> <p>NEW ORLEANS -- <A HREF="/players/drewbrees/profile?id=BRE229498">Drew Brees</A> and the Saints extended their post-Super Bowl euphoria for at least another week and handed <A HREF="/players/brettfavre/profile?id=FAV540222">Brett Favre</A> a second consecutive loss in the Louisiana Superdome.</p> <p>Brees completed 27 of 36 passes for 237 yards and one touchdown, and the Saints survived a hard-fought season opener for a 14-9 victory over the <A HREF="/teams/minnesotavikings/profile?team=MIN">Minnesota Vikings</A> on Thursday night.</p> <p>It wasn't the most spectacular way to open a title defense, considering it was a rematch of the riveting 2009 NFC title game last January, in which the Saints won in overtime to advance to their first Super Bowl.</p> <p>It was the lowest-scoring victory of the Sean Payton era, which began in 2006, but the Saints will take it, considering their defense limited Favre to 171 passing yards and one score.</p> </div>
+				
+					 
+					
+					<p class="links"><a class="more" onclick="nfl.GameCenter.Tabs.loadChannel('cat-post-recap-full-story', 'recap-channel-content')" href="#tab:recap/recap-channels:cat-post-recap-full-story">Read More &gt;</a></p>
+				
+			</div>
+		</div>
+		
+	<div id="gc-team-leaders" class="widget">
+		<h2 class="replaced">Team Leaders<span></span></h2>
+		<div class="col span-4">
+			
+
+
+
+<div style="position:relative" class="gc-widget-shading-long">
+<div class="watermark MIN-watermark"></div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="gc-team-leaders-table">
+	<col align="left"></col>
+	<col align="right"></col>
+	<col align="right"></col>
+	<col align="right"></col>
+	<col align="right"></col>
+	<tr class="thd1 team-column-header MINcolors">
+		<td colspan="3">MINNESOTA VIKINGS</td>
+	    <td colspan="2" align="right">&nbsp;</td>
+	</tr>
+	<tr class="thd2">
+		<td>Passing</td>
+		<td>Cmp</td>
+		<td>Att</td>
+		<td>Yds</td>
+		<td>TDs</td>
+	</tr>
+	
+		<tr class="tbdy1">
+			<td><a href="/players/profile?id=00-0005106" data-id="00-0005106" class="nfl-player-link">B. Favre</a></td>
+			<td>15</td>
+			<td>27</td>
+			<td>171</td>
+			<td>1</td>
+		</tr>
+	
+	
+	<tr class="thd2">
+		<td>Rushing</td>
+		<td>Car</td>
+		<td>Yds</td>
+		<td>Avg</td>
+		<td>TDs</td>
+	</tr>
+	
+		<tr class="tbdy1">
+			<td><a href="/players/profile?id=00-0025394" data-id="00-0025394" class="nfl-player-link">A. Peterson</a></td>
+			<td>19</td>
+			<td>87</td>
+			<td>4.6</td>
+			<td>0</td>
+		</tr>
+	
+		<tr class="tbdy1">
+			<td><a href="/players/profile?id=00-0026998" data-id="00-0026998" class="nfl-player-link">P. Harvin</a></td>
+			<td>1</td>
+			<td>2</td>
+			<td>2</td>
+			<td>0</td>
+		</tr>
+	
+	
+	<tr class="thd2">
+		<td>Receiving</td>
+		<td>Rec</td>
+		<td>Yds</td>
+		<td>Avg</td>
+		<td>TDs</td>
+	</tr>
+	
+		<tr class="tbdy1">
+			<td><a href="/players/profile?id=00-0022054" data-id="00-0022054" class="nfl-player-link">V. Shiancoe</a></td>
+			<td>4</td>
+			<td>76</td>
+			<td>19</td>
+			<td>1</td>
+		</tr>
+	
+		<tr class="tbdy1">
+			<td><a href="/players/profile?id=00-0023408" data-id="00-0023408" class="nfl-player-link">G. Camarillo</a></td>
+			<td>1</td>
+			<td>29</td>
+			<td>29</td>
+			<td>0</td>
+		</tr>
+	
+		
+</table>
+</div>
+		</div>
+		<div class="gc-tl-col">
+			
+
+
+
+<div style="position:relative" class="gc-widget-shading-long">
+<div class="watermark NO-watermark"></div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="gc-team-leaders-table">
+	<col align="left"></col>
+	<col align="right"></col>
+	<col align="right"></col>
+	<col align="right"></col>
+	<col align="right"></col>
+	<tr class="thd1 team-column-header NOcolors">
+		<td colspan="3">NEW ORLEANS SAINTS</td>
+	    <td colspan="2" align="right">&nbsp;</td>
+	</tr>
+	<tr class="thd2">
+		<td>Passing</td>
+		<td>Cmp</td>
+		<td>Att</td>
+		<td>Yds</td>
+		<td>TDs</td>
+	</tr>
+	
+		<tr class="tbdy1">
+			<td><a href="/players/profile?id=00-0020531" data-id="00-0020531" class="nfl-player-link">D. Brees</a></td>
+			<td>27</td>
+			<td>36</td>
+			<td>237</td>
+			<td>1</td>
+		</tr>
+	
+	
+	<tr class="thd2">
+		<td>Rushing</td>
+		<td>Car</td>
+		<td>Yds</td>
+		<td>Avg</td>
+		<td>TDs</td>
+	</tr>
+	
+		<tr class="tbdy1">
+			<td><a href="/players/profile?id=00-0024813" data-id="00-0024813" class="nfl-player-link">P. Thomas</a></td>
+			<td>19</td>
+			<td>71</td>
+			<td>3.7</td>
+			<td>1</td>
+		</tr>
+	
+		<tr class="tbdy1">
+			<td><a href="/players/profile?id=00-0024217" data-id="00-0024217" class="nfl-player-link">R. Bush</a></td>
+			<td>2</td>
+			<td>14</td>
+			<td>7</td>
+			<td>0</td>
+		</tr>
+	
+	
+	<tr class="thd2">
+		<td>Receiving</td>
+		<td>Rec</td>
+		<td>Yds</td>
+		<td>Avg</td>
+		<td>TDs</td>
+	</tr>
+	
+		<tr class="tbdy1">
+			<td><a href="/players/profile?id=00-0024466" data-id="00-0024466" class="nfl-player-link">M. Colston</a></td>
+			<td>5</td>
+			<td>62</td>
+			<td>12.4</td>
+			<td>0</td>
+		</tr>
+	
+		<tr class="tbdy1">
+			<td><a href="/players/profile?id=00-0022929" data-id="00-0022929" class="nfl-player-link">D. Henderson</a></td>
+			<td>2</td>
+			<td>38</td>
+			<td>19</td>
+			<td>1</td>
+		</tr>
+	
+		
+</table>
+</div>
+		</div>
+		<p class="links" style="float:right;"><a class="more" href="#tab:analyze/analyze-channels:cat-post-boxscore">Analyze Box Score &gt;</a></p>
+	</div>
+	<div id="gc-discuss" class="widget">
+		<h2 class="replaced">Discuss<span></span></h2>
+		<div class="gc-widget-shading">
+		
+<!-- BEGIN WIDGET teams/discuss -->
+<div class="widget-teams-discuss">
+	<div class="comments-disabled" style="display:none;">Comments are not available at this time.</div>
+	<div class="no-comments" style="display:none">No comments posted&hellip; Be the first to comment.</div>
+	<div class="comments faded-border">
+		<div id="gc-discuss-comments-list" class="box-gradient"></div>
+		<div id="gc-discuss-pagination" class="pagination"></div>
+	</div>
+	<p class="links">
+		<a class="more" href="#tab=discuss">Discuss with Fans</a>
+	</p>
+	
+	<script type="text/javascript">
+		
+(function(){
+	var gameId = "2010090900",
+		key = 'GC54863',
+		headline = "NFL Game Center: Minnesota Vikings at New Orleans Saints - 2010 Week 1",
+		url = "";
+
+    if (nfl.constants.COMMENTS) {
+
+		Y.use('commentmodule', 'nfl-user', function (Y) {
+			var cm, noCommentsHandler;
+
+			// set up comments module
+			cm = new Y.SiteLife.CommentModule({
+				list: "#gc-discuss-comments-list",
+				key: key,
+				headline: headline,
+				url: url
+			});
+			noCommentsHandler = cm.get('commentList').on(Y.SiteLife.CommentList.CONTENT_UPDATE, function (event) {
+				Y.one("#gc-discuss").one('div.no-comments')[event.count ? 'hide' : 'show']();
+			});
+			cm.render();
+			
+			function cleanup(_e){
+				noCommentsHandler.detach();
+				cm.destroy();
+				//document.stopObserving('tab:content:destroy', cleanup);
+			}
+			
+			Y.Global.on('tab:content:destroy', cleanup);
+		});
+	}
+	else {
+		YUI().use('node',function(Y){
+			Y.one("#gc-discuss").one('div.comments-disabled').show();
+		});
+	}
+})();
+	</script>
+</div>
+<!-- END WIDGET teams/discuss -->
+
+		</div>
+	</div>	
+	
+
+	
+		<div class="search-ads" id="gc-recap-search-ads"></div>
+		<script type="text/javascript">/*<![CDATA[*/
+(function () {
+	var id     = "gc-recap-search-ads", el,
+	    url    = "/widget/ads/search-ads?placementId=1488354&pid=1956776&ps=-1&width=518&height=200",
+	    iframe = '<iframe id="gc-recap-search-ads"' +
+				    'frameborder="0" ' +
+				    'scrolling="no" ' +
+				    'width="518" ' +
+				    'height="200"></iframe>';
+	
+	if (nfl.constants.SEARCH_ADS) {
+		YUI().use("node", function (Y) {
+			el = Y.one('#' + id);
+			el.setContent(iframe);
+			// do this in two steps to prevent Firefox bug
+			setTimeout(function () {
+				el.one('iframe').setAttribute('src', url);
+			}, 50);
+		});
+	}
+}());
+		/*]]>*/</script>
+	
+	
+
+
+</div>
+<div class="col span-4 last-col">
+	<div id="gc-ratings" class="widget">
+		<h2 class="replaced">Ratings<span></span></h2>
+		<div id="recap-fanrating-swf">
+		</div>
+		<script type="text/javascript">
+		var swfobj = new SWFObject("http://flash.static.nfl.com/static/site/3.5/flash/gamecenter/fan-rating.swf", "recap-fanrating-swf", "254", "200", "#ffffff", true);
+		swfobj.addParam("allowScriptAccess", "always");
+		swfobj.addParam("base","");
+		swfobj.addParam("wmode", "transparent");
+		swfobj.addVariable("gamekey", "GC54863");
+		swfobj.addVariable("awayteam", "MIN");
+		swfobj.addVariable("hometeam", "NO");
+		swfobj.addVariable("week", "1");
+		swfobj.addVariable("date", "2010-09-09");
+		swfobj.write("recap-fanrating-swf");
+		</script>
+		<div class="player-ratings-widget" id="rating-2010090900-PASSING">
+    <ol>
+        <li>
+                <div class="player-ratings-tag" data-game_id="2010090900" data-category="PASSING" data-player_id="BRE229498" data-team_abbr="NO">
+	<div class="thumbnail"><img src="http://static.nfl.com/static/content/public/image/getty/headshot/B/R/E/BRE229498.jpg" alt="Photo of Drew Brees" /></div>
+	<div class="content">
+		<h3 class="name">Drew Brees</h3>
+		<p class="position">#9 | QB | Saints</p>
+		<p class="stats">27/36, 237 YDS, 1 TD</p>
+		<p class="rating">
+			<span class="label">Fan Avg.</span>
+			<span class="score">
+				<span class="value"></span>
+				<span class="out-of" title="out of 5 Stars"></span>
+			</span>
+		</p>
+		
+		<p class="vote">
+			<span class="value"></span>
+			<span class="out-of" title="out of 5 Stars"></span>
+		</p>
+		
+	</div>
+</div>
+
+            </li>
+        <li>
+                <div class="player-ratings-tag" data-game_id="2010090900" data-category="PASSING" data-player_id="FAV540222" data-team_abbr="MIN">
+	<div class="thumbnail"><img src="http://static.nfl.com/static/content/public/image/getty/headshot/F/A/V/FAV540222.jpg" alt="Photo of Brett Favre" /></div>
+	<div class="content">
+		<h3 class="name">Brett Favre</h3>
+		<p class="position">#4 | QB | Vikings</p>
+		<p class="stats">15/27, 171 YDS, 1 TD, 1 INT</p>
+		<p class="rating">
+			<span class="label">Fan Avg.</span>
+			<span class="score">
+				<span class="value"></span>
+				<span class="out-of" title="out of 5 Stars"></span>
+			</span>
+		</p>
+		
+		<p class="vote">
+			<span class="value"></span>
+			<span class="out-of" title="out of 5 Stars"></span>
+		</p>
+		
+	</div>
+</div>
+
+            </li>
+        
+    </ol>
+</div>
+
+		<script type="text/javascript">
+(function () {
+	var ratingTab;
+	nfl.GameCenter.RatePlayerWidget.define();
+	ratingTab = new nfl.GameCenter.RatePlayerWidget({
+		season: "2010",
+		week: "REG1",
+		gameId: "2010090900",
+		teams: "vikings@saints",
+		el: "gc-ratings"
+	});
+	document.observe("tab:content:destroy", function(_e) { ratingTab.destroy(); });
+}());
+		</script>
+	</div>
+	<div id="gc-photos" class="widget">
+		<h2 class="replaced">Photos<span><div id="gc-photos-controls" class="playing"><div id="gc-photos-indicator-wrapper"><div id="gc-photos-indicator"></div></div><div id="gc-photos-ss-stop" onclick="document.fire('photos:carousel:stop')"></div><div id="gc-photos-ss-play" onclick="document.fire('photos:carousel:start')"></div></div></span></h2>
+		
+
+
+
+<div class="widget-inner col span-4">
+	<div id="gc-photos-carousel">
+		<ul id="nfl-photos-list" class="list-items">
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a66143_thumbnail_120_150.jpg" width="80" border="0" alt="Drew Brees" title="Drew Brees" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a67e17_thumbnail_120_150.jpg" width="80" border="0" alt="Pierre Thomas" title="Pierre Thomas" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a67e18_thumbnail_120_150.jpg" width="80" border="0" alt="Drew Brees" title="Drew Brees" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a6578a_thumbnail_120_150.jpg" width="80" border="0" alt="" title="" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a68150_thumbnail_120_150.jpg" width="80" border="0" alt="Brett Favre" title="Brett Favre" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a68419_thumbnail_120_150.jpg" width="80" border="0" alt="" title="" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a681ad_thumbnail_120_150.jpg" width="80" border="0" alt="Brett Favre" title="Brett Favre" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a68372_thumbnail_120_150.jpg" width="80" border="0" alt="SEAN PAYTON" title="SEAN PAYTON" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a658d9_thumbnail_120_150.jpg" width="80" border="0" alt="Vikings Saints Football - Brett Favre" title="Vikings Saints Football - Brett Favre" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a658d5_thumbnail_120_150.jpg" width="80" border="0" alt="Drew Brees" title="Drew Brees" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a66434_thumbnail_120_150.jpg" width="80" border="0" alt="Vikings Saints Football - Marques Colston, E.J. Henderson, Husain Abdullah" title="Vikings Saints Football - Marques Colston, E.J. Henderson, Husain Abdullah" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a662d9_thumbnail_120_150.jpg" width="80" border="0" alt="Vikings Saints Football - Tom Benson" title="Vikings Saints Football - Tom Benson" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a66640_thumbnail_120_150.jpg" width="80" border="0" alt="Vikings Saints Football - Drew Brees" title="Vikings Saints Football - Drew Brees" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a66580_thumbnail_120_150.jpg" width="80" border="0" alt="Vikings Saints Football - Devery Henderson, Asher Allen" title="Vikings Saints Football - Devery Henderson, Asher Allen" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a6657f_thumbnail_120_150.jpg" width="80" border="0" alt="Vikings Saints Football - Drew Brees" title="Vikings Saints Football - Drew Brees" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a66732_thumbnail_120_150.jpg" width="80" border="0" alt="Vikings Saints Football - Drew Brees" title="Vikings Saints Football - Drew Brees" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a66935_thumbnail_120_150.jpg" width="80" border="0" alt="Vikings Saints Football - Reggie Bush, Asher Allen, Madieu Williams" title="Vikings Saints Football - Reggie Bush, Asher Allen, Madieu Williams" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a66934_thumbnail_120_150.jpg" width="80" border="0" alt="Vikings Saints Football - Brett Favre" title="Vikings Saints Football - Brett Favre" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a66a41_thumbnail_120_150.jpg" width="80" border="0" alt="Vikings Saints Football - Brett Favrre" title="Vikings Saints Football - Brett Favrre" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a669cb_thumbnail_120_150.jpg" width="80" border="0" alt="Vikings Saints Football - Adrian Peterson, Roman Harper, Jo-Lonn Dunbar" title="Vikings Saints Football - Adrian Peterson, Roman Harper, Jo-Lonn Dunbar" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a66ed4_thumbnail_120_150.jpg" width="80" border="0" alt="Vikings Saints Football - Adrian Peterson, Jonathan Vilma" title="Vikings Saints Football - Adrian Peterson, Jonathan Vilma" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a66deb_thumbnail_120_150.jpg" width="80" border="0" alt="Vikings Saints Football - Ray Edwards, Drew Brees" title="Vikings Saints Football - Ray Edwards, Drew Brees" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a66de9_thumbnail_120_150.jpg" width="80" border="0" alt="Vikings Saints Football - Sean Payton" title="Vikings Saints Football - Sean Payton" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a66de8_thumbnail_120_150.jpg" width="80" border="0" alt="Vikings Saints Football - Brett Favre, Roman Harper" title="Vikings Saints Football - Brett Favre, Roman Harper" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a66de7_thumbnail_120_150.jpg" width="80" border="0" alt="Vikings Saints Football - Brett Favre" title="Vikings Saints Football - Brett Favre" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a66ce4_thumbnail_120_150.jpg" width="80" border="0" alt="Vikings Saints Football - Brett Favre" title="Vikings Saints Football - Brett Favre" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a66f74_thumbnail_120_150.jpg" width="80" border="0" alt="Vikings Saints Football - Brad Childress" title="Vikings Saints Football - Brad Childress" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a66f73_thumbnail_120_150.jpg" width="80" border="0" alt="Vikings Saints Football - Reggie Bush" title="Vikings Saints Football - Reggie Bush" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a66f70_thumbnail_120_150.jpg" width="80" border="0" alt="Vikings Saints Football - Brett Favre" title="Vikings Saints Football - Brett Favre" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a66f71_thumbnail_120_150.jpg" width="80" border="0" alt="Vikings Saints Football - Taylor Swift" title="Vikings Saints Football - Taylor Swift" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a67219_thumbnail_120_150.jpg" width="80" border="0" alt="Vikings Saints Football - Brett Favre" title="Vikings Saints Football - Brett Favre" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a670b4_thumbnail_120_150.jpg" width="80" border="0" alt="Vikings Saints Football - Dave Matthews" title="Vikings Saints Football - Dave Matthews" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a617e5_thumbnail_120_150.jpg" width="80" border="0" alt="Saints Vikings Football" title="Saints Vikings Football" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a60cc4_thumbnail_120_150.jpg" width="80" border="0" alt="Saints Vikings Football" title="Saints Vikings Football" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a60cfd_thumbnail_120_150.jpg" width="80" border="0" alt="Saints Vikings Football" title="Saints Vikings Football" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a60cc3_thumbnail_120_150.jpg" width="80" border="0" alt="Saints Vikings Football" title="Saints Vikings Football" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a635f8_thumbnail_120_150.jpg" width="80" border="0" alt="Vikings Saints Football" title="Vikings Saints Football" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a670b6_thumbnail_120_150.jpg" width="80" border="0" alt="Vikings Saints Football - Brett Favre" title="Vikings Saints Football - Brett Favre" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a670b3_thumbnail_120_150.jpg" width="80" border="0" alt="Vikings Saints Football - Adrian Peterson, Scott Shanle" title="Vikings Saints Football - Adrian Peterson, Scott Shanle" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a6737e_thumbnail_120_150.jpg" width="80" border="0" alt="Vikings Saints Football" title="Vikings Saints Football" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a67468_thumbnail_120_150.jpg" width="80" border="0" alt="Vikings Saints Football - Drew Brees" title="Vikings Saints Football - Drew Brees" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a67462_thumbnail_120_150.jpg" width="80" border="0" alt="Vikings Saints Football - Brad Childress" title="Vikings Saints Football - Brad Childress" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a67461_thumbnail_120_150.jpg" width="80" border="0" alt="Vikings Saints Football - Reggie Bush" title="Vikings Saints Football - Reggie Bush" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a6745f_thumbnail_120_150.jpg" width="80" border="0" alt="Vikings Saints Football - Brett Favre" title="Vikings Saints Football - Brett Favre" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a6763a_thumbnail_120_150.jpg" width="80" border="0" alt="Vikings Saints Football - Lance Moore" title="Vikings Saints Football - Lance Moore" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a67968_thumbnail_120_150.jpg" width="80" border="0" alt="Vikings Saints Football - Adrian Peterson" title="Vikings Saints Football - Adrian Peterson" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a678ed_thumbnail_120_150.jpg" width="80" border="0" alt="Brett Favre" title="Brett Favre" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a678eb_thumbnail_120_150.jpg" width="80" border="0" alt="Visanthe Shiancoe" title="Visanthe Shiancoe" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a67bcd_thumbnail_120_150.jpg" width="80" border="0" alt="Vikings Saints Football - Brett Favre" title="Vikings Saints Football - Brett Favre" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a67bcf_thumbnail_120_150.jpg" width="80" border="0" alt="Vikings Saints Football - Brett Favre, Drew Brees" title="Vikings Saints Football - Brett Favre, Drew Brees" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a67d2e_thumbnail_120_150.jpg" width="80" border="0" alt="Vikings Saints Football - Sean Payton, Brett Favre" title="Vikings Saints Football - Sean Payton, Brett Favre" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a65789_thumbnail_120_150.jpg" width="80" border="0" alt="Brett Favre" title="Brett Favre" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a67efe_thumbnail_120_150.jpg" width="80" border="0" alt="Vikings Saints Football" title="Vikings Saints Football" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a682ef_thumbnail_120_150.jpg" width="80" border="0" alt="Vikings Saints Football - Drew Brees, Roman Harper" title="Vikings Saints Football - Drew Brees, Roman Harper" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a68458_thumbnail_120_150.jpg" width="80" border="0" alt="Vikings Saints Football" title="Vikings Saints Football" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a696c7_thumbnail_120_150.jpg" width="80" border="0" alt="Vikings Saints Football - Brett Favre" title="Vikings Saints Football - Brett Favre" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a695a7_thumbnail_120_150.jpg" width="80" border="0" alt="Vikings Saints Football" title="Vikings Saints Football" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a695a6_thumbnail_120_150.jpg" width="80" border="0" alt="Vikings Saints Football - Drew Brees" title="Vikings Saints Football - Drew Brees" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a6957a_thumbnail_120_150.jpg" width="80" border="0" alt="Vikings Saints Football" title="Vikings Saints Football" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a69571_thumbnail_120_150.jpg" width="80" border="0" alt="Vikings Saints Football - Sean Payton" title="Vikings Saints Football - Sean Payton" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a69575_thumbnail_120_150.jpg" width="80" border="0" alt="Vikings Saints Football - Drew Brees" title="Vikings Saints Football - Drew Brees" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a6952a_thumbnail_120_150.jpg" width="80" border="0" alt="Vikings Saints Football - Marvin Mitchell" title="Vikings Saints Football - Marvin Mitchell" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a6952d_thumbnail_120_150.jpg" width="80" border="0" alt="Vikings Saints Football" title="Vikings Saints Football" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a69532_thumbnail_120_150.jpg" width="80" border="0" alt="Vikings Saints Football" title="Vikings Saints Football" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li>
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a6952c_thumbnail_120_150.jpg" width="80" border="0" alt="Vikings Saints Football" title="Vikings Saints Football" /></a></div>
+				</div></center>
+			</li>
+		
+		    
+			<li class="last">
+				<center><div class="gc-photos-item">
+					<div class="thumbnail"><a href="http://www.nfl.com/photos/09000d5d81a5fd17"><img src="http://static.nfl.com/static/content/public/image/getty/2010/09000d5d81a6952b_thumbnail_120_150.jpg" width="80" border="0" alt="Vikings Saints Football - Robert Meachem, Asher Allen" title="Vikings Saints Football - Robert Meachem, Asher Allen" /></a></div>
+				</div></center>
+			</li>
+		
+		</ul>
+	</div>
+	<p class="links"><a class="more" href="/photos/09000d5d81a5fd17">More Photos &gt;</a></p>
+</div>
+<script type="text/javascript">
+	//create new slideshow nonesense
+	function removePhotosOnZero(){
+		if(!document.loaded){
+			document.observe('dom:loaded',removePhotosOnZero);
+			return
+		}
+		if($('gc-photos')){
+			$('gc-photos').remove();
+			console.log('removePhotosOnZero: removed photos node');
+		}else{
+			try{setTimout(removePhotosOnZero,1000)}catch(e){}
+		}
+	}
+	if(66 > 0){
+		document.observe('photos:carousel:start',function(event){
+			var elapse	= 10;
+			var indicatorWidth	= ($('gc-photos-indicator').getWidth());
+			try{gcPhotosCarousel.timer.stop();}catch(e){};
+			try{gcPhotosCarousel.indicatorMorph.cancel();}catch(e){};
+			
+			gcPhotosCarousel.indicatorMorph	= new Effect.Morph('gc-photos-indicator', {
+				style: 'left: 0px;',
+				duration: (elapse - 1),
+				beforeStart: function(){$('gc-photos-indicator').setStyle({'left':'-'+(indicatorWidth)+'px'});}
+			});
+			gcPhotosCarousel.timer	= new PeriodicalExecuter(function(){
+				document.fire('photos:carousel:scroll',{direction:'right',id:'gc-photos-carousel'});
+				try{ gcPhotosCarousel.indicatorMorph.cancel(); }catch(e){};
+				$('gc-photos-indicator').setStyle({'left':'-'+(indicatorWidth)+'px'});
+				gcPhotosCarousel.indicatorMorph	= new Effect.Morph('gc-photos-indicator', {
+					style: 'left: 0px;',
+					duration: (elapse - 1),
+					beforeStart: function(){$('gc-photos-indicator').setStyle({'left':'-'+(indicatorWidth)+'px'});}
+				});
+			},elapse);
+			if($('gc-photos-controls')){
+				$('gc-photos-controls').addClassName('playing');
+			}
+		});
+		document.observe('photos:carousel:stop',function(event){
+			try{gcPhotosCarousel.timer.stop();}catch(e){}
+			gcPhotosCarousel.timer	= null;
+			try{ gcPhotosCarousel.indicatorMorph.cancel(); }catch(e){};
+			var indicatorWidth	= ($('gc-photos-indicator').getWidth());
+			
+			if($('gc-photos-controls')){
+				$('gc-photos-controls').removeClassName('playing');
+			}
+			$('gc-photos-indicator').setStyle({'left':'-'+(indicatorWidth)+'px'});
+		});
+		var photosWidgetDestroy	= function(){
+			try{ gcPhotosCarousel.timer.stop();}catch(e){};
+			try{ gcPhotosCarousel.timer	= null;}catch(e){};
+			try{ gcPhotosCarousel.indicatorMorph.cancel(); }catch(e){};
+			try{ gcPhotosCarousel.indicatorMorph = null;}catch(e){};
+			try{ gcPhotosCarousel.destroy();}catch(e){};
+			console.info('destroyed photos widget');
+			document.stopObserving('tab:content:destroy',photosWidgetDestroy);
+		}
+		document.observe('tab:content:destroy',photosWidgetDestroy);
+		
+		var opts	= {'rows':1,'debug':false,'evtprefix':'photos'};
+		var gcPhotosCarousel	= new nfl.widgets.Carousel('gc-photos-carousel',opts);
+		gcPhotosCarousel.timer			= null;
+		gcPhotosCarousel.indicatorMorph	= null;
+		
+		document.fire('photos:carousel:start');
+	}else{
+		/* hide photos widget all together */
+		removePhotosOnZero();
+	}
+</script>
+	</div>
+	<div id="gc-news" class="widget">
+		<h2 class="replaced">News<span></span></h2>
+		<div class="gc-widget-shading">
+			<!-- start teams news widget -->
+<ul class="widget-teams-news">
+	<li class="widget-teams-news-title">Minnesota Vikings</li>
+	
+		
+			<li><a href="/news/story/09000d5d8214df48/article/vikings-qb-bomar-arrested-on-suspicion-of-drunk-driving">Vikings backup QB Bomar arrested on suspicion of DWI</a></li>
+		
+	
+		
+			<li><a href="/news/story/09000d5d8214500e/article/favre-nixes-talk-of-comeback-i-dont-have-any-interest">End of story? Favre has 'no interest' in comeback with 'Fins</a></li>
+		
+	
+		
+			<li><a href="/trainingcamp/story/09000d5d821432be/article/vikings-rb-peterson-back-on-field-following-birth-of-son">Vikes RB Peterson not worried about contract situation</a></li>
+		
+	
+		
+			<li><a href="/news/story/09000d5d8214381d/article/lions-gm-mayhew-we-feel-like-we-can-compete-for-our-division">Lions GM believes team will make waves in NFC North race</a></li>
+		
+	
+</ul>
+<p class="links">
+	<a class="more" href="http://search.nfl.com/search?query=Minnesota Vikings&amp;sortBy=date">More Vikings News &gt;</a>
+</p>
+
+<!-- end teams news widget -->
+		</div>
+		<div class="gc-widget-shading">
+			<!-- start teams news widget -->
+<ul class="widget-teams-news">
+	<li class="widget-teams-news-title">New Orleans Saints</li>
+	
+		
+			<li><a href="/trainingcamp/story/09000d5d821509ed/article/brees-adds-more-reasons-why-he-gives-saints-an-advantage">Work paying off for Saints</a></li>
+		
+	
+		
+			<li><a href="/news/story/09000d5d82150f78/article/newton-among-rookie-debuts-to-follow-as-preseason-opens">Highly anticipated debuts</a></li>
+		
+	
+		
+			<li><a href="http://www.neworleanssaints.com/news-and-events/article-1/Saints-Agree-to-Terms-with-Veteran-DE-Jeff-Charleston/112213ab-aa84-48f1-82c3-c5e826f823d1">Saints agree to terms with veteran DE Jeff Charleston</a></li>
+		
+	
+		
+			<li><a href="/news/story/09000d5d82142b74/article/saints-agree-to-oneyear-deal-with-exbears-c-kreutz">Veteran C Kreutz, Saints reach terms</a></li>
+		
+	
+</ul>
+<p class="links">
+	<a class="more" href="http://search.nfl.com/search?query=New Orleans Saints&amp;sortBy=date">More Saints News &gt;</a>
+</p>
+
+<!-- end teams news widget -->
+		</div>	
+	</div>
+	<div id="gc-shop" class="widget">
+		<h2 class="replaced">Shop<span><div id="gc-shop-controls" class="playing"><div id="gc-shop-indicator-wrapper"><div id="gc-shop-indicator"></div></div><div id="gc-shop-ss-stop" onclick="document.fire('nfl:carousel:stop')"></div><div id="gc-shop-ss-play" onclick="document.fire('nfl:carousel:start')"></div></div></span></h2>
+		
+
+
+<div class="widget-inner col span-4">
+	<div id="gc-shop-carousel">
+		<ul id="nfl-shop-list" class="list-items">
+		
+			<li>
+				<center><div class="gc-shop-item">
+					<div class="thumbnail"><a href="http://www.nflshop.com/entry.point?entry=11507905&source=NFL_DF:NEWORLEANSSAINTS" target="_blank"><img src="http://img.static.nfl.com/static/site/img/shop/p10064453th.gif" height="80" width="80" alt="NFL 2011 Player Hat NEW ORLEANS SAINTS" title="NFL 2011 Player Hat NEW ORLEANS SAINTS" /></a></div>
+				</div></center>
+			</li>
+		
+			<li>
+				<center><div class="gc-shop-item">
+					<div class="thumbnail"><a href="http://www.nflshop.com/entry.point?entry=4325475&source=NFL_DF:NEWORLEANSSAINTS" target="_blank"><img src="http://img.static.nfl.com/static/site/img/shop/p8225629th.gif" height="80" width="80" alt="NFL Vintage Dist Triblend Tee NEW ORLEANS SAINTS" title="NFL Vintage Dist Triblend Tee NEW ORLEANS SAINTS" /></a></div>
+				</div></center>
+			</li>
+		
+			<li>
+				<center><div class="gc-shop-item">
+					<div class="thumbnail"><a href="http://www.nflshop.com/entry.point?entry=11924333&source=NFL_DF:MINNESOTAVIKINGS" target="_blank"><img src="http://img.static.nfl.com/static/site/img/shop/p10931350th.gif" height="80" width="80" alt="Donovan McNabb Vikings Jersey" title="Donovan McNabb Vikings Jersey" /></a></div>
+				</div></center>
+			</li>
+		
+			<li>
+				<center><div class="gc-shop-item">
+					<div class="thumbnail"><a href="http://www.nflshop.com/entry.point?entry=11924334&source=NFL_DF:MINNESOTAVIKINGS" target="_blank"><img src="http://img.static.nfl.com/static/site/img/shop/p10931355th.gif" height="80" width="80" alt="VIK D.McNabb Rep Jry VIKINGS WHITE" title="VIK D.McNabb Rep Jry VIKINGS WHITE" /></a></div>
+				</div></center>
+			</li>
+		
+			<li>
+				<center><div class="gc-shop-item">
+					<div class="thumbnail"><a href="http://www.nflshop.com/entry.point?entry=3938230&source=NFL_DF:NEWORLEANSSAINTS" target="_blank"><img src="http://img.static.nfl.com/static/site/img/shop/p6995908th.gif" height="80" width="80" alt="NOS M.Colston Rep Jry NEW ORLEAN SAINTS BLK/GLD" title="NOS M.Colston Rep Jry NEW ORLEAN SAINTS BLK/GLD" /></a></div>
+				</div></center>
+			</li>
+		
+			<li>
+				<center><div class="gc-shop-item">
+					<div class="thumbnail"><a href="http://www.nflshop.com/entry.point?entry=11325500&source=NFL_DF:NEWORLEANSSAINTS" target="_blank"><img src="http://img.static.nfl.com/static/site/img/shop/p9735883th.gif" height="80" width="80" alt="NFL &#039;11 Hawaiian Swim Trunks NEW ORLEANS SAINTS" title="NFL &#039;11 Hawaiian Swim Trunks NEW ORLEANS SAINTS" /></a></div>
+				</div></center>
+			</li>
+		
+			<li>
+				<center><div class="gc-shop-item">
+					<div class="thumbnail"><a href="http://www.nflshop.com/entry.point?entry=11188448&source=NFL_DF:MINNESOTAVIKINGS" target="_blank"><img src="http://img.static.nfl.com/static/site/img/shop/p9492432th.gif" height="80" width="80" alt="NFL 2011 Youth Draft Hat MINNESOTA VIKINGS" title="NFL 2011 Youth Draft Hat MINNESOTA VIKINGS" /></a></div>
+				</div></center>
+			</li>
+		
+			<li class="last">
+				<center><div class="gc-shop-item">
+					<div class="thumbnail"><a href="http://www.nflshop.com/entry.point?entry=3793863&source=NFL_DF:MINNESOTAVIKINGS" target="_blank"><img src="http://img.static.nfl.com/static/site/img/shop/pNFL-6606217th.gif" height="80" width="80" alt="Pigment Dye Custom Hood" title="Pigment Dye Custom Hood" /></a></div>
+				</div></center>
+			</li>
+		
+	</ul>
+	</div>
+	<p id="gc-shop-team" class="links"></p>
+</div>
+<script type="text/javascript">
+	//create new slideshow nonesense
+
+	document.observe('nfl:carousel:start',function(event){
+		var elapse	= 10;
+		var indicatorWidth	= ($('gc-shop-indicator').getWidth());
+		try{gcShopCarousel.timer.stop();}catch(e){}
+		try{gcShopCarousel.indicatorMorph.cancel();}catch(e){};
+		
+		gcShopCarousel.indicatorMorph	= new Effect.Morph('gc-shop-indicator', {
+			style: 'left: 0px;',
+			duration: (elapse - 1),
+			beforeStart: function(){$('gc-shop-indicator').setStyle({'left':'-'+(indicatorWidth)+'px'});}
+		});
+		gcShopCarousel.timer	= new PeriodicalExecuter(function(){
+			document.fire('nfl:carousel:scroll',{direction:'right',id:'gc-shop-carousel'});
+			try{ gcShopCarousel.indicatorMorph.cancel(); }catch(e){};
+			$('gc-shop-indicator').setStyle({'left':'-'+(indicatorWidth)+'px'});
+			gcShopCarousel.indicatorMorph	= new Effect.Morph('gc-shop-indicator', {
+				style: 'left: 0px;',
+				duration: (elapse - 1),
+				beforeStart: function(){$('gc-shop-indicator').setStyle({'left':'-'+(indicatorWidth)+'px'});}
+			});
+		},elapse);
+		if($('gc-shop-controls')){
+			$('gc-shop-controls').addClassName('playing');
+		}
+	});
+	document.observe('nfl:carousel:stop',function(event){
+		try{gcShopCarousel.timer.stop();}catch(e){}
+		gcShopCarousel.timer	= null;
+		try{ gcShopCarousel.indicatorMorph.cancel(); }catch(e){};
+		var indicatorWidth	= ($('gc-shop-indicator').getWidth());
+		
+		if($('gc-shop-controls')){
+			$('gc-shop-controls').removeClassName('playing');
+		}
+		$('gc-shop-indicator').setStyle({'left':'-'+(indicatorWidth)+'px'});
+	});
+	document.observe('nfl:carousel:pagechange',function(event){
+		var teamsBySubjId	= {};
+		teamsBySubjId["716599"] = {name:"Arizona Cardinals",link:"NFL _Data_Feeds_Flash_Scroll_Cardinals_Default"};
+		teamsBySubjId["716634"] = {name:"Atlanta Falcons",link:"NFL _Data_Feeds_Flash_Scroll_Falcons_Default"};
+		teamsBySubjId["716684"] = {name:"Baltimore Ravens",link:"NFL _Data_Feeds_Flash_Scroll_Ravens_Default"};
+		teamsBySubjId["716579"] = {name:"Buffalo Bills",link:"NFL _Data_Feeds_Flash_Scroll_Bills_Default"};
+		teamsBySubjId["716664"] = {name:"Carolina Panthers",link:"NFL _Data_Feeds_Flash_Scroll_Panthers_Default"};
+		teamsBySubjId["716569"] = {name:"Chicago Bears",link:"NFL _Data_Feeds_Flash_Scroll_Bears_Default"};
+		teamsBySubjId["716574"] = {name:"Cincinnati Bengals",link:"NFL _Data_Feeds_Flash_Scroll_Bengals_Default"};
+		teamsBySubjId["716589"] = {name:"Cleveland Browns",link:"NFL _Data_Feeds_Flash_Scroll_Browns_Default"};
+		teamsBySubjId["716619"] = {name:"Dallas Cowboys",link:"NFL _Data_Feeds_Flash_Scroll_Cowboys_Default"};
+		teamsBySubjId["716584"] = {name:"Denver Broncos",link:"NFL _Data_Feeds_Flash_Scroll_Broncos_Default"};
+		teamsBySubjId["716654"] = {name:"Detroit Lions",link:"NFL _Data_Feeds_Flash_Scroll_Lions_Default"};
+		teamsBySubjId["716659"] = {name:"Green Bay Packers",link:"NFL _Data_Feeds_Flash_Scroll_Packers_Default"};
+		teamsBySubjId["716709"] = {name:"Houston Texans",link:"NFL _Data_Feeds_Flash_Scroll_Texans_Default"};
+		teamsBySubjId["716614"] = {name:"Indianapolis Colts",link:"NFL _Data_Feeds_Flash_Scroll_Colts_Default"};
+		teamsBySubjId["716644"] = {name:"Jacksonville Jaguars",link:"NFL _Data_Feeds_Flash_Scroll_Jaguars_Default"};
+		teamsBySubjId["716609"] = {name:"Kansas City Chiefs",link:"NFL _Data_Feeds_Flash_Scroll_Chiefs_Default"};
+		teamsBySubjId["716624"] = {name:"Miami Dolphins",link:"NFL _Data_Feeds_Flash_Scroll_Dolphins_Default"};
+		teamsBySubjId["716719"] = {name:"Minnesota Vikings",link:"NFL _Data_Feeds_Flash_Scroll_Vikings_Default"};
+		teamsBySubjId["716669"] = {name:"New England Patriots",link:"NFL _Data_Feeds_Flash_Scroll_Patriots_Default"};
+		teamsBySubjId["716694"] = {name:"New Orleans Saints",link:"NFL _Data_Feeds_Flash_Scroll_Saints_Default"};
+		teamsBySubjId["716639"] = {name:"New York Giants",link:"NFL _Data_Feeds_Flash_Scroll_Giants_Default"};
+		teamsBySubjId["716649"] = {name:"New York Jets",link:"NFL _Data_Feeds_Flash_Scroll_Jets_Default"};
+		teamsBySubjId["716674"] = {name:"Oakland Raiders",link:"NFL _Data_Feeds_Flash_Scroll_Raiders_Default"};
+		teamsBySubjId["716629"] = {name:"Philadelphia Eagles",link:"NFL _Data_Feeds_Flash_Scroll_Eagles_Default"};
+		teamsBySubjId["716704"] = {name:"Pittsburgh Steelers",link:"NFL _Data_Feeds_Flash_Scroll_Steelers_Default"};
+		teamsBySubjId["716604"] = {name:"San Diego Chargers",link:"NFL _Data_Feeds_Flash_Scroll_Chargers_Default"};
+		teamsBySubjId["716564"] = {name:"San Francisco 49ers",link:"NFL _Data_Feeds_Flash_Scroll_49ers_Default"};
+		teamsBySubjId["716699"] = {name:"Seattle Seahawks",link:"NFL _Data_Feeds_Flash_Scroll_Seahawks_Default"};
+		teamsBySubjId["716679"] = {name:"St. Louis Rams",link:"NFL _Data_Feeds_Flash_Scroll_Rams_Default"};
+		teamsBySubjId["716594"] = {name:"Tampa Bay Buccaneers",link:"NFL _Data_Feeds_Flash_Scroll_Buccaneers_Default"};
+		teamsBySubjId["716714"] = {name:"Tennessee Titans",link:"NFL _Data_Feeds_Flash_Scroll_Titans_Default"};
+		teamsBySubjId["716689"] = {name:"Washington Redskins",link:"NFL _Data_Feeds_Flash_Scroll_Redskins_Default"};
+		teamsBySubjId["2651038"] = {name:"AFC Pro Bowl Team",link:""};
+		teamsBySubjId["2651039"] = {name:"NFC Pro Bowl Team",link:""};
+
+		
+		var pageteams		= [];
+		
+		pageteams[pageteams.length] = {name:(teamsBySubjId["716694"].name),link:"http://www.nflshop.com/entry.point?entry=716694&source="+teamsBySubjId["716694"].link};
+		
+		pageteams[pageteams.length] = {name:(teamsBySubjId["716719"].name),link:"http://www.nflshop.com/entry.point?entry=716719&source="+teamsBySubjId["716719"].link};
+		
+		pageteams[pageteams.length] = {name:(teamsBySubjId["716694"].name),link:"http://www.nflshop.com/entry.point?entry=716694&source="+teamsBySubjId["716694"].link};
+		
+		pageteams[pageteams.length] = {name:(teamsBySubjId["716719"].name),link:"http://www.nflshop.com/entry.point?entry=716719&source="+teamsBySubjId["716719"].link};
+		
+		//console.log('nfl:carousel:pagechange: '+event.memo.page);
+		var current		= pageteams[(event.memo.page - 1)];
+		//console.log('nfl:carousel:pagechange: current = '+Object.toJSON(current));
+		if(typeof current !== 'undefined' && $('gc-shop-team')){
+			$('gc-shop-team').update('<a class="more" href="'+(current.link)+'" target="_blank">More '+current.name+' Gear &gt;</a>');
+		}
+	});
+	var shopWidgetDestroy	= function(){
+		try{ gcShopCarousel.timer.stop();}catch(e){};
+		try{ gcShopCarousel.timer	= null;}catch(e){};
+		try{ gcShopCarousel.indicatorMorph.cancel(); }catch(e){};
+		try{ gcShopCarousel.indicatorMorph = null;}catch(e){};
+		try{ gcShopCarousel.destroy();}catch(e){};
+		console.info('destroyed shop widget');
+		document.stopObserving('tab:content:destroy',shopWidgetDestroy);
+	}
+	document.observe('tab:content:destroy',shopWidgetDestroy);
+	var opts	= {'rows':1,'debug':false,'evtprefix':'nfl'};
+	var gcShopCarousel	= new nfl.widgets.Carousel('gc-shop-carousel',opts);
+	gcShopCarousel.timer			= null;
+	gcShopCarousel.indicatorMorph	= null;
+	
+	document.fire('nfl:carousel:start');
+</script>
+	</div>
+</div>
+<script type="text/javascript">
+	/* do player name cleanup */
+	nfl.GameCenter.Utility.delinkNonRosterPlayers( $('recap-channel-content') );
+	nfl.GameCenter.Utility.activateArticleVideos( $('gc-quicktake') );
+</script>
+<script type="text/javascript"> document.fire("tab:content:loaded",{path:'cat-post-recap-quick-take',id:'recap'});</script>
+							<!-- end embedded tab content for SEO -->
+						
+					</div>
+				</div>
+				
+			
+				
+				<div id="analyze" name="analyze" class="gc-tabs-tab">
+					<!-- 
+						uriTabHrefBase: /gamecenter/2010090900/2010/REG1/vikings@saints/
+						uriCatParam: 
+						defaultTabContentPath: cat-post-recap-quick-take
+						name: Analyze
+						id: tab-post-analyze
+						gameState: POST
+						default: false
+						caption: complete stats & plays
+					-->
+					
+						
+							
+							
+						
+					
+						
+							
+							
+						
+					
+					
+						<ol id="analyze-channels" class="tab-channel-nav">
+						
+							
+								<!-- 
+								defaultTabContentPath = "cat-post-recap-quick-take" 
+								cat.categoryId = "cat-post-boxscore"
+								-->
+								<li id="cat-post-boxscore" class="col span-2 l active"><div><a href="tab-post-analyze/cat-post-boxscore#cat-post-boxscore">Box Score</a></div></li>
+							
+						
+							
+								<!-- 
+								defaultTabContentPath = "cat-post-recap-quick-take" 
+								cat.categoryId = "cat-post-playbyplay"
+								-->
+								<li id="cat-post-playbyplay" class="col span-2 l"><div><a href="tab-post-analyze/cat-post-playbyplay#cat-post-playbyplay">Play-By-Play</a></div></li>
+							
+						
+							<li class="gc-gamebook-link col span-2" onclick="location.href='/liveupdate/gamecenter/54863/NO_Gamebook.pdf'">&nbsp;</li>
+						</ol>
+					
+					<div id="analyze-channel-content" class="gc-tabs-tab-content">
+						
+					</div>
+				</div>
+				
+			
+				
+				<div id="discuss" name="discuss" class="gc-tabs-tab">
+					<!-- 
+						uriTabHrefBase: /gamecenter/2010090900/2010/REG1/vikings@saints/
+						uriCatParam: 
+						defaultTabContentPath: cat-post-recap-quick-take
+						name: Discuss
+						id: tab-post-discuss
+						gameState: POST
+						default: false
+						caption: chat with fans
+					-->
+					
+						
+							
+							
+						
+					
+					
+					<div id="discuss-channel-content" class="gc-tabs-tab-content">
+						
+					</div>
+				</div>
+				
+			
+				
+				<div id="rate" name="rate" class="gc-tabs-tab">
+					<!-- 
+						uriTabHrefBase: /gamecenter/2010090900/2010/REG1/vikings@saints/
+						uriCatParam: 
+						defaultTabContentPath: cat-post-recap-quick-take
+						name: Rate
+						id: tab-post-rate
+						gameState: POST
+						default: false
+						caption: game & team leaders
+					-->
+					
+						
+							
+							
+						
+					
+					
+					<div id="rate-channel-content" class="gc-tabs-tab-content">
+						
+					</div>
+				</div>
+				
+			
+				
+				<div id="watch" name="watch" class="gc-tabs-tab">
+					<!-- 
+						uriTabHrefBase: /gamecenter/2010090900/2010/REG1/vikings@saints/
+						uriCatParam: 
+						defaultTabContentPath: cat-post-recap-quick-take
+						name: Watch
+						id: tab-post-watch
+						gameState: POST
+						default: false
+						caption: game highlights
+					-->
+					
+						
+							
+							
+						
+					
+						
+							
+							
+						
+					
+					
+						<ol id="watch-channels" class="tab-channel-nav">
+						
+							
+								<!-- 
+								defaultTabContentPath = "cat-post-recap-quick-take" 
+								cat.categoryId = "cat-post-watch"
+								-->
+								<li id="cat-post-watch" class="col span-2 l active"><div><a href="tab-post-watch/cat-post-watch#cat-post-watch">Game-Highlights</a></div></li>
+							
+						
+							
+								<!-- 
+								defaultTabContentPath = "cat-post-recap-quick-take" 
+								cat.categoryId = "cat-post-watch-fantasy"
+								-->
+								<li id="cat-post-watch-fantasy" class="col span-2 l"><div><a href="tab-post-watch/cat-post-watch-fantasy#cat-post-watch-fantasy">Fantasy-Highlights</a></div></li>
+							
+						
+							
+						</ol>
+					
+					<div id="watch-channel-content" class="gc-tabs-tab-content">
+						
+					</div>
+				</div>
+				
+			
+			</div>
+			<div id="gc-rr" class="ad">
+				<div id="gc-feedback"><a href="/contact-us?subject=Game+Center+Comments">Game Center Feedback &gt;</a></div>
+				<div id="gc-ad">
+					<div class="in-page-ad secondary-column-widget">
+						<script type="text/javascript">
+						(function(){
+							document.write('<div class="adcontainer" id="'+nfl.global.gc.ads.rr.adObject.oid+'" style="width:160px;height:600px;"><iframe width="160" scrolling="no" height="600" frameborder="0" name="'+nfl.global.gc.ads.rr.adObject.oid+'-iframe" id="'+nfl.global.gc.ads.rr.adObject.oid+'-iframe"></iframe></div>');
+							//nfl.global.gc.ads.rr.adObject.params		= (nfl.global.gc.ads.rr['160x600']);
+							nfl.global.gc.ads.rr.adObject.rotate 		= true;
+							nfl.global.gc.ads.rr.adObject.adClassInt	= (nfl.ads.visibleAds + 1);
+							nfl.ads.rotation.interval 					= 60;
+							if(nfl.ads.hasRotating === false) {
+								nfl.ads.hasRotating	= true;
+								if (document.loaded){ nfl.ads.rotation.start(); }else{ document.observe("dom:loaded", function () { nfl.ads.rotation.start(); });}
+							}
+						})()
+						</script>
+						<p id="ad-above-300" class="ad-above"><img src="http://img.static.nfl.com/static/site/3.5/img/ads/ad-above.gif" alt="The previous image was an ad." height="9" width="300" /></p>
+						<p id="ad-above-160" class="ad-above"><img src="http://img.static.nfl.com/static/site/3.5/img/ads/ad-above-160.gif" alt="The previous image was an ad." height="9" width="160" /></p>	
+					</div>
+					<div id="gc-rr-watch-content">
+						
+<div id="channel-info" class="secondary-column-widget" style="position:absolute;visibility:hidden;overflow:hidden">
+	<h3 class="heading">
+		<img src="http://static.nfl.com/static/content/public/image/videos/channels/nfl-hq-videos/unlock-higher-quality.png" alt="Unlock Higher Quality" />
+	</h3>
+	<div style="color:#333; line-height:16px; padding:6px 8px 12px">
+		<p>Improve the NFL.com viewing experience. Get free access to higher quality video by installing Akamai NetSession.
+			<br />
+			<a href="http://www.akamai.com/html/misc/akamai_client/netsession_interface_faq.html" target="_blank">FAQ</a> |
+			<a href="http://www.akamai.com/html/misc/akamai_client/netsession_interface_tech_info.html" target="_blank">Technical Info</a>
+		</p>
+	</div>
+	<div style="text-align:center;">
+		<p style="height:50px;margin-bottom:9px" class="download-button"><a class="button-3" href="#"><span>Download &gt;</span></a></p>
+		<p style="margin-bottom:7px"><img src="http://static.nfl.com/static/content/public/image/videos/channels/nfl-hq-videos/powered-by-akamai.png" alt="Delivered By Akamai" /></p>
+	</div>
+</div>
+<script type="text/javascript">
+nfl.use('akamai-dlm', 'node', 'transition', 'netsession-installer', function (Y) {
+	var parent = Y.one("#channel-info"), h;
+	if (DLMHelper.installed) {
+		parent.remove();
+	}
+	else {
+		Y.on('load', function () {
+			h = parent.getStyle('height');
+			parent.setStyles({ opacity: 0, height: 0, position: 'static', visibility: 'visible' }).transition({ height: h, duration: 0.25 }, function () {
+				this.transition({ opacity: 1, duration: 0.25 });
+			});
+			parent.one(".download-button a").on('click', function (event) {
+				event.halt();
+				Y.NetSessionInstaller.installNetSession("GC_Watch_HQ_DL");
+			});
+			Y.Global.on(Y.NetSessionInstaller.INSTALL_COMPLETE, function (event) {
+				parent.transition({ opacity: 0, duration: 0.25 }, function () {
+					this.transition({ height: 0, duration: 0.25 }, this.remove);
+				});
+			});
+		});
+	}
+});
+</script>
+						
+						
+<div class="gc-promo">
+	<a href="https://preseason.nfl.com/nflpl/secure/packages?icampaign=PSL_Watch"><img src="http://static.nfl.com/static/content/catch_all/nfl_image/Pre_Season_300x100.jpg" width="300" height="100" alt="NFL Preseason Live" /></a>
+</div>
+						
+<div class="gc-promo">
+	<!--<a href="https://gamerewind.nfl.com/nflgr/secure/registerform?icampaign=GC_Watch_GR"><img src="http://static.nfl.com/static/content/catch_all/nfl_image/Game_Rewind_300x100_generic.jpeg" width="300" height="100" alt="Draft MVPs" /></a>-->
+	
+	<a href="https://gamerewind.nfl.com/nflgr/secure/registerform?icampaign=GC_Watch_Season_GR"><img src="http://static.nfl.com/static/content/catch_all/nfl_image/nfl_Rewind_300x100_post.png" width="300" height="100" alt="NFL Game Rewind" /></a>
+	
+</div>
+					</div>
+				</div>
+			</div>
+			<script type="text/javascript"> document.fire('gc:tabs:load',{'keepstate':true, 'defaultindex': 0, 'removetabcontent':false});</script>
+			
+		</div>
+		<div class="w"></div>
+		<div class="t"></div>
+		<!-- End content -->
+	</div>
+<!-- Acerno tag -->
+<IFRAME SRC="http://www.imiclk.com/cgi/r.cgi?m=3&mid=fL5PetPZ&did=gamecenter" FRAMEBORDER="0" SCROLLING="NO" WIDTH="0" HEIGHT="0"> </IFRAME>
+				</div>
+				<div class="w"></div>
+				<div class="t"></div>
+			</div>
+		</div>
+	</div>
+	<div id="br">
+		<div id="ft-teams">
+			<div id="footer-logo">
+				<a href="http://www.nfl.com/"><img alt="NFL Logo" src="http://img.static.nfl.com/static/site/3.5/img/global/nfl-logo-footer-2010.png" />&nbsp;</a>
+			</div>
+			
+<ul>
+	<li><a href="http://nflrush.com/?campaign=NFL_footer" target="_blank">NFL Rush</a> | <a href="http://www.nflrush.com/play60">PLAY 60</a></li>
+	<li><a href="http://www.nflyouthpd.com/" target="_blank">NFL Youth Tackle</a></li>
+	<li><a href="http://www.usafootball.com" target="_blank">USA Football</a></li>
+	<li><a href="http://www.nfl.com/international">NFL International</a></li>
+	<li><a href="http://www.nflonlocation.net" target="_blank">NFL On Location</a></li>
+	<li><a href="http://www.nflextrapoints.com/">NFL Extra Points</a></li>
+	<li><a href="http://www.nfl.com/rulebook" target="_blank">Rulebook</a></li>
+	<li><a href="http://www.nfl.com/contact-us">Contact Us</a> | <a href="http://www.nfl.com/help/faq">FAQ</a> | <a href="http://www.nfl.com/news/author?id=09000d5d8142ac0e" target="_blank">PR</a></li>
+	<li>Jobs: <a href="http://www.nfl.apply2jobs.com/" target="_blank">League</a> | <a href="http://footballjobs.teamworkonline.com/teamwork/jobs/default.cfm" target="_blank">Team</a></li>
+	<li><a href="http://www.nflhealthandsafety.com/" target="_blank">NFLHealthandSafety.com</a></li>
+</ul>
+
+<ul>
+	<!--  li>NFL Corporate</li  -->
+	<li><a href="http://www.nflshop.com/entry.point?target=z&source=NFL_SHOP_TAB_BOTTOM_BANNER" target="_blank">NFL Shop</a></li>
+	<li><a href="http://www.ticketexchangebyticketmaster.com/NFL/default.aspx?intcmp=tm100454&wt.mc_id=NFL_LEAGUE_TE_FOOTER&extcmp=Footer_TX_EX" target="_blank">NFL Ticket Exchange</a></li>
+	<!-- <li><a href="http://women.nfl.com">NFL Women's Apparel</a></li> -->
+	<li><a href="http://www.nfl.com/static/content/catch_all/nfl_generic_content/media-kit-2010.pdf">Media</a> | <a href="http://www.nfl.biz">Licensing</a></li>
+	<li><a href="http://profootballhof.com" target="_blank">Profootballhof.com</a></li>
+	<li><a href="http://www.nfllabor.com" target="_blank">NFLLabor.com</a></li>
+	<li><a href="http://www.nfl.com/community" target="_blank">In The Community</a></li>
+	<!-- <li><a href="http://nflplayers.com" target="_blank">NFLPlayers.com</a></li> -->
+	<li><a href="https://www.nflplayercare.com/" target="_blank">NFL Player Care</a></li>
+	<li><a href="https://www.nflplayerengagement.com" target="_blank">Player Engagement</a></li>
+</ul>
+
+<div id="ft-teams-afc-mark-container">
+	<div id="ft-teams-afc-mark"></div>
+	<div class="ft-teams-parenthesis"></div>
+</div>
+<ul class="ft-teams-list">
+	<li><a href="http://www.buffalobills.com/" target="_blank">Bills</a></li>
+	<li><a href="http://www.miamidolphins.com/" target="_blank">Dolphins</a></li>
+	<li><a href="http://www.patriots.com/" target="_blank">Patriots</a></li>
+	<li><a href="http://www.newyorkjets.com/" target="_blank">Jets</a></li>
+</ul>
+<ul class="ft-teams-list">
+	<li><a href="http://www.baltimoreravens.com/" target="_blank">Ravens</a></li>
+	<li><a href="http://www.bengals.com/" target="_blank">Bengals</a></li>
+	<li><a href="http://www.clevelandbrowns.com/" target="_blank">Browns</a></li>
+	<li><a href="http://www.steelers.com/" target="_blank">Steelers</a></li>
+</ul>
+<ul class="ft-teams-list">
+	<li><a href="http://www.houstontexans.com/" target="_blank">Texans</a></li>
+	<li><a href="http://www.colts.com/" target="_blank">Colts</a></li>
+	<li><a href="http://www.jaguars.com/" target="_blank">Jaguars</a></li>
+	<li><a href="http://www.titansonline.com/" target="_blank">Titans</a></li>
+</ul>
+<ul class="ft-teams-list">
+	<li><a href="http://www.denverbroncos.com/" target="_blank">Broncos</a></li>
+	<li><a href="http://www.kcchiefs.com/" target="_blank">Chiefs</a></li>
+	<li><a href="http://www.raiders.com/" target="_blank">Raiders</a></li>
+	<li><a href="http://www.chargers.com/" target="_blank">Chargers</a></li>
+</ul>
+<div id="ft-teams-nfc-mark-container">
+	<div id="ft-teams-nfc-mark"></div>
+	<div class="ft-teams-parenthesis"></div>
+</div>
+<ul class="ft-teams-list">
+	<li><a href="http://www.dallascowboys.com/" target="_blank">Cowboys</a></li>
+	<li><a href="http://www.giants.com/" target="_blank">Giants</a></li>
+	<li><a href="http://www.philadelphiaeagles.com/" target="_blank">Eagles</a></li>
+	<li><a href="http://www.redskins.com/" target="_blank">Redskins</a></li>
+</ul>
+<ul class="ft-teams-list">
+	<li><a href="http://www.chicagobears.com/" target="_blank">Bears</a></li>
+	<li><a href="http://www.detroitlions.com/" target="_blank">Lions</a></li>
+	<li><a href="http://www.packers.com/" target="_blank">Packers</a></li>
+	<li><a href="http://www.vikings.com/" target="_blank">Vikings</a></li>
+</ul>
+<ul class="ft-teams-list">
+	<li><a href="http://www.atlantafalcons.com/" target="_blank">Falcons</a></li>
+	<li><a href="http://www.panthers.com/" target="_blank">Panthers</a></li>
+	<li><a href="http://www.neworleanssaints.com/" target="_blank">Saints</a></li>
+	<li><a href="http://www.buccaneers.com/" target="_blank">Buccaneers</a></li>
+</ul>
+<ul class="ft-teams-list">
+	<li><a href="http://www.azcardinals.com/" target="_blank">Cardinals</a></li>
+	<li><a href="http://www.stlouisrams.com/" target="_blank">Rams</a></li>
+	<li><a href="http://www.sf49ers.com/" target="_blank">49ers</a></li>
+	<li><a href="http://www.seahawks.com/" target="_blank">Seahawks</a></li>
+</ul>
+<script>nfl.bandages.IE6FooterFixes();</script>
+			
+<p class="copyright">
+			&copy; 2011 NFL Enterprises LLC. NFL and the NFL shield design are registered trademarks of the
+			National Football League.The team names, logos and uniform designs are registered trademarks of
+			the teams indicated. All other NFL-related trademarks are trademarks of the National Football
+			League. NFL	footage &copy; NFL Productions LLC. <a href="http://www.nfl.com/help/privacy" style="color:#b6061e;">PRIVACY POLICY</a> | <a href="http://www.nfl.com/help/terms" style="color:#b6061e;">Terms & Conditions</a>
+	</p>
+	<div id="slice" class="hslice" style=" display:none; ">
+		<div class="entry-title">NFL News</div>
+		<div class="entry-content">CONTENT</div>
+		<a rel="entry-content" href="http://www.nfl.com/ie/web-slice" style=" display:none; "></a>
+		<a rel="bookmark" target="_blank" href="http://www.nfl.com" style=" display:none; "></a>
+		<span class="ttl" style=" display:none; ">15</span>
+	</div>
+		</div>
+	</div>
+	<script type="text/javascript">	
+	document.fire('dom:ready');
+	if ( typeof(nfl.executeYUICallbacks) == 'function' ) nfl.executeYUICallbacks();
+	</script>
+	<!-- END DECORATOR redesign/global-alt -->
+</body>
+</html>

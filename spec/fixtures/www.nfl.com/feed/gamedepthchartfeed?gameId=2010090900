@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<depthCharts>
+  <timestamp timeZone="EST">20110809031141</timestamp>
+  <season>2010</season>
+  <seasonType>REG</seasonType>
+  <week>1</week>
+  <teams>
+    <team location="HOME" teamId="3300" teamAbbr="NO" teamCityState="New Orleans" nick="Saints">
+      <formations>
+        <formation id="offense">
+          <positions>
+            <position depthPosition="TE" displayPosition="TE">
+              <players>
+                <player gsisPlayerId="00-0021148" playerId="SHO162072" firstName="Jeremy" displayName="Jeremy Shockey" lastName="Shockey" jerseyNumber="" depthOrder="1"/>
+                <player gsisPlayerId="00-0024301" playerId="THO095101" firstName="John" displayName="David Thomas" lastName="Thomas" jerseyNumber="85" depthOrder="2"/>
+                <player gsisPlayerId="00-0027696" playerId="GRA207087" firstName="Jimmy" displayName="Jimmy Graham" lastName="Graham" jerseyNumber="80" depthOrder="3"/>
+                <player gsisPlayerId="00-0023210" playerId="HUM613935" firstName="Tory" displayName="Tory Humphrey" lastName="Humphrey" jerseyNumber="84" depthOrder="4"/>
+              </players>
+            </position>
+            <position depthPosition="RG" displayPosition="G">
+              <players>
+                <player gsisPlayerId="00-0024323" playerId="EVA231866" firstName="Jahri" displayName="Jahri Evans" lastName="Evans" jerseyNumber="73" depthOrder="1"/>
+                <player gsisPlayerId="00-0027528" playerId="CAR621613" firstName="Brandon" displayName="Brandon Carter" lastName="Carter" jerseyNumber="60" depthOrder="2"/>
+              </players>
+            </position>
+            <position depthPosition="LT" displayPosition="T">
+              <players>
+                <player gsisPlayerId="00-0025512" playerId="BUS379552" firstName="Jermon" displayName="Jermon Bushrod" lastName="Bushrod" jerseyNumber="74" depthOrder="1"/>
+                <player gsisPlayerId="00-0026839" playerId="PAR613767" firstName="Jermey" displayName="Jermey Parnell" lastName="Parnell" jerseyNumber="78" depthOrder="2"/>
+              </players>
+            </position>
+            <position depthPosition="C" displayPosition="C">
+              <players>
+                <player gsisPlayerId="00-0021267" playerId="GOO677384" firstName="Jonathan" displayName="Jonathan Goodwin" lastName="Goodwin" jerseyNumber="76" depthOrder="1"/>
+                <player gsisPlayerId="00-0022904" playerId="LEC297966" firstName="Nicholas" displayName="Nick Leckey" lastName="Leckey" jerseyNumber="60" depthOrder="2"/>
+                <player gsisPlayerId="00-0027757" playerId="TEN153366" firstName="Matthew" displayName="Matt Tennant" lastName="Tennant" jerseyNumber="65" depthOrder="3"/>
+              </players>
+            </position>
+            <position depthPosition="RB" displayPosition="RB">
+              <players>
+                <player gsisPlayerId="00-0024217" playerId="BUS294963" firstName="Reginald" displayName="Reggie Bush" lastName="Bush" jerseyNumber="25" depthOrder="1"/>
+                <player gsisPlayerId="00-0024813" playerId="THO085535" firstName="Charles" displayName="Pierre Thomas" lastName="Thomas" jerseyNumber="23" depthOrder="2"/>
+                <player gsisPlayerId="00-0027531" playerId="IVO253611" firstName="Christopher" displayName="Chris Ivory" lastName="Ivory" jerseyNumber="29" depthOrder="3"/>
+                <player gsisPlayerId="00-0021184" playerId="BET780192" firstName="Ladell" displayName="Ladell Betts" lastName="Betts" jerseyNumber="46" depthOrder="4"/>
+              </players>
+            </position>
+            <position depthPosition="FL" displayPosition="WR">
+              <players>
+                <player gsisPlayerId="00-0022929" playerId="HEN056415" firstName="Devery" displayName="Devery Henderson" lastName="Henderson" jerseyNumber="19" depthOrder="1"/>
+                <player gsisPlayerId="00-0025414" playerId="MEA057501" firstName="Robert" displayName="Robert Meachem" lastName="Meachem" jerseyNumber="17" depthOrder="2"/>
+                <player gsisPlayerId="00-0023503" playerId="ROB808006" firstName="Courtney" displayName="Courtney Roby" lastName="Roby" jerseyNumber="15" depthOrder="3"/>
+              </players>
+            </position>
+            <position depthPosition="SE" displayPosition="WR">
+              <players>
+                <player gsisPlayerId="00-0024466" playerId="COL777594" firstName="Marques" displayName="Marques Colston" lastName="Colston" jerseyNumber="12" depthOrder="1"/>
+                <player gsisPlayerId="00-0023310" playerId="MOO468248" firstName="Lance" displayName="Lance Moore" lastName="Moore" jerseyNumber="16" depthOrder="2"/>
+                <player gsisPlayerId="00-0027614" playerId="BIL465053" firstName="Montez" displayName="Montez Billings" lastName="Billings" jerseyNumber="" depthOrder="3"/>
+              </players>
+            </position>
+            <position depthPosition="QB" displayPosition="QB">
+              <players>
+                <player gsisPlayerId="00-0020531" playerId="BRE229498" firstName="Drew" displayName="Drew Brees" lastName="Brees" jerseyNumber="9" depthOrder="1"/>
+                <player gsisPlayerId="00-0021379" playerId="RAM596976" firstName="Patrick" displayName="Patrick Ramsey" lastName="Ramsey" jerseyNumber="9" depthOrder="2"/>
+              </players>
+            </position>
+            <position depthPosition="FB" displayPosition="FB">
+              <players>
+                <player gsisPlayerId="00-0020507" playerId="EVA025725" firstName="Bryan" displayName="Heath Evans" lastName="Evans" jerseyNumber="44" depthOrder="1"/>
+              </players>
+            </position>
+            <position depthPosition="RT" displayPosition="T">
+              <players>
+                <player gsisPlayerId="00-0022078" playerId="STI503973" firstName="Jonathan" displayName="Jonathan Stinchcomb" lastName="Stinchcomb" jerseyNumber="78" depthOrder="1"/>
+                <player gsisPlayerId="00-0024424" playerId="STR434040" firstName="Zachary" displayName="Zach Strief" lastName="Strief" jerseyNumber="64" depthOrder="2"/>
+              </players>
+            </position>
+            <position depthPosition="LG" displayPosition="G">
+              <players>
+                <player gsisPlayerId="00-0026304" playerId="NIC723945" firstName="Carl" displayName="Carl Nicks" lastName="Nicks" jerseyNumber="77" depthOrder="1"/>
+                <player gsisPlayerId="00-0021218" playerId="MET352212" firstName="Terrence" displayName="Terrence Metcalf" lastName="Metcalf" jerseyNumber="62" depthOrder="2"/>
+              </players>
+            </position>
+          </positions>
+        </formation>
+        <formation id="defense">
+          <positions>
+            <position depthPosition="ROLB" displayPosition="LB">
+              <players>
+                <player gsisPlayerId="00-0022040" playerId="SHA171501" firstName="Scott" displayName="Scott Shanle" lastName="Shanle" jerseyNumber="58" depthOrder="1"/>
+                <player gsisPlayerId="00-0024295" playerId="ING456819" firstName="Clinton" displayName="Clint Ingram" lastName="Ingram" jerseyNumber="55" depthOrder="2"/>
+                <player gsisPlayerId="00-0026593" playerId="ASI474618" firstName="Ekenemchukwu" displayName="K.C. Asiodu" lastName="Asiodu" jerseyNumber="94" depthOrder="3"/>
+              </players>
+            </position>
+            <position depthPosition="LDE" displayPosition="DE">
+              <players>
+                <player gsisPlayerId="00-0021228" playerId="BRO246330" firstName="Alex" displayName="Alex Brown" lastName="Brown" jerseyNumber="96" depthOrder="1"/>
+                <player gsisPlayerId="00-0022888" playerId="MCC663361" firstName="Bobby" displayName="Bobby McCray" lastName="McCray" jerseyNumber="73" depthOrder="2"/>
+                <player gsisPlayerId="00-0021960" playerId="WIL078164" firstName="Jimmy" displayName="Jimmy Wilkerson" lastName="Wilkerson" jerseyNumber="99" depthOrder="3"/>
+              </players>
+            </position>
+            <position depthPosition="RDT" displayPosition="DT">
+              <players>
+                <player gsisPlayerId="00-0024073" playerId="AYO158817" firstName="Remilekun" displayName="Remi Ayodele" lastName="Ayodele" jerseyNumber="92" depthOrder="1"/>
+                <player gsisPlayerId="00-0026284" playerId="PRE424518" firstName="DeMario" displayName="DeMario Pressley" lastName="Pressley" jerseyNumber="" depthOrder="2"/>
+              </players>
+            </position>
+            <position depthPosition="FS" displayPosition="FS">
+              <players>
+                <player gsisPlayerId="00-0014724" playerId="SHA500479" firstName="Darren" displayName="Darren Sharper" lastName="Sharper" jerseyNumber="42" depthOrder="1"/>
+                <player gsisPlayerId="00-0026990" playerId="JEN372222" firstName="Malcolm" displayName="Malcolm Jenkins" lastName="Jenkins" jerseyNumber="27" depthOrder="2"/>
+              </players>
+            </position>
+            <position depthPosition="SS" displayPosition="SS">
+              <players>
+                <player gsisPlayerId="00-0024258" playerId="HAR293034" firstName="Roman" displayName="Roman Harper" lastName="Harper" jerseyNumber="41" depthOrder="1"/>
+                <player gsisPlayerId="00-0013255" playerId="PRI603942" firstName="Pierson" displayName="Pierson Prioleau" lastName="Prioleau" jerseyNumber="31" depthOrder="2"/>
+                <player gsisPlayerId="00-0023757" playerId="REI689919" firstName="Christopher" displayName="Chris Reis" lastName="Reis" jerseyNumber="39" depthOrder="3"/>
+              </players>
+            </position>
+            <position depthPosition="RCB" displayPosition="CB">
+              <players>
+                <player gsisPlayerId="00-0026180" playerId="POR632160" firstName="Tracy" displayName="Tracy Porter" lastName="Porter" jerseyNumber="22" depthOrder="1"/>
+                <player gsisPlayerId="00-0022344" playerId="GAY363730" firstName="Randall" displayName="Randall Gay" lastName="Gay" jerseyNumber="20" depthOrder="2"/>
+                <player gsisPlayerId="00-0026835" playerId="JON651586" firstName="Reggie" displayName="Reggie Jones" lastName="Jones" jerseyNumber="29" depthOrder="3"/>
+              </players>
+            </position>
+            <position depthPosition="LDT" displayPosition="DT">
+              <players>
+                <player gsisPlayerId="00-0026147" playerId="ELL641039" firstName="Sedrick" displayName="Sedrick Ellis" lastName="Ellis" jerseyNumber="98" depthOrder="1"/>
+                <player gsisPlayerId="00-0022753" playerId="HAR144150" firstName="Anthony" displayName="Anthony Hargrove" lastName="Hargrove" jerseyNumber="69" depthOrder="2"/>
+              </players>
+            </position>
+            <position depthPosition="LCB" displayPosition="CB">
+              <players>
+                <player gsisPlayerId="00-0022527" playerId="GRE654582" firstName="Jabari" displayName="Jabari Greer" lastName="Greer" jerseyNumber="33" depthOrder="1"/>
+                <player gsisPlayerId="00-0027882" playerId="ROB671457" firstName="Patrick" displayName="Patrick Robinson" lastName="Robinson" jerseyNumber="34" depthOrder="2"/>
+              </players>
+            </position>
+            <position depthPosition="MLB" displayPosition="LB">
+              <players>
+                <player gsisPlayerId="00-0022778" playerId="VIL582180" firstName="Jonathan" displayName="Jonathan Vilma" lastName="Vilma" jerseyNumber="51" depthOrder="1"/>
+                <player gsisPlayerId="00-0025607" playerId="MIT520429" firstName="Marvin" displayName="Marvin Mitchell" lastName="Mitchell" jerseyNumber="50" depthOrder="2"/>
+                <player gsisPlayerId="00-0025483" playerId="WAT049178" firstName="Anthony" displayName="Anthony Waters" lastName="Waters" jerseyNumber="59" depthOrder="3"/>
+              </players>
+            </position>
+            <position depthPosition="LOLB" displayPosition="LB">
+              <players>
+                <player gsisPlayerId="00-0026832" playerId="CAS320904" firstName="Jonathan" displayName="Jonathan Casillas" lastName="Casillas" jerseyNumber="52" depthOrder="1"/>
+                <player gsisPlayerId="00-0025838" playerId="DUN097263" firstName="Jo-Lonn" displayName="Jo-Lonn Dunbar" lastName="Dunbar" jerseyNumber="56" depthOrder="2"/>
+              </players>
+            </position>
+            <position depthPosition="RDE" displayPosition="DE">
+              <players>
+                <player gsisPlayerId="00-0022911" playerId="SMI805040" firstName="William" displayName="Will Smith" lastName="Smith" jerseyNumber="91" depthOrder="1"/>
+                <player gsisPlayerId="00-0023847" playerId="CHA617869" firstName="Jeffrey" displayName="Jeff Charleston" lastName="Charleston" jerseyNumber="97" depthOrder="2"/>
+              </players>
+            </position>
+          </positions>
+        </formation>
+        <formation id="specialTeams">
+          <positions>
+            <position depthPosition="LS" displayPosition="LS">
+              <players>
+                <player gsisPlayerId="00-0009530" playerId="KYL343482" firstName="Jason" displayName="Jason Kyle" lastName="Kyle" jerseyNumber="57" depthOrder="1"/>
+              </players>
+            </position>
+            <position depthPosition="H" displayPosition="H">
+              <players>
+                <player gsisPlayerId="00-0027114" playerId="MOR758512" firstName="Thomas" displayName="Thomas Morstead" lastName="Morstead" jerseyNumber="6" depthOrder="1"/>
+                <player gsisPlayerId="00-0026544" playerId="DAN230354" firstName="William" displayName="Chase Daniel" lastName="Daniel" jerseyNumber="10" depthOrder="2"/>
+              </players>
+            </position>
+            <position depthPosition="K" displayPosition="K">
+              <players>
+                <player gsisPlayerId="00-0025824" playerId="HAR717525" firstName="Brandon" displayName="Garrett Hartley" lastName="Hartley" jerseyNumber="5" depthOrder="1"/>
+              </players>
+            </position>
+            <position depthPosition="P" displayPosition="P">
+              <players>
+                <player gsisPlayerId="00-0027114" playerId="MOR758512" firstName="Thomas" displayName="Thomas Morstead" lastName="Morstead" jerseyNumber="6" depthOrder="1"/>
+                <player gsisPlayerId="00-0025824" playerId="HAR717525" firstName="Brandon" displayName="Garrett Hartley" lastName="Hartley" jerseyNumber="5" depthOrder="2"/>
+              </players>
+            </position>
+            <position depthPosition="KR" displayPosition="KR">
+              <players>
+                <player gsisPlayerId="00-0023503" playerId="ROB808006" firstName="Courtney" displayName="Courtney Roby" lastName="Roby" jerseyNumber="15" depthOrder="1"/>
+                <player gsisPlayerId="00-0024813" playerId="THO085535" firstName="Charles" displayName="Pierre Thomas" lastName="Thomas" jerseyNumber="23" depthOrder="2"/>
+              </players>
+            </position>
+            <position depthPosition="PR" displayPosition="PR">
+              <players>
+                <player gsisPlayerId="00-0024217" playerId="BUS294963" firstName="Reginald" displayName="Reggie Bush" lastName="Bush" jerseyNumber="25" depthOrder="1"/>
+                <player gsisPlayerId="00-0023310" playerId="MOO468248" firstName="Lance" displayName="Lance Moore" lastName="Moore" jerseyNumber="16" depthOrder="2"/>
+              </players>
+            </position>
+          </positions>
+        </formation>
+      </formations>
+    </team>
+    <team location="VISITOR" teamId="3000" teamAbbr="MIN" teamCityState="Minnesota" nick="Vikings">
+      <formations>
+        <formation id="offense">
+          <positions>
+            <position depthPosition="TE" displayPosition="TE">
+              <players>
+                <player gsisPlayerId="00-0022054" playerId="SHI025168" firstName="Visanthe" displayName="Visanthe Shiancoe" lastName="Shiancoe" jerseyNumber="81" depthOrder="1"/>
+                <player gsisPlayerId="00-0009323" playerId="KLE428040" firstName="James" displayName="Jimmy Kleinsasser" lastName="Kleinsasser" jerseyNumber="40" depthOrder="2"/>
+                <player gsisPlayerId="00-0022746" playerId="DUG092572" firstName="Jeffrey" displayName="Jeff Dugan" lastName="Dugan" jerseyNumber="83" depthOrder="3"/>
+              </players>
+            </position>
+            <position depthPosition="RG" displayPosition="G">
+              <players>
+                <player gsisPlayerId="00-0022266" playerId="HER474016" firstName="Anthony" displayName="Anthony Herrera" lastName="Herrera" jerseyNumber="64" depthOrder="1"/>
+                <player gsisPlayerId="00-0024266" playerId="COO225916" firstName="Ryan" displayName="Ryan Cook" lastName="Cook" jerseyNumber="62" depthOrder="2"/>
+              </players>
+            </position>
+            <position depthPosition="LT" displayPosition="T">
+              <players>
+                <player gsisPlayerId="00-0021383" playerId="MCK582010" firstName="Bryant" displayName="Bryant McKinnie" lastName="McKinnie" jerseyNumber="74" depthOrder="1"/>
+              </players>
+            </position>
+            <position depthPosition="C" displayPosition="C">
+              <players>
+                <player gsisPlayerId="00-0026327" playerId="SUL513788" firstName="John" displayName="John Sullivan" lastName="Sullivan" jerseyNumber="65" depthOrder="1"/>
+                <player gsisPlayerId="00-0026580" playerId="COO616198" firstName="Jonathan" displayName="Jon Cooper" lastName="Cooper" jerseyNumber="68" depthOrder="2"/>
+              </players>
+            </position>
+            <position depthPosition="RB" displayPosition="RB">
+              <players>
+                <player gsisPlayerId="00-0025394" playerId="PET260705" firstName="Adrian" displayName="Adrian Peterson" lastName="Peterson" jerseyNumber="28" depthOrder="1"/>
+                <player gsisPlayerId="00-0025955" playerId="YOU052455" firstName="Albert" displayName="Albert Young" lastName="Young" jerseyNumber="34" depthOrder="2"/>
+                <player gsisPlayerId="00-0027888" playerId="GER353982" firstName="Tobinbo" displayName="Toby Gerhart" lastName="Gerhart" jerseyNumber="32" depthOrder="3"/>
+                <player gsisPlayerId="00-0026584" playerId="JOH321169" firstName="Ian" displayName="Ian Johnson" lastName="Johnson" jerseyNumber="" depthOrder="4"/>
+              </players>
+            </position>
+            <position depthPosition="FL" displayPosition="WR">
+              <players>
+                <player gsisPlayerId="00-0026998" playerId="HAR829482" firstName="William" displayName="Percy Harvin" lastName="Harvin" jerseyNumber="12" depthOrder="1"/>
+                <player gsisPlayerId="00-0023867" playerId="BID148317" firstName="RaTavious" displayName="Taye Biddle" lastName="Biddle" jerseyNumber="15" depthOrder="2"/>
+              </players>
+            </position>
+            <position depthPosition="SE" displayPosition="WR">
+              <players>
+                <player gsisPlayerId="00-0022807" playerId="BER454540" firstName="Bernard" displayName="Bernard Berrian" lastName="Berrian" jerseyNumber="87" depthOrder="1"/>
+                <player gsisPlayerId="00-0021508" playerId="LEW333082" firstName="Gregory" displayName="Greg Lewis" lastName="Lewis" jerseyNumber="17" depthOrder="2"/>
+                <player gsisPlayerId="00-0024595" playerId="PAY385838" firstName="Neil" displayName="Logan Payne" lastName="Payne" jerseyNumber="" depthOrder="4"/>
+              </players>
+            </position>
+            <position depthPosition="QB" displayPosition="QB">
+              <players>
+                <player gsisPlayerId="00-0005106" playerId="FAV540222" firstName="Brett" displayName="Brett Favre" lastName="Favre" jerseyNumber="4" depthOrder="1"/>
+                <player gsisPlayerId="00-0024279" playerId="JAC566507" firstName="Tarvaris" displayName="Tarvaris Jackson" lastName="Jackson" jerseyNumber="7" depthOrder="2"/>
+                <player gsisPlayerId="00-0020480" playerId="ROS396938" firstName="Sage" displayName="Sage Rosenfels" lastName="Rosenfels" jerseyNumber="18" depthOrder="3"/>
+              </players>
+            </position>
+            <position depthPosition="FB" displayPosition="FB">
+              <players>
+                <player gsisPlayerId="00-0023774" playerId="TAH296636" firstName="Naufahu" displayName="Naufahu Tahi" lastName="Tahi" jerseyNumber="38" depthOrder="1"/>
+                <player gsisPlayerId="00-0027612" playerId="DIM685225" firstName="Ryan" displayName="Ryan D'Imperio" lastName="D'Imperio" jerseyNumber="44" depthOrder="2"/>
+              </players>
+            </position>
+            <position depthPosition="RT" displayPosition="T">
+              <players>
+                <player gsisPlayerId="00-0027030" playerId="LOA148317" firstName="Philip" displayName="Phil Loadholt" lastName="Loadholt" jerseyNumber="71" depthOrder="1"/>
+              </players>
+            </position>
+            <position depthPosition="LG" displayPosition="G">
+              <players>
+                <player gsisPlayerId="00-0020466" playerId="HUT173616" firstName="Steve" displayName="Steve Hutchinson" lastName="Hutchinson" jerseyNumber="76" depthOrder="1"/>
+                <player gsisPlayerId="00-0027760" playerId="DEG152616" firstName="Christopher" displayName="Chris DeGeare" lastName="DeGeare" jerseyNumber="72" depthOrder="2"/>
+              </players>
+            </position>
+          </positions>
+        </formation>
+        <formation id="defense">
+          <positions>
+            <position depthPosition="ROLB" displayPosition="LB">
+              <players>
+                <player gsisPlayerId="00-0021197" playerId="LEB506360" firstName="Benjamin" displayName="Ben Leber" lastName="Leber" jerseyNumber="51" depthOrder="1"/>
+                <player gsisPlayerId="00-0025945" playerId="HEN060724" firstName="Erin" displayName="Erin Henderson" lastName="Henderson" jerseyNumber="50" depthOrder="2"/>
+              </players>
+            </position>
+            <position depthPosition="LDE" displayPosition="DE">
+              <players>
+                <player gsisPlayerId="00-0024342" playerId="EDW639849" firstName="Raymond" displayName="Ray Edwards" lastName="Edwards" jerseyNumber="91" depthOrder="1"/>
+                <player gsisPlayerId="00-0023893" playerId="MIT360131" firstName="Jayme" displayName="Jayme Mitchell" lastName="Mitchell" jerseyNumber="97" depthOrder="2"/>
+              </players>
+            </position>
+            <position depthPosition="RDT" displayPosition="DT">
+              <players>
+                <player gsisPlayerId="00-0022073" playerId="WIL407346" firstName="Kevin" displayName="Kevin Williams" lastName="Williams" jerseyNumber="93" depthOrder="1"/>
+                <player gsisPlayerId="00-0026292" playerId="GUI723790" firstName="Letroy" displayName="Letroy Guion" lastName="Guion" jerseyNumber="98" depthOrder="2"/>
+                <player gsisPlayerId="00-0026585" playerId="JOH695764" firstName="Tremaine" displayName="Tremaine Johnson" lastName="Johnson" jerseyNumber="95" depthOrder="3"/>
+              </players>
+            </position>
+            <position depthPosition="FS" displayPosition="FS">
+              <players>
+                <player gsisPlayerId="00-0022842" playerId="WIL430429" firstName="Madieu" displayName="Madieu Williams" lastName="Williams" jerseyNumber="20" depthOrder="1"/>
+                <player gsisPlayerId="00-0025940" playerId="ABD660476" firstName="Husain" displayName="Husain Abdullah" lastName="Abdullah" jerseyNumber="39" depthOrder="2"/>
+                <player gsisPlayerId="00-0026578" playerId="AND162908" firstName="Colt" displayName="Colt Anderson" lastName="Anderson" jerseyNumber="30" depthOrder="3"/>
+              </players>
+            </position>
+            <position depthPosition="SS" displayPosition="SS">
+              <players>
+                <player gsisPlayerId="00-0026183" playerId="JOH488871" firstName="Marcellous" displayName="Tyrell Johnson" lastName="Johnson" jerseyNumber="25" depthOrder="1"/>
+                <player gsisPlayerId="00-0026952" playerId="SAN663248" firstName="Jamarca" displayName="Jamarca Sanford" lastName="Sanford" jerseyNumber="33" depthOrder="2"/>
+                <player gsisPlayerId="00-0025552" playerId="FRA046140" firstName="Eric" displayName="Eric Frampton" lastName="Frampton" jerseyNumber="37" depthOrder="3"/>
+              </players>
+            </position>
+            <position depthPosition="RCB" displayPosition="CB">
+              <players>
+                <player gsisPlayerId="00-0021157" playerId="SHE556636" firstName="Lito" displayName="Lito Sheppard" lastName="Sheppard" jerseyNumber="29" depthOrder="1"/>
+                <player gsisPlayerId="00-0027058" playerId="ALL060962" firstName="Asher" displayName="Asher Allen" lastName="Allen" jerseyNumber="21" depthOrder="2"/>
+                <player gsisPlayerId="00-0027547" playerId="SHE563263" firstName="Marcus" displayName="Marcus Sherels" lastName="Sherels" jerseyNumber="35" depthOrder="3"/>
+              </players>
+            </position>
+            <position depthPosition="LDT" displayPosition="DT">
+              <players>
+                <player gsisPlayerId="00-0017899" playerId="WIL462033" firstName="Patrick" displayName="Pat Williams" lastName="Williams" jerseyNumber="94" depthOrder="1"/>
+                <player gsisPlayerId="00-0022155" playerId="KEN437436" firstName="Jimmy" displayName="Jimmy Kennedy" lastName="Kennedy" jerseyNumber="73" depthOrder="2"/>
+                <player gsisPlayerId="00-0024426" playerId="EVA202016" firstName="Frederick" displayName="Fred Evans" lastName="Evans" jerseyNumber="90" depthOrder="3"/>
+              </players>
+            </position>
+            <position depthPosition="LCB" displayPosition="CB">
+              <players>
+                <player gsisPlayerId="00-0018093" playerId="WIN144862" firstName="Antoine" displayName="Antoine Winfield" lastName="Winfield" jerseyNumber="26" depthOrder="1"/>
+                <player gsisPlayerId="00-0027649" playerId="COO033097" firstName="Christopher" displayName="Chris Cook" lastName="Cook" jerseyNumber="31" depthOrder="2"/>
+                <player gsisPlayerId="00-0026938" playerId="WRI160201" firstName="DeAndre" displayName="DeAndre Wright" lastName="Wright" jerseyNumber="" depthOrder="3"/>
+              </players>
+            </position>
+            <position depthPosition="MLB" displayPosition="LB">
+              <players>
+                <player gsisPlayerId="00-0022081" playerId="HEN060332" firstName="Eric" displayName="E.J. Henderson" lastName="Henderson" jerseyNumber="56" depthOrder="1"/>
+                <player gsisPlayerId="00-0027108" playerId="BRI423678" firstName="Jasper" displayName="Jasper Brinkley" lastName="Brinkley" jerseyNumber="54" depthOrder="2"/>
+              </players>
+            </position>
+            <position depthPosition="LOLB" displayPosition="LB">
+              <players>
+                <player gsisPlayerId="00-0024232" playerId="GRE573953" firstName="Chad" displayName="Chad Greenway" lastName="Greenway" jerseyNumber="52" depthOrder="1"/>
+                <player gsisPlayerId="00-0023215" playerId="FAR798216" firstName="Heath" displayName="Heath Farwell" lastName="Farwell" jerseyNumber="59" depthOrder="2"/>
+                <player gsisPlayerId="00-0026486" playerId="ONA622937" firstName="Olayiwola" displayName="Kenny Onatolu" lastName="Onatolu" jerseyNumber="55" depthOrder="3"/>
+              </players>
+            </position>
+            <position depthPosition="RDE" displayPosition="DE">
+              <players>
+                <player gsisPlayerId="00-0022740" playerId="ALL454745" firstName="Jared" displayName="Jared Allen" lastName="Allen" jerseyNumber="69" depthOrder="1"/>
+                <player gsisPlayerId="00-0025489" playerId="ROB744810" firstName="Brian" displayName="Brian Robison" lastName="Robison" jerseyNumber="96" depthOrder="2"/>
+                <player gsisPlayerId="00-0027701" playerId="GRI051627" firstName="Everson" displayName="Everson Griffen" lastName="Griffen" jerseyNumber="97" depthOrder="3"/>
+              </players>
+            </position>
+          </positions>
+        </formation>
+        <formation id="specialTeams">
+          <positions>
+            <position depthPosition="LS" displayPosition="">
+              <players>
+                <player gsisPlayerId="00-0022581" playerId="LOE114001" firstName="Cullen" displayName="Cullen Loeffler" lastName="Loeffler" jerseyNumber="46" depthOrder="1"/>
+                <player gsisPlayerId="00-0022740" playerId="ALL454745" firstName="Jared" displayName="Jared Allen" lastName="Allen" jerseyNumber="69" depthOrder="2"/>
+              </players>
+            </position>
+            <position depthPosition="H" displayPosition="">
+              <players>
+                <player gsisPlayerId="00-0023060" playerId="KLU751480" firstName="Christopher" displayName="Chris Kluwe" lastName="Kluwe" jerseyNumber="5" depthOrder="1"/>
+              </players>
+            </position>
+            <position depthPosition="K" displayPosition="">
+              <players>
+                <player gsisPlayerId="00-0010072" playerId="LON819356" firstName="Ryan" displayName="Ryan Longwell" lastName="Longwell" jerseyNumber="8" depthOrder="1"/>
+              </players>
+            </position>
+            <position depthPosition="P" displayPosition="">
+              <players>
+                <player gsisPlayerId="00-0023060" playerId="KLU751480" firstName="Christopher" displayName="Chris Kluwe" lastName="Kluwe" jerseyNumber="5" depthOrder="1"/>
+              </players>
+            </position>
+            <position depthPosition="KR" displayPosition="">
+              <players>
+                <player gsisPlayerId="00-0026998" playerId="HAR829482" firstName="William" displayName="Percy Harvin" lastName="Harvin" jerseyNumber="12" depthOrder="1"/>
+              </players>
+            </position>
+            <position depthPosition="PR" displayPosition="">
+              <players>
+                <player gsisPlayerId="00-0025951" playerId="REY044528" firstName="Darius" displayName="Darius Reynaud" lastName="Reynaud" jerseyNumber="15" depthOrder="1"/>
+                <player gsisPlayerId="00-0026998" playerId="HAR829482" firstName="William" displayName="Percy Harvin" lastName="Harvin" jerseyNumber="12" depthOrder="2"/>
+              </players>
+            </position>
+          </positions>
+        </formation>
+      </formations>
+    </team>
+  </teams>
+</depthCharts>

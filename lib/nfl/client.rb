@@ -4,6 +4,7 @@ module NFL
     require 'nfl/client/teams'
     require 'nfl/client/players'
     require 'nfl/client/standings'
+    require 'nfl/client/games'
 
     alias :api_endpoint :endpoint
 
@@ -11,5 +12,6 @@ module NFL
     include NFL::Client::Teams
     include NFL::Client::Players
     include NFL::Client::Standings
+    include NFL::Client::Games
   end
 end

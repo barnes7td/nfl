@@ -1,0 +1,1546 @@
+
+<div class="col span-8">
+	
+	<div id="gc-box-score" class="widget">
+		<h2 class="replaced">Box Score<span></span></h2>
+		
+
+
+
+
+
+
+<div style="position:relative">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" class="gc-box-score-table">
+		<tr class="thd1">
+			<td width="238" class="thd1 team-column-header MINcolors"><a href="/teams/profile?team=MIN">Minnesota Vikings</a> (0-1-0)</td>
+			<td class="td-spacer"></td>
+			<td width="238" class="thd1 team-column-header NOcolors"><a href="/teams/profile?team=NO">New Orleans Saints</a>  (1-0-0)</td>
+		</tr>
+	</table>
+	<div class="col span-4 gc-widget-shading-long">
+		<div class="watermark MIN-watermark"></div>
+		<table width="100%" border="0" cellspacing="0" cellpadding="0" class="gc-team-leaders-table">
+	<col align="left"></col>
+	<col align="right"></col>
+	<col align="right"></col>
+	<col align="right"></col>
+	<col align="right"></col>
+    
+    <tr class="thd2"> 
+		<td>Passing</td>
+		<td>CP/AT</td>
+		<td>YDS</td>
+		<td>TD</td>
+		<td>INT</td>
+	</tr>
+			    
+    		    			    
+			    
+    	    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0005106" data-id="00-0005106" class="nfl-player-link">B. Favre</a></td>
+			<td>15/27</td>
+			<td>171</td>
+			<td>1</td>
+			<td>1</td>
+		</tr>
+    		    			    
+		
+	
+	
+	<tr class="thd2"> 
+		<td>Rushing</td>
+		<td>ATT</td>
+		<td>YDS</td>
+		<td>TD</td>
+		<td>LG</td>
+	</tr>	
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0025394" data-id="00-0025394" class="nfl-player-link">A. Peterson</a></td>
+			<td>19</td>
+			<td>87</td>
+			<td>0</td>
+			<td>14</td>
+		</tr>
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0026998" data-id="00-0026998" class="nfl-player-link">P. Harvin</a></td>
+			<td>1</td>
+			<td>2</td>
+			<td>0</td>
+			<td>2</td>
+		</tr>
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0025955" data-id="00-0025955" class="nfl-player-link">A. Young</a></td>
+			<td>3</td>
+			<td>2</td>
+			<td>0</td>
+			<td>2</td>
+		</tr>
+    		    			    
+			    
+    		    			    
+		
+	
+	
+	<tr class="thd2"> 
+		<td>Receiving</td>
+		<td>REC</td>
+		<td>YDS</td>
+		<td>TD</td>
+		<td>LG</td>
+	</tr>
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0022054" data-id="00-0022054" class="nfl-player-link">V. Shiancoe</a></td>
+			<td>4</td>
+			<td>76</td>
+			<td>1</td>
+			<td>33</td>
+		</tr>
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0023408" data-id="00-0023408" class="nfl-player-link">G. Camarillo</a></td>
+			<td>1</td>
+			<td>29</td>
+			<td>0</td>
+			<td>29</td>
+		</tr>
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0025394" data-id="00-0025394" class="nfl-player-link">A. Peterson</a></td>
+			<td>3</td>
+			<td>14</td>
+			<td>0</td>
+			<td>11</td>
+		</tr>
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0026998" data-id="00-0026998" class="nfl-player-link">P. Harvin</a></td>
+			<td>1</td>
+			<td>12</td>
+			<td>0</td>
+			<td>12</td>
+		</tr>
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0021508" data-id="00-0021508" class="nfl-player-link">G. Lewis</a></td>
+			<td>1</td>
+			<td>12</td>
+			<td>0</td>
+			<td>12</td>
+		</tr>
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0025955" data-id="00-0025955" class="nfl-player-link">A. Young</a></td>
+			<td>2</td>
+			<td>11</td>
+			<td>0</td>
+			<td>13</td>
+		</tr>
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0022746" data-id="00-0022746" class="nfl-player-link">J. Dugan</a></td>
+			<td>1</td>
+			<td>8</td>
+			<td>0</td>
+			<td>8</td>
+		</tr>
+    		    			    
+			    
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0009323" data-id="00-0009323" class="nfl-player-link">J. Kleinsasser</a></td>
+			<td>1</td>
+			<td>6</td>
+			<td>0</td>
+			<td>6</td>
+		</tr>
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0022807" data-id="00-0022807" class="nfl-player-link">B. Berrian</a></td>
+			<td>1</td>
+			<td>3</td>
+			<td>0</td>
+			<td>3</td>
+		</tr>
+    		    			    
+			    
+    		    			    
+		
+	
+	
+	<tr class="thd2"> 
+		<td>Fumbles</td>
+		<td>FUM</td>
+		<td>LOST</td>
+		<td>REC</td>
+		<td>YDS</td>
+	</tr>
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0022807" data-id="00-0022807" class="nfl-player-link">B. Berrian</a></td>
+			<td>1</td>
+			<td>0</td>
+			<td>1</td>
+			<td>0</td>
+		</tr>
+    		    			    
+			    
+    		    			    
+	
+		
+	
+	<tr class="thd2"> 
+		<td>Kicking</td>
+		<td>FG</td>
+		<td>LG</td>
+		<td>XP</td>
+		<td>PTS</td>
+	</tr>
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0010072" data-id="00-0010072" class="nfl-player-link">R. Longwell</a></td>
+			<td>1/1</td>
+			<td>41</td>
+			<td>0/1</td>
+			<td>3</td>
+		</tr>
+    		    			    
+			    
+    		    			    
+	
+	
+	
+	<tr class="thd2"> 
+		<td>Punting</td>
+		<td>NO</td>
+		<td>AVG</td>
+		<td>I20</td>
+		<td>LG</td>
+	</tr>
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0023060" data-id="00-0023060" class="nfl-player-link">C. Kluwe</a></td>
+			<td>7</td>
+			<td>43.3</td>
+			<td>2</td>
+			<td>49</td>
+		</tr>
+    		    			    
+			    
+    		    			    
+	
+	
+	
+	<tr class="thd2"> 
+		<td>Kickoff Returns</td>
+		<td>NO</td>
+		<td>AVG</td>
+		<td>TD</td>
+		<td>LG</td>
+	</tr>	
+			    
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0026998" data-id="00-0026998" class="nfl-player-link">P. Harvin</a></td>
+			<td>2</td>
+			<td>20</td>
+			<td>0</td>
+			<td>22</td>
+		</tr>
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+	
+	<tr class="thd2"> 
+		<td>Punt Returns</td>
+		<td>NO</td>
+		<td>AVG</td>
+		<td>TD</td>
+		<td>LG</td>
+	</tr>
+			    
+    		    			    
+			    
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0022807" data-id="00-0022807" class="nfl-player-link">B. Berrian</a></td>
+			<td>2</td>
+			<td>1</td>
+			<td>0</td>
+			<td>2</td>
+		</tr>
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+	
+	
+	
+	<tr class="thd2"> 
+		<td>Defense</td>
+		<td>T-A</td>
+		<td>SCK</td>
+		<td>INT</td>
+		<td>FF</td>
+	</tr>	
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0024232" data-id="00-0024232" class="nfl-player-link">C. Greenway</a></td>
+			<td>9-3</td>
+			<td>0.0</td>
+			<td>0</td>
+			<td>0</td>
+		</tr>
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0022081" data-id="00-0022081" class="nfl-player-link">E. Henderson</a></td>
+			<td>8-1</td>
+			<td>0.0</td>
+			<td>0</td>
+			<td>0</td>
+		</tr>
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0018093" data-id="00-0018093" class="nfl-player-link">A. Winfield</a></td>
+			<td>7-2</td>
+			<td>0.0</td>
+			<td>0</td>
+			<td>0</td>
+		</tr>
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0027058" data-id="00-0027058" class="nfl-player-link">A. Allen</a></td>
+			<td>4-2</td>
+			<td>0.0</td>
+			<td>0</td>
+			<td>0</td>
+		</tr>
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0021197" data-id="00-0021197" class="nfl-player-link">B. Leber</a></td>
+			<td>4-0</td>
+			<td>0.0</td>
+			<td>0</td>
+			<td>0</td>
+		</tr>
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0025940" data-id="00-0025940" class="nfl-player-link">H. Abdullah</a></td>
+			<td>3-1</td>
+			<td>0.0</td>
+			<td>0</td>
+			<td>0</td>
+		</tr>
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0022740" data-id="00-0022740" class="nfl-player-link">J. Allen</a></td>
+			<td>3-1</td>
+			<td>0.0</td>
+			<td>0</td>
+			<td>0</td>
+		</tr>
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0021157" data-id="00-0021157" class="nfl-player-link">L. Sheppard</a></td>
+			<td>3-0</td>
+			<td>0.0</td>
+			<td>0</td>
+			<td>0</td>
+		</tr>
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0022842" data-id="00-0022842" class="nfl-player-link">M. Williams</a></td>
+			<td>3-1</td>
+			<td>0.0</td>
+			<td>0</td>
+			<td>0</td>
+		</tr>
+    		    			    
+			    
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0017899" data-id="00-0017899" class="nfl-player-link">P. Williams</a></td>
+			<td>2-0</td>
+			<td>0.0</td>
+			<td>0</td>
+			<td>0</td>
+		</tr>
+    		    			    
+			    
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0024342" data-id="00-0024342" class="nfl-player-link">R. Edwards</a></td>
+			<td>1-0</td>
+			<td>0.0</td>
+			<td>0</td>
+			<td>0</td>
+		</tr>
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0023893" data-id="00-0023893" class="nfl-player-link">J. Mitchell</a></td>
+			<td>1-0</td>
+			<td>1.0</td>
+			<td>0</td>
+			<td>0</td>
+		</tr>
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0022073" data-id="00-0022073" class="nfl-player-link">K. Williams</a></td>
+			<td>0-1</td>
+			<td>0.0</td>
+			<td>0</td>
+			<td>0</td>
+		</tr>
+    		    			    
+			    
+    		    			    
+	
+	
+</table>
+
+
+	</div>
+
+	<div class="gc-tl-col gc-widget-shading-long">
+		<div class="watermark NO-watermark" style="right:0px; left:auto;"></div>
+		<table width="100%" border="0" cellspacing="0" cellpadding="0" class="gc-team-leaders-table">
+	<col align="left"></col>
+	<col align="right"></col>
+	<col align="right"></col>
+	<col align="right"></col>
+	<col align="right"></col>
+    
+    <tr class="thd2"> 
+		<td>Passing</td>
+		<td>CP/AT</td>
+		<td>YDS</td>
+		<td>TD</td>
+		<td>INT</td>
+	</tr>
+			    
+    	    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0020531" data-id="00-0020531" class="nfl-player-link">D. Brees</a></td>
+			<td>27/36</td>
+			<td>237</td>
+			<td>1</td>
+			<td>0</td>
+		</tr>
+    		    			    
+			    
+    		    			    
+		
+	
+	
+	<tr class="thd2"> 
+		<td>Rushing</td>
+		<td>ATT</td>
+		<td>YDS</td>
+		<td>TD</td>
+		<td>LG</td>
+	</tr>	
+			    
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0024813" data-id="00-0024813" class="nfl-player-link">P. Thomas</a></td>
+			<td>19</td>
+			<td>71</td>
+			<td>1</td>
+			<td>11</td>
+		</tr>
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0024217" data-id="00-0024217" class="nfl-player-link">R. Bush</a></td>
+			<td>2</td>
+			<td>14</td>
+			<td>0</td>
+			<td>8</td>
+		</tr>
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0020531" data-id="00-0020531" class="nfl-player-link">D. Brees</a></td>
+			<td>4</td>
+			<td>-6</td>
+			<td>0</td>
+			<td>-1</td>
+		</tr>
+    		    			    
+		
+	
+	
+	<tr class="thd2"> 
+		<td>Receiving</td>
+		<td>REC</td>
+		<td>YDS</td>
+		<td>TD</td>
+		<td>LG</td>
+	</tr>
+			    
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0024466" data-id="00-0024466" class="nfl-player-link">M. Colston</a></td>
+			<td>5</td>
+			<td>62</td>
+			<td>0</td>
+			<td>28</td>
+		</tr>
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0022929" data-id="00-0022929" class="nfl-player-link">D. Henderson</a></td>
+			<td>2</td>
+			<td>38</td>
+			<td>1</td>
+			<td>29T</td>
+		</tr>
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0024217" data-id="00-0024217" class="nfl-player-link">R. Bush</a></td>
+			<td>5</td>
+			<td>33</td>
+			<td>0</td>
+			<td>19</td>
+		</tr>
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0025414" data-id="00-0025414" class="nfl-player-link">R. Meachem</a></td>
+			<td>3</td>
+			<td>33</td>
+			<td>0</td>
+			<td>26</td>
+		</tr>
+    		    			    
+			    
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0023310" data-id="00-0023310" class="nfl-player-link">L. Moore</a></td>
+			<td>3</td>
+			<td>23</td>
+			<td>0</td>
+			<td>12</td>
+		</tr>
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0021148" data-id="00-0021148" class="nfl-player-link">J. Shockey</a></td>
+			<td>3</td>
+			<td>23</td>
+			<td>0</td>
+			<td>14</td>
+		</tr>
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0024813" data-id="00-0024813" class="nfl-player-link">P. Thomas</a></td>
+			<td>3</td>
+			<td>15</td>
+			<td>0</td>
+			<td>15</td>
+		</tr>
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0020507" data-id="00-0020507" class="nfl-player-link">H. Evans</a></td>
+			<td>1</td>
+			<td>7</td>
+			<td>0</td>
+			<td>7</td>
+		</tr>
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0024301" data-id="00-0024301" class="nfl-player-link">D. Thomas</a></td>
+			<td>2</td>
+			<td>3</td>
+			<td>0</td>
+			<td>3</td>
+		</tr>
+    		    			    
+		
+	
+	
+	<tr class="thd2"> 
+		<td>Fumbles</td>
+		<td>FUM</td>
+		<td>LOST</td>
+		<td>REC</td>
+		<td>YDS</td>
+	</tr>
+			    
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0020531" data-id="00-0020531" class="nfl-player-link">D. Brees</a></td>
+			<td>1</td>
+			<td>0</td>
+			<td>1</td>
+			<td>0</td>
+		</tr>
+    		    			    
+	
+		
+	
+	<tr class="thd2"> 
+		<td>Kicking</td>
+		<td>FG</td>
+		<td>LG</td>
+		<td>XP</td>
+		<td>PTS</td>
+	</tr>
+			    
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0025824" data-id="00-0025824" class="nfl-player-link">G. Hartley</a></td>
+			<td>0/2</td>
+			<td>0</td>
+			<td>2/2</td>
+			<td>2</td>
+		</tr>
+    		    			    
+	
+	
+	
+	<tr class="thd2"> 
+		<td>Punting</td>
+		<td>NO</td>
+		<td>AVG</td>
+		<td>I20</td>
+		<td>LG</td>
+	</tr>
+			    
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0027114" data-id="00-0027114" class="nfl-player-link">T. Morstead</a></td>
+			<td>5</td>
+			<td>42.8</td>
+			<td>2</td>
+			<td>58</td>
+		</tr>
+    		    			    
+	
+	
+	
+	<tr class="thd2"> 
+		<td>Kickoff Returns</td>
+		<td>NO</td>
+		<td>AVG</td>
+		<td>TD</td>
+		<td>LG</td>
+	</tr>	
+			    
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0023503" data-id="00-0023503" class="nfl-player-link">C. Roby</a></td>
+			<td>3</td>
+			<td>23</td>
+			<td>0</td>
+			<td>25</td>
+		</tr>
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+	
+	<tr class="thd2"> 
+		<td>Punt Returns</td>
+		<td>NO</td>
+		<td>AVG</td>
+		<td>TD</td>
+		<td>LG</td>
+	</tr>
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0024217" data-id="00-0024217" class="nfl-player-link">R. Bush</a></td>
+			<td>3</td>
+			<td>2</td>
+			<td>0</td>
+			<td>6</td>
+		</tr>
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+	
+	
+	
+	<tr class="thd2"> 
+		<td>Defense</td>
+		<td>T-A</td>
+		<td>SCK</td>
+		<td>INT</td>
+		<td>FF</td>
+	</tr>	
+			    
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0022527" data-id="00-0022527" class="nfl-player-link">J. Greer</a></td>
+			<td>5-0</td>
+			<td>0.0</td>
+			<td>0</td>
+			<td>0</td>
+		</tr>
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0022040" data-id="00-0022040" class="nfl-player-link">S. Shanle</a></td>
+			<td>5-2</td>
+			<td>0.0</td>
+			<td>0</td>
+			<td>0</td>
+		</tr>
+    		    			    
+			    
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0025838" data-id="00-0025838" class="nfl-player-link">J. Dunbar</a></td>
+			<td>4-3</td>
+			<td>0.0</td>
+			<td>0</td>
+			<td>0</td>
+		</tr>
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0024258" data-id="00-0024258" class="nfl-player-link">R. Harper</a></td>
+			<td>4-1</td>
+			<td>0.0</td>
+			<td>0</td>
+			<td>0</td>
+		</tr>
+    		    			    
+			    
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0026180" data-id="00-0026180" class="nfl-player-link">T. Porter</a></td>
+			<td>4-0</td>
+			<td>0.0</td>
+			<td>0</td>
+			<td>0</td>
+		</tr>
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0022778" data-id="00-0022778" class="nfl-player-link">J. Vilma</a></td>
+			<td>4-0</td>
+			<td>0.0</td>
+			<td>1</td>
+			<td>0</td>
+		</tr>
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0026147" data-id="00-0026147" class="nfl-player-link">S. Ellis</a></td>
+			<td>3-2</td>
+			<td>1.0</td>
+			<td>0</td>
+			<td>0</td>
+		</tr>
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0025607" data-id="00-0025607" class="nfl-player-link">M. Mitchell</a></td>
+			<td>3-2</td>
+			<td>0.0</td>
+			<td>0</td>
+			<td>0</td>
+		</tr>
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0022753" data-id="00-0022753" class="nfl-player-link">T. Hargrove</a></td>
+			<td>2-0</td>
+			<td>0.0</td>
+			<td>0</td>
+			<td>0</td>
+		</tr>
+    		    			    
+			    
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0023847" data-id="00-0023847" class="nfl-player-link">J. Charleston</a></td>
+			<td>1-0</td>
+			<td>0.0</td>
+			<td>0</td>
+			<td>0</td>
+		</tr>
+    		    			    
+			    
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0022344" data-id="00-0022344" class="nfl-player-link">R. Gay</a></td>
+			<td>1-2</td>
+			<td>0.0</td>
+			<td>0</td>
+			<td>0</td>
+		</tr>
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0026990" data-id="00-0026990" class="nfl-player-link">M. Jenkins</a></td>
+			<td>1-1</td>
+			<td>0.0</td>
+			<td>0</td>
+			<td>0</td>
+		</tr>
+    		    			    
+			    
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0022911" data-id="00-0022911" class="nfl-player-link">W. Smith</a></td>
+			<td>1-1</td>
+			<td>0.0</td>
+			<td>0</td>
+			<td>0</td>
+		</tr>
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0021228" data-id="00-0021228" class="nfl-player-link">A. Brown</a></td>
+			<td>0-1</td>
+			<td>0.0</td>
+			<td>0</td>
+			<td>0</td>
+		</tr>
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+			    
+    	
+   		<tr class="tbdy1"> 
+			<td><a href="/players/profile?id=00-0021960" data-id="00-0021960" class="nfl-player-link">J. Wilkerson</a></td>
+			<td>0-1</td>
+			<td>0.0</td>
+			<td>0</td>
+			<td>0</td>
+		</tr>
+    		    			    
+			    
+    		    			    
+			    
+    		    			    
+	
+	
+</table>
+
+
+	</div>
+
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" class="gc-box-score-table">
+		<tr class="thd2">
+			<td>Total First Downs</td>
+			<td>12</td>
+			<td class="td-spacer"></td>
+			<td>Total First Downs</td>
+			<td>18</td>
+		</tr>
+		<tr class="tbdy1">
+			<td>By Rushing</td>
+			<td>5</td>
+			<td class="td-spacer"></td>
+			<td>By Rushing</td>
+			<td>6</td>			
+		</tr>
+		<tr class="tbdy1">
+			<td>By Passing</td>
+			<td>7</td>
+			<td class="td-spacer"></td>
+			<td>By Passing</td>
+			<td>12</td>
+		</tr>
+		<tr class="tbdy1">
+			<td>By Penalty</td>
+			<td></td>
+			<td class="td-spacer"></td>
+			<td>By Penalty</td>
+			<td></td>
+		</tr>
+		<tr class="thd2">
+			<td>Third Down Efficiency</td>
+			<td>5/13&nbsp;-&nbsp;38%</td>
+			<td class="td-spacer"></td>
+			<td>Third Down Efficiency</td>
+			<td>3/11&nbsp;-&nbsp;27%</td>			
+		</tr>
+		<tr class="thd2">
+			<td>Fourth Down Efficiency</td>
+			<td>0/0&nbsp;-&nbsp;0%</td>
+			<td class="td-spacer"></td>
+			<td>Fourth Down Efficiency</td>
+			<td>0/0&nbsp;-&nbsp;0%</td>			
+		</tr>
+		<tr class="thd2">
+			<td>Total Net Yards</td>
+			<td>253</td>
+			<td class="td-spacer"></td>
+			<td>Total Net Yards</td>
+			<td>308</td>
+		</tr>
+		<tr class="tbdy1">
+			<td>Total Rushing/Passing Plays (includes Sacks)</td>
+			<td>
+				51
+			</td>
+			<td class="td-spacer"></td>
+			<td>Total Rushing/Passing Plays (includes Sacks)</td>
+			<td>
+				62
+			</td>
+
+		</tr>
+		<tr class="tbdy1">
+			<td>Average Gain per Offensive Play</td>
+			<td>5.0</td>
+			<td class="td-spacer"></td>
+			<td>Average Gain per Offensive Play</td>
+			<td>5.0</td>
+		</tr>
+		<tr class="thd2">
+			<td>Net Yards Rushing</td> 
+			<td>91</td>
+			<td class="td-spacer"></td>
+			<td>Net Yards Rushing</td> 
+			<td>79</td>
+		</tr>
+		<tr class="tbdy1">
+			<td>Total Rushing Plays</td>
+			<td>23</td>
+			<td class="td-spacer"></td>
+			<td>Total Rushing Plays</td>
+			<td>25</td>
+		</tr>
+		<tr class="tbdy1">
+			<td>Average Gain per Rushing Play</td>
+			<td>4.0</td>
+			<td class="td-spacer"></td>
+			<td>Average Gain per Rushing Play</td>
+			<td>3.2</td>
+		</tr>
+		<tr class="tbdy1">
+			<td>Tackled for a Loss (Number-Yards)</td>
+			<td>2--2</td>
+			<td class="td-spacer"></td>
+			<td>Tackled for a Loss (Number-Yards)</td>
+			<td>3--6</td>		
+		</tr>
+		<tr class="thd2">
+			<td>Net Yards Passing</td>
+			<td>162</td>
+			<td class="td-spacer"></td>
+			<td>Net Yards Passing</td>
+			<td>229</td>			
+		</tr>
+		<tr class="tbdy1">
+			<td>Times Sacked (Number-Yards)</td>
+			<td>1 - 9</td>
+			<td class="td-spacer"></td>
+			<td>Times Sacked (Number-Yards)</td>
+			<td>1 - 8</td>
+		</tr>
+		<tr class="tbdy1">
+			<td>Gross Yards Passing</td>
+			<td>171</td>
+			<td class="td-spacer"></td>	
+			<td>Gross Yards Passing</td>
+			<td>237</td>
+		</tr>
+		<tr class="thd2">
+			<td>Pass Comp-Att-Int</td>
+			<td>15&nbsp;-&nbsp;27&nbsp;-&nbsp;1</td>
+			<td class="td-spacer"></td>
+			<td>Pass Comp-Att-Int</td>
+			<td>27&nbsp;-&nbsp;36&nbsp;-&nbsp;0</td>
+		</tr>
+		<tr class="tbdy1">
+			<td>Average Gain per Passing Play (includes	Sacks)</td>
+			<td>5.8</td>
+			<td class="td-spacer"></td>
+			<td>Average Gain per Passing Play (includes	Sacks)</td>
+			<td>6.2</td>
+		</tr>
+		<tr class="thd2">
+			<td>Kickoffs (Number-In End Zone-Touchbacks)</td>
+			<td>3&nbsp;-&nbsp;1&nbsp;-&nbsp;0</td>
+			<td class="td-spacer"></td>
+			<td>Kickoffs (Number-In End Zone-Touchbacks)</td>
+			<td>3&nbsp;-&nbsp;3&nbsp;-&nbsp;1</td>
+		</tr>
+		<tr class="thd2">
+			<td>Punts (Number-Average)</td>
+			<td>7&nbsp;-&nbsp;44.3</td>
+			<td class="td-spacer"></td>
+			<td>Punts (Number-Average)</td>
+			<td>5&nbsp;-&nbsp;43.2</td>
+
+		</tr>
+		<tr class="tbdy1">
+			<td>Blocked</td>
+			<td>0</td>
+			<td class="td-spacer"></td>
+			<td>Blocked</td>
+			<td>0</td>
+		</tr>
+		<tr class="tbdy1">
+			<td>Net Punting Average</td>
+			<td>43.3</td>
+			<td class="td-spacer"></td>
+			<td>Net Punting Average</td>
+			<td>42.8</td>
+		</tr>
+		<tr class="thd2">
+			<td>FGs Blocked - PATs Blocked</td>
+			<td>0&nbsp;-&nbsp;1</td>
+			<td class="td-spacer"></td>
+			<td>FGs Blocked - PATs Blocked</td>
+			<td>0&nbsp;-&nbsp;0</td>
+		</tr>
+		<tr class="thd2">
+			<td>Total Return Yardage (excludes Kickoffs)</td>
+			<td>2</td>
+			<td class="td-spacer"></td>
+			<td>Total Return Yardage (excludes Kickoffs)</td>
+			<td>12</td>
+		</tr>
+		<tr class="tbdy1">
+			<td>Punt Returns (Number-Yards)</td>
+			<td>2&nbsp;-&nbsp;2</td>
+			<td class="td-spacer"></td>
+			<td>Punt Returns (Number-Yards)</td>
+			<td>3&nbsp;-&nbsp;7</td>
+		</tr>
+		<tr class="tbdy1">
+			<td>Kickoff Returns (Number-Yards)</td>
+			<td>2&nbsp;-&nbsp;41</td>
+			<td class="td-spacer"></td>
+			<td>Kickoff Returns (Number-Yards)</td>
+			<td>3&nbsp;-&nbsp;70</td>
+		</tr>
+		<tr class="tbdy1">
+			<td>Interception Returns (Number-Yards)</td>
+			<td>0&nbsp;-&nbsp;0</td>
+			<td class="td-spacer"></td>
+			<td>Interception Returns (Number-Yards)</td>
+			<td>1&nbsp;-&nbsp;5</td>
+		</tr>
+		<tr class="thd2">
+			<td>Penalties (Number-Yards)</td>
+			<td>6&nbsp;-&nbsp;60</td>
+			<td class="td-spacer"></td>
+			<td>Penalties (Number-Yards)</td>
+			<td>3&nbsp;-&nbsp;20</td>
+		</tr>
+		<tr class="thd2">
+			<td>Fumbles (Number-Lost)</td>
+			<td>1&nbsp;-&nbsp;0</td>
+			<td class="td-spacer"></td>
+			<td>Fumbles (Number-Lost)</td>
+			<td>1&nbsp;-&nbsp;0</td>
+		</tr>
+		<tr class="thd2">
+			<td>Touchdowns</td>
+			<td>1</td>
+			<td class="td-spacer"></td>
+			<td>Touchdowns</td>
+			<td>2</td>
+		</tr>
+		<tr class="tbdy1">
+			<td>Rushing</td>
+			<td>0</td>
+			<td class="td-spacer"></td>
+			<td>Rushing</td>
+			<td>1</td>
+		</tr>
+		<tr class="tbdy1">
+			<td>Passing</td>
+			<td>1</td>
+			<td class="td-spacer"></td>
+			<td>Passing</td>
+			<td>1</td>
+		</tr>
+		<tr class="tbdy1">
+			<td>Interceptions</td>
+			<td>0</td>
+			<td class="td-spacer"></td>
+			<td>Interceptions</td>
+			<td>0</td>
+		</tr>
+		<tr class="tbdy1">
+			<td>Kickoff Returns</td>
+			<td>0</td>
+			<td class="td-spacer"></td>
+			<td>Kickoff Returns</td>
+			<td>0</td>
+		</tr>
+		<tr class="tbdy1">
+			<td>Fumble Returns</td>
+			<td>0</td>
+			<td class="td-spacer"></td>
+			<td>Fumble Returns</td>
+			<td>0</td>
+		</tr>
+		<tr class="tbdy1">
+			<td>Punt Returns</td>
+			<td>0</td>
+			<td class="td-spacer"></td>
+			<td>Punt Returns</td>
+			<td>0</td>
+		</tr>
+		<tr class="thd2">
+			<td>Extra Points (Made-Attempted)</td>
+			<td>1&nbsp;-&nbsp;1</td>
+			<td class="td-spacer"></td>
+			<td>Extra Points (Made-Attempted)</td>
+			<td>2&nbsp;-&nbsp;2</td>
+		</tr>
+		<tr class="tbdy1">
+			<td>Kicking (Made-Attempted)</td>
+			<td>0&nbsp;-&nbsp;1</td>
+			<td class="td-spacer"></td>
+			<td>Kicking (Made-Attempted)</td>
+			<td>2&nbsp;-&nbsp;2</td>
+		</tr>
+		<tr class="tbdy1">
+			<td>Two Point Conversions (Made-Attempted)</td>
+			<td>0&nbsp;-&nbsp;0</td>
+			<td class="td-spacer"></td>
+			<td>Two Point Conversions (Made-Attempted)</td>
+			<td>0&nbsp;-&nbsp;0</td>
+		</tr>
+		<tr class="thd2">
+			<td>Field Goals (Made-Attempted)</td>
+			<td>1&nbsp;-&nbsp;1</td>
+			<td class="td-spacer"></td>
+			<td>Field Goals (Made-Attempted)</td>
+			<td>0&nbsp;-&nbsp;2</td>
+		</tr>
+		<tr class="thd2">
+			<td>Red Zone Efficiency</td>
+			<td>0/0&nbsp;-&nbsp;0%</td>
+			<td class="td-spacer"></td>
+			<td>Red Zone Efficiency</td>
+			<td>1/2&nbsp;-&nbsp;50%</td>
+		</tr>
+		<tr class="thd2">
+			<td>Goal To Go Efficiency</td>
+			<td>0/0&nbsp;-&nbsp;0%</td>
+			<td class="td-spacer"></td>
+			<td>Goal To Go Efficiency</td>
+			<td>1/1&nbsp;-&nbsp;100%</td>
+		</tr>
+		<tr class="thd2">
+			<td>Safeties</td>
+			<td>0</td>
+			<td class="td-spacer"></td>
+			<td>Safeties</td>
+			<td>0</td>
+		</tr>
+		<tr class="thd2">
+			<td>Final Score</td>
+			<td>9</td>
+			<td class="td-spacer"></td>
+			<td>Final Score</td>
+			<td>14</td>
+		</tr>
+		<tr class="thd2">
+			<td>Time of Possession</td>
+			<td>26:17</td>
+			<td class="td-spacer"></td>
+			<td>Time of Possession</td>
+			<td>33:43</td>
+		</tr>
+	</table>
+</div>
+
+
+
+
+
+
+
+
+
+	</div>
+	
+
+	
+		<div class="search-ads" id="gc-boxscore-search-ads"></div>
+		<script type="text/javascript">/*<![CDATA[*/
+(function () {
+	var id     = "gc-boxscore-search-ads", el,
+	    url    = "/widget/ads/search-ads?placementId=1488351&pid=1956775&ps=-1&width=518&height=200",
+	    iframe = '<iframe id="gc-boxscore-search-ads"' +
+				    'frameborder="0" ' +
+				    'scrolling="no" ' +
+				    'width="518" ' +
+				    'height="200"></iframe>';
+	
+	if (nfl.constants.SEARCH_ADS) {
+		YUI().use("node", function (Y) {
+			el = Y.one('#' + id);
+			el.setContent(iframe);
+			// do this in two steps to prevent Firefox bug
+			setTimeout(function () {
+				el.one('iframe').setAttribute('src', url);
+			}, 50);
+		});
+	}
+}());
+		/*]]>*/</script>
+	
+	
+
+
+</div>
+<div class="col span-4 last-col">
+	<div id="gc-scoring-summary" class="widget">
+		<h2 class="replaced">Scoring Summary<span></span></h2>
+		<table id="gc-scoring-summary-data" width="100%">
+			
+				<tr class="thd2">
+					<td colspan="3">
+						
+							1st Quarter
+							
+							
+							
+							
+						 
+					</td>
+				</tr>
+				
+					<tr class="tbdy1 ">
+						<td valign="top"><a href="/teams/profile?team=NO"><img src="http://img.static.nfl.com/static/site/3.5/img/logos/20x20/NO.png" height="20" widht="20" alt="NO" /></a></td>
+						<td valign="top"><strong>TD</strong></td>
+						<td><a href="/players/profile?id=00-0022929" >D.Henderson</a> 29 yd. pass from <a href="/players/profile?id=00-0020531" >D.Brees</a> (<a href="/players/profile?id=00-0025824" >G.Hartley</a> kick) (5-77, 2:04)
+						<br/><a href="#tab:watch/contentId:09000d5d81a65edf" class="gc-watch-highlight-link"><span>WATCH HIGHLIGHT</span></a>
+					</tr>
+				
+			
+				<tr class="thd2">
+					<td colspan="3">
+						
+							
+							2nd Quarter
+							
+							
+							
+						 
+					</td>
+				</tr>
+				
+					<tr class="tbdy1 ">
+						<td valign="top"><a href="/teams/profile?team=MIN"><img src="http://img.static.nfl.com/static/site/3.5/img/logos/20x20/MIN.png" height="20" widht="20" alt="MIN" /></a></td>
+						<td valign="top"><strong>FG</strong></td>
+						<td><a href="/players/profile?id=00-0010072" >R.Longwell</a> 41 yd. Field Goal (16-66, 9:25)
+						<br/><a href="#tab:watch/contentId:09000d5d81a6700a" class="gc-watch-highlight-link"><span>WATCH HIGHLIGHT</span></a>
+					</tr>
+				
+					<tr class="tbdy1 ">
+						<td valign="top"><a href="/teams/profile?team=MIN"><img src="http://img.static.nfl.com/static/site/3.5/img/logos/20x20/MIN.png" height="20" widht="20" alt="MIN" /></a></td>
+						<td valign="top"><strong>TD</strong></td>
+						<td><a href="/players/profile?id=00-0022054" >V.Shiancoe</a> 20 yd. pass from <a href="/players/profile?id=00-0005106" >B.Favre</a> (kick blocked) (5-64, 0:45)
+						<br/><a href="#tab:watch/contentId:09000d5d81a66a9d" class="gc-watch-highlight-link"><span>WATCH HIGHLIGHT</span></a>
+					</tr>
+				
+			
+				<tr class="thd2">
+					<td colspan="3">
+						
+							
+							
+							3rd Quarter
+							
+							
+						 
+					</td>
+				</tr>
+				
+					<tr class="tbdy1 ">
+						<td valign="top"><a href="/teams/profile?team=NO"><img src="http://img.static.nfl.com/static/site/3.5/img/logos/20x20/NO.png" height="20" widht="20" alt="NO" /></a></td>
+						<td valign="top"><strong>TD</strong></td>
+						<td><a href="/players/profile?id=00-0024813" >P.Thomas</a> 1 yd. run (G.Hartley kick) (11-74, 6:43)
+						<br/><a href="#tab:watch/contentId:09000d5d81a66f64" class="gc-watch-highlight-link"><span>WATCH HIGHLIGHT</span></a>
+					</tr>
+				
+			
+				<tr class="thd2">
+					<td colspan="3">
+						
+							
+							
+							
+							4th Quarter
+							
+						 
+					</td>
+				</tr>
+				
+			
+		</table>
+	</div>
+	<br clear="all" />
+	
+<div class="gc-promo">
+	<a href="https://preseason.nfl.com/nflpl/secure/packages?icampaign=PSL_Analyze">
+	<img src="http://static.nfl.com/static/content/catch_all/nfl_image/nfl_Pre_254x150.png" alt="NFL Preseason Live" width="254" height="150" border="0"></a>
+</div>
+	
+<div class="gc-promo">
+	<a href=" https://gamerewind.nfl.com/nflgr/secure/registerform?icampaign=GC_Analyze_Season_GR">
+	<img src="http://static.nfl.com/static/content/catch_all/nfl_image/nfl_Rewind_254x150_post.png" "Start" alt="NFL Game Rewind" width="254" height="150" border="0"></a>
+		
+	<!--<a href="http://www.nflshop.com/entry.point?target=z&source=NFL_254X150_HolidayGeneric_12062010">
+	<img src="http://static.nfl.com/static/content/catch_all/nfl_image/Holiday-254x150.jpeg" "Start" alt="NFL Shop" width="254" height="150" border="0"></a>-->
+</div>
+</div>
+<script type="text/javascript">
+	/* do player name cleanup */
+	nfl.GameCenter.Utility.delinkNonRosterPlayers( $('analyze-channel-content') );
+</script>
+<script type="text/javascript"> document.fire("tab:content:loaded",{path:'cat-post-boxscore',id:'analyze'});</script>
