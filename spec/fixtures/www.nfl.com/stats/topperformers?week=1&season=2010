@@ -1,0 +1,3673 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[if lt IE 7 ]> <html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" class="ie ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" class="ie ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" class="ie ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" class="ie ie9"> <![endif]-->   
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"> <!--<![endif]-->
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+	<title>NFL - Top Performances: Week 1</title>
+	<!-- BEGIN DECORATOR redesign/global-alt -->
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+	<meta name="viewport" content="width=1009" />
+	<link rel="shortcut icon" href="http://img.static.nfl.com/static/site/3.5/img/favicon.png" type="image/png" />
+	<link rel="stylesheet" href="http://css.static.nfl.com/static/site/3.5/styles/redesign/global.css" type="text/css" />
+	<script type="text/javascript" src="http://scripts.static.nfl.com/static/site/3.5/scripts/third-party/modernizr-1.7.min.js"></script>
+	<script src="http://scripts.static.nfl.com/static/site/3.5/scripts/lib/prototype-1.6.0.3.js" type="text/javascript"></script>
+	<script src="http://scripts.static.nfl.com/static/site/3.5/scripts/scriptaculous-1.8.1/scriptaculous.js?load=effects" type="text/javascript"></script>
+	<script src="http://scripts.static.nfl.com/static/site/3.5/scripts/lib/swfobject.js" type="text/javascript"></script>
+	
+	<!-- BEGIN INCLUDE global/nfl-constants -->
+	<script type="text/javascript" src="http://www.nfl.com/yui/3.3.0/build/yui/yui-min.js"></script>
+	<script type="text/javascript" src="http://www.nfl.com/widget/partner/constants"></script>
+	<script type="text/javascript" src="http://scripts.static.nfl.com/static/site/3.5/scripts/global/dependencies.js"></script>
+	<!-- END INCLUDE global/nfl-constants -->
+	
+
+	<script src="http://scripts.static.nfl.com/static/site/3.5/scripts/analytics/s_code.js" type="text/javascript"></script><script src="http://scripts.static.nfl.com/static/site/3.5/scripts/analytics/s_code_common.js" type="text/javascript"></script>
+	<script src="http://scripts.static.nfl.com/static/site/3.5/scripts/redesign/nfl.global.js" type="text/javascript"></script>
+	<script src="http://scripts.static.nfl.com/static/site/3.5/scripts/redesign/polls.js" type="text/javascript"></script>
+	<script src="http://connect.facebook.net/en_US/all.js" type="text/javascript"></script>
+	<meta name="page" content="stats/topperformers" />
+
+	<meta id = 'week' content = '1' />
+	<meta id = 'season' content = '2010' />
+	<link rel="stylesheet" href="http://css.static.nfl.com/static/site/3.5/styles/redesign/deprecated.css" type="text/css" />
+	<link rel="stylesheet" href="http://css.static.nfl.com/static/site/3.5/styles/redesign/data-tables.css" type="text/css" />
+	<link href="http://css.static.nfl.com/static/site/3.5/styles/bundle_statistics.css" rel="stylesheet" type="text/css">
+	<script src="http://scripts.static.nfl.com/static/site/3.5/scripts/tables.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	//set the row styles of the search results table
+	document.observe('dom:loaded', function () {
+		var a = activateRowHighlighting, $ = document.getElementById;
+	    a($("passer"));
+	    a($("rusher"));
+	    a($("receiver"));
+	    a($("kicker"));
+	});
+	</script>
+	<!-- THE BROWSER PANEL INFO IS AT THE DECORATOR LEVEL 2010/global -->
+	
+
+
+
+
+	<!-- THE BROWSER PANEL INFO IS AT THE DECORATOR LEVEL 2010/global -->
+</head>
+<body id="com-nfl" class="">
+	<div id="fb-root"></div>
+	<script type="text/javascript"> FB.init({appId: nfl.constants.FACEBOOK_APP_ID,status:true,cookie:true,xfbml:true});</script>
+	<div id="accessible-jump-link"><a href="#doc-wrap">Jump to content</a></div>
+	<div style="display:none">
+<script type="text/javascript">
+var loggingOff = true;
+var noOmnitureCall = false;
+//applyFireBugX();
+isPageTypeError();
+//moved all the functions into s_code_common.js until we can overhaul this atrocity
+
+/**
+* s_analytics.trackLinkClick will send a request to omniture indicating a minor level page event occurred
+* @param {String} _propNum is a number provided by Marketing.  ex, prop1, prop14, prop35, etc.
+* @param {String} _propValue is the value to place within the prop.  ex, Avatar, Friends_alerts, Message_Alerts, Global_Alerts, etc.
+* TO DO: update this function so it accepts multiple prop values.  
+*/
+s_analytics.trackLinkClick = function(_propNum, _propValue) {
+	var s_analytics = s_gi(s_account),
+	    propName    = 'prop' + _propNum;
+	s_analytics.linkTrackEvents = "";
+	s_analytics.linkTrackVars = "prop" + _propNum;
+	s_analytics[propName] = _propValue;
+	s_analytics.events = '';
+	s_analytics.tl(true, 'o', _propValue);
+	// should empty out the track properties after the call is made.  this is a directive from omniture.
+	s_analytics.linkTrackEvents = "";
+	s_analytics.linkTrackVars = "";
+}
+
+/* analytics_file: stats_topperformers.js */
+function initAnalytics() { 
+	setChannel('stats');
+	
+	var	week = document.getElementById('week').content.toLowerCase();
+	var	season = document.getElementById('season').content.toLowerCase(); 
+	var prefix = 'nfl:stats:topperformers';
+	
+	if(isVarEmpty(week)) { 
+		setPageName(prefix + ':landing');
+  
+	} else { 
+		setPageName(prefix + ':' + season + ':'  + getWeekById(week));  
+	
+	} 
+
+	setContentSubSection('');
+	setHierarchy('nfl:stats|topperformers');
+		
+} 
+
+
+
+function applyFooter() {  
+	if (noOmnitureCall == true) return;
+	/******* ****** DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+	try { 
+		var s_code = s_analytics.t();
+		if (s_code) document.write(s_code);
+	} catch(e) { 
+		console.warn(e);
+	}
+}
+</script>
+</div>
+	<div id="hd" class="global-alt">
+		
+		
+<!-- BEGIN INCLUDE headers/global-alt -->
+
+<!-- BEGIN ECM widgets/navigation/hd-micro-nav-list -->
+<div id="hd-micro-nav-list">
+	<ul class="left">
+		<!-- <li id="link-pink"><a style="color:#e22882" href="http://www.nfl.com/pink">Why Pink?</a></li> -->
+	<!--	<li id="link-ballot"><a href="http://www.nfl.com/probowl/ballot?icampaign=PB_topheader">Pro Bowl Ballot</a></li> -->
+		<li id="link-mobile"><a href="http://www.nfl.com/mobile">Mobile</a></li>
+		<li id="link-nflatino"><a href="http://nfl.univision.com/" target="_blank">En Español</a></li>
+	</ul>
+	<ul class="right">
+		<li id="link-fans">
+			<h3>
+				<a href="http://www.nfl.com/fans">Fans</a>
+			</h3>
+			<ul>
+				<li><a href="http://www.nfl.com/fans?icampaign=Nav_SM_Fans">Community Home</a></li>
+				<li><a href="http://www.nfl.com/fans/forums?icampaign=Nav_SM_Forums">Forums</a></li>
+				<li><a href="http://www.facebook.com/nfl" target="_blank">NFL on Facebook</a></li>
+				<li><a href="http://twitter.com/nfl" target="_blank">NFL on Twitter</a></li>				
+			</ul>
+		</li>
+		<li id="sign-in-links"></li>
+	</ul>
+</div>
+<!-- END ECM widgets/navigation/hd-micro-nav-list -->
+
+<!-- BEGIN INCLUDE teamlogos -->
+<div id="tl">
+	<h2>NFL Team Sites</h2>
+	<ul class="xoxo">
+		<li><h3><a class="AFC" href="/teams">AFC <span></span></a></h3>
+			<ul>
+				<li>
+					<h4>AFC-East</h4>
+					<ul>
+						<li><a class="BUF" target="_blank"  href="http://www.buffalobills.com/">Buffalo Bills <span></span></a></li>
+						<li><a class="MIA" target="_blank"  href="http://www.miamidolphins.com/">Miami Dolphins <span></span></a></li>
+						<li><a class="NE" target="_blank"  href="http://www.patriots.com/">New England Patriots <span></span></a></li>
+						<li><a class="NYJ" target="_blank"  href="http://www.newyorkjets.com/">New York Jets <span></span></a></li>
+					</ul>
+				</li>
+				<li>
+					<h4>AFC-North</h4>
+					<ul>
+						<li><a class="BAL" target="_blank"  href="http://www.baltimoreravens.com/">Baltimore Ravens <span></span></a></li>
+						<li><a class="CIN" target="_blank"  href="http://www.bengals.com/">Cincinnati Bengals <span></span></a></li>
+						<li><a class="CLE" target="_blank"  href="http://www.clevelandbrowns.com/">Cleveland Browns <span></span></a></li>
+						<li><a class="PIT" target="_blank"  href="http://www.steelers.com/">Pittsburgh Steelers <span></span></a></li>
+					</ul>
+				</li>
+				<li>
+					<h4>AFC-South</h4>
+					<ul>
+						<li><a class="HOU" target="_blank"  href="http://www.houstontexans.com/">Houston Texans <span></span></a></li>
+						<li><a class="IND" target="_blank"  href="http://www.colts.com/">Indianapolis Colts <span></span></a></li>
+						<li><a class="JAC" target="_blank"  href="http://www.jaguars.com/">Jacksonville Jaguars <span></span></a></li>
+						<li><a class="TEN" target="_blank"  href="http://www.titansonline.com/">Tennessee Titans <span></span></a></li>
+					</ul>
+				</li>
+				<li>
+					<h4>AFC-West</h4>
+					<ul>
+						<li><a class="DEN" target="_blank"  href="http://www.denverbroncos.com/">Denver Broncos <span></span></a></li>
+						<li><a class="KC" target="_blank"  href="http://www.kcchiefs.com/">Kansas City Chiefs <span></span></a></li>
+						<li><a class="OAK" target="_blank"  href="http://www.raiders.com/">Oakland Raiders <span></span></a></li>
+						<li><a class="SD" target="_blank"  href="http://www.chargers.com/">San Diego Chargers <span></span></a></li>
+					</ul>
+				</li>
+			</ul>
+		</li>
+		<li><h3><a class="NFC"  href="/teams">NFC <span></span></a></h3>
+			<ul>
+				<li>
+					<h4>NFC-East</h4>
+					<ul>
+						<li><a class="DAL" target="_blank"  href="http://www.dallascowboys.com/">Dallas Cowboys <span></span></a></li>
+						<li><a class="NYG" target="_blank"  href="http://www.giants.com/">New York Giants <span></span></a></li>
+						<li><a class="PHI" target="_blank"  href="http://www.philadelphiaeagles.com/">Philadelphia Eagles <span></span></a></li>
+						<li><a class="WAS" target="_blank"  href="http://www.redskins.com/">Washington Redskins <span></span></a></li>
+					</ul>
+				</li>
+				<li>
+					<h4>NFC-North</h4>
+					<ul>
+						<li><a class="CHI" target="_blank"  href="http://www.chicagobears.com/">Chicago Bears <span></span></a></li>
+						<li><a class="DET" target="_blank"  href="http://www.detroitlions.com/">Detroit Lions <span></span></a></li>
+						<li><a class="GB" target="_blank"  href="http://www.packers.com/">Green Bay Packers <span></span></a></li>
+						<li><a class="MIN" target="_blank"  href="http://www.vikings.com/">Minnesota Vikings <span></span></a></li>
+					</ul>
+				</li>
+				<li>
+					<h4>NFC-Souch</h4>
+					<ul>
+						<li><a class="ATL" target="_blank"  href="http://www.atlantafalcons.com/">Atlanta Falcons <span></span></a></li>
+						<li><a class="CAR" target="_blank"  href="http://www.panthers.com/">Carolina Panthers <span></span></a></li>
+						<li><a class="NO" target="_blank"  href="http://www.neworleanssaints.com/">New Orleans Saints <span></span></a></li>
+						<li><a class="TB" target="_blank"  href="http://www.buccaneers.com/">Tampa Bay Buccaneers <span></span></a></li>
+					</ul>
+				</li>
+				<li>
+					<h4>NFC-West</h4>
+					<ul>
+						<li><a class="ARI" target="_blank"  href="http://www.azcardinals.com/">Arizona Cardinals <span></span></a></li>
+						<li><a class="STL" target="_blank"  href="http://www.stlouisrams.com/">St. Louis Rams <span></span></a></li>
+						<li><a class="SF" target="_blank"  href="http://www.sf49ers.com/">San Francisco 49'ers <span></span></a></li>
+						<li><a class="SEA" target="_blank"  href="http://www.seahawks.com/">Seattle Seahawks <span></span></a></li>
+					</ul>
+				</li>
+			</ul>
+		</li>
+	</ul>
+</div>
+<!-- END INCLUDE teamlogos -->
+
+<div id="header-content">
+	<form class="yui3-searchbox-loading" id="hd-search" action="http://search.nfl.com/search" method="get">
+		<div>
+			<label id="hd-search-label" for="hd-search-input">Search NFL.com</label>
+			<input type="text" name="query" id="hd-search-input" maxlength="50" />
+			<button type="submit">
+				 <img alt="search" src="http://img.static.nfl.com/static/site/3.5/img/home-2010/search.png" />
+			</button>
+		</div>
+	</form>
+	<script>nfl.global.InitializeSearch({ input: "hd-search-input", label: "hd-search-label" });</script>
+	<div id="header-logo">
+		<a href="http://www.nfl.com/"><img alt="NFL Logo link to home page" src="http://img.static.nfl.com/static/site/3.5/img/global/alt/large-logo.png" /></a>
+	</div>
+	<!-- navigation goes here -->
+	
+<!-- BEGIN INCLUDE navigation/default-alt -->
+
+
+<div id="alt-nv-main">
+	<ul class="alt-nv-groups">
+		<li id="alt-nv-group-news" class="alt-nv-group">
+			<h3><a href="http://www.nfl.com/news" onclick="s_objectID='Nav_News_Main'">News</a></h3>
+			<div class="channel-content">
+				<div class="alt-nv-content-wrapper">
+					<div class="video-nv-content bottom alt-nv-main-watermark-text">News</div>
+					<div class="channels">
+						<ul>
+							<li><a href="http://blogs.nfl.com/" onclick="s_objectID='Nav_News_Blogs'">Blogs</a></li>
+						<!--	<li><a href="http://blogblitz.nfl.com/" onclick="s_objectID='Nav_News_Blog_Blitz'">Blog Blitz</a></li> -->
+							<li><a href="http://www.nfl.com/injuries" onclick="s_objectID='Nav_News_Injuries'">Injuries</a></li>
+							<li><a href="http://www.nfl.com/transactions" onclick="s_objectID='Nav_News_Transactions'">Transactions</a></li>
+							<li><a href="http://www.nfl.com/photos" onclick="s_objectID='Nav_News_Photos'">Photos</a></li>
+						</ul>
+						<ul>
+							<li class="subChoiceMarker"><h4>Events:</h4></li>
+							<li><a href="http://www.nfl.com/superbowl/46" onclick="s_objectID='Nav_Events_Super_Bowl'">Super Bowl</a></li>
+							<li><a href="http://www.nfl.com/probowl" onclick="s_objectID='Nav_Events_Pro_Bowl'">Pro Bowl</a></li>
+							<li><a href="http://www.nfl.com/combine" onclick="s_objectID='Nav_Events_Combine'">Combine</a></li>
+						</ul>
+						<ul>
+							<li><a href="http://www.nfl.com/draft/2012" onclick="s_objectID='Nav_Events_Draft'">Draft</a></li>
+							<li><a href="http://www.nfl.com/trainingcamp" onclick="s_objectID='Nav_Events_Training_Camp'">Training Camp</a></li>
+							<li><a href="http://www.profootballhof.com/" onclick="s_objectID='Nav_Events_Hall_of_Fame'"target="_blank">Hall of Fame</a></li>
+							<li><a href="http://www.nfl.com/freeagency" onclick="s_objectID='Nav_Events_Free_Agency'">Free Agency</a></li>
+						</ul>
+						<ul>
+							<li><a href="http://www.nfl.com/kickoff" onclick="s_objectID='Nav_Events_Kickoff'">Kickoff</a></li>
+							<li><a href="http://www.nfl.com/international" onclick="s_objectID='Nav_Events_International'">International</a></li>
+							<li><a href="http://www.nfl.com/thanksgiving" onclick="s_objectID='Nav_Events_Thanksgiving'">Thanksgiving</a></li>
+							<li><a href="http://www.nfl.com/seniorbowl" onclick="s_objectID='Nav_Events_Senior_Bowl'">Senior Bowl</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</li>
+		<li id="alt-nv-group-videos" class="alt-nv-group">
+			<h3><a href="http://www.nfl.com/videos" onclick="s_objectID='Nav_Videos_Main'">Video</a></h3>
+			<div class="channel-content">
+				<div class="alt-nv-content-wrapper">
+					<div class="video-nv-content bottom alt-nv-main-watermark-text">Video</div>
+					<div class="channels">
+						<ul>
+							<li><a href="http://www.nfl.com/videos/nfl-game-highlights" onclick="s_objectID='Nav_Videos_Highlights'">Highlights</a></li>
+							<li><a href="http://www.nfl.com/videos/nfl-videos" onclick="s_objectID='Nav_Videos_All_Videos'">All Videos</a></li>
+							<li><a href="http://www.nfl.com/live" onclick="s_objectID='Nav_Videos_Live'">NFL.com/Live</a></li>
+						</ul>
+						<ul>
+							<li><a href="http://www.nfl.com/preseasonlive" onclick="s_objectID='Nav_Videos_PreseasonLive'">Preseason Live</a></li>
+							<li><a href="http://www.nfl.com/gamepass" onclick="s_objectID='Nav_NFL_Anytime_Game_Pass'">Game Pass</a></li>
+							<li><a href="http://www.nfl.com/gamerewind" onclick="s_objectID='Nav_NFL_Anytime_Game_Rewind'">Game Rewind</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</li>
+		<li id="alt-nv-group-teams" class="alt-nv-group">
+			<h3><a href="http://www.nfl.com/teams" onclick="s_objectID='Nav_Teams_Main'">Teams</a></h3>
+			<div class="channel-content">
+				<div class="alt-nv-content-wrapper">
+					<div class="video-nv-content bottom alt-nv-main-watermark-text">Teams</div>
+					<div class="channels">
+						<ul>
+							<li><a href="http://www.nfl.com/teams/arizonacardinals/profile?team=ARI" onclick="s_objectID='Nav_Teams_ARI'">Arizona Cardinals</a></li>
+							<li><a href="http://www.nfl.com/teams/atlantafalcons/profile?team=ATL" onclick="s_objectID='Nav_Teams_ATL'">Atlanta Falcons</a></li>							
+							<li><a href="http://www.nfl.com/teams/baltimoreravens/profile?team=BAL" onclick="s_objectID='Nav_Teams_BAL'">Baltimore Ravens</a></li>
+							<li><a href="http://www.nfl.com/teams/buffalobills/profile?team=BUF" onclick="s_objectID='Nav_Teams_BUF'">Buffalo Bills</a></li>
+							<li><a href="http://www.nfl.com/teams/carolinapanthers/profile?team=CAR" onclick="s_objectID='Nav_Teams_CAR'">Carolina Panthers</a></li>
+							<li><a href="http://www.nfl.com/teams/chicagobears/profile?team=CHI" onclick="s_objectID='Nav_Teams_CHI'">Chicago Bears</a></li>
+							<li><a href="http://www.nfl.com/teams/cincinnatibengals/profile?team=CIN" onclick="s_objectID='Nav_Teams_CIN'">Cincinnati Bengals</a></li>
+							<li><a href="http://www.nfl.com/teams/clevelandbrowns/profile?team=CLE" onclick="s_objectID='Nav_Teams_CLE'">Cleveland Browns</a></li>
+							<li><a href="http://www.nfl.com/teams/dallascowboys/profile?team=DAL" onclick="s_objectID='Nav_Teams_DAL'">Dallas Cowboys</a></li>
+							<li><a href="http://www.nfl.com/teams/denverbroncos/profile?team=DEN" onclick="s_objectID='Nav_Teams_DEN'">Denver Broncos</a></li>
+							<li><a href="http://www.nfl.com/teams/detroitlions/profile?team=DET" onclick="s_objectID='Nav_Teams_DET'">Detroit Lions</a></li>
+						</ul>
+						<ul>
+							<li><a href="http://www.nfl.com/teams/greenbaypackers/profile?team=GB" onclick="s_objectID='Nav_Teams_GB'">Green Bay Packers</a></li>
+							<li><a href="http://www.nfl.com/teams/houstontexans/profile?team=HOU" onclick="s_objectID='Nav_Teams_HOU'">Houston Texans</a></li>
+							<li><a href="http://www.nfl.com/teams/indianapoliscolts/profile?team=IND" onclick="s_objectID='Nav_Teams_IND'">Indianapolis Colts</a></li>
+							<li><a href="http://www.nfl.com/teams/jacksonvillejaguars/profile?team=JAC" onclick="s_objectID='Nav_Teams_JAC'">Jacksonville Jaguars</a></li>
+				 			<li><a href="http://www.nfl.com/teams/kansascitychiefs/profile?team=KC" onclick="s_objectID='Nav_Teams_KC'">Kansas City Chiefs</a></li>
+				 			<li><a href="http://www.nfl.com/teams/miamidolphins/profile?team=MIA" onclick="s_objectID='Nav_Teams_MIA'">Miami Dolphins</a></li>
+							<li><a href="http://www.nfl.com/teams/minnesotavikings/profile?team=MIN" onclick="s_objectID='Nav_Teams_MIN'">Minnesota Vikings</a></li>
+							<li><a href="http://www.nfl.com/teams/newenglandpatriots/profile?team=NE" onclick="s_objectID='Nav_Teams_NE'">New England Patriots</a></li>
+							<li><a href="http://www.nfl.com/teams/neworleanssaints/profile?team=NO" onclick="s_objectID='Nav_Teams_NO'">New Orleans Saints</a></li>
+							<li><a href="http://www.nfl.com/teams/newyorkgiants/profile?team=NYG" onclick="s_objectID='Nav_Teams_NYG'">New York Giants</a></li>
+							<li><a href="http://www.nfl.com/teams/newyorkjets/profile?team=NYJ" onclick="s_objectID='Nav_Teams_NYJ'">New York Jets</a></li>
+						</ul>
+						<ul>
+							<li><a href="http://www.nfl.com/teams/oaklandraiders/profile?team=OAK" onclick="s_objectID='Nav_Teams_OAK'">Oakland Raiders</a></li>
+							<li><a href="http://www.nfl.com/teams/philadelphiaeagles/profile?team=PHI" onclick="s_objectID='Nav_Teams_PHI'">Philadelphia Eagles</a></li>
+							<li><a href="http://www.nfl.com/teams/pittsburghsteelers/profile?team=PIT" onclick="s_objectID='Nav_Teams_PIT'">Pittsburgh Steelers</a></li>
+				 			<li><a href="http://www.nfl.com/teams/sandiegochargers/profile?team=SD" onclick="s_objectID='Nav_Teams_SD'">San Diego Chargers</a></li>
+							<li><a href="http://www.nfl.com/teams/sanfrancisco49ers/profile?team=SF" onclick="s_objectID='Nav_Teams_SF'">San Francisco 49ers</a></li>
+							<li><a href="http://www.nfl.com/teams/seattleseahawks/profile?team=SEA" onclick="s_objectID='Nav_Teams_SEA'">Seattle Seahawks</a></li>
+							<li><a href="http://www.nfl.com/teams/st.louisrams/profile?team=STL" onclick="s_objectID='Nav_Teams_STL'">St. Louis Rams</a></li>
+							<li><a href="http://www.nfl.com/teams/tampabaybuccaneers/profile?team=TB" onclick="s_objectID='Nav_Teams_TB'">Tampa Bay Buccaneers</a></li>
+							<li><a href="http://www.nfl.com/teams/tennesseetitans/profile?team=TEN" onclick="s_objectID='Nav_Teams_TEN'">Tennessee Titans</a></li>
+							<li><a href="http://www.nfl.com/teams/washingtonredskins/profile?team=WAS" onclick="s_objectID='Nav_Teams_WAS'">Washington Redskins</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</li>
+		<li id="alt-nv-group-players" class="alt-nv-group">
+			<h3><a href="http://www.nfl.com/players" onclick="s_objectID='Nav_Players_Main'">Players</a></h3>
+	 		<div class="channel-content">
+	 			<div class="alt-nv-content-wrapper">
+					<div class="video-nv-content bottom alt-nv-main-watermark-text">Players</div>
+	 				<div class="channels">
+						<ul>
+				 			<li><a href="http://www.nfl.com/players/search?category=name&amp;playerType=current" onclick="s_objectID='Nav_Players_By_Name'">By Name</a></li>
+							<li><a href="http://www.nfl.com/players/search?category=position&amp;playerType=current" onclick="s_objectID='Nav_Players_By_Position'">By Position</a></li>
+						</ul>
+						<ul>
+							<li><a href="http://www.nfl.com/players/search?category=team&amp;playerType=current" onclick="s_objectID='Nav_Players_By_Team_Roster'">By Team Roster</a></li>
+							<li><a href="http://www.nfl.com/players/search?playerType=historical" onclick="s_objectID='Nav_Players_Historical_Players'">Historical Players</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</li>
+		<li id="alt-nv-group-scores" class="alt-nv-group"><h3><a href="http://www.nfl.com/scores" onclick="s_objectID='Nav_Scores_Main'">Scores</a></h3></li>
+		<li id="alt-nv-group-schedules" class="alt-nv-group">
+			<!-- <h3><a href="http://www.nfl.com/schedules?seasonType=POST#Week" onclick="s_objectID='Nav_Schedules_Main'">Schedules</a></h3> -->
+			<h3><a href="http://www.nfl.com/schedules" onclick="s_objectID='Nav_Schedules_Main'">Schedules</a></h3>
+	 		<div class="channel-content">
+	 			<div class="alt-nv-content-wrapper">
+					<div class="video-nv-content bottom alt-nv-main-watermark-text">Schedules</div>
+	 				<div class="channels">
+						<ul>
+							<li><a href="http://www.nfl.com/schedules?seasonType=PRE#Week" onclick="s_objectID='Nav_Schedules_Preseason'">Preseason</a></li> 
+							<li><a href="http://www.nfl.com/schedules?seasonType=REG#Week" onclick="s_objectID='Nav_Schedules_Regular_Season'">Regular Season</a></li>
+							<!-- <li><a href="http://www.nfl.com/goto?id=09000d5d81f36ce3" onclick="s_objectID='Nav_Schedules_Preseason'">Preseason</a></li> -->
+							<!-- <li><a href="http://www.nfl.com/schedules" onclick="s_objectID='Nav_Schedules_Regular_Season'">Regular Season</a></li> -->
+						</ul>
+						<ul>
+							<li><a href="http://www.nfl.com/schedules?seasonType=POST#Week" onclick="s_objectID='Nav_Schedules_Postseason'">Postseason</a></li>
+							<li><a href="http://www.nfl.com/schedules/interactive" onclick="s_objectID='Nav_Schedules_Interactive_Schedule'">Interactive Schedules</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</li>
+
+		<li id="alt-nv-group-stats" class="alt-nv-group">
+			<h3><a href="http://www.nfl.com/stats/player" onclick="s_objectID='Nav_Stats_Main'">Stats</a></h3>
+	 		<div class="channel-content">
+	 			<div class="alt-nv-content-wrapper">
+					<div class="video-nv-content bottom alt-nv-main-watermark-text">Stats</div>
+	 				<div class="channels">
+						<ul>
+							<li><a href="http://www.nfl.com/stats/player" onclick="s_objectID='Nav_Stats_Player_Stats'">Player Stats</a></li>
+							<li><a href="http://www.nfl.com/stats/team" onclick="s_objectID='Nav_Stats_Team_Stats'">Team Stats</a></li>
+							<li><a href="http://www.nfl.com/stats/categorystats?archive=false&role=TM&offensiveStatisticCategory=OFFENSIVE_LINE&tabSeq=2&qualified=true" onclick="s_objectID='Nav_Offensive_Line_Stats'">Offensive Line Stats</a></li>
+						</ul>
+						<ul>
+							<li><a href="http://www.nfl.com/stats/categorystats?archive=false&amp;conference=null&amp;statisticCategory=PASSING&amp;seasonString=null&amp;experience=0&amp;tabSeq=0&amp;Submit=Fin" onclick="s_objectID='Nav_Stats_Rookie_Stats'">Rookie Stats</a></li>
+							<li><a href="http://www.nfl.com/stats/weeklyleaders" onclick="s_objectID='Nav_Stats_Weekly_Leaders'">Weekly Leaders</a></li>
+							<li><a href="http://www.nfl.com/history" onclick="s_objectID='Nav_Stats_Historical_Stats'">Historical Stats</a></li>
+						</ul>
+						<ul>
+							<li><a href="http://www.nfl.com/stats/topperformers" onclick="s_objectID='Nav_Stats_Top_Performers'">Top Performers</a></li>
+							<li><a href="http://www.nfl.com/stats/headtohead" onclick="s_objectID='Nav_Stats_Player_Matchups'">Player Matchups</a></li>
+							<li><a href="http://www.nfl.com/stats/milestone?icampaign=milestone_Nav" onclick="s_objectID='Nav_Stats_Milestone_Tracker'">Milestone Tracker</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</li>
+		<li id="alt-nv-group-standings" class="alt-nv-group">
+			<h3><a href="http://www.nfl.com/standings" onclick="s_objectID='Nav_Standings_Main'">Standings</a></h3>
+	 		<div class="channel-content">
+	 			<div class="alt-nv-content-wrapper">
+					<div class="video-nv-content bottom alt-nv-main-watermark-text">Standings</div>
+	 				<div class="channels">
+						<ul>
+							<li><a href="http://www.nfl.com/standings" onclick="s_objectID='Nav_Standings_By_Division'">By Division</a></li>
+							<li><a href="http://www.nfl.com/standings?category=conf" onclick="s_objectID='Nav_Standings_By_Conference'">By Conference</a></li>
+						</ul>
+						<ul>
+							<li><a href="http://www.nfl.com/standings?category=league" onclick="s_objectID='Nav_Standings_By_League'">By League</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</li>
+		<li id="alt-nv-group-fantasy" class="alt-nv-group">
+			<h3><a href="http://www.nfl.com/fantasy" onclick="s_objectID='Nav_Fantasy_Main'">Fantasy</a></h3>
+	 		<div class="channel-content">
+	 			<div class="alt-nv-content-wrapper">
+					<div class="video-nv-content bottom alt-nv-main-watermark-text">Fantasy</div>
+					<div id="fantasy-promo-wrapper" style="height: 250px; overflow: hidden; width: 375px; position: absolute; right: 430px; bottom: 16px;">
+</div>
+					<div id="fantasy-dyn-box-wrapper">
+						<div class="head"><h2><img src="http://img.static.nfl.com/static/site/3.5/img/fantasy/header-title-my-fantasy.png" width="178" height="14" alt="My Fantasy Teams"/>&nbsp;</h2><span><a href="http://fantasy.nfl.com">Fantasy Football 2011</a></span></div>
+						<div id="fantasy-dyn-box" class="body">
+							<div class="nv-fantasy-signed-out">
+<a href="https://id2.s.nfl.com/fans/login?returnTo=/fantasy">Sign in</a> to access your fantasy teams.</div>
+							<div class="nv-fantasy-signed-in-no-teams">
+								<span class="userlink">(<a data-href="http://www.nfl.com/fans/profile/#{user.username}">#{user.username}</a>)</span>
+								<span class="msg-italic">
+You have no teams.<br><p style="height: 7px;"></p>
+<a href="http://fantasy.nfl.com?icampaign=Fantasy_teams_sign_up">Sign up now!</a></span>
+								<div class="get-started">
+									<span class="msg-bold">Resources</span>
+									
+<ul>
+	<li><a href="http://fantasy.nfl.com?icampaign=Fantasy_teams_sign_up">Create a League &#187;</a></li>	
+	<li><a href="http://fantasy.nfl.com/registration/leagueDirectory">Join a League &#187;</a></li>
+	<li><a href="http://fantasy.nfl.com/myleagues">Activate a League &#187;</a></li>
+	<li><a href="http://fantasy.nfl.com/draftcenter/mockdrafts">Join a Mock Draft &#187;</a></li>
+</ul>
+								</div>
+							</div>
+							<div class="nv-fantasy-signed-in-teams">
+								<span class="userlink">(<a data-href="http://www.nfl.com/fans/profile/#{user.username}">#{user.username}</a>)</span>
+								<div class="body">
+									<div class="team-node #{leagues.league1.leagueType}">
+										<span class="team-node-number">(#{leagues.league1.index}/#{leagues.total})</span>
+										<span class="team-node-name">#{leagues.league1.teamLink}</span>
+										<span class="team-node-league-frag">in: </span><span class="team-node-league">#{leagues.league1.leagueLink}</span>
+									</div>
+									<div class="team-node #{leagues.league2.leagueType}">
+										<span class="team-node-number">(#{leagues.league2.index}/#{leagues.total})</span>
+										<span class="team-node-name">#{leagues.league2.teamLink}</span>
+										<span class="team-node-league-frag">in: </span><span class="team-node-league">#{leagues.league2.leagueLink}</span>
+									</div>
+									<div class="team-node #{leagues.league3.leagueType}">
+										<span class="team-node-number">(#{leagues.league3.index}/#{leagues.total})</span>
+										<span class="team-node-name">#{leagues.league3.teamLink}</span>
+										<span class="team-node-league-frag">in: </span><span class="team-node-league">#{leagues.league3.leagueLink}</span>
+									</div>
+								</div>
+								<div class="foot"><a href="http://fantasy.nfl.com">More Teams</a></div>
+							</div>
+						</div>
+					</div>
+	 				<div class="channels">
+						<ul>
+							<li><a href="http://www.nfl.com/fantasy" onclick="s_objectID='Nav_Fantasy_Home'">Home</a></li>
+							<li><a href="http://fantasy.nfl.com?icampaign=Nav_Fantasy_sign_up" onclick="s_objectID='Nav_Fantasy_Fantasy_Football_2011'">Fantasy '11</a></li>
+							<li><a href="http://www.nfl.com/fantasy/playernews?newsIndex=1&amp;pageIndex=1" onclick="s_objectID='Nav_Fantasy_Player_News'">Player News</a></li>
+							<li><a href="http://www.nfl.com/fantasy/rankings" onclick="s_objectID='Nav_Fantasy_Player_Rankings'">Rankings</a></li>
+							<li><a href="http://www.nfl.com/fantasy/draftkit" onclick="s_objectID='Nav_Fantasy_Draft_Kit'">Draft Kit</a></li>
+							<li><a href="http://www.nfl.com/fantasy/blog" onclick="s_objectID='Nav_Fantasy_Blog'">Blog</a></li>
+							<li><a href="http://www.nfl.com/videos/nfl-fantasy" onclick="s_objectID='Nav_Fantasy_Video'">Video</a></li>
+							<li><a href="http://quickhit.com/?rid=nfl&utm_source=nfl&utm_medium=topnav&utm_campaign=nfl_topnav" onclick="s_objectID='Nav_Fantasy_Quickhit'" target="_blank">QUICKHIT</a></li>
+							<li><a href="http://www.nfl.com/fans/forums" onclick="s_objectID='Nav_Fantasy_Forums'">Forums</a></li>							
+							<li><a href="http://www.nfl.com/fantasy/help" onclick="s_objectID='Nav_Fantasy_Help'">Help</a></li>
+							
+							
+						</ul>	
+					</div>
+				</div>
+			</div>
+		</li>
+		<li id="alt-nv-group-nfl-network" class="alt-nv-group">
+			<h3><a href="http://www.nfl.com/nflnetwork" onclick="s_objectID='Nav_NFLN_Main'">NFL Network</a></h3>
+	 		<div class="channel-content">
+	 			<div class="alt-nv-content-wrapper">
+
+	 				<div class="channels">
+						<div style="width:0px;height:83px;float:left;display:inline"></div>
+						<ul>
+							<li><a href="/nflnetwork" onclick="s_objectID='Nav_NFLN_Main_submenu'">NFL Network</a></li>
+							<li><a href="http://www.nfl.com/nflnetwork/networkschedule" onclick="s_objectID='Nav_NFLN_NFL_Network_Schedule'">Schedules</a></li>
+							<li><a href="http://www.nfl.com/videos" onclick="s_objectID='Nav_NFLN_Video'">Video</a></li>
+							<li><a href="http://www.nfl.com/redzonetv" onclick="s_objectID='Nav_NFLN_NFL_RedZone'">NFL RedZone</a></li>
+							<li><a href="http://www.keepgyminschool.com/" onclick="s_objectID='Keep_Gym_In_School'">Keep Gym in School</a></li>
+						</ul>
+						<ul>
+							<li><a href="http://www.nfl.com/videos/nfl-network-total-access" onclick="s_objectID='Total_Access'">Total Access</a></li>
+							<li><a href="http://www.nfl.com/videos/nfl-network-gameday" onclick="s_objectID='GameDay'">GameDay</a></li>
+							<li><a href="http://www.nfl.com/videos/nfl-network-around-the-league" onclick="s_objectID='Around_The_League'">Around the League</a></li>
+							<li><a href="http://www.nfl.com/videos/nfl-films-sound-efx" onclick="s_objectID='Sound_Fx'">Sound FX</a></li>
+							<li><a href="http://www.nfl.com/videos/nfl-network-the-coaches" onclick="s_objectID='The_Coaches'">The Coaches</a></li>
+						</ul>
+						<ul>
+							<li><a href="http://www.nfl.com/top100" onclick="s_objectID='Top100'">Top 100</a></li>
+							<li><a href="http://www.nfl.com/videos/nfl-network-playbook" onclick="s_objectID='Playbook'">Playbook</a></li>
+							<li><a href="http://www.nfl.com/nflnetwork/onairtalent" onclick="s_objectID='Onairtalent'">On Air Talent</a></li>
+							<li><a href="https://network.nfl.com/nfln/secure/registerform" onclick="s_objectID='NFLNO'">Watch Online</a></li>
+							<!--<li><a href="http://iwantnflnetwork.com/" onclick="s_objectID='I_Want_NFL_Network'">I Want NFL Network</a></li>-->
+							<!--<li><a href="http://www.nfl.com/nflnetwork/games" onclick="s_objectID='Nav_NFLN_Games_on_NFL_Network'">Games on NFL Network</a></li>
+							<li><a href="http://www.nfl.com/nflnetwork/shows" onclick="s_objectID='Nav_NFLN_Shows'">Shows</a></li>-->
+						</ul>
+						
+					</div>
+<!--Commented out Redzone per Product and added DIV with same class before div.channels.  Make sure you remove that div if you add this back.
+					 <div class="video-nv-content bottom">
+						<a href="http://www.iwantnflnetwork.com" onclick="s_objectID='Nav_NFL_Network_Promtion_Unit'"><img style="margin: 0 10px 10px" alt="" src="http://static.nfl.com/static/content/catch_all/nfl_image/iwantnflnetwork2.jpg"/></a>
+					</div>
+
+					<div class="video-nv-content bottom alt-nv-main-watermark-text">
+						<a href="http://www.iwantnflnetwork.com" onclick="s_objectID='Nav_NFL_Network_Promtion_Unit'"><img style="margin: 0 10px 10px" alt="" src="http://static.nfl.com/static/content/catch_all/nfl_image/iwantnflnetwork2.jpg"/></a>
+					</div> -->
+				</div>
+			</div>
+		</li>
+		<li id="alt-nv-group-game-access" class="alt-nv-group">
+			<h3><a href="http://subscriptions.nfl.com/nflsubs/" onclick="s_objectID='Nav_NFL_Game_Access'">Game Pass</a></h3>
+	 		<div class="channel-content">
+	 			<div class="alt-nv-content-wrapper">
+					<div class="video-nv-content bottom alt-nv-main-watermark-text">Game Pass</div>
+	 				<div class="channels">
+						<ul>
+							<li class="subChoiceMarker"><h4>Online:</h4></li>
+							<!--<li><a href="https://gamerewind.nfl.com/nflgr/secure/gameaccess" onclick="s_objectID='Nav_NFL_Anytime_Game_Access'">Game Access</a></li>-->
+							<li><a href="http://www.nfl.com/preseasonlive" onclick="s_objectID='Nav_NFL_Anytime_Audio_Pass'">Preseason Live</a></li>
+							<li><a href="http://www.nfl.com/gamepass" onclick="s_objectID='Nav_NFL_Anytime_Game_Pass'">Game Pass</a></li>
+							<li><a href="http://www.nfl.com/gamerewind" onclick="s_objectID='Nav_NFL_Anytime_Game_Rewind'">Game Rewind</a></li>
+							<li><a href="http://www.nfl.com/audiopass" onclick="s_objectID='Nav_NFL_Anytime_Audio_Pass'">Audio Pass</a></li>
+							<li><a href="https://network.nfl.com/nfln/secure/registerform" onclick="s_objectID='Nav_NFL_Anytime_NFLNO'">NFL Network Online</a></li>
+							<li><a href="http://www.nfl.com/downloads" onclick="s_objectID='Nav_NFL_Anytime_Downloads'">Downloads</a></li>							
+						</ul>
+						<ul>
+							<li class="subChoiceMarker"><h4>Mobile:</h4></li>
+							<!--<li><a href="http://www.nfl.com/mobile" onclick="s_objectID='Nav_NFL_Anytime_NFL_Mobilie_Live'">NFL Mobile</a></li>-->
+							<li><a href="http://www.nfl.com/wireless" onclick="s_objectID='Nav_NFL_Anytime_NFL.com_Wireless'">NFL.com Wireless</a></li>
+							<li><a href="http://mywireless.nfl.com" target="_blank" onclick="s_objectID='Nav_NFL_Anytime_Tones_&amp;_Graphics'">Tones &amp; Graphics</a></li>
+							<li><a href="http://mywireless.nfl.com/alerts.php" target="_blank" onclick="s_objectID='Nav_NFL_Anytime_Alerts'">Alerts</a></li>
+						</ul>
+						<ul>
+							<li class="subChoiceMarker"><h4>TV &amp; Radio:</h4></li>
+							<!--<li><a href="http://www.nfl.com/promotions/directv/sundayticket" onclick="s_objectID='Nav_NFL_Anytime_NFL_Sunday_Ticket'">NFL Sunday Ticket</a></li>-->
+							<li><a href="https://www.directv.com/DTVAPP/content/sports/nfl?footernavtype=-1" onclick="s_objectID='Nav_NFL_Anytime_NFL_Sunday_Ticket'">NFL Sunday Ticket</a></li>
+							<li><a href="http://iwantnflnetwork.com/" onclick="s_objectID='Nav_NFL_Anytime_I_want_NFL_Network'">I want NFL Network</a></li>				
+							<li><a href="http://www.nfl.com/nflnetwork/networkschedule" onclick="s_objectID='Nav_NFL_Anytime_NFL_Network_Schedule'">NFL Network Schedule</a></li>
+							<li><a href="http://www.nfl.com/snf" onclick="s_objectID='Nav_NFL_Anytime_Sunday_Night_Football_Extra'">Sunday Night Football Extra</a></li>
+							<li><a href="http://www.sirius.com/servlet/ContentServer?pagename=Sirius/Page&amp;c=FlexContent&amp;cid=1185296533780" onclick="s_objectID='Nav_NFL_Anytime_NFL_Sunday_Drive'">NFL Sunday Drive</a></li>
+							<li><a href="http://redzonetv.nfl.com/" onclick="s_objectID='Nav_NFL_Anytime_NFL_Red_Zone'">NFL Red Zone</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</li>
+		<li id="alt-nv-group-tickets" class="alt-nv-group">
+			<h3><a href="http://www.nfl.com/tickets" onclick="s_objectID='Nav_Tickets_Main'">Tickets</a></h3>
+	 		<div class="channel-content">
+	 			<div class="alt-nv-content-wrapper">
+					<div class="video-nv-content bottom alt-nv-main-watermark-text">Tickets</div>
+	 				<div class="channels">
+						<ul>
+							<li><a href="http://www.nfl.com/tickets?icampaign=Tickets_Nav" onclick="s_objectID='Nav_Tickets_Landing'">Tickets by Team</a></li>
+							<li><a href="http://www.ticketexchangebyticketmaster.com/nfl?intcmp=tm100456&amp;wt.mc_id=NFL_LEAGUE_TIX_DROP_DWN_MEN&amp;extcmp=TicketsEX_NFL" onclick="s_objectID='Nav_Tickets_Exchange'">NFL Ticket Exchange</a></li>
+							<li><a href="http://nflonlocation.com/index.php?utm_source=nflcom&utm_medium=link&utm_campaign=nflDirLinks" onclick="s_objectID='Nav_Tickets_Location'">NFL On Location</a></li>
+							<li><a href="http://www.lombardibroadway.com/nfl.php" onclick="s_objectID='Nav_Tickets_Lombardi'">Lombardi on Broadway</a></li>
+					<!--	<li><a href="http://www.ticketmaster.com/event/2B00458E9D712785?artistid=1535351&majorcatid=10001&minorcatid=1" onclick="s_objectID='Nav_Tickets_Pepsi'">Pepsi Fan Jam</a></li>
+							<li><a href="http://www.profootballhof.com/enshrinement/ticket_policies.aspx" onclick="s_objectID='Nav_Tickets_HOF'">HOF Enshrinement</a></li>
+					 		<li><a href="http://www.nflonlocation.net/probowl.php" onclick="s_objectID='Nav_Pro_Bowl_Packages'">Pro Bowl Packages</a></li>
+							<li><a href="http://www.ticketmaster.com/event/0D00432E9AB03313?intcmp=tm103892&wt.mc_id=NFL_LEAGUE_PRO_BOWL" onclick="s_objectID='Nav_Pro_Bowl_Tickets'">Pro Bowl Tickets</a></li> 
+							<li><a href="http://www.nflonlocation.net/superbowl.php" onclick="s_objectID='Nav_Super_Bowl_Packages'">Super Bowl Packages</a></li>
+							<li><a href="http://www.ticketexchangebyticketmaster.com/NFL/InventoryBrowse/Super-Bowl-Tickets-at-Dolphin-Stadium-in-Opa-Locka?PID=505575&intcmp=tm104190&wt.mc_id=NFL_LEAGUE_TIX_SB&extcmp=NFL_League_SB44" onclick="s_objectID='Nav_Super_Bowl_Tickets'">Super Bowl Tickets</a></li> -->
+						</ul>
+						<!-- <ul>
+						    <li class="subChoiceMarker"><h4>WILD CARD GAMES:</h4></li>
+						    <li><a href="http://www.ticketexchangebyticketmaster.com/NFL/InventoryBrowse/Seattle-Seahawks-Tickets-at-Qwest-Field-in-Seattle?PID=1062599&intcmp=tm104882&wt.mc_id=NFL_LEAGUE_SEA_PLAYOFF1&extcmp=SEA_Playoff_NAV" onclick="s_objectID='Nav_Tickets_Exchange_Playoffs_Seahawks'">Saints at Seahawks</a></li> 
+							<li><a href="http://www.ticketexchangebyticketmaster.com/NFL/InventoryBrowse/Indianapolis-Colts-Tickets-at-Lucas-Oil-Stadium-in-Indianapolis?PID=1062177&intcmp=tm104866&wt.mc_id=NFL_LEAGUE_IND_PLAYOFF1&extcmp=IND_Playoff_Nav" onclick="s_objectID='Nav_Tickets_Exchange_Playoffs_Colts'">Jets at Colts</a></li>
+							<li><a href="http://www.ticketexchangebyticketmaster.com/NFL/InventoryBrowse/Kansas-City-Chiefs-Tickets-at-Arrowhead-Stadium-in-Kansas-City?PID=1073885&intcmp=tm104870&extcmp=KC_Playoff_NAV" onclick="s_objectID='Nav_Tickets_Exchange_Playoffs_Chiefs'">Ravens at Chiefs</a></li>
+							<li><a href="https://teamexchange.ticketmaster.com/html/postinglist.htmI?l=EN&team=eagles&EVNT=10POGM1&CNTX=&intcmp=tm104878&wt.mc_id=NFL_LEAGUE_PHI_PLAYOFF1&extcmp=PHI_Playoff_NAV" onclick="s_objectID='Nav_Tickets_Exchange_Playoffs_Eagles'">Packers at Eagles</a></li>
+							<li><a href="xxx" onclick="s_objectID='Nav_Tickets_Playoffs_Saints'">Saints Box Office</a></li> 
+						</ul> -->
+					<!--	<ul>
+						    <li class="subChoiceMarker"><h4>DIVISIONAL ROUND:</h4></li>
+							<li><a href="http://www.ticketexchangebyticketmaster.com/NFL/InventoryBrowse/Pittsburgh-Steelers-Tickets-at-Heinz-Field-in-Pittsburgh?PID=1067585&intcmp=tm104880&extcmp=PIT_Playoff_NAV" onclick="s_objectID='Nav_Tickets_Exchange_Playoffs_Steelers'">Ravens at Steelers</a></li>
+							<li><a href="http://www.ticketexchangebyticketmaster.com/NFL/InventoryBrowse/Atlanta-Falcons-Tickets-at-Georgia-Dome-in-Atlanta?PID=1073037&intcmp=tm104858&extcmp=ATL_Playoff_Nav" onclick="s_objectID='Nav_Tickets_Exchange_Playoffs_Falcons'">Packers at Falcons</a></li> 
+							<li><a href="http://www.ticketexchangebyticketmaster.com/NFL/InventoryBrowse/Chicago-Bears-Tickets-at-Soldier-Field-in-Chicago?PID=1073889&intcmp=tm104862&extcmp=CHI_Playoff_NAV" onclick="s_objectID='Nav_Tickets_Exchange_Playoffs_Chiefs'">Seahawks at Bears</a></li>
+						    <li><a href="https://teamexchange.ticketmaster.com/html/postinglist.htmI?l=EN&team=patriots&EVNT=EFPGAME1&CNTX=&intcmp=tm104872&wt.mc_id=NFL_LEAGUE_NE_PLAYOFF1&extcmp=NE_Playoff_NAV" onclick="s_objectID='Nav_Tickets_Exchange_Playoffs_Patriots'">Jets at Patriots</a></li>
+							<li><a href="xxx" onclick="s_objectID='Nav_Tickets_Playoffs_Saints'">Saints Box Office</a></li> 
+						</ul> -->
+					<!--	<ul>
+						    <li class="subChoiceMarker"><h4>CHAMPIONSHIP ROUND:</h4></li>
+							<li><a href="http://www.ticketexchangebyticketmaster.com/NFL/InventoryBrowse/Pittsburgh-Steelers-Tickets-at-Heinz-Field-in-Pittsburgh?PID=1060682&intcmp=tm104881&wt.mc_id=NFL_LEAGUE_PIT_PLAYOFF2&extcmp=PIT_Playoff_NAV" onclick="s_objectID='Nav_Tickets_Exchange_Playoffs_Steelers'">Jets at Steelers</a></li>
+							<li><a href="http://www.ticketexchangebyticketmaster.com/NFL/InventoryBrowse/Chicago-Bears-Tickets-at-Soldier-Field-in-Chicago?PID=1062191&intcmp=tm104863&wt.mc_id=NFL_LEAGUE_CHI_PLAYOFF2&extcmp=CHI_Playoff_Nav" onclick="s_objectID='Nav_Tickets_Exchange_Playoffs_Bears'">Packers at Bears</a></li>
+						</ul> -->
+					</div>
+				</div>
+			</div>
+		</li>
+		<li id="alt-nv-group-nfl-shop" class="alt-nv-group">
+			<h3><a href="http://www.nflshop.com/entry.point?target=z&amp;source=SHOP_TAB" target="_blank" onclick="s_objectID='Nav_Shop_Main'">Shop</a></h3>
+	 		<div class="channel-content">
+	 			<div class="alt-nv-content-wrapper">
+	 				<div class="channels">
+						<ul>
+							<li><a href="http://www.nflshop.com/entry.point?entry=2237409&amp;source=SHOP_JERSEYS" target="_blank" onclick="s_objectID='Nav_Shop_Jerseys'">Jerseys</a></li>
+							<li><a href="http://www.nflshop.com/entry.point?entry=2237411&amp;source=SHOP_MENS" target="_blank" onclick="s_objectID='Nav_Shop_Mens'">Men's</a></li>
+							<li><a href="http://www.replayphotos.com/nflphotostore/?icampaign=Nav_PhotoStore" target="_blank" onclick="s_objectID='Nav_Shop_Photostore'">Photo Store</a></li>
+						</ul>
+						<ul>
+							<li><a href="http://www.nflshop.com/entry.point?entry=2251924&amp;source=SHOP_CUSTOM_SHOP" target="_blank" onclick="s_objectID='Nav_Shop_Custom_Shop'">Custom Shop</a></li>
+							<li><a href="http://www.nflshop.com/entry.point?entry=2237412&amp;source=NFL_SHOP_WOMENS" target="_blank" onclick="s_objectID='Nav_Shop_Womens'">Women's</a></li>
+							<li><a href="http://www.nflauction.nfl.com" target="_blank" onclick="s_objectID='Nav_Shop_NFL_Auction'">NFL Auction</a></li>
+						</ul>
+						<ul>
+							<li><a href="http://www.nflshop.com/entry.point?entry=2237414&amp;source=NFL_SHOP_KIDS" target="_blank" onclick="s_objectID='Nav_Shop_Kids'">Kids</a></li>
+							<li><a href="http://www.nflshop.com/entry.point?entry=2735301&source=NFL_PlayerShop" target="_blank" onclick="s_objectID='Nav_Shop_Player_Shop'">Player Shop</a></li>
+						<!--<li><a href="http://www.nflshop.com/entry.point?entry=2421485&source=SHOP_NEWARRIVALS" target="_blank" onclick="s_objectID='Nav_Shop_New_Arrivals'">New Arrivals</a></li> -->
+						<!--<li><a href="http://www.nflshop.com/entry.point?entry=4381832&source=SHOP_PERFORMANCEAPPAREL" target="_blank" onclick="s_objectID='Nav_Shop_Performance_Apparel'">Performance Apparel</a></li> -->
+							<li><a style="color:#FF0000" href="http://www.nflshop.com/entry.point?entry=3388868&source=NFL_Outlet" target="_blank" onclick="s_objectID='Nav_Shop_Outlet_Center'">Outlet Center</a></li>
+						</ul>
+					</div>
+					<div class="video-nv-content bottom alt-nv-main-watermark-text">
+						<div class="bg">Shop</div>
+						
+<!-- BEGIN WIDGET global/alt-shop-nav -->
+<ul class="items">
+	<li>
+		
+			
+			<div class="thumbnail"><a href="http://www.nflshop.com/entry.point?entry=11507910&amp;source=NFL_DF:NAV" target="_blank"><img src="http://img.static.nfl.com/static/site/img/shop/p10064463th.gif" alt="Photo: NFL 2011 Player Hat PITTSBURGH STEELERS" /></a></div>
+			<div class="content">
+				<p><a href="http://www.nflshop.com/entry.point?entry=11507910&amp;source=NFL_DF:NAV" target="_blank">NFL 2011 Player Hat PITTSBURGH STEELERS</a></p>
+				<p><span class="price">24.99</span></p>
+			</div>
+		
+	</li>
+</ul>
+<!-- END WIDGET global/alt-shop-nav -->
+
+					</div>					
+				</div>
+			</div>
+		</li>
+	</ul>
+	
+	<!--Opt In Smart Pixel -->
+	<iframe src='http://pixel.fetchback.com/serve/fb/pdc?cat=&name=landing&sid=2002' scrolling='no' width='1' height='1' marginheight='0' marginwidth='0' frameborder='0'></iframe> 
+
+</div>
+<!-- END INCLUDE navigation/default-alt -->
+	<script type="text/javascript">
+nfl.global.Navigation.initialize();
+nfl.global.MicroNav.initialize("#hd-micro-nav-list");
+nfl.use("nfl-sign-in-links", function (Y) {
+	var sil = new Y.NFLSignInLinks({ render: "#sign-in-links" });
+});
+	</script>
+</div>
+<!-- END INCLUDE headers/global-alt -->
+
+			<div id="hd-scorestrip">
+				<div id="hdscorestripContainer">
+					
+
+				</div>
+				<script type="text/javascript">
+YUI().use('prototype-compat', 'scorestrip', function(Y) {
+	var ss = new Y.NFL.ScoreStrip({
+		
+		srcNode: "#hdscorestripContainer"
+	});
+	ss.render();
+	window.ss = ss;
+});
+				</script>
+			</div>
+		
+	</div>
+			<div id="page-top-ad" class="resizable-ad">
+				
+					
+				 	
+<div class="adcontainer" id="ad1313004195750top" style="width:728px;height:90px;">
+	
+	
+	<noscript>
+		<a href="http://ad.doubleclick.net/jump/nfl.stats/topperformers/2010/1;s1=topperformers;s2=2010;s3=1;slot=top;url=topperformers_2010_1;nfl=ad;!category=;kw=;tile=#{tile};test=;sz=728x90" target="_blank">
+			<img class="adImg" src="http://ad.doubleclick.net/ad/nfl.stats/topperformers/2010/1;s1=topperformers;s2=2010;s3=1;slot=top;url=topperformers_2010_1;nfl=ad;!category=;kw=;tile=#{tile};test=;sz=728x90" width="728" height="90" alt=""/>
+		</a>
+	</noscript>
+</div>
+<script type="text/javascript">
+
+nfl.ads.createAd("ad1313004195750top", 'nfl.stats/topperformers/2010/1;s1=topperformers;s2=2010;s3=1;slot=top;url=topperformers_2010_1;nfl=ad;!category=;kw=;tile=#{tile};test=;sz=728x90', {
+	
+	
+	
+	
+	width: 728,
+	height: 90,
+	rotating: false,
+	slot: 'top',
+	transparent: true
+});
+</script>
+
+				
+			</div>
+		<div id="doc">
+		<div id="doc-wrap">
+			<div id="event-header">
+</div>
+			
+			<div id="main-content" class="content-div">
+				<div class="c">
+					
+					<!-- 
+contentTitle = Top Performers
+contentLink = 
+sponsorTitle = 
+sponsorLink = 
+-->
+<div class="article-decorator">		
+	<h2>Top Performers &nbsp;</h2>
+	<p> &nbsp;</p>
+	<div class="visual-treatment" style="background-image:url(http://img.static.nfl.com/static/site/3.5/img/subheaders/top-performers.png) !important;"></div>
+	
+		
+		<div class="content-link">&nbsp;</div>
+		
+	
+		
+		<div class="sponsor-link">&nbsp;</div>
+	
+</div>
+
+<div class="grid-160">
+	<div class="grid col">
+
+		<b>Top Performances: Week 1</b>
+
+<div class="hSpacer10px"></div>
+
+<!--YEAR SELECT-->
+<form name="seasonForm" class="floatRight">
+	Select Year:
+	<select name="season" onchange="document.seasonForm.submit();" style="margin:0px;width:60px;">
+	
+		
+			
+				<option value="2010" selected="selected">2010</option>
+			
+			
+		
+	
+		
+			
+			
+				<option value="2009">2009</option>
+			
+		
+	
+		
+			
+			
+				<option value="2008">2008</option>
+			
+		
+	
+		
+			
+			
+				<option value="2007">2007</option>
+			
+		
+	
+		
+			
+			
+				<option value="2006">2006</option>
+			
+		
+	
+		
+			
+			
+				<option value="2005">2005</option>
+			
+		
+	
+		
+			
+			
+				<option value="2004">2004</option>
+			
+		
+	
+		
+			
+			
+				<option value="2003">2003</option>
+			
+		
+	
+		
+			
+			
+				<option value="2002">2002</option>
+			
+		
+	
+		
+			
+			
+				<option value="2001">2001</option>
+			
+		
+	
+		
+			
+			
+				<option value="2000">2000</option>
+			
+		
+	
+		
+			
+			
+				<option value="1999">1999</option>
+			
+		
+	
+		
+			
+			
+				<option value="1998">1998</option>
+			
+		
+	
+		
+			
+			
+				<option value="1997">1997</option>
+			
+		
+	
+		
+			
+			
+				<option value="1996">1996</option>
+			
+		
+	
+		
+			
+			
+				<option value="1995">1995</option>
+			
+		
+	
+		
+			
+			
+				<option value="1994">1994</option>
+			
+		
+	
+		
+			
+			
+				<option value="1993">1993</option>
+			
+		
+	
+		
+			
+			
+				<option value="1992">1992</option>
+			
+		
+	
+		
+			
+			
+				<option value="1991">1991</option>
+			
+		
+	
+		
+			
+			
+				<option value="1990">1990</option>
+			
+		
+	
+		
+			
+			
+				<option value="1989">1989</option>
+			
+		
+	
+		
+			
+			
+				<option value="1988">1988</option>
+			
+		
+	
+		
+			
+			
+				<option value="1987">1987</option>
+			
+		
+	
+		
+			
+			
+				<option value="1986">1986</option>
+			
+		
+	
+		
+			
+			
+				<option value="1985">1985</option>
+			
+		
+	
+		
+			
+			
+				<option value="1984">1984</option>
+			
+		
+	
+		
+			
+			
+				<option value="1983">1983</option>
+			
+		
+	
+		
+			
+			
+				<option value="1982">1982</option>
+			
+		
+	
+		
+			
+			
+				<option value="1981">1981</option>
+			
+		
+	
+		
+			
+			
+				<option value="1980">1980</option>
+			
+		
+	
+		
+			
+			
+				<option value="1979">1979</option>
+			
+		
+	
+		
+			
+			
+				<option value="1978">1978</option>
+			
+		
+	
+		
+			
+			
+				<option value="1977">1977</option>
+			
+		
+	
+		
+			
+			
+				<option value="1976">1976</option>
+			
+		
+	
+		
+			
+			
+				<option value="1975">1975</option>
+			
+		
+	
+		
+			
+			
+				<option value="1974">1974</option>
+			
+		
+	
+		
+			
+			
+				<option value="1973">1973</option>
+			
+		
+	
+		
+			
+			
+				<option value="1972">1972</option>
+			
+		
+	
+		
+			
+			
+				<option value="1971">1971</option>
+			
+		
+	
+		
+			
+			
+				<option value="1970">1970</option>
+			
+		
+	
+	</select>
+</form>
+
+				
+					
+					
+						
+					
+				
+				<!--begin WEEK LINKS-->
+					<div class="weekLinks">
+						<span class="weekText">Week:</span>
+						<!--USE EXISTING LOGIC-->
+						
+						<!--USE THE NEW SEASON DEFINITION LOGIC -->
+						
+								
+							
+							
+								
+									
+										
+											<span class="on">1</span>
+										
+										
+									
+								
+									
+										
+										
+											<span><a href="/stats/topperformers?week=2&season=2010">2</a></span>
+										
+									
+								
+									
+										
+										
+											<span><a href="/stats/topperformers?week=3&season=2010">3</a></span>
+										
+									
+								
+									
+										
+										
+											<span><a href="/stats/topperformers?week=4&season=2010">4</a></span>
+										
+									
+								
+									
+										
+										
+											<span><a href="/stats/topperformers?week=5&season=2010">5</a></span>
+										
+									
+								
+									
+										
+										
+											<span><a href="/stats/topperformers?week=6&season=2010">6</a></span>
+										
+									
+								
+									
+										
+										
+											<span><a href="/stats/topperformers?week=7&season=2010">7</a></span>
+										
+									
+								
+									
+										
+										
+											<span><a href="/stats/topperformers?week=8&season=2010">8</a></span>
+										
+									
+								
+									
+										
+										
+											<span><a href="/stats/topperformers?week=9&season=2010">9</a></span>
+										
+									
+								
+									
+										
+										
+											<span><a href="/stats/topperformers?week=10&season=2010">10</a></span>
+										
+									
+								
+									
+										
+										
+											<span><a href="/stats/topperformers?week=11&season=2010">11</a></span>
+										
+									
+								
+									
+										
+										
+											<span><a href="/stats/topperformers?week=12&season=2010">12</a></span>
+										
+									
+								
+									
+										
+										
+											<span><a href="/stats/topperformers?week=13&season=2010">13</a></span>
+										
+									
+								
+									
+										
+										
+											<span><a href="/stats/topperformers?week=14&season=2010">14</a></span>
+										
+									
+								
+									
+										
+										
+											<span><a href="/stats/topperformers?week=15&season=2010">15</a></span>
+										
+									
+								
+									
+										
+										
+											<span><a href="/stats/topperformers?week=16&season=2010">16</a></span>
+										
+									
+								
+									
+										
+										
+											<span><a href="/stats/topperformers?week=17&season=2010">17</a></span>
+										
+									
+								
+									
+						
+						
+						
+						
+					</div>
+				<!--END WEEK LINKS-->
+					
+				<!--WILD CARD, DIV PLAYOFFS, CONF CHAMPS, SUPERBOWL LINKS-->
+					<div class="weekLinks typeLinks">
+					
+					
+					
+					
+					
+					
+						
+						
+						
+							
+							
+							<span><a href="/stats/topperformers?week=18&season=2010" onclick="">Wild Card Weekend</a></span>
+							
+						
+						
+					
+					
+					
+						
+						
+						
+							
+							
+							<span><a href="/stats/topperformers?week=19&season=2010" onclick="">Divisional Playoffs</a></span>
+							
+						
+						
+					
+					
+					
+						
+						
+						
+							
+							
+							<span><a href="/stats/topperformers?week=20&season=2010" onclick="">Conference Championships</a></span>
+							
+						
+						
+					
+					
+					
+						
+						
+						
+							
+							
+							<span><a href="/stats/topperformers?week=22&season=2010" onclick="">Super Bowl</a></span>
+							
+						
+						
+					
+										
+					
+										
+					</div>
+
+<!--
+	season: 2010
+	week: 1
+	seasonType: 
+-->
+<!-- BEGIN BIG PLAYS -->
+
+	<script type="text/javascript" src="http://scripts.static.nfl.com/static/site/3.5/scripts/scores/big-plays.js"></script>
+	<div id="big-plays-wl" class="big-plays"></div>
+	<script type="text/javascript">
+YUI().use('nfl-omniture', 'node', 'big-plays', 'prototype-compat', function (Y) {
+	var filterOrder, contentValues, bp, BigPlays = Y.NFL.BigPlays;
+
+	if (! Y.one('#fb-root')) {
+		Y.one('body').append('<div id="fb-root"></div>');
+	}
+	try {
+		FB.init({
+			appId  : nfl.constants.FACEBOOK_APP_ID,
+			status : true, // check login status
+			cookie : true, // enable cookies to allow the server to access the session
+			xfbml  : false // parse XFBML
+		});
+	}
+	catch (e) {
+		Y.log('No Facebook :(');
+	}
+	
+	contentValues = {
+		
+			
+			
+				
+			
+				
+			
+				
+			
+			/* ids: MAN515097,CUT288111,PAL249055 */
+		PASSING: {
+	label: "Passing",
+	filterValues: [
+		{ label: 'All Players', value: '' },
+		{ label: "Cutler, Jay", value: "00-0024226" },
+		{ label: "Manning, Peyton", value: "00-0010346" },
+		{ label: "Palmer, Carson", value: "00-0021429" }
+	],
+	videos: [
+		{ contentId: "09000d5d81a7d077",
+			summary: "QB Palmer to WR Ochocinco, 25-yd, pass",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a7d077\/QB-Palmer-to-WR-Ochocinco-25-yd-pass",
+			/*[Person{lastName='Cutler', firstName='Jay', esbId='CUT288111'}, Person{lastName='Manning', firstName='Peyton', esbId='MAN515097'}, Person{lastName='Palmer', firstName='Carson', esbId='PAL249055'}]*/
+/* JOH104425 */
+				
+/* PAL249055 */
+				
+team: "CIN",
+			filter: "00-0020397,00-0021429" },
+		{ contentId: "09000d5d81a7cea2",
+			summary: "QB Cutler to RB Forte, 28-yd, pass, TD",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a7cea2\/QB-Cutler-to-RB-Forte-28-yd-pass-TD",
+			/*[Person{lastName='Cutler', firstName='Jay', esbId='CUT288111'}, Person{lastName='Manning', firstName='Peyton', esbId='MAN515097'}, Person{lastName='Palmer', firstName='Carson', esbId='PAL249055'}]*/
+/* FOR645404 */
+				
+/* CUT288111 */
+				
+team: "CHI",
+			filter: "00-0026184,00-0024226" },
+		{ contentId: "09000d5d81a7cba2",
+			summary: "QB Palmer to WR Ochocinco, 28-yd, pass, TD",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a7cba2\/QB-Palmer-to-WR-Ochocinco-28-yd-pass-TD",
+			/*[Person{lastName='Cutler', firstName='Jay', esbId='CUT288111'}, Person{lastName='Manning', firstName='Peyton', esbId='MAN515097'}, Person{lastName='Palmer', firstName='Carson', esbId='PAL249055'}]*/
+/* JOH104425 */
+				
+/* PAL249055 */
+				
+team: "CIN",
+			filter: "00-0020397,00-0021429" },
+		{ contentId: "09000d5d81a7cba0",
+			summary: "QB Palmer to TE Gresham, 1-yd, pass, TD",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a7cba0\/QB-Palmer-to-TE-Gresham-1-yd-pass-TD",
+			/*[Person{lastName='Cutler', firstName='Jay', esbId='CUT288111'}, Person{lastName='Manning', firstName='Peyton', esbId='MAN515097'}, Person{lastName='Palmer', firstName='Carson', esbId='PAL249055'}]*/
+/* GRE819895 */
+				
+/* PAL249055 */
+				
+team: "CIN",
+			filter: "00-0027873,00-0021429" },
+		{ contentId: "09000d5d81a7a964",
+			summary: "QB Manning to TE Clark, 10-yd, pass, TD",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a7a964\/QB-Manning-to-TE-Clark-10-yd-pass-TD",
+			/*[Person{lastName='Cutler', firstName='Jay', esbId='CUT288111'}, Person{lastName='Manning', firstName='Peyton', esbId='MAN515097'}, Person{lastName='Palmer', firstName='Carson', esbId='PAL249055'}]*/
+/* MAN515097 */
+				
+/* CLA236596 */
+				
+team: "IND",
+			filter: "00-0010346,00-0022165" },
+		{ contentId: "09000d5d81a7a962",
+			summary: "QB Manning to WR Collie, 73-yd, pass, TD",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a7a962\/QB-Manning-to-WR-Collie-73-yd-pass-TD",
+			/*[Person{lastName='Cutler', firstName='Jay', esbId='CUT288111'}, Person{lastName='Manning', firstName='Peyton', esbId='MAN515097'}, Person{lastName='Palmer', firstName='Carson', esbId='PAL249055'}]*/
+/* MAN515097 */
+				
+/* COL397342 */
+				
+team: "IND",
+			filter: "00-0010346,00-0027092" },
+		{ contentId: "09000d5d81a79473",
+			summary: "QB Palmer to WR Shipley, 51-yd, pass",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a79473\/QB-Palmer-to-WR-Shipley-51-yd-pass",
+			/*[Person{lastName='Cutler', firstName='Jay', esbId='CUT288111'}, Person{lastName='Manning', firstName='Peyton', esbId='MAN515097'}, Person{lastName='Palmer', firstName='Carson', esbId='PAL249055'}]*/
+/* SHI383097 */
+				
+/* PAL249055 */
+				
+team: "CIN",
+			filter: "00-0027687,00-0021429" },
+		{ contentId: "09000d5d81a77d69",
+			summary: "QB Manning to WR Wayne, 14-yd, pass, TD",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a77d69\/QB-Manning-to-WR-Wayne-14-yd-pass-TD",
+			/*[Person{lastName='Cutler', firstName='Jay', esbId='CUT288111'}, Person{lastName='Manning', firstName='Peyton', esbId='MAN515097'}, Person{lastName='Palmer', firstName='Carson', esbId='PAL249055'}]*/
+/* MAN515097 */
+				
+/* WAY456953 */
+				
+team: "IND",
+			filter: "00-0010346,00-0020498" },
+		{ contentId: "09000d5d81a77d5d",
+			summary: "QB Manning to WR Garcon, 26-yd, pass",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a77d5d\/QB-Manning-to-WR-Garcon-26-yd-pass",
+			/*[Person{lastName='Cutler', firstName='Jay', esbId='CUT288111'}, Person{lastName='Manning', firstName='Peyton', esbId='MAN515097'}, Person{lastName='Palmer', firstName='Carson', esbId='PAL249055'}]*/
+/* GAR115573 */
+				
+/* MAN515097 */
+				
+team: "IND",
+			filter: "00-0026345,00-0010346" },
+		{ contentId: "09000d5d81a77897",
+			summary: "WK 1: Jay Cutler highlights",videoURL: "\/videos\/nfl-game-highlights\/09000d5d81a77897\/WK-1-Jay-Cutler-highlights",
+			/*[Person{lastName='Cutler', firstName='Jay', esbId='CUT288111'}, Person{lastName='Manning', firstName='Peyton', esbId='MAN515097'}, Person{lastName='Palmer', firstName='Carson', esbId='PAL249055'}]*/
+/* CUT288111 */
+				
+team: "CHI",
+			filter: "00-0024226" },
+		{ contentId: "09000d5d81a76d04",
+			summary: "Collie 73-yard TD",videoURL: "\/videos\/nfl-game-highlights\/09000d5d81a76d04\/Collie-73-yard-TD",
+			/*[Person{lastName='Cutler', firstName='Jay', esbId='CUT288111'}, Person{lastName='Manning', firstName='Peyton', esbId='MAN515097'}, Person{lastName='Palmer', firstName='Carson', esbId='PAL249055'}]*/
+/* MAN515097 */
+				
+/* COL397342 */
+				
+team: "IND",
+			filter: "00-0010346,00-0027092" },
+		{ contentId: "09000d5d81a769ad",
+			summary: "Cutler to Forte 28-yard TD",videoURL: "\/videos\/nfl-game-highlights\/09000d5d81a769ad\/Cutler-to-Forte-28-yard-TD",
+			/*[Person{lastName='Cutler', firstName='Jay', esbId='CUT288111'}, Person{lastName='Manning', firstName='Peyton', esbId='MAN515097'}, Person{lastName='Palmer', firstName='Carson', esbId='PAL249055'}]*/
+/* FOR645404 */
+				
+/* CUT288111 */
+				
+team: "CHI",
+			filter: "00-0026184,00-0024226" },
+		{ contentId: "09000d5d81a768cc",
+			summary: "Dallas Clark 10-yard TD",videoURL: "\/videos\/nfl-game-highlights\/09000d5d81a768cc\/Dallas-Clark-10-yard-TD",
+			/*[Person{lastName='Cutler', firstName='Jay', esbId='CUT288111'}, Person{lastName='Manning', firstName='Peyton', esbId='MAN515097'}, Person{lastName='Palmer', firstName='Carson', esbId='PAL249055'}]*/
+/* MAN515097 */
+				
+/* CLA236596 */
+				
+team: "IND",
+			filter: "00-0010346,00-0022165" },
+		{ contentId: "09000d5d81a7659f",
+			summary: "QB Cutler to WR Knox, 32-yd, pass",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a7659f\/QB-Cutler-to-WR-Knox-32-yd-pass",
+			/*[Person{lastName='Cutler', firstName='Jay', esbId='CUT288111'}, Person{lastName='Manning', firstName='Peyton', esbId='MAN515097'}, Person{lastName='Palmer', firstName='Carson', esbId='PAL249055'}]*/
+/* KNO571695 */
+				
+/* CUT288111 */
+				
+team: "CHI",
+			filter: "00-0026913,00-0024226" },
+		{ contentId: "09000d5d81a75f5d",
+			summary: "Ochocinco 28-yard TD",videoURL: "\/videos\/nfl-game-highlights\/09000d5d81a75f5d\/Ochocinco-28-yard-TD",
+			/*[Person{lastName='Cutler', firstName='Jay', esbId='CUT288111'}, Person{lastName='Manning', firstName='Peyton', esbId='MAN515097'}, Person{lastName='Palmer', firstName='Carson', esbId='PAL249055'}]*/
+/* JOH104425 */
+				
+/* PAL249055 */
+				
+team: "CIN",
+			filter: "00-0020397,00-0021429" },
+		{ contentId: "09000d5d81a74ea8",
+			summary: "Wayne 14-yard TD",videoURL: "\/videos\/nfl-game-highlights\/09000d5d81a74ea8\/Wayne-14-yard-TD",
+			/*[Person{lastName='Cutler', firstName='Jay', esbId='CUT288111'}, Person{lastName='Manning', firstName='Peyton', esbId='MAN515097'}, Person{lastName='Palmer', firstName='Carson', esbId='PAL249055'}]*/
+/* MAN515097 */
+				
+/* WAY456953 */
+				
+team: "IND",
+			filter: "00-0010346,00-0020498" }
+		
+	]
+},
+		
+		
+			
+			
+				
+			
+				
+			
+				
+			
+				
+			
+			/* ids: FOS107404,JOH127799,MEN393702,VIC311467 */
+		RUSHING: {
+	label: "Rushing",
+	filterValues: [
+		{ label: 'All Players', value: '' },
+		{ label: "Foster, Arian", value: "00-0026796" },
+		{ label: "Johnson, Chris", value: "00-0026164" },
+		{ label: "Mendenhall, Rashard", value: "00-0026163" },
+		{ label: "Vick, Michael", value: "00-0020245" }
+	],
+	videos: [
+		{ contentId: "09000d5d81a7d675",
+			summary: "QB Vick, 31-yd, run",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a7d675\/QB-Vick-31-yd-run",
+			/*[Person{lastName='Foster', firstName='Arian', esbId='FOS107404'}, Person{lastName='Johnson', firstName='Christopher', esbId='JOH127799'}, Person{lastName='Mendenhall', firstName='Rashard', esbId='MEN393702'}, Person{lastName='Vick', firstName='Michael', esbId='VIC311467'}]*/
+/* VIC311467 */
+				
+team: "PHI",
+			filter: "00-0020245" },
+		{ contentId: "09000d5d81a7d5cb",
+			summary: "QB Vick, 23-yd, run",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a7d5cb\/QB-Vick-23-yd-run",
+			/*[Person{lastName='Foster', firstName='Arian', esbId='FOS107404'}, Person{lastName='Johnson', firstName='Christopher', esbId='JOH127799'}, Person{lastName='Mendenhall', firstName='Rashard', esbId='MEN393702'}, Person{lastName='Vick', firstName='Michael', esbId='VIC311467'}]*/
+/* VIC311467 */
+				
+team: "PHI",
+			filter: "00-0020245" },
+		{ contentId: "09000d5d81a7c74a",
+			summary: "QB Vick, 16-yd, run",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a7c74a\/QB-Vick-16-yd-run",
+			/*[Person{lastName='Foster', firstName='Arian', esbId='FOS107404'}, Person{lastName='Johnson', firstName='Christopher', esbId='JOH127799'}, Person{lastName='Mendenhall', firstName='Rashard', esbId='MEN393702'}, Person{lastName='Vick', firstName='Michael', esbId='VIC311467'}]*/
+/* VIC311467 */
+				
+team: "PHI",
+			filter: "00-0020245" },
+		{ contentId: "09000d5d81a7c676",
+			summary: "QB Vick to TE Celek, 27-yd, pass",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a7c676\/QB-Vick-to-TE-Celek-27-yd-pass",
+			/*[Person{lastName='Foster', firstName='Arian', esbId='FOS107404'}, Person{lastName='Johnson', firstName='Christopher', esbId='JOH127799'}, Person{lastName='Mendenhall', firstName='Rashard', esbId='MEN393702'}, Person{lastName='Vick', firstName='Michael', esbId='VIC311467'}]*/
+/* CEL251361 */
+				
+/* VIC311467 */
+				
+team: "PHI",
+			filter: "00-0025549,00-0020245" },
+		{ contentId: "09000d5d81a7c673",
+			summary: "QB Vick to WR Maclin, 17-yd, pass, TD",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a7c673\/QB-Vick-to-WR-Maclin-17-yd-pass-TD",
+			/*[Person{lastName='Foster', firstName='Arian', esbId='FOS107404'}, Person{lastName='Johnson', firstName='Christopher', esbId='JOH127799'}, Person{lastName='Mendenhall', firstName='Rashard', esbId='MEN393702'}, Person{lastName='Vick', firstName='Michael', esbId='VIC311467'}]*/
+/* MAC710352 */
+				
+/* VIC311467 */
+				
+team: "PHI",
+			filter: "00-0026995,00-0020245" },
+		{ contentId: "09000d5d81a7c675",
+			summary: "QB Vick to RB McCoy, 27-yd, pass",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a7c675\/QB-Vick-to-RB-McCoy-27-yd-pass",
+			/*[Person{lastName='Foster', firstName='Arian', esbId='FOS107404'}, Person{lastName='Johnson', firstName='Christopher', esbId='JOH127799'}, Person{lastName='Mendenhall', firstName='Rashard', esbId='MEN393702'}, Person{lastName='Vick', firstName='Michael', esbId='VIC311467'}]*/
+/* MCC620232 */
+				
+/* VIC311467 */
+				
+team: "PHI",
+			filter: "00-0027029,00-0020245" },
+		{ contentId: "09000d5d81a7c4e2",
+			summary: "Week 1: Michael Vick Highlights",videoURL: "\/videos\/nfl-game-highlights\/09000d5d81a7c4e2\/Week-1-Michael-Vick-Highlights",
+			/*[Person{lastName='Foster', firstName='Arian', esbId='FOS107404'}, Person{lastName='Johnson', firstName='Christopher', esbId='JOH127799'}, Person{lastName='Mendenhall', firstName='Rashard', esbId='MEN393702'}, Person{lastName='Vick', firstName='Michael', esbId='VIC311467'}]*/
+/* VIC311467 */
+				
+team: "PHI",
+			filter: "00-0020245" },
+		{ contentId: "09000d5d81a7c3bd",
+			summary: "RB Mendenhall, 50-yd, run, TD",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a7c3bd\/RB-Mendenhall-50-yd-run-TD",
+			/*[Person{lastName='Foster', firstName='Arian', esbId='FOS107404'}, Person{lastName='Johnson', firstName='Christopher', esbId='JOH127799'}, Person{lastName='Mendenhall', firstName='Rashard', esbId='MEN393702'}, Person{lastName='Vick', firstName='Michael', esbId='VIC311467'}]*/
+/* MEN393702 */
+				
+team: "PIT",
+			filter: "00-0026163" },
+		{ contentId: "09000d5d81a7b87f",
+			summary: "Packers vs. Eagles highlights",videoURL: "\/videos\/nfl-game-highlights\/09000d5d81a7b87f\/Packers-vs-Eagles-highlights",
+			/*[Person{lastName='Foster', firstName='Arian', esbId='FOS107404'}, Person{lastName='Johnson', firstName='Christopher', esbId='JOH127799'}, Person{lastName='Mendenhall', firstName='Rashard', esbId='MEN393702'}, Person{lastName='Vick', firstName='Michael', esbId='VIC311467'}]*/
+/* VIC311467 */
+				
+/* ROD339293 */
+				
+/* MAT538690 */
+				
+/* KOL105037 */
+				
+team: "PHI",
+			filter: "00-0020245,00-0023459,00-0027002,00-0025423" },
+		{ contentId: "09000d5d81a7a9f9",
+			summary: "Maclin 17-yard TD catch",videoURL: "\/videos\/nfl-game-highlights\/09000d5d81a7a9f9\/Maclin-17-yard-TD-catch",
+			/*[Person{lastName='Foster', firstName='Arian', esbId='FOS107404'}, Person{lastName='Johnson', firstName='Christopher', esbId='JOH127799'}, Person{lastName='Mendenhall', firstName='Rashard', esbId='MEN393702'}, Person{lastName='Vick', firstName='Michael', esbId='VIC311467'}]*/
+/* MAC710352 */
+				
+/* VIC311467 */
+				
+team: "PHI",
+			filter: "00-0026995,00-0020245" },
+		{ contentId: "09000d5d81a7a963",
+			summary: "RB Foster, 8-yd, run, TD",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a7a963\/RB-Foster-8-yd-run-TD",
+			/*[Person{lastName='Foster', firstName='Arian', esbId='FOS107404'}, Person{lastName='Johnson', firstName='Christopher', esbId='JOH127799'}, Person{lastName='Mendenhall', firstName='Rashard', esbId='MEN393702'}, Person{lastName='Vick', firstName='Michael', esbId='VIC311467'}]*/
+/* FOS107404 */
+				
+team: "HOU",
+			filter: "00-0026796" },
+		{ contentId: "09000d5d81a7a880",
+			summary: "RB Foster, 25-yd, run, TD",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a7a880\/RB-Foster-25-yd-run-TD",
+			/*[Person{lastName='Foster', firstName='Arian', esbId='FOS107404'}, Person{lastName='Johnson', firstName='Christopher', esbId='JOH127799'}, Person{lastName='Mendenhall', firstName='Rashard', esbId='MEN393702'}, Person{lastName='Vick', firstName='Michael', esbId='VIC311467'}]*/
+/* FOS107404 */
+				
+team: "HOU",
+			filter: "00-0026796" },
+		{ contentId: "09000d5d81a7a87f",
+			summary: "RB Foster, 42-yd, run",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a7a87f\/RB-Foster-42-yd-run",
+			/*[Person{lastName='Foster', firstName='Arian', esbId='FOS107404'}, Person{lastName='Johnson', firstName='Christopher', esbId='JOH127799'}, Person{lastName='Mendenhall', firstName='Rashard', esbId='MEN393702'}, Person{lastName='Vick', firstName='Michael', esbId='VIC311467'}]*/
+/* FOS107404 */
+				
+team: "HOU",
+			filter: "00-0026796" },
+		{ contentId: "09000d5d81a79d82",
+			summary: "Week 1 Can\'t-Miss Play: Vick\'s quicks",videoURL: "\/videos\/nfl-cant-miss-plays\/09000d5d81a79d82\/Vick-shows-off-his-quicks-vs-Packers",
+			/*[Person{lastName='Foster', firstName='Arian', esbId='FOS107404'}, Person{lastName='Johnson', firstName='Christopher', esbId='JOH127799'}, Person{lastName='Mendenhall', firstName='Rashard', esbId='MEN393702'}, Person{lastName='Vick', firstName='Michael', esbId='VIC311467'}]*/
+/* VIC311467 */
+				
+team: "PHI",
+			filter: "00-0020245" },
+		{ contentId: "09000d5d81a798aa",
+			summary: "Vick 23-yard run",videoURL: "\/videos\/nfl-game-highlights\/09000d5d81a798aa\/Vick-23-yard-run",
+			/*[Person{lastName='Foster', firstName='Arian', esbId='FOS107404'}, Person{lastName='Johnson', firstName='Christopher', esbId='JOH127799'}, Person{lastName='Mendenhall', firstName='Rashard', esbId='MEN393702'}, Person{lastName='Vick', firstName='Michael', esbId='VIC311467'}]*/
+/* VIC311467 */
+				
+team: "PHI",
+			filter: "00-0020245" },
+		{ contentId: "09000d5d81a79760",
+			summary: "RB Foster, 1-yd, run, TD",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a79760\/RB-Foster-1-yd-run-TD",
+			/*[Person{lastName='Foster', firstName='Arian', esbId='FOS107404'}, Person{lastName='Johnson', firstName='Christopher', esbId='JOH127799'}, Person{lastName='Mendenhall', firstName='Rashard', esbId='MEN393702'}, Person{lastName='Vick', firstName='Michael', esbId='VIC311467'}]*/
+/* FOS107404 */
+				
+team: "HOU",
+			filter: "00-0026796" },
+		{ contentId: "09000d5d81a78c1e",
+			summary: "WK 1: Arian Foster highlights",videoURL: "\/videos\/nfl-game-highlights\/09000d5d81a78c1e\/Foster-gets-200-plus-yards-three-TDs",
+			/*[Person{lastName='Foster', firstName='Arian', esbId='FOS107404'}, Person{lastName='Johnson', firstName='Christopher', esbId='JOH127799'}, Person{lastName='Mendenhall', firstName='Rashard', esbId='MEN393702'}, Person{lastName='Vick', firstName='Michael', esbId='VIC311467'}]*/
+/* FOS107404 */
+				
+team: "HOU",
+			filter: "00-0026796" },
+		{ contentId: "09000d5d81a7807d",
+			summary: "RB Johnson, 4-yd, run, TD",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a7807d\/RB-Johnson-4-yd-run-TD",
+			/*[Person{lastName='Foster', firstName='Arian', esbId='FOS107404'}, Person{lastName='Johnson', firstName='Christopher', esbId='JOH127799'}, Person{lastName='Mendenhall', firstName='Rashard', esbId='MEN393702'}, Person{lastName='Vick', firstName='Michael', esbId='VIC311467'}]*/
+/* JOH127799 */
+				
+team: "TEN",
+			filter: "00-0026164" },
+		{ contentId: "09000d5d81a777b3",
+			summary: "RB Johnson, 76-yd, run, TD",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a777b3\/RB-Johnson-76-yd-run-TD",
+			/*[Person{lastName='Foster', firstName='Arian', esbId='FOS107404'}, Person{lastName='Johnson', firstName='Christopher', esbId='JOH127799'}, Person{lastName='Mendenhall', firstName='Rashard', esbId='MEN393702'}, Person{lastName='Vick', firstName='Michael', esbId='VIC311467'}]*/
+/* JOH127799 */
+				
+team: "TEN",
+			filter: "00-0026164" },
+		{ contentId: "09000d5d81a76d0a",
+			summary: "WK 1 Can\'t-Miss Play: Mendenhall walk-off TD",videoURL: "\/videos\/nfl-cant-miss-plays\/09000d5d81a76d0a\/Mendenhall-scores-walk-off-TD",
+			/*[Person{lastName='Foster', firstName='Arian', esbId='FOS107404'}, Person{lastName='Johnson', firstName='Christopher', esbId='JOH127799'}, Person{lastName='Mendenhall', firstName='Rashard', esbId='MEN393702'}, Person{lastName='Vick', firstName='Michael', esbId='VIC311467'}]*/
+/* MEN393702 */
+				
+team: "PIT",
+			filter: "00-0026163" },
+		{ contentId: "09000d5d81a76aaa",
+			summary: "Foster scores third TD",videoURL: "\/videos\/nfl-game-highlights\/09000d5d81a76aaa\/Foster-caps-career-day-with-third-TD",
+			/*[Person{lastName='Foster', firstName='Arian', esbId='FOS107404'}, Person{lastName='Johnson', firstName='Christopher', esbId='JOH127799'}, Person{lastName='Mendenhall', firstName='Rashard', esbId='MEN393702'}, Person{lastName='Vick', firstName='Michael', esbId='VIC311467'}]*/
+/* FOS107404 */
+				
+team: "HOU",
+			filter: "00-0026796" },
+		{ contentId: "09000d5d81a764ec",
+			summary: "Foster 25-yard TD",videoURL: "\/videos\/nfl-game-highlights\/09000d5d81a764ec\/Foster-25-yard-TD",
+			/*[Person{lastName='Foster', firstName='Arian', esbId='FOS107404'}, Person{lastName='Johnson', firstName='Christopher', esbId='JOH127799'}, Person{lastName='Mendenhall', firstName='Rashard', esbId='MEN393702'}, Person{lastName='Vick', firstName='Michael', esbId='VIC311467'}]*/
+/* FOS107404 */
+				
+team: "HOU",
+			filter: "00-0026796" },
+		{ contentId: "09000d5d81a7638b",
+			summary: "Foster 42-yard run",videoURL: "\/videos\/nfl-game-highlights\/09000d5d81a7638b\/Foster-42-yard-run",
+			/*[Person{lastName='Foster', firstName='Arian', esbId='FOS107404'}, Person{lastName='Johnson', firstName='Christopher', esbId='JOH127799'}, Person{lastName='Mendenhall', firstName='Rashard', esbId='MEN393702'}, Person{lastName='Vick', firstName='Michael', esbId='VIC311467'}]*/
+/* FOS107404 */
+				
+team: "HOU",
+			filter: "00-0026796" },
+		{ contentId: "09000d5d81a75d8a",
+			summary: "CJ back for seconds",videoURL: "\/videos\/nfl-game-highlights\/09000d5d81a75d8a\/CJ-back-for-seconds",
+			/*[Person{lastName='Foster', firstName='Arian', esbId='FOS107404'}, Person{lastName='Johnson', firstName='Christopher', esbId='JOH127799'}, Person{lastName='Mendenhall', firstName='Rashard', esbId='MEN393702'}, Person{lastName='Vick', firstName='Michael', esbId='VIC311467'}]*/
+/* JOH127799 */
+				
+team: "TEN",
+			filter: "00-0026164" },
+		{ contentId: "09000d5d81a759ec",
+			summary: "Foster 1-yard TD",videoURL: "\/videos\/nfl-game-highlights\/09000d5d81a759ec\/Foster-1-yard-TD",
+			/*[Person{lastName='Foster', firstName='Arian', esbId='FOS107404'}, Person{lastName='Johnson', firstName='Christopher', esbId='JOH127799'}, Person{lastName='Mendenhall', firstName='Rashard', esbId='MEN393702'}, Person{lastName='Vick', firstName='Michael', esbId='VIC311467'}]*/
+/* FOS107404 */
+				
+team: "HOU",
+			filter: "00-0026796" },
+		{ contentId: "09000d5d81a7500b",
+			summary: "WK 1 Can\'t-Miss Play: CJ2K busts one",videoURL: "\/videos\/nfl-cant-miss-plays\/09000d5d81a7500b\/CJ2K-busts-free-for-76-yard-TD",
+			/*[Person{lastName='Foster', firstName='Arian', esbId='FOS107404'}, Person{lastName='Johnson', firstName='Christopher', esbId='JOH127799'}, Person{lastName='Mendenhall', firstName='Rashard', esbId='MEN393702'}, Person{lastName='Vick', firstName='Michael', esbId='VIC311467'}]*/
+/* JOH127799 */
+				
+team: "TEN",
+			filter: "00-0026164" }
+		
+	]
+},
+		
+		
+			
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+			/* ids: COL397342,JOH104425,FOR645404,AUS467198,BRE019124,CLA796702,LLO154116,WHI472686,BOL283010,NAA444955,WAR179227 */
+		RECEIVING: {
+	label: "Receiving",
+	filterValues: [
+		{ label: 'All Players', value: '' },
+		{ label: "Austin, Miles", value: "00-0023921" },
+		{ label: "Boldin, Anquan", value: "00-0022084" },
+		{ label: "Breaston, Steve", value: "00-0025529" },
+		{ label: "Clayton, Mark", value: "00-0023457" },
+		{ label: "Collie, Austin", value: "00-0027092" },
+		{ label: "Forte, Matt", value: "00-0026184" },
+		{ label: "Lloyd, Brandon", value: "00-0022097" },
+		{ label: "Naanee, Legedu", value: "00-0025559" },
+		{ label: "Ochocinco, Chad", value: "00-0020397" },
+		{ label: "Ward, Hines", value: "00-0017162" }
+	],
+	videos: [
+		{ contentId: "09000d5d81a8543f",
+			summary: "QB Rivers to WR Naanee, 59-yd, pass, TD",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a8543f\/QB-Rivers-to-WR-Naanee-59-yd-pass-TD",
+			/*[Person{lastName='Austin', firstName='Miles', esbId='AUS467198'}, Person{lastName='Boldin', firstName='Anquan', esbId='BOL283010'}, Person{lastName='Breaston', firstName='Steven', esbId='BRE019124'}, Person{lastName='Clayton', firstName='Mark', esbId='CLA796702'}, Person{lastName='Collie', firstName='Austin', esbId='COL397342'}, Person{lastName='Forte', firstName='Matthew', esbId='FOR645404'}, Person{lastName='Lloyd', firstName='Brandon', esbId='LLO154116'}, Person{lastName='Naanee', firstName='Legedu', esbId='NAA444955'}, Person{lastName='Ochocinco', firstName='Chad', esbId='JOH104425'}, Person{lastName='Ward', firstName='Hines', esbId='WAR179227'}]*/
+/* RIV651634 */
+				
+/* NAA444955 */
+				
+team: "CAR",
+			filter: "00-0022942,00-0025559" },
+		{ contentId: "09000d5d81a84ed1",
+			summary: "Naanee 59-yard TD",videoURL: "\/videos\/nfl-game-highlights\/09000d5d81a84ed1\/Naanee-59-yard-TD",
+			/*[Person{lastName='Austin', firstName='Miles', esbId='AUS467198'}, Person{lastName='Boldin', firstName='Anquan', esbId='BOL283010'}, Person{lastName='Breaston', firstName='Steven', esbId='BRE019124'}, Person{lastName='Clayton', firstName='Mark', esbId='CLA796702'}, Person{lastName='Collie', firstName='Austin', esbId='COL397342'}, Person{lastName='Forte', firstName='Matthew', esbId='FOR645404'}, Person{lastName='Lloyd', firstName='Brandon', esbId='LLO154116'}, Person{lastName='Naanee', firstName='Legedu', esbId='NAA444955'}, Person{lastName='Ochocinco', firstName='Chad', esbId='JOH104425'}, Person{lastName='Ward', firstName='Hines', esbId='WAR179227'}]*/
+/* RIV651634 */
+				
+/* NAA444955 */
+				
+team: "CAR",
+			filter: "00-0022942,00-0025559" },
+		{ contentId: "09000d5d81a8491b",
+			summary: "Ravens vs. Jets highlights",videoURL: "\/videos\/nfl-game-highlights\/09000d5d81a8491b\/Ravens-back-up-talk-in-win-over-Jets",
+			/*[Person{lastName='Austin', firstName='Miles', esbId='AUS467198'}, Person{lastName='Boldin', firstName='Anquan', esbId='BOL283010'}, Person{lastName='Breaston', firstName='Steven', esbId='BRE019124'}, Person{lastName='Clayton', firstName='Mark', esbId='CLA796702'}, Person{lastName='Collie', firstName='Austin', esbId='COL397342'}, Person{lastName='Forte', firstName='Matthew', esbId='FOR645404'}, Person{lastName='Lloyd', firstName='Brandon', esbId='LLO154116'}, Person{lastName='Naanee', firstName='Legedu', esbId='NAA444955'}, Person{lastName='Ochocinco', firstName='Chad', esbId='JOH104425'}, Person{lastName='Ward', firstName='Hines', esbId='WAR179227'}]*/
+/* TOM683150 */
+				
+/* SAN091667 */
+				
+/* HEA302949 */
+				
+/* BOL283010 */
+				
+/* CRO161100 */
+				
+/* FLA009602 */
+				
+/* LEW562347 */
+				
+team: "BAL",
+			filter: "00-0020536,00-0026898,00-0020516,00-0022084,00-0024234,00-0026158,00-0009889" },
+		{ contentId: "09000d5d81a8440a",
+			summary: "QB Flacco to WR Boldin, 27-yd, pass",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a8440a\/QB-Flacco-to-WR-Boldin-27-yd-pass",
+			/*[Person{lastName='Austin', firstName='Miles', esbId='AUS467198'}, Person{lastName='Boldin', firstName='Anquan', esbId='BOL283010'}, Person{lastName='Breaston', firstName='Steven', esbId='BRE019124'}, Person{lastName='Clayton', firstName='Mark', esbId='CLA796702'}, Person{lastName='Collie', firstName='Austin', esbId='COL397342'}, Person{lastName='Forte', firstName='Matthew', esbId='FOR645404'}, Person{lastName='Lloyd', firstName='Brandon', esbId='LLO154116'}, Person{lastName='Naanee', firstName='Legedu', esbId='NAA444955'}, Person{lastName='Ochocinco', firstName='Chad', esbId='JOH104425'}, Person{lastName='Ward', firstName='Hines', esbId='WAR179227'}]*/
+/* FLA009602 */
+				
+/* BOL283010 */
+				
+team: "BAL",
+			filter: "00-0026158,00-0022084" },
+		{ contentId: "09000d5d81a8440b",
+			summary: "QB Flacco to WR Boldin, 38-yd, pass",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a8440b\/QB-Flacco-to-WR-Boldin-38-yd-pass",
+			/*[Person{lastName='Austin', firstName='Miles', esbId='AUS467198'}, Person{lastName='Boldin', firstName='Anquan', esbId='BOL283010'}, Person{lastName='Breaston', firstName='Steven', esbId='BRE019124'}, Person{lastName='Clayton', firstName='Mark', esbId='CLA796702'}, Person{lastName='Collie', firstName='Austin', esbId='COL397342'}, Person{lastName='Forte', firstName='Matthew', esbId='FOR645404'}, Person{lastName='Lloyd', firstName='Brandon', esbId='LLO154116'}, Person{lastName='Naanee', firstName='Legedu', esbId='NAA444955'}, Person{lastName='Ochocinco', firstName='Chad', esbId='JOH104425'}, Person{lastName='Ward', firstName='Hines', esbId='WAR179227'}]*/
+/* FLA009602 */
+				
+/* BOL283010 */
+				
+team: "BAL",
+			filter: "00-0026158,00-0022084" },
+		{ contentId: "09000d5d81a83c09",
+			summary: "Boldin 38-yard catch",videoURL: "\/videos\/nfl-game-highlights\/09000d5d81a83c09\/Boldin-makes-presence-known-for-Ravens",
+			/*[Person{lastName='Austin', firstName='Miles', esbId='AUS467198'}, Person{lastName='Boldin', firstName='Anquan', esbId='BOL283010'}, Person{lastName='Breaston', firstName='Steven', esbId='BRE019124'}, Person{lastName='Clayton', firstName='Mark', esbId='CLA796702'}, Person{lastName='Collie', firstName='Austin', esbId='COL397342'}, Person{lastName='Forte', firstName='Matthew', esbId='FOR645404'}, Person{lastName='Lloyd', firstName='Brandon', esbId='LLO154116'}, Person{lastName='Naanee', firstName='Legedu', esbId='NAA444955'}, Person{lastName='Ochocinco', firstName='Chad', esbId='JOH104425'}, Person{lastName='Ward', firstName='Hines', esbId='WAR179227'}]*/
+/* BOL283010 */
+				
+team: "BAL",
+			filter: "00-0022084" },
+		{ contentId: "09000d5d81a7e29f",
+			summary: "QB Romo to WR Austin, 30-yd, pass, 4th down conversion",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a7e29f\/QB-Romo-to-WR-Austin-30-yd-pass-4th-down-conversion",
+			/*[Person{lastName='Austin', firstName='Miles', esbId='AUS467198'}, Person{lastName='Boldin', firstName='Anquan', esbId='BOL283010'}, Person{lastName='Breaston', firstName='Steven', esbId='BRE019124'}, Person{lastName='Clayton', firstName='Mark', esbId='CLA796702'}, Person{lastName='Collie', firstName='Austin', esbId='COL397342'}, Person{lastName='Forte', firstName='Matthew', esbId='FOR645404'}, Person{lastName='Lloyd', firstName='Brandon', esbId='LLO154116'}, Person{lastName='Naanee', firstName='Legedu', esbId='NAA444955'}, Person{lastName='Ochocinco', firstName='Chad', esbId='JOH104425'}, Person{lastName='Ward', firstName='Hines', esbId='WAR179227'}]*/
+/* AUS467198 */
+				
+/* ROM787981 */
+				
+team: "DAL",
+			filter: "00-0023921,00-0021678" },
+		{ contentId: "09000d5d81a7ddf5",
+			summary: "QB Romo to WR Austin, 29-yd, pass",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a7ddf5\/QB-Romo-to-WR-Austin-29-yd-pass",
+			/*[Person{lastName='Austin', firstName='Miles', esbId='AUS467198'}, Person{lastName='Boldin', firstName='Anquan', esbId='BOL283010'}, Person{lastName='Breaston', firstName='Steven', esbId='BRE019124'}, Person{lastName='Clayton', firstName='Mark', esbId='CLA796702'}, Person{lastName='Collie', firstName='Austin', esbId='COL397342'}, Person{lastName='Forte', firstName='Matthew', esbId='FOR645404'}, Person{lastName='Lloyd', firstName='Brandon', esbId='LLO154116'}, Person{lastName='Naanee', firstName='Legedu', esbId='NAA444955'}, Person{lastName='Ochocinco', firstName='Chad', esbId='JOH104425'}, Person{lastName='Ward', firstName='Hines', esbId='WAR179227'}]*/
+/* AUS467198 */
+				
+/* ROM787981 */
+				
+team: "DAL",
+			filter: "00-0023921,00-0021678" },
+		{ contentId: "09000d5d81a7ddf6",
+			summary: "QB Romo to WR Austin, 4-yd, pass, TD",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a7ddf6\/QB-Romo-to-WR-Austin-4-yd-pass-TD",
+			/*[Person{lastName='Austin', firstName='Miles', esbId='AUS467198'}, Person{lastName='Boldin', firstName='Anquan', esbId='BOL283010'}, Person{lastName='Breaston', firstName='Steven', esbId='BRE019124'}, Person{lastName='Clayton', firstName='Mark', esbId='CLA796702'}, Person{lastName='Collie', firstName='Austin', esbId='COL397342'}, Person{lastName='Forte', firstName='Matthew', esbId='FOR645404'}, Person{lastName='Lloyd', firstName='Brandon', esbId='LLO154116'}, Person{lastName='Naanee', firstName='Legedu', esbId='NAA444955'}, Person{lastName='Ochocinco', firstName='Chad', esbId='JOH104425'}, Person{lastName='Ward', firstName='Hines', esbId='WAR179227'}]*/
+/* AUS467198 */
+				
+/* ROM787981 */
+				
+team: "DAL",
+			filter: "00-0023921,00-0021678" },
+		{ contentId: "09000d5d81a7db15",
+			summary: "Austin 4-yard TD",videoURL: "\/videos\/nfl-game-highlights\/09000d5d81a7db15\/Austin-4-yard-TD",
+			/*[Person{lastName='Austin', firstName='Miles', esbId='AUS467198'}, Person{lastName='Boldin', firstName='Anquan', esbId='BOL283010'}, Person{lastName='Breaston', firstName='Steven', esbId='BRE019124'}, Person{lastName='Clayton', firstName='Mark', esbId='CLA796702'}, Person{lastName='Collie', firstName='Austin', esbId='COL397342'}, Person{lastName='Forte', firstName='Matthew', esbId='FOR645404'}, Person{lastName='Lloyd', firstName='Brandon', esbId='LLO154116'}, Person{lastName='Naanee', firstName='Legedu', esbId='NAA444955'}, Person{lastName='Ochocinco', firstName='Chad', esbId='JOH104425'}, Person{lastName='Ward', firstName='Hines', esbId='WAR179227'}]*/
+/* AUS467198 */
+				
+team: "DAL",
+			filter: "00-0023921" },
+		{ contentId: "09000d5d81a7d077",
+			summary: "QB Palmer to WR Ochocinco, 25-yd, pass",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a7d077\/QB-Palmer-to-WR-Ochocinco-25-yd-pass",
+			/*[Person{lastName='Austin', firstName='Miles', esbId='AUS467198'}, Person{lastName='Boldin', firstName='Anquan', esbId='BOL283010'}, Person{lastName='Breaston', firstName='Steven', esbId='BRE019124'}, Person{lastName='Clayton', firstName='Mark', esbId='CLA796702'}, Person{lastName='Collie', firstName='Austin', esbId='COL397342'}, Person{lastName='Forte', firstName='Matthew', esbId='FOR645404'}, Person{lastName='Lloyd', firstName='Brandon', esbId='LLO154116'}, Person{lastName='Naanee', firstName='Legedu', esbId='NAA444955'}, Person{lastName='Ochocinco', firstName='Chad', esbId='JOH104425'}, Person{lastName='Ward', firstName='Hines', esbId='WAR179227'}]*/
+/* JOH104425 */
+				
+/* PAL249055 */
+				
+team: "NE",
+			filter: "00-0020397,00-0021429" },
+		{ contentId: "09000d5d81a7cea2",
+			summary: "QB Cutler to RB Forte, 28-yd, pass, TD",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a7cea2\/QB-Cutler-to-RB-Forte-28-yd-pass-TD",
+			/*[Person{lastName='Austin', firstName='Miles', esbId='AUS467198'}, Person{lastName='Boldin', firstName='Anquan', esbId='BOL283010'}, Person{lastName='Breaston', firstName='Steven', esbId='BRE019124'}, Person{lastName='Clayton', firstName='Mark', esbId='CLA796702'}, Person{lastName='Collie', firstName='Austin', esbId='COL397342'}, Person{lastName='Forte', firstName='Matthew', esbId='FOR645404'}, Person{lastName='Lloyd', firstName='Brandon', esbId='LLO154116'}, Person{lastName='Naanee', firstName='Legedu', esbId='NAA444955'}, Person{lastName='Ochocinco', firstName='Chad', esbId='JOH104425'}, Person{lastName='Ward', firstName='Hines', esbId='WAR179227'}]*/
+/* FOR645404 */
+				
+/* CUT288111 */
+				
+team: "CHI",
+			filter: "00-0026184,00-0024226" },
+		{ contentId: "09000d5d81a7cba2",
+			summary: "QB Palmer to WR Ochocinco, 28-yd, pass, TD",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a7cba2\/QB-Palmer-to-WR-Ochocinco-28-yd-pass-TD",
+			/*[Person{lastName='Austin', firstName='Miles', esbId='AUS467198'}, Person{lastName='Boldin', firstName='Anquan', esbId='BOL283010'}, Person{lastName='Breaston', firstName='Steven', esbId='BRE019124'}, Person{lastName='Clayton', firstName='Mark', esbId='CLA796702'}, Person{lastName='Collie', firstName='Austin', esbId='COL397342'}, Person{lastName='Forte', firstName='Matthew', esbId='FOR645404'}, Person{lastName='Lloyd', firstName='Brandon', esbId='LLO154116'}, Person{lastName='Naanee', firstName='Legedu', esbId='NAA444955'}, Person{lastName='Ochocinco', firstName='Chad', esbId='JOH104425'}, Person{lastName='Ward', firstName='Hines', esbId='WAR179227'}]*/
+/* JOH104425 */
+				
+/* PAL249055 */
+				
+team: "NE",
+			filter: "00-0020397,00-0021429" },
+		{ contentId: "09000d5d81a7ca67",
+			summary: "RB Forte, 17-yd, run",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a7ca67\/RB-Forte-17-yd-run",
+			/*[Person{lastName='Austin', firstName='Miles', esbId='AUS467198'}, Person{lastName='Boldin', firstName='Anquan', esbId='BOL283010'}, Person{lastName='Breaston', firstName='Steven', esbId='BRE019124'}, Person{lastName='Clayton', firstName='Mark', esbId='CLA796702'}, Person{lastName='Collie', firstName='Austin', esbId='COL397342'}, Person{lastName='Forte', firstName='Matthew', esbId='FOR645404'}, Person{lastName='Lloyd', firstName='Brandon', esbId='LLO154116'}, Person{lastName='Naanee', firstName='Legedu', esbId='NAA444955'}, Person{lastName='Ochocinco', firstName='Chad', esbId='JOH104425'}, Person{lastName='Ward', firstName='Hines', esbId='WAR179227'}]*/
+/* FOR645404 */
+				
+team: "CHI",
+			filter: "00-0026184" },
+		{ contentId: "09000d5d81a7c9b4",
+			summary: "Oh no! He Lett it go",videoURL: "\/videos\/nfl-game-highlights\/09000d5d81a7c9b4\/Oh-no-He-Lett-it-go",
+			/*[Person{lastName='Austin', firstName='Miles', esbId='AUS467198'}, Person{lastName='Boldin', firstName='Anquan', esbId='BOL283010'}, Person{lastName='Breaston', firstName='Steven', esbId='BRE019124'}, Person{lastName='Clayton', firstName='Mark', esbId='CLA796702'}, Person{lastName='Collie', firstName='Austin', esbId='COL397342'}, Person{lastName='Forte', firstName='Matthew', esbId='FOR645404'}, Person{lastName='Lloyd', firstName='Brandon', esbId='LLO154116'}, Person{lastName='Naanee', firstName='Legedu', esbId='NAA444955'}, Person{lastName='Ochocinco', firstName='Chad', esbId='JOH104425'}, Person{lastName='Ward', firstName='Hines', esbId='WAR179227'}]*/
+/* BRE019124 */
+				
+/* RYA062840 */
+				
+team: "KC",
+			filter: "00-0025529,00-0025541" },
+		{ contentId: "09000d5d81a7c4e3",
+			summary: "QB Anderson to WR Breaston, 27-yd, pass",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a7c4e3\/QB-Anderson-to-WR-Breaston-27-yd-pass",
+			/*[Person{lastName='Austin', firstName='Miles', esbId='AUS467198'}, Person{lastName='Boldin', firstName='Anquan', esbId='BOL283010'}, Person{lastName='Breaston', firstName='Steven', esbId='BRE019124'}, Person{lastName='Clayton', firstName='Mark', esbId='CLA796702'}, Person{lastName='Collie', firstName='Austin', esbId='COL397342'}, Person{lastName='Forte', firstName='Matthew', esbId='FOR645404'}, Person{lastName='Lloyd', firstName='Brandon', esbId='LLO154116'}, Person{lastName='Naanee', firstName='Legedu', esbId='NAA444955'}, Person{lastName='Ochocinco', firstName='Chad', esbId='JOH104425'}, Person{lastName='Ward', firstName='Hines', esbId='WAR179227'}]*/
+/* AND180512 */
+				
+/* BRE019124 */
+				
+team: "KC",
+			filter: "00-0023645,00-0025529" },
+		{ contentId: "09000d5d81a7c4df",
+			summary: "QB Bradford to WR Clayton, 33-yd, pass",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a7c4df\/QB-Bradford-to-WR-Clayton-33-yd-pass",
+			/*[Person{lastName='Austin', firstName='Miles', esbId='AUS467198'}, Person{lastName='Boldin', firstName='Anquan', esbId='BOL283010'}, Person{lastName='Breaston', firstName='Steven', esbId='BRE019124'}, Person{lastName='Clayton', firstName='Mark', esbId='CLA796702'}, Person{lastName='Collie', firstName='Austin', esbId='COL397342'}, Person{lastName='Forte', firstName='Matthew', esbId='FOR645404'}, Person{lastName='Lloyd', firstName='Brandon', esbId='LLO154116'}, Person{lastName='Naanee', firstName='Legedu', esbId='NAA444955'}, Person{lastName='Ochocinco', firstName='Chad', esbId='JOH104425'}, Person{lastName='Ward', firstName='Hines', esbId='WAR179227'}]*/
+/* CLA796702 */
+				
+/* BRA101548 */
+				
+team: "STL",
+			filter: "00-0023457,00-0027854" },
+		{ contentId: "09000d5d81a7c256",
+			summary: "QB Dixon to WR Ward, 25-yd, pass",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a7c256\/QB-Dixon-to-WR-Ward-25-yd-pass",
+			/*[Person{lastName='Austin', firstName='Miles', esbId='AUS467198'}, Person{lastName='Boldin', firstName='Anquan', esbId='BOL283010'}, Person{lastName='Breaston', firstName='Steven', esbId='BRE019124'}, Person{lastName='Clayton', firstName='Mark', esbId='CLA796702'}, Person{lastName='Collie', firstName='Austin', esbId='COL397342'}, Person{lastName='Forte', firstName='Matthew', esbId='FOR645404'}, Person{lastName='Lloyd', firstName='Brandon', esbId='LLO154116'}, Person{lastName='Naanee', firstName='Legedu', esbId='NAA444955'}, Person{lastName='Ochocinco', firstName='Chad', esbId='JOH104425'}, Person{lastName='Ward', firstName='Hines', esbId='WAR179227'}]*/
+/* DIX123425 */
+				
+/* WAR179227 */
+				
+team: "PIT",
+			filter: "00-0026296,00-0017162" },
+		{ contentId: "09000d5d81a7c1f7",
+			summary: "QB Orton to WR Lloyd, 27-yd, pass",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a7c1f7\/QB-Orton-to-WR-Lloyd-27-yd-pass",
+			/*[Person{lastName='Austin', firstName='Miles', esbId='AUS467198'}, Person{lastName='Boldin', firstName='Anquan', esbId='BOL283010'}, Person{lastName='Breaston', firstName='Steven', esbId='BRE019124'}, Person{lastName='Clayton', firstName='Mark', esbId='CLA796702'}, Person{lastName='Collie', firstName='Austin', esbId='COL397342'}, Person{lastName='Forte', firstName='Matthew', esbId='FOR645404'}, Person{lastName='Lloyd', firstName='Brandon', esbId='LLO154116'}, Person{lastName='Naanee', firstName='Legedu', esbId='NAA444955'}, Person{lastName='Ochocinco', firstName='Chad', esbId='JOH104425'}, Person{lastName='Ward', firstName='Hines', esbId='WAR179227'}]*/
+/* ORT716150 */
+				
+/* LLO154116 */
+				
+team: "DEN",
+			filter: "00-0023541,00-0022097" },
+		{ contentId: "09000d5d81a7c1f6",
+			summary: "QB Orton to WR Lloyd, 25-yd, pass",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a7c1f6\/QB-Orton-to-WR-Lloyd-25-yd-pass",
+			/*[Person{lastName='Austin', firstName='Miles', esbId='AUS467198'}, Person{lastName='Boldin', firstName='Anquan', esbId='BOL283010'}, Person{lastName='Breaston', firstName='Steven', esbId='BRE019124'}, Person{lastName='Clayton', firstName='Mark', esbId='CLA796702'}, Person{lastName='Collie', firstName='Austin', esbId='COL397342'}, Person{lastName='Forte', firstName='Matthew', esbId='FOR645404'}, Person{lastName='Lloyd', firstName='Brandon', esbId='LLO154116'}, Person{lastName='Naanee', firstName='Legedu', esbId='NAA444955'}, Person{lastName='Ochocinco', firstName='Chad', esbId='JOH104425'}, Person{lastName='Ward', firstName='Hines', esbId='WAR179227'}]*/
+/* ORT716150 */
+				
+/* LLO154116 */
+				
+team: "DEN",
+			filter: "00-0023541,00-0022097" },
+		{ contentId: "09000d5d81a7c070",
+			summary: "QB Anderson to WR Breaston, 35-yd, pass",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a7c070\/QB-Anderson-to-WR-Breaston-35-yd-pass",
+			/*[Person{lastName='Austin', firstName='Miles', esbId='AUS467198'}, Person{lastName='Boldin', firstName='Anquan', esbId='BOL283010'}, Person{lastName='Breaston', firstName='Steven', esbId='BRE019124'}, Person{lastName='Clayton', firstName='Mark', esbId='CLA796702'}, Person{lastName='Collie', firstName='Austin', esbId='COL397342'}, Person{lastName='Forte', firstName='Matthew', esbId='FOR645404'}, Person{lastName='Lloyd', firstName='Brandon', esbId='LLO154116'}, Person{lastName='Naanee', firstName='Legedu', esbId='NAA444955'}, Person{lastName='Ochocinco', firstName='Chad', esbId='JOH104425'}, Person{lastName='Ward', firstName='Hines', esbId='WAR179227'}]*/
+/* AND180512 */
+				
+/* BRE019124 */
+				
+team: "KC",
+			filter: "00-0023645,00-0025529" },
+		{ contentId: "09000d5d81a7b4f6",
+			summary: "QB Bradford to WR Clayton, 39-yd, pass",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a7b4f6\/QB-Bradford-to-WR-Clayton-39-yd-pass",
+			/*[Person{lastName='Austin', firstName='Miles', esbId='AUS467198'}, Person{lastName='Boldin', firstName='Anquan', esbId='BOL283010'}, Person{lastName='Breaston', firstName='Steven', esbId='BRE019124'}, Person{lastName='Clayton', firstName='Mark', esbId='CLA796702'}, Person{lastName='Collie', firstName='Austin', esbId='COL397342'}, Person{lastName='Forte', firstName='Matthew', esbId='FOR645404'}, Person{lastName='Lloyd', firstName='Brandon', esbId='LLO154116'}, Person{lastName='Naanee', firstName='Legedu', esbId='NAA444955'}, Person{lastName='Ochocinco', firstName='Chad', esbId='JOH104425'}, Person{lastName='Ward', firstName='Hines', esbId='WAR179227'}]*/
+/* CLA796702 */
+				
+/* BRA101548 */
+				
+team: "STL",
+			filter: "00-0023457,00-0027854" },
+		{ contentId: "09000d5d81a7a962",
+			summary: "QB Manning to WR Collie, 73-yd, pass, TD",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a7a962\/QB-Manning-to-WR-Collie-73-yd-pass-TD",
+			/*[Person{lastName='Austin', firstName='Miles', esbId='AUS467198'}, Person{lastName='Boldin', firstName='Anquan', esbId='BOL283010'}, Person{lastName='Breaston', firstName='Steven', esbId='BRE019124'}, Person{lastName='Clayton', firstName='Mark', esbId='CLA796702'}, Person{lastName='Collie', firstName='Austin', esbId='COL397342'}, Person{lastName='Forte', firstName='Matthew', esbId='FOR645404'}, Person{lastName='Lloyd', firstName='Brandon', esbId='LLO154116'}, Person{lastName='Naanee', firstName='Legedu', esbId='NAA444955'}, Person{lastName='Ochocinco', firstName='Chad', esbId='JOH104425'}, Person{lastName='Ward', firstName='Hines', esbId='WAR179227'}]*/
+/* MAN515097 */
+				
+/* COL397342 */
+				
+team: "IND",
+			filter: "00-0010346,00-0027092" },
+		{ contentId: "09000d5d81a7a282",
+			summary: "QB Orton to WR Lloyd, 41-yd, pass",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a7a282\/QB-Orton-to-WR-Lloyd-41-yd-pass",
+			/*[Person{lastName='Austin', firstName='Miles', esbId='AUS467198'}, Person{lastName='Boldin', firstName='Anquan', esbId='BOL283010'}, Person{lastName='Breaston', firstName='Steven', esbId='BRE019124'}, Person{lastName='Clayton', firstName='Mark', esbId='CLA796702'}, Person{lastName='Collie', firstName='Austin', esbId='COL397342'}, Person{lastName='Forte', firstName='Matthew', esbId='FOR645404'}, Person{lastName='Lloyd', firstName='Brandon', esbId='LLO154116'}, Person{lastName='Naanee', firstName='Legedu', esbId='NAA444955'}, Person{lastName='Ochocinco', firstName='Chad', esbId='JOH104425'}, Person{lastName='Ward', firstName='Hines', esbId='WAR179227'}]*/
+/* ORT716150 */
+				
+/* LLO154116 */
+				
+team: "DEN",
+			filter: "00-0023541,00-0022097" },
+		{ contentId: "09000d5d81a77baf",
+			summary: "WK 1: Matt Forte highlights",videoURL: "\/videos\/nfl-game-highlights\/09000d5d81a77baf\/WK-1-Matt-Forte-highlights",
+			/*[Person{lastName='Austin', firstName='Miles', esbId='AUS467198'}, Person{lastName='Boldin', firstName='Anquan', esbId='BOL283010'}, Person{lastName='Breaston', firstName='Steven', esbId='BRE019124'}, Person{lastName='Clayton', firstName='Mark', esbId='CLA796702'}, Person{lastName='Collie', firstName='Austin', esbId='COL397342'}, Person{lastName='Forte', firstName='Matthew', esbId='FOR645404'}, Person{lastName='Lloyd', firstName='Brandon', esbId='LLO154116'}, Person{lastName='Naanee', firstName='Legedu', esbId='NAA444955'}, Person{lastName='Ochocinco', firstName='Chad', esbId='JOH104425'}, Person{lastName='Ward', firstName='Hines', esbId='WAR179227'}]*/
+/* FOR645404 */
+				
+team: "CHI",
+			filter: "00-0026184" },
+		{ contentId: "09000d5d81a7706f",
+			summary: "WK 1 Can\'t-Miss Play: Mile-low catch",videoURL: "\/videos\/nfl-cant-miss-plays\/09000d5d81a7706f\/WK-1-Can-t-Miss-Play-Mile-low-catch",
+			/*[Person{lastName='Austin', firstName='Miles', esbId='AUS467198'}, Person{lastName='Boldin', firstName='Anquan', esbId='BOL283010'}, Person{lastName='Breaston', firstName='Steven', esbId='BRE019124'}, Person{lastName='Clayton', firstName='Mark', esbId='CLA796702'}, Person{lastName='Collie', firstName='Austin', esbId='COL397342'}, Person{lastName='Forte', firstName='Matthew', esbId='FOR645404'}, Person{lastName='Lloyd', firstName='Brandon', esbId='LLO154116'}, Person{lastName='Naanee', firstName='Legedu', esbId='NAA444955'}, Person{lastName='Ochocinco', firstName='Chad', esbId='JOH104425'}, Person{lastName='Ward', firstName='Hines', esbId='WAR179227'}]*/
+/* LLO154116 */
+				
+team: "DEN",
+			filter: "00-0022097" },
+		{ contentId: "09000d5d81a76d04",
+			summary: "Collie 73-yard TD",videoURL: "\/videos\/nfl-game-highlights\/09000d5d81a76d04\/Collie-73-yard-TD",
+			/*[Person{lastName='Austin', firstName='Miles', esbId='AUS467198'}, Person{lastName='Boldin', firstName='Anquan', esbId='BOL283010'}, Person{lastName='Breaston', firstName='Steven', esbId='BRE019124'}, Person{lastName='Clayton', firstName='Mark', esbId='CLA796702'}, Person{lastName='Collie', firstName='Austin', esbId='COL397342'}, Person{lastName='Forte', firstName='Matthew', esbId='FOR645404'}, Person{lastName='Lloyd', firstName='Brandon', esbId='LLO154116'}, Person{lastName='Naanee', firstName='Legedu', esbId='NAA444955'}, Person{lastName='Ochocinco', firstName='Chad', esbId='JOH104425'}, Person{lastName='Ward', firstName='Hines', esbId='WAR179227'}]*/
+/* MAN515097 */
+				
+/* COL397342 */
+				
+team: "IND",
+			filter: "00-0010346,00-0027092" },
+		{ contentId: "09000d5d81a769ad",
+			summary: "Cutler to Forte 28-yard TD",videoURL: "\/videos\/nfl-game-highlights\/09000d5d81a769ad\/Cutler-to-Forte-28-yard-TD",
+			/*[Person{lastName='Austin', firstName='Miles', esbId='AUS467198'}, Person{lastName='Boldin', firstName='Anquan', esbId='BOL283010'}, Person{lastName='Breaston', firstName='Steven', esbId='BRE019124'}, Person{lastName='Clayton', firstName='Mark', esbId='CLA796702'}, Person{lastName='Collie', firstName='Austin', esbId='COL397342'}, Person{lastName='Forte', firstName='Matthew', esbId='FOR645404'}, Person{lastName='Lloyd', firstName='Brandon', esbId='LLO154116'}, Person{lastName='Naanee', firstName='Legedu', esbId='NAA444955'}, Person{lastName='Ochocinco', firstName='Chad', esbId='JOH104425'}, Person{lastName='Ward', firstName='Hines', esbId='WAR179227'}]*/
+/* FOR645404 */
+				
+/* CUT288111 */
+				
+team: "CHI",
+			filter: "00-0026184,00-0024226" },
+		{ contentId: "09000d5d81a75f5d",
+			summary: "Ochocinco 28-yard TD",videoURL: "\/videos\/nfl-game-highlights\/09000d5d81a75f5d\/Ochocinco-28-yard-TD",
+			/*[Person{lastName='Austin', firstName='Miles', esbId='AUS467198'}, Person{lastName='Boldin', firstName='Anquan', esbId='BOL283010'}, Person{lastName='Breaston', firstName='Steven', esbId='BRE019124'}, Person{lastName='Clayton', firstName='Mark', esbId='CLA796702'}, Person{lastName='Collie', firstName='Austin', esbId='COL397342'}, Person{lastName='Forte', firstName='Matthew', esbId='FOR645404'}, Person{lastName='Lloyd', firstName='Brandon', esbId='LLO154116'}, Person{lastName='Naanee', firstName='Legedu', esbId='NAA444955'}, Person{lastName='Ochocinco', firstName='Chad', esbId='JOH104425'}, Person{lastName='Ward', firstName='Hines', esbId='WAR179227'}]*/
+/* JOH104425 */
+				
+/* PAL249055 */
+				
+team: "NE",
+			filter: "00-0020397,00-0021429" },
+		{ contentId: "09000d5d81a75143",
+			summary: "Matt Forte 89-yard TD",videoURL: "\/videos\/nfl-game-highlights\/09000d5d81a75143\/Forte-turns-short-pass-into-89-yard-TD",
+			/*[Person{lastName='Austin', firstName='Miles', esbId='AUS467198'}, Person{lastName='Boldin', firstName='Anquan', esbId='BOL283010'}, Person{lastName='Breaston', firstName='Steven', esbId='BRE019124'}, Person{lastName='Clayton', firstName='Mark', esbId='CLA796702'}, Person{lastName='Collie', firstName='Austin', esbId='COL397342'}, Person{lastName='Forte', firstName='Matthew', esbId='FOR645404'}, Person{lastName='Lloyd', firstName='Brandon', esbId='LLO154116'}, Person{lastName='Naanee', firstName='Legedu', esbId='NAA444955'}, Person{lastName='Ochocinco', firstName='Chad', esbId='JOH104425'}, Person{lastName='Ward', firstName='Hines', esbId='WAR179227'}]*/
+/* FOR645404 */
+				
+team: "CHI",
+			filter: "00-0026184" },
+		{ contentId: "09000d5d81a750d7",
+			summary: "Lloyd 41-yard catch",videoURL: "\/videos\/nfl-game-highlights\/09000d5d81a750d7\/Lloyd-41-yard-catch",
+			/*[Person{lastName='Austin', firstName='Miles', esbId='AUS467198'}, Person{lastName='Boldin', firstName='Anquan', esbId='BOL283010'}, Person{lastName='Breaston', firstName='Steven', esbId='BRE019124'}, Person{lastName='Clayton', firstName='Mark', esbId='CLA796702'}, Person{lastName='Collie', firstName='Austin', esbId='COL397342'}, Person{lastName='Forte', firstName='Matthew', esbId='FOR645404'}, Person{lastName='Lloyd', firstName='Brandon', esbId='LLO154116'}, Person{lastName='Naanee', firstName='Legedu', esbId='NAA444955'}, Person{lastName='Ochocinco', firstName='Chad', esbId='JOH104425'}, Person{lastName='Ward', firstName='Hines', esbId='WAR179227'}]*/
+/* ORT716150 */
+				
+/* LLO154116 */
+				
+team: "DEN",
+			filter: "00-0023541,00-0022097" },
+		{ contentId: "09000d5d81a74a46",
+			summary: "Hines Ward 21-yard reception",videoURL: "\/videos\/nfl-game-highlights\/09000d5d81a74a46\/Hines-Ward-21-yard-reception",
+			/*[Person{lastName='Austin', firstName='Miles', esbId='AUS467198'}, Person{lastName='Boldin', firstName='Anquan', esbId='BOL283010'}, Person{lastName='Breaston', firstName='Steven', esbId='BRE019124'}, Person{lastName='Clayton', firstName='Mark', esbId='CLA796702'}, Person{lastName='Collie', firstName='Austin', esbId='COL397342'}, Person{lastName='Forte', firstName='Matthew', esbId='FOR645404'}, Person{lastName='Lloyd', firstName='Brandon', esbId='LLO154116'}, Person{lastName='Naanee', firstName='Legedu', esbId='NAA444955'}, Person{lastName='Ochocinco', firstName='Chad', esbId='JOH104425'}, Person{lastName='Ward', firstName='Hines', esbId='WAR179227'}]*/
+/* WAR179227 */
+				
+team: "PIT",
+			filter: "00-0017162" }
+		
+	]
+},
+		
+		
+			
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+			/* ids: KAS023070,CRO369933,REE265822,NUG461506,PRA143616,LIN159090 */
+		KICKING: {
+	label: "Kicking",
+	filterValues: [
+		{ label: 'All Players', value: '' },
+		{ label: "Crosby, Mason", value: "00-0025580" },
+		{ label: "Kasay, John", value: "00-0009028" },
+		{ label: "Lindell, Rian", value: "00-0019310" },
+		{ label: "Nugent, Mike", value: "00-0023482" },
+		{ label: "Prater, Matt", value: "00-0023853" },
+		{ label: "Reed, Jeff", value: "00-0020737" }
+	],
+	videos: [
+		{ contentId: "09000d5d81a7c2f4",
+			summary: "Reed, 40-yd missed FG",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a7c2f4\/Reed-40-yd-missed-FG",
+			/*[Person{lastName='Crosby', firstName='Mason', esbId='CRO369933'}, Person{lastName='Kasay', firstName='John', esbId='KAS023070'}, Person{lastName='Lindell', firstName='Rian', esbId='LIN159090'}, Person{lastName='Nugent', firstName='Michael', esbId='NUG461506'}, Person{lastName='Prater', firstName='Matthew', esbId='PRA143616'}, Person{lastName='Reed', firstName='Jeffrey', esbId='REE265822'}]*/
+/* REE265822 */
+				
+team: "SEA",
+			filter: "00-0020737" },
+		{ contentId: "09000d5d81a7c254",
+			summary: "Reed, 34-yd FG",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a7c254\/Reed-34-yd-FG",
+			/*[Person{lastName='Crosby', firstName='Mason', esbId='CRO369933'}, Person{lastName='Kasay', firstName='John', esbId='KAS023070'}, Person{lastName='Lindell', firstName='Rian', esbId='LIN159090'}, Person{lastName='Nugent', firstName='Michael', esbId='NUG461506'}, Person{lastName='Prater', firstName='Matthew', esbId='PRA143616'}, Person{lastName='Reed', firstName='Jeffrey', esbId='REE265822'}]*/
+/* REE265822 */
+				
+team: "SEA",
+			filter: "00-0020737" },
+		{ contentId: "09000d5d81a7c1f4",
+			summary: "Prater, 54-yd FG",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a7c1f4\/Prater-54-yd-FG",
+			/*[Person{lastName='Crosby', firstName='Mason', esbId='CRO369933'}, Person{lastName='Kasay', firstName='John', esbId='KAS023070'}, Person{lastName='Lindell', firstName='Rian', esbId='LIN159090'}, Person{lastName='Nugent', firstName='Michael', esbId='NUG461506'}, Person{lastName='Prater', firstName='Matthew', esbId='PRA143616'}, Person{lastName='Reed', firstName='Jeffrey', esbId='REE265822'}]*/
+/* PRA143616 */
+				
+team: "DEN",
+			filter: "00-0023853" },
+		{ contentId: "09000d5d81a7c181",
+			summary: "Crosby, 56-yd FG",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a7c181\/Crosby-56-yd-FG",
+			/*[Person{lastName='Crosby', firstName='Mason', esbId='CRO369933'}, Person{lastName='Kasay', firstName='John', esbId='KAS023070'}, Person{lastName='Lindell', firstName='Rian', esbId='LIN159090'}, Person{lastName='Nugent', firstName='Michael', esbId='NUG461506'}, Person{lastName='Prater', firstName='Matthew', esbId='PRA143616'}, Person{lastName='Reed', firstName='Jeffrey', esbId='REE265822'}]*/
+/* CRO369933 */
+				
+team: "GB",
+			filter: "00-0025580" },
+		{ contentId: "09000d5d81a7c0fc",
+			summary: "Crosby, 49-yd FG",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a7c0fc\/Crosby-49-yd-FG",
+			/*[Person{lastName='Crosby', firstName='Mason', esbId='CRO369933'}, Person{lastName='Kasay', firstName='John', esbId='KAS023070'}, Person{lastName='Lindell', firstName='Rian', esbId='LIN159090'}, Person{lastName='Nugent', firstName='Michael', esbId='NUG461506'}, Person{lastName='Prater', firstName='Matthew', esbId='PRA143616'}, Person{lastName='Reed', firstName='Jeffrey', esbId='REE265822'}]*/
+/* CRO369933 */
+				
+team: "GB",
+			filter: "00-0025580" },
+		{ contentId: "09000d5d81a7b4f2",
+			summary: "Reed, 36-yd FG",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a7b4f2\/Reed-36-yd-FG",
+			/*[Person{lastName='Crosby', firstName='Mason', esbId='CRO369933'}, Person{lastName='Kasay', firstName='John', esbId='KAS023070'}, Person{lastName='Lindell', firstName='Rian', esbId='LIN159090'}, Person{lastName='Nugent', firstName='Michael', esbId='NUG461506'}, Person{lastName='Prater', firstName='Matthew', esbId='PRA143616'}, Person{lastName='Reed', firstName='Jeffrey', esbId='REE265822'}]*/
+/* REE265822 */
+				
+team: "SEA",
+			filter: "00-0020737" },
+		{ contentId: "09000d5d81a7a6c7",
+			summary: "Reed, 55-yd missed FG",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a7a6c7\/Reed-55-yd-missed-FG",
+			/*[Person{lastName='Crosby', firstName='Mason', esbId='CRO369933'}, Person{lastName='Kasay', firstName='John', esbId='KAS023070'}, Person{lastName='Lindell', firstName='Rian', esbId='LIN159090'}, Person{lastName='Nugent', firstName='Michael', esbId='NUG461506'}, Person{lastName='Prater', firstName='Matthew', esbId='PRA143616'}, Person{lastName='Reed', firstName='Jeffrey', esbId='REE265822'}]*/
+/* REE265822 */
+				
+team: "SEA",
+			filter: "00-0020737" },
+		{ contentId: "09000d5d81a79bcd",
+			summary: "Lindell, 63-yd missed FG",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a79bcd\/Lindell-63-yd-missed-FG",
+			/*[Person{lastName='Crosby', firstName='Mason', esbId='CRO369933'}, Person{lastName='Kasay', firstName='John', esbId='KAS023070'}, Person{lastName='Lindell', firstName='Rian', esbId='LIN159090'}, Person{lastName='Nugent', firstName='Michael', esbId='NUG461506'}, Person{lastName='Prater', firstName='Matthew', esbId='PRA143616'}, Person{lastName='Reed', firstName='Jeffrey', esbId='REE265822'}]*/
+/* LIN159090 */
+				
+team: "BUF",
+			filter: "00-0019310" },
+		{ contentId: "09000d5d81a79b6d",
+			summary: "Lindell, 51-yd FG",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a79b6d\/Lindell-51-yd-FG",
+			/*[Person{lastName='Crosby', firstName='Mason', esbId='CRO369933'}, Person{lastName='Kasay', firstName='John', esbId='KAS023070'}, Person{lastName='Lindell', firstName='Rian', esbId='LIN159090'}, Person{lastName='Nugent', firstName='Michael', esbId='NUG461506'}, Person{lastName='Prater', firstName='Matthew', esbId='PRA143616'}, Person{lastName='Reed', firstName='Jeffrey', esbId='REE265822'}]*/
+/* LIN159090 */
+				
+team: "BUF",
+			filter: "00-0019310" },
+		{ contentId: "09000d5d81a79608",
+			summary: "Reed, 52-yd FG",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a79608\/Reed-52-yd-FG",
+			/*[Person{lastName='Crosby', firstName='Mason', esbId='CRO369933'}, Person{lastName='Kasay', firstName='John', esbId='KAS023070'}, Person{lastName='Lindell', firstName='Rian', esbId='LIN159090'}, Person{lastName='Nugent', firstName='Michael', esbId='NUG461506'}, Person{lastName='Prater', firstName='Matthew', esbId='PRA143616'}, Person{lastName='Reed', firstName='Jeffrey', esbId='REE265822'}]*/
+/* REE265822 */
+				
+team: "SEA",
+			filter: "00-0020737" },
+		{ contentId: "09000d5d81a7947b",
+			summary: "Nugent, 54-yd FG",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a7947b\/Nugent-54-yd-FG",
+			/*[Person{lastName='Crosby', firstName='Mason', esbId='CRO369933'}, Person{lastName='Kasay', firstName='John', esbId='KAS023070'}, Person{lastName='Lindell', firstName='Rian', esbId='LIN159090'}, Person{lastName='Nugent', firstName='Michael', esbId='NUG461506'}, Person{lastName='Prater', firstName='Matthew', esbId='PRA143616'}, Person{lastName='Reed', firstName='Jeffrey', esbId='REE265822'}]*/
+/* NUG461506 */
+				
+team: "CIN",
+			filter: "00-0023482" },
+		{ contentId: "09000d5d81a779c2",
+			summary: "Kasay, 52-yd FG",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a779c2\/Kasay-52-yd-FG",
+			/*[Person{lastName='Crosby', firstName='Mason', esbId='CRO369933'}, Person{lastName='Kasay', firstName='John', esbId='KAS023070'}, Person{lastName='Lindell', firstName='Rian', esbId='LIN159090'}, Person{lastName='Nugent', firstName='Michael', esbId='NUG461506'}, Person{lastName='Prater', firstName='Matthew', esbId='PRA143616'}, Person{lastName='Reed', firstName='Jeffrey', esbId='REE265822'}]*/
+/* KAS023070 */
+				
+team: "CAR",
+			filter: "00-0009028" },
+		{ contentId: "09000d5d81a779c1",
+			summary: "Kasay, 43-yd FG",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a779c1\/Kasay-43-yd-FG",
+			/*[Person{lastName='Crosby', firstName='Mason', esbId='CRO369933'}, Person{lastName='Kasay', firstName='John', esbId='KAS023070'}, Person{lastName='Lindell', firstName='Rian', esbId='LIN159090'}, Person{lastName='Nugent', firstName='Michael', esbId='NUG461506'}, Person{lastName='Prater', firstName='Matthew', esbId='PRA143616'}, Person{lastName='Reed', firstName='Jeffrey', esbId='REE265822'}]*/
+/* KAS023070 */
+				
+team: "CAR",
+			filter: "00-0009028" },
+		{ contentId: "09000d5d81a777fc",
+			summary: "Kasay, 21-yd FG",videoURL: "\/videos\/nfl-fantasy\/09000d5d81a777fc\/Kasay-21-yd-FG",
+			/*[Person{lastName='Crosby', firstName='Mason', esbId='CRO369933'}, Person{lastName='Kasay', firstName='John', esbId='KAS023070'}, Person{lastName='Lindell', firstName='Rian', esbId='LIN159090'}, Person{lastName='Nugent', firstName='Michael', esbId='NUG461506'}, Person{lastName='Prater', firstName='Matthew', esbId='PRA143616'}, Person{lastName='Reed', firstName='Jeffrey', esbId='REE265822'}]*/
+/* KAS023070 */
+				
+team: "CAR",
+			filter: "00-0009028" }
+		
+	]
+}
+		
+	};
+	
+	// Remove any empty filters
+	filterOrder = Y.Array.reduce(["PASSING", "RUSHING", "RECEIVING", "KICKING"], [], BigPlays.removeEmptyFilters, contentValues);
+	
+	// it we have any filters left, show the big play ticker
+	if (filterOrder.length) {
+		bp = new BigPlays({
+			srcNode: '#big-plays-wl',
+			title: 'Game Highlights',
+			section: 'weeklyleaders',
+			filter1: 'PASSING',
+			dartURL: "http://ad.doubleclick.net/pfadx/nfl.stats/topperformers/2010/1;s1=topperformers;s2=2010;s3=1;slot=;url=topperformers_2010_1;nfl=ad;!category=;kw=;tile=10;test=;sz=640x360;ord=" + (window.adRandom || nfl.constants.AD_RANDOM) + "?",
+			moreURL: '/videos/nfl-game-highlights?icampaign=top_perf_clicks',
+			sponsor: BigPlays.TOP_PERFORMERS_SPONSOR,
+			omniturePrefix: "topperformers_big_plays",
+			content: {
+				label1: "Category",
+				label2: "Player",
+				filterOrder: filterOrder,
+				values: contentValues
+			}
+		});
+		bp.render();
+		window.bp = bp;
+		window.omnitureTracking = new Y.NFL.OmnitureTracking();
+	}
+});
+	</script>
+
+<!-- END BIG PLAYS -->
+
+<!--START 300 YARD PASSING TABLE-->
+
+		<table cellspacing="0" cellpadding="0" border="0" width="100%" class="data-table1">
+		<tr class="thd1"><td>300 - Yard Passers</td></tr>
+		</table>
+		
+<table id="passer" style="width:100%" cellpadding="0" class="data-table1" cellspacing="0">
+<tr>
+<th class="thd2">Name</th>
+<th class="thd2">Team</th>
+<th class="thd2">Opp</th>
+<th class="thd2">Score</th>
+<th class="thd2 right sortable">
+<a href="/stats/topperformers?d-446412-s=PASSING_YARDS&amp;season=2010&amp;d-446412-n=1&amp;d-446412-o=2&amp;d-446412-p=1&amp;week=1">Yds</a></th>
+<th class="thd2 right sortable">
+<a href="/stats/topperformers?d-446412-s=PASSING_COMPLETIONS&amp;season=2010&amp;d-446412-n=1&amp;d-446412-o=2&amp;d-446412-p=1&amp;week=1">Comp</a></th>
+<th class="thd2 right sortable">
+<a href="/stats/topperformers?d-446412-s=PASSING_ATTEMPTS&amp;season=2010&amp;d-446412-n=1&amp;d-446412-o=2&amp;d-446412-p=1&amp;week=1">Att</a></th>
+<th class="thd2 right sortable">
+<a href="/stats/topperformers?d-446412-s=PASSING_LONG&amp;season=2010&amp;d-446412-n=1&amp;d-446412-o=2&amp;d-446412-p=1&amp;week=1">Lng</a></th>
+<th class="thd2 right sortable">
+<a href="/stats/topperformers?d-446412-s=PASSING_TOUCHDOWNS&amp;season=2010&amp;d-446412-n=1&amp;d-446412-o=2&amp;d-446412-p=1&amp;week=1">TD</a></th>
+<th class="thd2 right sortable">
+<a href="/stats/topperformers?d-446412-s=PASSING_INTERCEPTIONS&amp;season=2010&amp;d-446412-n=1&amp;d-446412-o=2&amp;d-446412-p=1&amp;week=1">Int</a></th>
+<th class="thd2 right sortable">
+<a href="/stats/topperformers?d-446412-s=PASSING_SEASON_COUNT&amp;season=2010&amp;d-446412-n=1&amp;d-446412-o=2&amp;d-446412-p=1&amp;week=1">Season</a></th>
+<th class="thd2 right sortable">
+<a href="/stats/topperformers?d-446412-s=PASSING_CAREER_COUNT&amp;season=2010&amp;d-446412-n=1&amp;d-446412-o=2&amp;d-446412-p=1&amp;week=1">Career</a></th></tr>
+<tbody>
+<tr class="odd">
+<td>
+				<a href="/players/peytonmanning/profile?id=MAN515097">Peyton Manning</a>
+			</td>
+<td>
+			  	<a href="/teams/indianapoliscolts/profile?team=IND">IND</a>
+			</td>
+<td>
+				
+					
+					@
+					
+				
+				<a href="/teams/profile?team=HOU">HOU</a>
+			</td>
+<td>
+				
+				
+				<font color="red">L</font>
+				
+					
+						<a href="/gamecenter/2010091203/2010/REG1/colts@texans">24-34</a>
+					
+					
+				
+			</td>
+<td class="right">
+							433
+						</td>
+<td class="right">
+							40
+						</td>
+<td class="right">
+							57
+						</td>
+<td class="right">
+							73T
+						</td>
+<td class="right">
+							3
+						</td>
+<td class="right">
+							0
+						</td>
+<td class="right">
+							1
+						</td>
+<td class="right">
+							57
+						</td></tr>
+<tr class="even">
+<td>
+				<a href="/players/jaycutler/profile?id=CUT288111">Jay Cutler</a>
+			</td>
+<td>
+			  	<a href="/teams/chicagobears/profile?team=CHI">CHI</a>
+			</td>
+<td>
+				
+					vs
+					
+					
+				
+				<a href="/teams/profile?team=DET">DET</a>
+			</td>
+<td>
+				
+				<font color="#009B00">W</font>
+				
+				
+					
+						<a href="/gamecenter/2010091207/2010/REG1/lions@bears">19-14</a>
+					
+					
+				
+			</td>
+<td class="right">
+							372
+						</td>
+<td class="right">
+							23
+						</td>
+<td class="right">
+							35
+						</td>
+<td class="right">
+							89T
+						</td>
+<td class="right">
+							2
+						</td>
+<td class="right">
+							1
+						</td>
+<td class="right">
+							1
+						</td>
+<td class="right">
+							14
+						</td></tr>
+<tr class="odd">
+<td>
+				<a href="/players/carsonpalmer/profile?id=PAL249055">Carson Palmer</a>
+			</td>
+<td>
+			  	<a href="/teams/cincinnatibengals/profile?team=CIN">CIN</a>
+			</td>
+<td>
+				
+					
+					@
+					
+				
+				<a href="/teams/profile?team=NE">NE</a>
+			</td>
+<td>
+				
+				
+				<font color="red">L</font>
+				
+					
+						<a href="/gamecenter/2010091202/2010/REG1/bengals@patriots">24-38</a>
+					
+					
+				
+			</td>
+<td class="right">
+							345
+						</td>
+<td class="right">
+							34
+						</td>
+<td class="right">
+							50
+						</td>
+<td class="right">
+							51
+						</td>
+<td class="right">
+							2
+						</td>
+<td class="right">
+							1
+						</td>
+<td class="right">
+							1
+						</td>
+<td class="right">
+							14
+						</td></tr></tbody></table>
+
+<!--END 300 YARD PASSING TABLE-->
+
+<div class="hSpacer10px"></div><div class="hSpacer10px"></div>
+
+<!--START 100 YARD RUSHING TABLE-->
+
+		<table cellspacing="0" cellpadding="0" border="0" width="100%" class="data-table1">
+		<tr class="thd1"><td colspan="11" >100 - Yard Rushers</td></tr>
+		</table>
+		
+<table id="rusher" style="width:100%" cellpadding="0" class="data-table1" cellspacing="0">
+<tr>
+<th class="thd2">Name</th>
+<th class="thd2">Team</th>
+<th class="thd2">Opp</th>
+<th class="thd2">Score</th>
+<th class="thd2 right sortable">
+<a href="/stats/topperformers?d-448419-s=RUSHING_YARDS&amp;season=2010&amp;d-448419-p=1&amp;d-448419-n=1&amp;d-448419-o=2&amp;week=1">Yds</a></th>
+<th class="thd2 right sortable">
+<a href="/stats/topperformers?d-448419-s=RUSHING_ATTEMPTS&amp;season=2010&amp;d-448419-p=1&amp;d-448419-n=1&amp;d-448419-o=2&amp;week=1">Att</a></th>
+<th class="thd2 right sortable">
+<a href="/stats/topperformers?d-448419-s=RUSHING_AVERAGE_YARDS&amp;season=2010&amp;d-448419-p=1&amp;d-448419-n=1&amp;d-448419-o=2&amp;week=1">Avg</a></th>
+<th class="thd2 right sortable">
+<a href="/stats/topperformers?d-448419-s=RUSHING_TOUCHDOWNS&amp;season=2010&amp;d-448419-p=1&amp;d-448419-n=1&amp;d-448419-o=2&amp;week=1">TD</a></th>
+<th class="thd2 right sortable">
+<a href="/stats/topperformers?d-448419-s=RUSHING_LONG&amp;season=2010&amp;d-448419-p=1&amp;d-448419-n=1&amp;d-448419-o=2&amp;week=1">Lng</a></th>
+<th class="thd2 right sortable">
+<a href="/stats/topperformers?d-448419-s=RUSHING_SEASON_COUNT&amp;season=2010&amp;d-448419-p=1&amp;d-448419-n=1&amp;d-448419-o=2&amp;week=1">Season</a></th>
+<th class="thd2 right sortable">
+<a href="/stats/topperformers?d-448419-s=RUSHING_CAREER_COUNT&amp;season=2010&amp;d-448419-p=1&amp;d-448419-n=1&amp;d-448419-o=2&amp;week=1">Career</a></th></tr>
+<tbody>
+<tr class="odd">
+<td>
+			 	<a href="/players/arianfoster/profile?id=FOS107404">Arian Foster</a>
+			</td>
+<td>
+			 	<a href="/teams/houstontexans/profile?team=HOU">HOU</a>
+			</td>
+<td>
+				
+					vs
+					
+					
+				
+				<a href="/teams/profile?team=IND">IND</a>
+			</td>
+<td>
+				
+				
+					<font color="#009B00">W</font>
+				
+				
+				&nbsp;
+				
+					
+						<a href="/gamecenter/2010091203/2010/REG1/colts@texans">34-24</a>
+					
+					
+				
+			</td>
+<td class="right">
+							231
+						</td>
+<td class="right">
+							33
+						</td>
+<td class="right">
+							7.0
+						</td>
+<td class="right">
+							3
+						</td>
+<td class="right">
+							42
+						</td>
+<td class="right">
+							1
+						</td>
+<td class="right">
+							2
+						</td></tr>
+<tr class="even">
+<td>
+			 	<a href="/players/chrisjohnson/profile?id=JOH127799">Chris Johnson</a>
+			</td>
+<td>
+			 	<a href="/teams/tennesseetitans/profile?team=TEN">TEN</a>
+			</td>
+<td>
+				
+					vs
+					
+					
+				
+				<a href="/teams/profile?team=OAK">OAK</a>
+			</td>
+<td>
+				
+				
+					<font color="#009B00">W</font>
+				
+				
+				&nbsp;
+				
+					
+						<a href="/gamecenter/2010091205/2010/REG1/raiders@titans">38-13</a>
+					
+					
+				
+			</td>
+<td class="right">
+							142
+						</td>
+<td class="right">
+							27
+						</td>
+<td class="right">
+							5.3
+						</td>
+<td class="right">
+							2
+						</td>
+<td class="right">
+							76T
+						</td>
+<td class="right">
+							1
+						</td>
+<td class="right">
+							17
+						</td></tr>
+<tr class="odd">
+<td>
+			 	<a href="/players/rashardmendenhall/profile?id=MEN393702">Rashard Mendenhall</a>
+			</td>
+<td>
+			 	<a href="/teams/pittsburghsteelers/profile?team=PIT">PIT</a>
+			</td>
+<td>
+				
+					vs
+					
+					
+				
+				<a href="/teams/profile?team=ATL">ATL</a>
+			</td>
+<td>
+				
+				
+					<font color="#009B00">W</font>
+				
+				
+				&nbsp;
+				
+					
+						<a href="/gamecenter/2010091209/2010/REG1/falcons@steelers">15-9</a>
+					
+					
+				
+			</td>
+<td class="right">
+							120
+						</td>
+<td class="right">
+							22
+						</td>
+<td class="right">
+							5.5
+						</td>
+<td class="right">
+							1
+						</td>
+<td class="right">
+							50T
+						</td>
+<td class="right">
+							1
+						</td>
+<td class="right">
+							4
+						</td></tr>
+<tr class="even">
+<td>
+			 	<a href="/players/michaelvick/profile?id=VIC311467">Michael Vick</a>
+			</td>
+<td>
+			 	<a href="/teams/philadelphiaeagles/profile?team=PHI">PHI</a>
+			</td>
+<td>
+				
+					vs
+					
+					
+				
+				<a href="/teams/profile?team=GB">GB</a>
+			</td>
+<td>
+				
+				
+				
+					<font color="red">L</font>
+				
+				&nbsp;
+				
+					
+						<a href="/gamecenter/2010091210/2010/REG1/packers@eagles">20-27</a>
+					
+					
+				
+			</td>
+<td class="right">
+							103
+						</td>
+<td class="right">
+							11
+						</td>
+<td class="right">
+							9.4
+						</td>
+<td class="right">
+							0
+						</td>
+<td class="right">
+							31
+						</td>
+<td class="right">
+							1
+						</td>
+<td class="right">
+							9
+						</td></tr></tbody></table>
+
+
+<div class="hSpacer10px"></div><div class="hSpacer10px"></div>
+
+<!--START 100 YARD RECEIVER TABLE-->
+
+		<table cellspacing="0" cellpadding="0" border="0" width="100%" class="data-table1">
+		<tr class="thd1"><td colspan="11" >100 - Yard Receivers</td></tr>
+		</table>
+		
+<table id="receiver" style="width:100%" cellpadding="0" class="data-table1" cellspacing="0">
+<tr>
+<th class="thd2">Name</th>
+<th class="thd2">Team</th>
+<th class="thd2">Opp</th>
+<th class="thd2">Score</th>
+<th class="thd2 right sortable">
+<a href="/stats/topperformers?d-4020537-s=RECEIVING_YARDS&amp;season=2010&amp;d-4020537-p=1&amp;d-4020537-o=2&amp;d-4020537-n=1&amp;week=1">Yds</a></th>
+<th class="thd2 right sortable">
+<a href="/stats/topperformers?d-4020537-s=RECEIVING_RECEPTIONS&amp;season=2010&amp;d-4020537-p=1&amp;d-4020537-o=2&amp;d-4020537-n=1&amp;week=1">Rec</a></th>
+<th class="thd2 right sortable">
+<a href="/stats/topperformers?d-4020537-s=RECEIVING_AVERAGE_YARDS&amp;season=2010&amp;d-4020537-p=1&amp;d-4020537-o=2&amp;d-4020537-n=1&amp;week=1">Avg</a></th>
+<th class="thd2 right sortable">
+<a href="/stats/topperformers?d-4020537-s=RECEIVING_TOUCHDOWNS&amp;season=2010&amp;d-4020537-p=1&amp;d-4020537-o=2&amp;d-4020537-n=1&amp;week=1">TD</a></th>
+<th class="thd2 right sortable">
+<a href="/stats/topperformers?d-4020537-s=RECEIVING_LONG&amp;season=2010&amp;d-4020537-p=1&amp;d-4020537-o=2&amp;d-4020537-n=1&amp;week=1">Lng</a></th>
+<th class="thd2 right sortable">
+<a href="/stats/topperformers?d-4020537-s=RECEIVING_SEASON_COUNT&amp;season=2010&amp;d-4020537-p=1&amp;d-4020537-o=2&amp;d-4020537-n=1&amp;week=1">Season</a></th>
+<th class="thd2 right sortable">
+<a href="/stats/topperformers?d-4020537-s=RECEIVING_CAREER_COUNT&amp;season=2010&amp;d-4020537-p=1&amp;d-4020537-o=2&amp;d-4020537-n=1&amp;week=1">Career</a></th></tr>
+<tbody>
+<tr class="odd">
+<td>
+			  	<a href="/players/austincollie/profile?id=COL397342">Austin Collie</a>
+			</td>
+<td>
+				<a href="/teams/indianapoliscolts/profile?team=IND">IND</a>
+			</td>
+<td>
+				
+					
+					@
+					
+				
+				<a href="/teams/profile?team=HOU">HOU</a>
+			</td>
+<td>
+				
+				
+				
+					<font color="red">L</font>
+				
+				&nbsp;
+				
+					
+						<a href="/gamecenter/2010091203/2010/REG1/colts@texans">24-34</a>
+					
+					
+				
+			</td>
+<td class="right">
+							163
+						</td>
+<td class="right">
+							11
+						</td>
+<td class="right">
+							14.8
+						</td>
+<td class="right">
+							1
+						</td>
+<td class="right">
+							73T
+						</td>
+<td class="right">
+							1
+						</td>
+<td class="right">
+							1
+						</td></tr>
+<tr class="even">
+<td>
+			  	<a href="/players/chadochocinco/profile?id=JOH104425">Chad Ochocinco</a>
+			</td>
+<td>
+				<a href="/teams/cincinnatibengals/profile?team=CIN">CIN</a>
+			</td>
+<td>
+				
+					
+					@
+					
+				
+				<a href="/teams/profile?team=NE">NE</a>
+			</td>
+<td>
+				
+				
+				
+					<font color="red">L</font>
+				
+				&nbsp;
+				
+					
+						<a href="/gamecenter/2010091202/2010/REG1/bengals@patriots">24-38</a>
+					
+					
+				
+			</td>
+<td class="right">
+							159
+						</td>
+<td class="right">
+							12
+						</td>
+<td class="right">
+							13.3
+						</td>
+<td class="right">
+							1
+						</td>
+<td class="right">
+							28T
+						</td>
+<td class="right">
+							1
+						</td>
+<td class="right">
+							30
+						</td></tr>
+<tr class="odd">
+<td>
+			  	<a href="/players/mattforte/profile?id=FOR645404">Matt Forte</a>
+			</td>
+<td>
+				<a href="/teams/chicagobears/profile?team=CHI">CHI</a>
+			</td>
+<td>
+				
+					vs
+					
+					
+				
+				<a href="/teams/profile?team=DET">DET</a>
+			</td>
+<td>
+				
+				
+					<font color="#009B00">W</font>
+				
+				
+				&nbsp;
+				
+					
+						<a href="/gamecenter/2010091207/2010/REG1/lions@bears">19-14</a>
+					
+					
+				
+			</td>
+<td class="right">
+							151
+						</td>
+<td class="right">
+							7
+						</td>
+<td class="right">
+							21.6
+						</td>
+<td class="right">
+							2
+						</td>
+<td class="right">
+							89T
+						</td>
+<td class="right">
+							1
+						</td>
+<td class="right">
+							2
+						</td></tr>
+<tr class="even">
+<td>
+			  	<a href="/players/milesaustin/profile?id=AUS467198">Miles Austin</a>
+			</td>
+<td>
+				<a href="/teams/dallascowboys/profile?team=DAL">DAL</a>
+			</td>
+<td>
+				
+					
+					@
+					
+				
+				<a href="/teams/profile?team=WAS">WAS</a>
+			</td>
+<td>
+				
+				
+				
+					<font color="red">L</font>
+				
+				&nbsp;
+				
+					
+						<a href="/gamecenter/2010091212/2010/REG1/cowboys@redskins">7-13</a>
+					
+					
+				
+			</td>
+<td class="right">
+							146
+						</td>
+<td class="right">
+							10
+						</td>
+<td class="right">
+							14.6
+						</td>
+<td class="right">
+							1
+						</td>
+<td class="right">
+							30
+						</td>
+<td class="right">
+							1
+						</td>
+<td class="right">
+							7
+						</td></tr>
+<tr class="odd">
+<td>
+			  	<a href="/players/stevebreaston/profile?id=BRE019124">Steve Breaston</a>
+			</td>
+<td>
+				<a href="/teams/arizonacardinals/profile?team=ARI">ARI</a>
+			</td>
+<td>
+				
+					
+					@
+					
+				
+				<a href="/teams/profile?team=STL">STL</a>
+			</td>
+<td>
+				
+				
+					<font color="#009B00">W</font>
+				
+				
+				&nbsp;
+				
+					
+						<a href="/gamecenter/2010091208/2010/REG1/cardinals@rams">17-13</a>
+					
+					
+				
+			</td>
+<td class="right">
+							132
+						</td>
+<td class="right">
+							7
+						</td>
+<td class="right">
+							18.9
+						</td>
+<td class="right">
+							0
+						</td>
+<td class="right">
+							35
+						</td>
+<td class="right">
+							1
+						</td>
+<td class="right">
+							4
+						</td></tr>
+<tr class="even">
+<td>
+			  	<a href="/players/markclayton/profile?id=CLA796702">Mark Clayton</a>
+			</td>
+<td>
+				<a href="/teams/st.louisrams/profile?team=STL">STL</a>
+			</td>
+<td>
+				
+					vs
+					
+					
+				
+				<a href="/teams/profile?team=ARI">ARI</a>
+			</td>
+<td>
+				
+				
+				
+					<font color="red">L</font>
+				
+				&nbsp;
+				
+					
+						<a href="/gamecenter/2010091208/2010/REG1/cardinals@rams">13-17</a>
+					
+					
+				
+			</td>
+<td class="right">
+							119
+						</td>
+<td class="right">
+							10
+						</td>
+<td class="right">
+							11.9
+						</td>
+<td class="right">
+							0
+						</td>
+<td class="right">
+							39
+						</td>
+<td class="right">
+							1
+						</td>
+<td class="right">
+							10
+						</td></tr>
+<tr class="odd">
+<td>
+			  	<a href="/players/brandonlloyd/profile?id=LLO154116">Brandon Lloyd</a>
+			</td>
+<td>
+				<a href="/teams/denverbroncos/profile?team=DEN">DEN</a>
+			</td>
+<td>
+				
+					
+					@
+					
+				
+				<a href="/teams/profile?team=JAC">JAC</a>
+			</td>
+<td>
+				
+				
+				
+					<font color="red">L</font>
+				
+				&nbsp;
+				
+					
+						<a href="/gamecenter/2010091204/2010/REG1/broncos@jaguars">17-24</a>
+					
+					
+				
+			</td>
+<td class="right">
+							117
+						</td>
+<td class="right">
+							5
+						</td>
+<td class="right">
+							23.4
+						</td>
+<td class="right">
+							0
+						</td>
+<td class="right">
+							41
+						</td>
+<td class="right">
+							1
+						</td>
+<td class="right">
+							5
+						</td></tr>
+<tr class="even">
+<td>
+			  	<a href="/players/roddywhite/profile?id=WHI472686">Roddy White</a>
+			</td>
+<td>
+				<a href="/teams/atlantafalcons/profile?team=ATL">ATL</a>
+			</td>
+<td>
+				
+					
+					@
+					
+				
+				<a href="/teams/profile?team=PIT">PIT</a>
+			</td>
+<td>
+				
+				
+				
+					<font color="red">L</font>
+				
+				&nbsp;
+				
+					
+						<a href="/gamecenter/2010091209/2010/REG1/falcons@steelers">9-15</a>
+					
+					
+				
+			</td>
+<td class="right">
+							111
+						</td>
+<td class="right">
+							13
+						</td>
+<td class="right">
+							8.5
+						</td>
+<td class="right">
+							0
+						</td>
+<td class="right">
+							18
+						</td>
+<td class="right">
+							1
+						</td>
+<td class="right">
+							19
+						</td></tr>
+<tr class="odd">
+<td>
+			  	<a href="/players/anquanboldin/profile?id=BOL283010">Anquan Boldin</a>
+			</td>
+<td>
+				<a href="/teams/baltimoreravens/profile?team=BAL">BAL</a>
+			</td>
+<td>
+				
+					
+					@
+					
+				
+				<a href="/teams/profile?team=NYJ">NYJ</a>
+			</td>
+<td>
+				
+				
+					<font color="#009B00">W</font>
+				
+				
+				&nbsp;
+				
+					
+						<a href="/gamecenter/2010091300/2010/REG1/ravens@jets">10-9</a>
+					
+					
+				
+			</td>
+<td class="right">
+							110
+						</td>
+<td class="right">
+							7
+						</td>
+<td class="right">
+							15.7
+						</td>
+<td class="right">
+							0
+						</td>
+<td class="right">
+							38
+						</td>
+<td class="right">
+							1
+						</td>
+<td class="right">
+							28
+						</td></tr>
+<tr class="even">
+<td>
+			  	<a href="/players/legedunaanee/profile?id=NAA444955">Legedu Naanee</a>
+			</td>
+<td>
+				<a href="/teams/sandiegochargers/profile?team=SD">SD</a>
+			</td>
+<td>
+				
+					
+					@
+					
+				
+				<a href="/teams/profile?team=KC">KC</a>
+			</td>
+<td>
+				
+				
+				
+					<font color="red">L</font>
+				
+				&nbsp;
+				
+					
+						<a href="/gamecenter/2010091301/2010/REG1/chargers@chiefs">14-21</a>
+					
+					
+				
+			</td>
+<td class="right">
+							110
+						</td>
+<td class="right">
+							5
+						</td>
+<td class="right">
+							22.0
+						</td>
+<td class="right">
+							1
+						</td>
+<td class="right">
+							59T
+						</td>
+<td class="right">
+							1
+						</td>
+<td class="right">
+							1
+						</td></tr>
+<tr class="odd">
+<td>
+			  	<a href="/players/hinesward/profile?id=WAR179227">Hines Ward</a>
+			</td>
+<td>
+				<a href="/teams/pittsburghsteelers/profile?team=PIT">PIT</a>
+			</td>
+<td>
+				
+					vs
+					
+					
+				
+				<a href="/teams/profile?team=ATL">ATL</a>
+			</td>
+<td>
+				
+				
+					<font color="#009B00">W</font>
+				
+				
+				&nbsp;
+				
+					
+						<a href="/gamecenter/2010091209/2010/REG1/falcons@steelers">15-9</a>
+					
+					
+				
+			</td>
+<td class="right">
+							108
+						</td>
+<td class="right">
+							6
+						</td>
+<td class="right">
+							18.0
+						</td>
+<td class="right">
+							0
+						</td>
+<td class="right">
+							25
+						</td>
+<td class="right">
+							1
+						</td>
+<td class="right">
+							26
+						</td></tr></tbody></table>
+
+
+<div class="hSpacer10px"></div><div class="hSpacer10px"></div>
+
+<!-- START 50 YARD FIELD GOALS TABLE -->
+
+		<table cellspacing="0" cellpadding="0" border="0" width="100%" class="data-table1">
+		<tr class="thd1"><td colspan="8" >50 - Yard Field Goals</td></tr>
+		</table>
+		
+<table id="kicker" style="width:100%" cellpadding="0" class="data-table1" cellspacing="0">
+<tr>
+<th class="thd2">Name</th>
+<th class="thd2">Team</th>
+<th class="thd2">Opp</th>
+<th class="thd2">Score</th>
+<th class="thd2 right sortable">
+<a href="/stats/topperformers?d-445341-s=KICKING_COUNT_50PLUS&amp;season=2010&amp;d-445341-o=2&amp;d-445341-p=1&amp;d-445341-n=1&amp;week=1">50+</a></th>
+<th class="thd2 right sortable">
+<a href="/stats/topperformers?d-445341-s=KICKING_FG_LONG&amp;season=2010&amp;d-445341-o=2&amp;d-445341-p=1&amp;d-445341-n=1&amp;week=1">Lng</a></th>
+<th class="thd2 right sortable">
+<a href="/stats/topperformers?d-445341-s=KICKING_SEASON_COUNT&amp;season=2010&amp;d-445341-o=2&amp;d-445341-p=1&amp;d-445341-n=1&amp;week=1">Season</a></th>
+<th class="thd2 right sortable">
+<a href="/stats/topperformers?d-445341-s=KICKING_CAREER_COUNT&amp;season=2010&amp;d-445341-o=2&amp;d-445341-p=1&amp;d-445341-n=1&amp;week=1">Career</a></th></tr>
+<tbody>
+<tr class="odd">
+<td class="nameCell">
+				<a href="/players/johnkasay/profile?id=KAS023070">John Kasay</a>
+			</td>
+<td>
+				<a href="/teams/carolinapanthers/profile?team=CAR">CAR</a>
+			</td>
+<td>
+				
+					
+					@
+					
+				
+				<a href="/teams/profile?team=NYG">NYG</a>
+			</td>
+<td>
+				
+				
+				
+					<font color="red">L</font>
+				
+				&nbsp;
+				
+					
+						<a href="/gamecenter/2010091206/2010/REG1/panthers@giants">
+							18-31
+						</a>
+					
+					
+				
+			</td>
+<td class="right">
+							1
+						</td>
+<td class="right">
+							52
+						</td>
+<td class="right">
+							1
+						</td>
+<td class="right">
+							38
+						</td></tr>
+<tr class="even">
+<td class="nameCell">
+				<a href="/players/masoncrosby/profile?id=CRO369933">Mason Crosby</a>
+			</td>
+<td>
+				<a href="/teams/greenbaypackers/profile?team=GB">GB</a>
+			</td>
+<td>
+				
+					
+					@
+					
+				
+				<a href="/teams/profile?team=PHI">PHI</a>
+			</td>
+<td>
+				
+				
+					<font color="#009B00">W</font>
+				
+				
+				&nbsp;
+				
+					
+						<a href="/gamecenter/2010091210/2010/REG1/packers@eagles">
+							27-20
+						</a>
+					
+					
+				
+			</td>
+<td class="right">
+							1
+						</td>
+<td class="right">
+							56
+						</td>
+<td class="right">
+							1
+						</td>
+<td class="right">
+							9
+						</td></tr>
+<tr class="odd">
+<td class="nameCell">
+				<a href="/players/jeffreed/profile?id=REE265822">Jeff Reed</a>
+			</td>
+<td>
+				<a href="/teams/pittsburghsteelers/profile?team=PIT">PIT</a>
+			</td>
+<td>
+				
+					vs
+					
+					
+				
+				<a href="/teams/profile?team=ATL">ATL</a>
+			</td>
+<td>
+				
+				
+					<font color="#009B00">W</font>
+				
+				
+				&nbsp;
+				
+					
+						<a href="/gamecenter/2010091209/2010/REG1/falcons@steelers">
+							15-9
+						</a>
+					
+					
+				
+			</td>
+<td class="right">
+							1
+						</td>
+<td class="right">
+							52
+						</td>
+<td class="right">
+							1
+						</td>
+<td class="right">
+							7
+						</td></tr>
+<tr class="even">
+<td class="nameCell">
+				<a href="/players/mikenugent/profile?id=NUG461506">Mike Nugent</a>
+			</td>
+<td>
+				<a href="/teams/cincinnatibengals/profile?team=CIN">CIN</a>
+			</td>
+<td>
+				
+					
+					@
+					
+				
+				<a href="/teams/profile?team=NE">NE</a>
+			</td>
+<td>
+				
+				
+				
+					<font color="red">L</font>
+				
+				&nbsp;
+				
+					
+						<a href="/gamecenter/2010091202/2010/REG1/bengals@patriots">
+							24-38
+						</a>
+					
+					
+				
+			</td>
+<td class="right">
+							1
+						</td>
+<td class="right">
+							54
+						</td>
+<td class="right">
+							1
+						</td>
+<td class="right">
+							4
+						</td></tr>
+<tr class="odd">
+<td class="nameCell">
+				<a href="/players/mattprater/profile?id=PRA143616">Matt Prater</a>
+			</td>
+<td>
+				<a href="/teams/denverbroncos/profile?team=DEN">DEN</a>
+			</td>
+<td>
+				
+					
+					@
+					
+				
+				<a href="/teams/profile?team=JAC">JAC</a>
+			</td>
+<td>
+				
+				
+				
+					<font color="red">L</font>
+				
+				&nbsp;
+				
+					
+						<a href="/gamecenter/2010091204/2010/REG1/broncos@jaguars">
+							17-24
+						</a>
+					
+					
+				
+			</td>
+<td class="right">
+							1
+						</td>
+<td class="right">
+							54
+						</td>
+<td class="right">
+							1
+						</td>
+<td class="right">
+							8
+						</td></tr>
+<tr class="even">
+<td class="nameCell">
+				<a href="/players/rianlindell/profile?id=LIN159090">Rian Lindell</a>
+			</td>
+<td>
+				<a href="/teams/buffalobills/profile?team=BUF">BUF</a>
+			</td>
+<td>
+				
+					vs
+					
+					
+				
+				<a href="/teams/profile?team=MIA">MIA</a>
+			</td>
+<td>
+				
+				
+				
+					<font color="red">L</font>
+				
+				&nbsp;
+				
+					
+						<a href="/gamecenter/2010091201/2010/REG1/dolphins@bills">
+							10-15
+						</a>
+					
+					
+				
+			</td>
+<td class="right">
+							1
+						</td>
+<td class="right">
+							51
+						</td>
+<td class="right">
+							1
+						</td>
+<td class="right">
+							17
+						</td></tr></tbody></table>
+
+
+		
+
+	
+	
+		<div class="search-ads">
+			<script type="text/javascript">/*<![CDATA[*/
+
+var adsonar_placementId = parseInt("1488387", 10),
+    adsonar_pid         = parseInt("1956784", 10),
+    adsonar_ps          = parseInt("-1", 10),
+    adsonar_zw          = parseInt("450", 10),
+    adsonar_zh          = parseInt("200", 10),
+    adsonar_jv          = 'ads.adsonar.com';
+if ((typeof nfl === 'undefined') || nfl.constants.SEARCH_ADS) {
+	document.write('<sc'+'ript type="text/javascript" src="http://js.adsonar.com/js/adsonar.js"></sc'+'ript>');
+}
+			/*]]>*/</script>
+		</div>
+	
+
+
+	</div>
+	<div class="ad col">
+		<!-- move this code into an include file -->
+		
+
+
+
+
+
+
+
+<div id="other-links" class="news-widget">
+	<h3 class="replaced">Other Links<span></span></h3>
+	<div class="widget-shading-short">
+		<ul class="story-links" id="headlines-story-links">
+			
+				
+				
+				
+				
+					<li><a href="/halloffame">Hall of Fame</a></li>
+					<li><a href="/history/randf">Record &amp; Fact Book</a></li>
+					<li><a href="/rulebook">Rule Book</a></li>
+				
+				
+				
+				
+				
+				
+			
+		</ul>
+	</div>
+</div>
+<!-- END PAGE rightrail/otherlinks -->
+
+		<div class="ad-section">
+			<p class="ad-below"><img src="http://img.static.nfl.com/static/site/3.5/img/ads/ad-below-160.gif" alt="The next object is an advertisement" /></p>
+			
+<div class="adcontainer" id="ad1313004195730rightrailfirst" style="width:160px;height:600px;">
+	
+	
+	<noscript>
+		<a href="http://ad.doubleclick.net/jump/nfl.stats/topperformers/2010/1;s1=topperformers;s2=2010;s3=1;slot=rightrailfirst;url=topperformers_2010_1;nfl=ad;!category=;kw=;tile=#{tile};test=;sz=160x600" target="_blank">
+			<img class="adImg" src="http://ad.doubleclick.net/ad/nfl.stats/topperformers/2010/1;s1=topperformers;s2=2010;s3=1;slot=rightrailfirst;url=topperformers_2010_1;nfl=ad;!category=;kw=;tile=#{tile};test=;sz=160x600" width="160" height="600" alt=""/>
+		</a>
+	</noscript>
+</div>
+<script type="text/javascript">
+
+nfl.ads.createAd("ad1313004195730rightrailfirst", 'nfl.stats/topperformers/2010/1;s1=topperformers;s2=2010;s3=1;slot=rightrailfirst;url=topperformers_2010_1;nfl=ad;!category=;kw=;tile=#{tile};test=;sz=160x600', {
+	
+	
+	
+	
+	width: 160,
+	height: 600,
+	rotating: false,
+	slot: 'rightrailfirst',
+	transparent: false
+});
+</script>
+
+		</div>
+	</div>
+</div>
+				</div>
+				<div class="w"></div>
+				<div class="t"></div>
+			</div>
+		</div>
+	</div>
+	<div id="br">
+		<div id="ft-teams">
+			<div id="footer-logo">
+				<a href="http://www.nfl.com/"><img alt="NFL Logo" src="http://img.static.nfl.com/static/site/3.5/img/global/nfl-logo-footer-2010.png" />&nbsp;</a>
+			</div>
+			
+<ul>
+	<li><a href="http://nflrush.com/?campaign=NFL_footer" target="_blank">NFL Rush</a> | <a href="http://www.nflrush.com/play60">PLAY 60</a></li>
+	<li><a href="http://www.nflyouthpd.com/" target="_blank">NFL Youth Tackle</a></li>
+	<li><a href="http://www.usafootball.com" target="_blank">USA Football</a></li>
+	<li><a href="http://www.nfl.com/international">NFL International</a></li>
+	<li><a href="http://www.nflonlocation.net" target="_blank">NFL On Location</a></li>
+	<li><a href="https://www.barclaycardus.com/apply/Landing.action?campaignId=1549&cellNumber=502&referrerid=NFLB530811">NFL Extra Points</a></li>
+	<li><a href="http://www.nfl.com/rulebook" target="_blank">Rulebook</a></li>
+	<li><a href="http://www.nfl.com/contact-us">Contact Us</a> | <a href="http://www.nfl.com/help/faq">FAQ</a> | <a href="http://www.nfl.com/news/author?id=09000d5d8142ac0e" target="_blank">PR</a></li>
+	<li>Jobs: <a href="http://www.nfl.apply2jobs.com/" target="_blank">League</a> | <a href="http://footballjobs.teamworkonline.com/teamwork/jobs/default.cfm" target="_blank">Team</a></li>
+	<li><a href="http://www.nflhealthandsafety.com/" target="_blank">NFLHealthandSafety.com</a></li>
+</ul>
+
+<ul>
+	<!--  li>NFL Corporate</li  -->
+	<li><a href="http://www.nflshop.com/entry.point?target=z&source=NFL_SHOP_TAB_BOTTOM_BANNER" target="_blank">NFL Shop</a></li>
+	<li><a href="http://www.ticketexchangebyticketmaster.com/NFL/default.aspx?intcmp=tm100454&wt.mc_id=NFL_LEAGUE_TE_FOOTER&extcmp=Footer_TX_EX" target="_blank">NFL Ticket Exchange</a></li>
+	<!-- <li><a href="http://women.nfl.com">NFL Women's Apparel</a></li> -->
+	<li><a href="http://www.nfl.com/static/content/catch_all/nfl_generic_content/media-kit-2010.pdf">Media</a> | <a href="http://www.nfl.biz">Licensing</a></li>
+	<li><a href="http://profootballhof.com" target="_blank">Profootballhof.com</a></li>
+	<li><a href="http://nflcommunications.com/" target="_blank">NFL Communications</a></li>
+	<li><a href="http://www.nfl.com/community" target="_blank">In The Community</a></li>
+	<!-- <li><a href="http://nflplayers.com" target="_blank">NFLPlayers.com</a></li> -->
+	<li><a href="https://www.nflplayercare.com/" target="_blank">NFL Player Care</a></li>
+	<li><a href="https://www.nflplayerengagement.com" target="_blank">Player Engagement</a></li>
+</ul>
+
+<div id="ft-teams-afc-mark-container">
+	<div id="ft-teams-afc-mark"></div>
+	<div class="ft-teams-parenthesis"></div>
+</div>
+<ul class="ft-teams-list">
+	<li><a href="http://www.buffalobills.com/" target="_blank">Bills</a></li>
+	<li><a href="http://www.miamidolphins.com/" target="_blank">Dolphins</a></li>
+	<li><a href="http://www.patriots.com/" target="_blank">Patriots</a></li>
+	<li><a href="http://www.newyorkjets.com/" target="_blank">Jets</a></li>
+</ul>
+<ul class="ft-teams-list">
+	<li><a href="http://www.baltimoreravens.com/" target="_blank">Ravens</a></li>
+	<li><a href="http://www.bengals.com/" target="_blank">Bengals</a></li>
+	<li><a href="http://www.clevelandbrowns.com/" target="_blank">Browns</a></li>
+	<li><a href="http://www.steelers.com/" target="_blank">Steelers</a></li>
+</ul>
+<ul class="ft-teams-list">
+	<li><a href="http://www.houstontexans.com/" target="_blank">Texans</a></li>
+	<li><a href="http://www.colts.com/" target="_blank">Colts</a></li>
+	<li><a href="http://www.jaguars.com/" target="_blank">Jaguars</a></li>
+	<li><a href="http://www.titansonline.com/" target="_blank">Titans</a></li>
+</ul>
+<ul class="ft-teams-list">
+	<li><a href="http://www.denverbroncos.com/" target="_blank">Broncos</a></li>
+	<li><a href="http://www.kcchiefs.com/" target="_blank">Chiefs</a></li>
+	<li><a href="http://www.raiders.com/" target="_blank">Raiders</a></li>
+	<li><a href="http://www.chargers.com/" target="_blank">Chargers</a></li>
+</ul>
+<div id="ft-teams-nfc-mark-container">
+	<div id="ft-teams-nfc-mark"></div>
+	<div class="ft-teams-parenthesis"></div>
+</div>
+<ul class="ft-teams-list">
+	<li><a href="http://www.dallascowboys.com/" target="_blank">Cowboys</a></li>
+	<li><a href="http://www.giants.com/" target="_blank">Giants</a></li>
+	<li><a href="http://www.philadelphiaeagles.com/" target="_blank">Eagles</a></li>
+	<li><a href="http://www.redskins.com/" target="_blank">Redskins</a></li>
+</ul>
+<ul class="ft-teams-list">
+	<li><a href="http://www.chicagobears.com/" target="_blank">Bears</a></li>
+	<li><a href="http://www.detroitlions.com/" target="_blank">Lions</a></li>
+	<li><a href="http://www.packers.com/" target="_blank">Packers</a></li>
+	<li><a href="http://www.vikings.com/" target="_blank">Vikings</a></li>
+</ul>
+<ul class="ft-teams-list">
+	<li><a href="http://www.atlantafalcons.com/" target="_blank">Falcons</a></li>
+	<li><a href="http://www.panthers.com/" target="_blank">Panthers</a></li>
+	<li><a href="http://www.neworleanssaints.com/" target="_blank">Saints</a></li>
+	<li><a href="http://www.buccaneers.com/" target="_blank">Buccaneers</a></li>
+</ul>
+<ul class="ft-teams-list">
+	<li><a href="http://www.azcardinals.com/" target="_blank">Cardinals</a></li>
+	<li><a href="http://www.stlouisrams.com/" target="_blank">Rams</a></li>
+	<li><a href="http://www.sf49ers.com/" target="_blank">49ers</a></li>
+	<li><a href="http://www.seahawks.com/" target="_blank">Seahawks</a></li>
+</ul>
+<script>nfl.bandages.IE6FooterFixes();</script>
+			
+<p class="copyright">
+			&copy; 2011 NFL Enterprises LLC. NFL and the NFL shield design are registered trademarks of the
+			National Football League.The team names, logos and uniform designs are registered trademarks of
+			the teams indicated. All other NFL-related trademarks are trademarks of the National Football
+			League. NFL	footage &copy; NFL Productions LLC. <a href="http://www.nfl.com/help/privacy" style="color:#b6061e;">PRIVACY POLICY</a> | <a href="http://www.nfl.com/help/terms" style="color:#b6061e;">Terms & Conditions</a>
+	</p>
+	<div id="slice" class="hslice" style=" display:none; ">
+		<div class="entry-title">NFL News</div>
+		<div class="entry-content">CONTENT</div>
+		<a rel="entry-content" href="http://www.nfl.com/ie/web-slice" style=" display:none; "></a>
+		<a rel="bookmark" target="_blank" href="http://www.nfl.com" style=" display:none; "></a>
+		<span class="ttl" style=" display:none; ">15</span>
+	</div>
+		</div>
+	</div>
+	<script type="text/javascript">	
+	document.fire('dom:ready');
+	if ( typeof(nfl.executeYUICallbacks) == 'function' ) nfl.executeYUICallbacks();
+	</script>
+	<!-- END DECORATOR redesign/global-alt -->
+</body>
+</html>
