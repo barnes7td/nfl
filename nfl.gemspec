@@ -7,7 +7,7 @@ Gem::Specification.new do |gem|
   gem.add_development_dependency 'simplecov', '~> 0.4'
   gem.add_development_dependency 'webmock', '~> 1.6'
   gem.add_runtime_dependency 'faraday', '~> 0.7.4'
-  gem.add_runtime_dependency 'faraday_middleware', '~> 0.7.0.rc1'
+  gem.add_runtime_dependency 'faraday_middleware', '~> 0.7.0'
   gem.authors = ['William T Nelson']
   gem.description = %q{A Ruby wrapper for querying NFL data}
   gem.post_install_message = nil
