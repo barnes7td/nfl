@@ -8,6 +8,7 @@ module NFL
     require 'nfl/client/games'
     require 'nfl/client/stats'
     require 'nfl/client/draft'
+    require 'nfl/client/schedules'
 
     alias :api_endpoint :endpoint
 
@@ -18,6 +19,7 @@ module NFL
     include NFL::Client::Games
     include NFL::Client::Stats
     include NFL::Client::Draft
+    include NFL::Client::Schedules
 
   end
 end

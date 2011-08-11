@@ -1,11 +1,11 @@
 require 'helper'
 
 describe NFL::Client::Teams::Schedule do
-  describe '#team_schedule' do
-    before(:each) do
-      @client = NFL::Client.new
-    end
+  before(:each) do
+    @client = NFL::Client.new
+  end
 
+  describe '#team_schedule' do
     describe 'with team parameter' do
       it 'gets the raw HTML' do
         path = 'www.nfl.com/teams/schedule?team=ATL'

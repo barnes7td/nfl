@@ -4,3 +4,4 @@ spec/nfl/client/teams/coverage/*
 spec/nfl/client/games/coverage/*
 spec/nfl/client/players/coverage/*
 spec/nfl/client/stats/coverage/*
+spec/nfl/client/schedules/coverage/*
